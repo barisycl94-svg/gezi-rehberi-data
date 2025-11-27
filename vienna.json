@@ -1,105 +1,141 @@
 [
   {
     "id": "vienna_1",
-    "name": "Henry N. Barkhausen Cache River Wetlands Center",
-    "description": "vienna'de bulunan önemli bir müze.",
+    "name": "Schönbrunn Palace",
+    "description": "Schönbrunn Palace, vienna şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=0",
-    "category": "Müze",
+    "category": "Tarihi",
     "coordinates": {
-      "latitude": 37.3119099,
-      "longitude": -89.0176244
+      "latitude": 48.2316558918201,
+      "longitude": 16.357198111049993
     },
-    "estimatedDuration": 86,
+    "estimatedDuration": 117,
     "openingTime": "09:00",
     "closingTime": "18:00",
     "cost": 0,
     "interests": [
-      "Müze"
+      "Tarihi"
     ]
   },
   {
     "id": "vienna_2",
-    "name": "Schwegman Ecological Area",
-    "description": "vienna'de ziyaret edilebilecek popüler bir nokta: Schwegman Ecological Area.",
-    "image": "https://images.pexels.com/photos/10326326/pexels-photo-10326326.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "name": "Hofburg Palace",
+    "description": "Hofburg Palace, vienna şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=1",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 37.505267,
-      "longitude": -88.8811532
+      "latitude": 48.24294147606291,
+      "longitude": 16.389822749154185
     },
-    "estimatedDuration": 79,
+    "estimatedDuration": 66,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 0,
+    "cost": 256,
     "interests": [
       "Tarihi"
     ]
   },
   {
     "id": "vienna_3",
-    "name": "Bulge Hole Ecological Area",
-    "description": "vienna'de ziyaret edilebilecek popüler bir nokta: Bulge Hole Ecological Area.",
-    "image": "https://images.pexels.com/photos/10326326/pexels-photo-10326326.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "name": "St. Stephen's Cathedral",
+    "description": "St. Stephen's Cathedral, vienna şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=2",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 37.4955649,
-      "longitude": -88.891601
+      "latitude": 48.227673130894985,
+      "longitude": 16.40470675233462
     },
-    "estimatedDuration": 62,
+    "estimatedDuration": 90,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 0,
+    "cost": 207,
     "interests": [
       "Tarihi"
     ]
   },
   {
     "id": "vienna_4",
-    "name": "Jean Farwell Overloop",
-    "description": "vienna'de ziyaret edilebilecek popüler bir nokta: Jean Farwell Overloop.",
+    "name": "Belvedere Palace",
+    "description": "Belvedere Palace, vienna şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=3",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 37.3122491,
-      "longitude": -88.9516307
+      "latitude": 48.21327298792603,
+      "longitude": 16.401680154978322
     },
-    "estimatedDuration": 41,
+    "estimatedDuration": 157,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 185,
+    "cost": 250,
     "interests": [
       "Tarihi"
     ]
   },
   {
     "id": "vienna_5",
-    "name": "Lookout Point",
-    "description": "vienna'de ziyaret edilebilecek popüler bir nokta: Lookout Point.",
+    "name": "Vienna State Opera",
+    "description": "Vienna State Opera, vienna şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=4",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 37.371518,
-      "longitude": -88.9243779
+      "latitude": 48.22143380203644,
+      "longitude": 16.376163945764198
     },
-    "estimatedDuration": 84,
+    "estimatedDuration": 64,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 0,
+    "cost": 452,
     "interests": [
       "Tarihi"
     ]
   },
   {
     "id": "vienna_6",
-    "name": "Natural Bridge",
-    "description": "vienna'de ziyaret edilebilecek popüler bir nokta: Natural Bridge.",
-    "image": "https://images.pexels.com/photos/34937209/pexels-photo-34937209.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "name": "Prater",
+    "description": "Prater, vienna şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=5",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 37.5251925,
-      "longitude": -88.9946487
+      "latitude": 48.2041961165518,
+      "longitude": 16.396955206379513
     },
-    "estimatedDuration": 36,
+    "estimatedDuration": 133,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 145,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "vienna_7",
+    "name": "Giant Ferris Wheel",
+    "description": "Giant Ferris Wheel, vienna şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=6",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 48.2381877876191,
+      "longitude": 16.405658353038227
+    },
+    "estimatedDuration": 110,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 70,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "vienna_8",
+    "name": "Albertina",
+    "description": "Albertina, vienna şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=7",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 48.20829865848188,
+      "longitude": 16.405306207009815
+    },
+    "estimatedDuration": 104,
     "openingTime": "09:00",
     "closingTime": "18:00",
     "cost": 0,
@@ -108,21 +144,759 @@
     ]
   },
   {
-    "id": "vienna_7",
-    "name": "Forman Depot Museum",
-    "description": "vienna'de bulunan önemli bir müze.",
-    "image": "https://picsum.photos/800/600?random=6",
+    "id": "vienna_9",
+    "name": "Kunsthistorisches Museum",
+    "description": "Kunsthistorisches Museum, vienna şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=8",
     "category": "Müze",
     "coordinates": {
-      "latitude": 37.4164641,
-      "longitude": -88.888486
+      "latitude": 48.17843991884061,
+      "longitude": 16.39204729640158
     },
-    "estimatedDuration": 46,
+    "estimatedDuration": 156,
     "openingTime": "09:00",
     "closingTime": "18:00",
     "cost": 0,
     "interests": [
       "Müze"
+    ]
+  },
+  {
+    "id": "vienna_10",
+    "name": "Natural History Museum",
+    "description": "Natural History Museum, vienna şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=9",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 48.174527510087856,
+      "longitude": 16.40451742695479
+    },
+    "estimatedDuration": 73,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "vienna_11",
+    "name": "MuseumsQuartier",
+    "description": "MuseumsQuartier, vienna şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=10",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 48.21141558909818,
+      "longitude": 16.34743539659443
+    },
+    "estimatedDuration": 100,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 212,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "vienna_12",
+    "name": "Leopold Museum",
+    "description": "Leopold Museum, vienna şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=11",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 48.19170887277816,
+      "longitude": 16.398948381873204
+    },
+    "estimatedDuration": 146,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 269,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "vienna_13",
+    "name": "MUMOK",
+    "description": "MUMOK, vienna şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=12",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 48.24740805792624,
+      "longitude": 16.3559459693333
+    },
+    "estimatedDuration": 132,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 303,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "vienna_14",
+    "name": "Vienna City Hall",
+    "description": "Vienna City Hall, vienna şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=13",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 48.1886931096842,
+      "longitude": 16.39564257623204
+    },
+    "estimatedDuration": 150,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 396,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "vienna_15",
+    "name": "Austrian Parliament Building",
+    "description": "Austrian Parliament Building, vienna şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=14",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 48.234001873753854,
+      "longitude": 16.357988006697703
+    },
+    "estimatedDuration": 126,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 166,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "vienna_16",
+    "name": "Burgtheater",
+    "description": "Burgtheater, vienna şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=15",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 48.186368973695316,
+      "longitude": 16.39884033801934
+    },
+    "estimatedDuration": 82,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 320,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "vienna_17",
+    "name": "Votivkirche",
+    "description": "Votivkirche, vienna şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=16",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 48.20306542869078,
+      "longitude": 16.352916143844404
+    },
+    "estimatedDuration": 83,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 490,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "vienna_18",
+    "name": "Karlskirche",
+    "description": "Karlskirche, vienna şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=17",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 48.22627346175365,
+      "longitude": 16.378801447893075
+    },
+    "estimatedDuration": 93,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 440,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "vienna_19",
+    "name": "Peterskirche",
+    "description": "Peterskirche, vienna şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=18",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 48.24159234205454,
+      "longitude": 16.35352071843639
+    },
+    "estimatedDuration": 132,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "vienna_20",
+    "name": "Naschmarkt",
+    "description": "Naschmarkt, vienna şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=19",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 48.18664165550194,
+      "longitude": 16.409145953335823
+    },
+    "estimatedDuration": 100,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "vienna_21",
+    "name": "Maria-Theresien-Platz",
+    "description": "Maria-Theresien-Platz, vienna şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=20",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 48.245321722083396,
+      "longitude": 16.38455508458302
+    },
+    "estimatedDuration": 119,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 82,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "vienna_22",
+    "name": "Heldenplatz",
+    "description": "Heldenplatz, vienna şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=21",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 48.232840964102984,
+      "longitude": 16.355108542522387
+    },
+    "estimatedDuration": 145,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 331,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "vienna_23",
+    "name": "Volksgarten",
+    "description": "Volksgarten, vienna şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=22",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 48.2385406879842,
+      "longitude": 16.35056024903275
+    },
+    "estimatedDuration": 95,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "vienna_24",
+    "name": "Burggarten",
+    "description": "Burggarten, vienna şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=23",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 48.16996644540205,
+      "longitude": 16.364856713679202
+    },
+    "estimatedDuration": 141,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 4,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "vienna_25",
+    "name": "Stadtpark",
+    "description": "Stadtpark, vienna şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=24",
+    "category": "Park",
+    "coordinates": {
+      "latitude": 48.1867930522561,
+      "longitude": 16.35500917777998
+    },
+    "estimatedDuration": 110,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 348,
+    "interests": [
+      "Park"
+    ]
+  },
+  {
+    "id": "vienna_26",
+    "name": "Donaupark",
+    "description": "Donaupark, vienna şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=25",
+    "category": "Park",
+    "coordinates": {
+      "latitude": 48.196336466017684,
+      "longitude": 16.37745579976861
+    },
+    "estimatedDuration": 145,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Park"
+    ]
+  },
+  {
+    "id": "vienna_27",
+    "name": "Danube Tower",
+    "description": "Danube Tower, vienna şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=26",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 48.19368445591746,
+      "longitude": 16.370544405083354
+    },
+    "estimatedDuration": 158,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "vienna_28",
+    "name": "Hundertwasserhaus",
+    "description": "Hundertwasserhaus, vienna şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=27",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 48.175871554337455,
+      "longitude": 16.3690922859424
+    },
+    "estimatedDuration": 165,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "vienna_29",
+    "name": "KunstHausWien",
+    "description": "KunstHausWien, vienna şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=28",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 48.18918854924022,
+      "longitude": 16.341983518518422
+    },
+    "estimatedDuration": 123,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "vienna_30",
+    "name": "Secession Building",
+    "description": "Secession Building, vienna şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=29",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 48.21051115620866,
+      "longitude": 16.342992865493944
+    },
+    "estimatedDuration": 146,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 42,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "vienna_31",
+    "name": "Musikverein",
+    "description": "Musikverein, vienna şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=30",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 48.19998660324006,
+      "longitude": 16.410762781184186
+    },
+    "estimatedDuration": 115,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "vienna_32",
+    "name": "Konzerthaus",
+    "description": "Konzerthaus, vienna şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=31",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 48.23440795923153,
+      "longitude": 16.35791717949707
+    },
+    "estimatedDuration": 70,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "vienna_33",
+    "name": "House of Music",
+    "description": "House of Music, vienna şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=32",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 48.245973196781975,
+      "longitude": 16.41271965064098
+    },
+    "estimatedDuration": 101,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "vienna_34",
+    "name": "Mozarthaus Vienna",
+    "description": "Mozarthaus Vienna, vienna şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=33",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 48.20840166996578,
+      "longitude": 16.38687974162118
+    },
+    "estimatedDuration": 137,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "vienna_35",
+    "name": "Sigmund Freud Museum",
+    "description": "Sigmund Freud Museum, vienna şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=34",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 48.228927809770255,
+      "longitude": 16.337950731930338
+    },
+    "estimatedDuration": 169,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 377,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "vienna_36",
+    "name": "Sisi Museum",
+    "description": "Sisi Museum, vienna şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=35",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 48.220635740831916,
+      "longitude": 16.36384927659529
+    },
+    "estimatedDuration": 128,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 11,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "vienna_37",
+    "name": "Imperial Treasury",
+    "description": "Imperial Treasury, vienna şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=36",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 48.207986964985466,
+      "longitude": 16.351399880797977
+    },
+    "estimatedDuration": 77,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "vienna_38",
+    "name": "Spanish Riding School",
+    "description": "Spanish Riding School, vienna şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=37",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 48.1951777134084,
+      "longitude": 16.41072343338035
+    },
+    "estimatedDuration": 152,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "vienna_39",
+    "name": "Austrian National Library",
+    "description": "Austrian National Library, vienna şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=38",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 48.20276896415001,
+      "longitude": 16.337816829145726
+    },
+    "estimatedDuration": 172,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 203,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "vienna_40",
+    "name": "Capuchin Crypt",
+    "description": "Capuchin Crypt, vienna şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=39",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 48.172315379125585,
+      "longitude": 16.411479439702653
+    },
+    "estimatedDuration": 154,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 295,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "vienna_41",
+    "name": "Central Cemetery",
+    "description": "Central Cemetery, vienna şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=40",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 48.24542573901765,
+      "longitude": 16.352773077391376
+    },
+    "estimatedDuration": 61,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 160,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "vienna_42",
+    "name": "Schönbrunn Zoo",
+    "description": "Schönbrunn Zoo, vienna şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=41",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 48.23379111665606,
+      "longitude": 16.410187362175375
+    },
+    "estimatedDuration": 71,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "vienna_43",
+    "name": "Palm House",
+    "description": "Palm House, vienna şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=42",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 48.19520696117161,
+      "longitude": 16.369266339865817
+    },
+    "estimatedDuration": 179,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 45,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "vienna_44",
+    "name": "Gloriette",
+    "description": "Gloriette, vienna şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=43",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 48.18949674670815,
+      "longitude": 16.39758021833558
+    },
+    "estimatedDuration": 162,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 465,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "vienna_45",
+    "name": "Tiergarten Schönbrunn",
+    "description": "Tiergarten Schönbrunn, vienna şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://images.pexels.com/photos/33673695/pexels-photo-33673695.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 48.199503081908595,
+      "longitude": 16.393169423076337
+    },
+    "estimatedDuration": 96,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 322,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "vienna_46",
+    "name": "Lainzer Tiergarten",
+    "description": "Lainzer Tiergarten, vienna şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=45",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 48.21086420212174,
+      "longitude": 16.349275751086235
+    },
+    "estimatedDuration": 73,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 252,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "vienna_47",
+    "name": "Hermesvilla",
+    "description": "Hermesvilla, vienna şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=46",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 48.24776849723687,
+      "longitude": 16.389249026171186
+    },
+    "estimatedDuration": 165,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "vienna_48",
+    "name": "Kahlenberg",
+    "description": "Kahlenberg, vienna şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=47",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 48.18325366910548,
+      "longitude": 16.334883559955504
+    },
+    "estimatedDuration": 149,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 243,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "vienna_49",
+    "name": "Leopoldsberg",
+    "description": "Leopoldsberg, vienna şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=48",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 48.21525921232878,
+      "longitude": 16.370316634183293
+    },
+    "estimatedDuration": 73,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "vienna_50",
+    "name": "Grinzing",
+    "description": "Grinzing, vienna şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=49",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 48.21170848116072,
+      "longitude": 16.351437079328647
+    },
+    "estimatedDuration": 108,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 139,
+    "interests": [
+      "Tarihi"
     ]
   }
 ]

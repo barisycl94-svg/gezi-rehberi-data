@@ -1,87 +1,69 @@
 [
   {
     "id": "kuala_lumpur_1",
-    "name": "Aquaria KLCC",
-    "description": "kuala_lumpur'de ziyaret edilebilecek popüler bir nokta: Aquaria KLCC.",
-    "image": "https://images.pexels.com/photos/22804/pexels-photo.jpg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "name": "Petronas Twin Towers",
+    "description": "Petronas Twin Towers, kuala_lumpur şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=0",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 3.1533436,
-      "longitude": 101.7130586
+      "latitude": 3.1503475398230543,
+      "longitude": 101.66144119784762
     },
-    "estimatedDuration": 70,
+    "estimatedDuration": 178,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 0,
+    "cost": 269,
     "interests": [
       "Tarihi"
     ]
   },
   {
     "id": "kuala_lumpur_2",
-    "name": "Muzium Petaling Jaya",
-    "description": "kuala_lumpur'de bulunan önemli bir müze.",
+    "name": "KL Tower",
+    "description": "KL Tower, kuala_lumpur şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=1",
-    "category": "Müze",
+    "category": "Tarihi",
     "coordinates": {
-      "latitude": 3.1053254,
-      "longitude": 101.6503601
+      "latitude": 3.1543978016413416,
+      "longitude": 101.65700604959042
     },
-    "estimatedDuration": 79,
+    "estimatedDuration": 96,
     "openingTime": "09:00",
     "closingTime": "18:00",
     "cost": 0,
     "interests": [
-      "Müze"
+      "Tarihi"
     ]
   },
   {
     "id": "kuala_lumpur_3",
-    "name": "Masjid Manbaeil Uloom",
-    "description": "kuala_lumpur'in tarihi ibadet yapılarından biri.",
+    "name": "Batu Caves",
+    "description": "Batu Caves, kuala_lumpur şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=2",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 3.026444,
-      "longitude": 101.7612361
+      "latitude": 3.1205812618806195,
+      "longitude": 101.68662297080405
     },
-    "estimatedDuration": 48,
+    "estimatedDuration": 124,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 158,
+    "cost": 83,
     "interests": [
       "Tarihi"
     ]
   },
   {
     "id": "kuala_lumpur_4",
-    "name": "Masjid Al - Ubudiah",
-    "description": "kuala_lumpur'in tarihi ibadet yapılarından biri.",
+    "name": "Merdeka Square",
+    "description": "Merdeka Square, kuala_lumpur şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=3",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 3.1243613,
-      "longitude": 101.7714771
+      "latitude": 3.1253565997122497,
+      "longitude": 101.70346155385104
     },
-    "estimatedDuration": 52,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 139,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "kuala_lumpur_5",
-    "name": "Masjid Asy - Syabab",
-    "description": "kuala_lumpur'in tarihi ibadet yapılarından biri.",
-    "image": "https://picsum.photos/800/600?random=4",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 3.1340894,
-      "longitude": 101.8366056
-    },
-    "estimatedDuration": 77,
+    "estimatedDuration": 156,
     "openingTime": "09:00",
     "closingTime": "18:00",
     "cost": 0,
@@ -90,16 +72,34 @@
     ]
   },
   {
+    "id": "kuala_lumpur_5",
+    "name": "Sultan Abdul Samad Building",
+    "description": "Sultan Abdul Samad Building, kuala_lumpur şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=4",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 3.1556557985176434,
+      "longitude": 101.72301787980774
+    },
+    "estimatedDuration": 90,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 300,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
     "id": "kuala_lumpur_6",
-    "name": "Masjid Sungai Sekamat",
-    "description": "kuala_lumpur'in tarihi ibadet yapılarından biri.",
+    "name": "National Mosque of Malaysia",
+    "description": "National Mosque of Malaysia, kuala_lumpur şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=5",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 3.0206308,
-      "longitude": 101.7754527
+      "latitude": 3.1048060775231536,
+      "longitude": 101.68552526845322
     },
-    "estimatedDuration": 45,
+    "estimatedDuration": 100,
     "openingTime": "09:00",
     "closingTime": "18:00",
     "cost": 0,
@@ -109,159 +109,159 @@
   },
   {
     "id": "kuala_lumpur_7",
-    "name": "Surau Al-Ehsan",
-    "description": "kuala_lumpur'in tarihi ibadet yapılarından biri.",
+    "name": "Thean Hou Temple",
+    "description": "Thean Hou Temple, kuala_lumpur şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=6",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 3.0193261,
-      "longitude": 101.7825842
+      "latitude": 3.1623778823327116,
+      "longitude": 101.68771530055028
     },
-    "estimatedDuration": 49,
+    "estimatedDuration": 156,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 0,
+    "cost": 425,
     "interests": [
       "Tarihi"
     ]
   },
   {
     "id": "kuala_lumpur_8",
-    "name": "Surau Impian Ihsan",
-    "description": "kuala_lumpur'in tarihi ibadet yapılarından biri.",
+    "name": "Sri Mahamariamman Temple",
+    "description": "Sri Mahamariamman Temple, kuala_lumpur şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=7",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 3.0179458,
-      "longitude": 101.7531994
+      "latitude": 3.09979327695929,
+      "longitude": 101.69888110099168
     },
-    "estimatedDuration": 44,
+    "estimatedDuration": 100,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 125,
+    "cost": 0,
     "interests": [
       "Tarihi"
     ]
   },
   {
     "id": "kuala_lumpur_9",
-    "name": "Surau Al-Amin",
-    "description": "kuala_lumpur'in tarihi ibadet yapılarından biri.",
+    "name": "Jamek Mosque",
+    "description": "Jamek Mosque, kuala_lumpur şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=8",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 3.0543503,
-      "longitude": 101.7653455
+      "latitude": 3.1088179550526656,
+      "longitude": 101.69097897887941
     },
-    "estimatedDuration": 36,
+    "estimatedDuration": 136,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 0,
+    "cost": 258,
     "interests": [
       "Tarihi"
     ]
   },
   {
     "id": "kuala_lumpur_10",
-    "name": "Surau Al-Falah",
-    "description": "kuala_lumpur'in tarihi ibadet yapılarından biri.",
+    "name": "Federal Territory Mosque",
+    "description": "Federal Territory Mosque, kuala_lumpur şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=9",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 3.1340611,
-      "longitude": 101.7421611
+      "latitude": 3.1778493110721127,
+      "longitude": 101.71492861816039
     },
-    "estimatedDuration": 54,
+    "estimatedDuration": 72,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 0,
+    "cost": 391,
     "interests": [
       "Tarihi"
     ]
   },
   {
     "id": "kuala_lumpur_11",
-    "name": "Surau An-Nur",
-    "description": "kuala_lumpur'in tarihi ibadet yapılarından biri.",
+    "name": "Perdana Botanical Gardens",
+    "description": "Perdana Botanical Gardens, kuala_lumpur şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=10",
-    "category": "Tarihi",
+    "category": "Park",
     "coordinates": {
-      "latitude": 2.984454,
-      "longitude": 101.7529211
+      "latitude": 3.1480622954709006,
+      "longitude": 101.6848715554896
     },
-    "estimatedDuration": 53,
+    "estimatedDuration": 118,
     "openingTime": "09:00",
     "closingTime": "18:00",
     "cost": 0,
     "interests": [
-      "Tarihi"
+      "Park"
     ]
   },
   {
     "id": "kuala_lumpur_12",
-    "name": "Surau Fatimah Az-Zahra",
-    "description": "kuala_lumpur'in tarihi ibadet yapılarından biri.",
+    "name": "KL Bird Park",
+    "description": "KL Bird Park, kuala_lumpur şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=11",
-    "category": "Tarihi",
+    "category": "Park",
     "coordinates": {
-      "latitude": 3.1485314,
-      "longitude": 101.7714958
+      "latitude": 3.167781287931867,
+      "longitude": 101.65191281422797
     },
-    "estimatedDuration": 37,
+    "estimatedDuration": 118,
     "openingTime": "09:00",
     "closingTime": "18:00",
     "cost": 0,
+    "interests": [
+      "Park"
+    ]
+  },
+  {
+    "id": "kuala_lumpur_13",
+    "name": "KL Butterfly Park",
+    "description": "KL Butterfly Park, kuala_lumpur şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=12",
+    "category": "Park",
+    "coordinates": {
+      "latitude": 3.155338125712461,
+      "longitude": 101.6922575066641
+    },
+    "estimatedDuration": 129,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 1,
+    "interests": [
+      "Park"
+    ]
+  },
+  {
+    "id": "kuala_lumpur_14",
+    "name": "Aquaria KLCC",
+    "description": "Aquaria KLCC, kuala_lumpur şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=13",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 3.1269352236986805,
+      "longitude": 101.71778313799868
+    },
+    "estimatedDuration": 170,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 241,
     "interests": [
       "Tarihi"
     ]
   },
   {
-    "id": "kuala_lumpur_13",
-    "name": "Kuala Lumpur City Gallery",
-    "description": "kuala_lumpur'de bulunan önemli bir müze.",
-    "image": "https://picsum.photos/800/600?random=12",
-    "category": "Müze",
-    "coordinates": {
-      "latitude": 3.1472239,
-      "longitude": 101.693407
-    },
-    "estimatedDuration": 52,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Müze"
-    ]
-  },
-  {
-    "id": "kuala_lumpur_14",
-    "name": "Muzium Polis Diraja Malaysia",
-    "description": "kuala_lumpur'de bulunan önemli bir müze.",
-    "image": "https://picsum.photos/800/600?random=13",
-    "category": "Müze",
-    "coordinates": {
-      "latitude": 3.1409386,
-      "longitude": 101.6889136
-    },
-    "estimatedDuration": 64,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Müze"
-    ]
-  },
-  {
     "id": "kuala_lumpur_15",
-    "name": "Menara Kuala Lumpur",
-    "description": "kuala_lumpur'de ziyaret edilebilecek popüler bir nokta: Menara Kuala Lumpur.",
+    "name": "Petrosains Science Discovery Centre",
+    "description": "Petrosains Science Discovery Centre, kuala_lumpur şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=14",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 3.152859,
-      "longitude": 101.7037604
+      "latitude": 3.12950890645531,
+      "longitude": 101.72011877421606
     },
-    "estimatedDuration": 30,
+    "estimatedDuration": 66,
     "openingTime": "09:00",
     "closingTime": "18:00",
     "cost": 0,
@@ -271,141 +271,141 @@
   },
   {
     "id": "kuala_lumpur_16",
-    "name": "Planetarium Negara",
-    "description": "kuala_lumpur'de bulunan önemli bir müze.",
+    "name": "National Museum",
+    "description": "National Museum, kuala_lumpur şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=15",
     "category": "Müze",
     "coordinates": {
-      "latitude": 3.139486,
-      "longitude": 101.6893032
+      "latitude": 3.1753192445958325,
+      "longitude": 101.65331769213896
     },
-    "estimatedDuration": 62,
+    "estimatedDuration": 169,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 82,
+    "cost": 0,
     "interests": [
       "Müze"
     ]
   },
   {
     "id": "kuala_lumpur_17",
-    "name": "Berjaya Times Square Theme Park",
-    "description": "kuala_lumpur'de ziyaret edilebilecek popüler bir nokta: Berjaya Times Square Theme Park.",
+    "name": "Islamic Arts Museum Malaysia",
+    "description": "Islamic Arts Museum Malaysia, kuala_lumpur şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=16",
-    "category": "Eğlence",
+    "category": "Müze",
     "coordinates": {
-      "latitude": 3.1421651,
-      "longitude": 101.7105637
+      "latitude": 3.1378892075653577,
+      "longitude": 101.66125533748003
     },
-    "estimatedDuration": 30,
+    "estimatedDuration": 99,
     "openingTime": "09:00",
     "closingTime": "18:00",
     "cost": 0,
     "interests": [
-      "Eğlence"
+      "Müze"
     ]
   },
   {
     "id": "kuala_lumpur_18",
-    "name": "Istana Bukit Kayangan",
-    "description": "kuala_lumpur'in tarihine tanıklık eden bir kale.",
+    "name": "Royal Malaysian Police Museum",
+    "description": "Royal Malaysian Police Museum, kuala_lumpur şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=17",
-    "category": "Tarihi",
+    "category": "Müze",
     "coordinates": {
-      "latitude": 3.0717917,
-      "longitude": 101.5340322
+      "latitude": 3.116695951480226,
+      "longitude": 101.72068459691062
     },
-    "estimatedDuration": 69,
+    "estimatedDuration": 73,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 180,
+    "cost": 152,
     "interests": [
-      "Tarihi"
+      "Müze"
     ]
   },
   {
     "id": "kuala_lumpur_19",
-    "name": "Muzium dan Galeri Seni Bank Negara Malaysia",
-    "description": "kuala_lumpur'de bulunan önemli bir müze.",
-    "image": "https://images.pexels.com/photos/13066183/pexels-photo-13066183.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "name": "Bank Negara Malaysia Museum and Art Gallery",
+    "description": "Bank Negara Malaysia Museum and Art Gallery, kuala_lumpur şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=18",
     "category": "Müze",
     "coordinates": {
-      "latitude": 3.1573789,
-      "longitude": 101.6907149
+      "latitude": 3.110031445479874,
+      "longitude": 101.72246432354075
     },
-    "estimatedDuration": 61,
+    "estimatedDuration": 96,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 0,
+    "cost": 487,
     "interests": [
       "Müze"
     ]
   },
   {
     "id": "kuala_lumpur_20",
-    "name": "Muzium Tekstil Negara",
-    "description": "kuala_lumpur'de bulunan önemli bir müze.",
+    "name": "Telekom Museum",
+    "description": "Telekom Museum, kuala_lumpur şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=19",
     "category": "Müze",
     "coordinates": {
-      "latitude": 3.1465453,
-      "longitude": 101.6939406
+      "latitude": 3.1514908913668362,
+      "longitude": 101.70562355363427
     },
-    "estimatedDuration": 57,
+    "estimatedDuration": 95,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 74,
+    "cost": 112,
     "interests": [
       "Müze"
     ]
   },
   {
     "id": "kuala_lumpur_21",
-    "name": "Dataran Merdeka",
-    "description": "kuala_lumpur'de ziyaret edilebilecek popüler bir nokta: Dataran Merdeka.",
+    "name": "Central Market",
+    "description": "Central Market, kuala_lumpur şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=20",
-    "category": "Tarihi",
+    "category": "Alışveriş",
     "coordinates": {
-      "latitude": 3.1486388,
-      "longitude": 101.6936481
+      "latitude": 3.130622215084906,
+      "longitude": 101.70156326662648
     },
-    "estimatedDuration": 84,
+    "estimatedDuration": 134,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 0,
+    "cost": 465,
+    "interests": [
+      "Alışveriş"
+    ]
+  },
+  {
+    "id": "kuala_lumpur_22",
+    "name": "Chinatown (Petaling Street)",
+    "description": "Chinatown (Petaling Street), kuala_lumpur şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=21",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 3.140135662786765,
+      "longitude": 101.70071043201794
+    },
+    "estimatedDuration": 80,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 380,
     "interests": [
       "Tarihi"
     ]
   },
   {
-    "id": "kuala_lumpur_22",
-    "name": "Muzium Telekom",
-    "description": "kuala_lumpur'de bulunan önemli bir müze.",
-    "image": "https://picsum.photos/800/600?random=21",
-    "category": "Müze",
-    "coordinates": {
-      "latitude": 3.149046,
-      "longitude": 101.699278
-    },
-    "estimatedDuration": 70,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Müze"
-    ]
-  },
-  {
     "id": "kuala_lumpur_23",
-    "name": "Sin Sze Si Ya Temple",
-    "description": "kuala_lumpur'in tarihi ibadet yapılarından biri.",
+    "name": "Little India (Brickfields)",
+    "description": "Little India (Brickfields), kuala_lumpur şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=22",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 3.1456516,
-      "longitude": 101.6963891
+      "latitude": 3.1454890822963066,
+      "longitude": 101.65375559524783
     },
-    "estimatedDuration": 58,
+    "estimatedDuration": 105,
     "openingTime": "09:00",
     "closingTime": "18:00",
     "cost": 0,
@@ -415,51 +415,51 @@
   },
   {
     "id": "kuala_lumpur_24",
-    "name": "Taman Eko Rimba Kuala Lumpur",
-    "description": "kuala_lumpur'de ziyaret edilebilecek popüler bir nokta: Taman Eko Rimba Kuala Lumpur.",
-    "image": "https://picsum.photos/800/600?random=23",
+    "name": "Bukit Bintang",
+    "description": "Bukit Bintang, kuala_lumpur şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://images.pexels.com/photos/303148/pexels-photo-303148.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 3.1529423,
-      "longitude": 101.7026404
+      "latitude": 3.1010476937488733,
+      "longitude": 101.71057212218068
     },
-    "estimatedDuration": 89,
+    "estimatedDuration": 150,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 0,
+    "cost": 375,
     "interests": [
       "Tarihi"
     ]
   },
   {
     "id": "kuala_lumpur_25",
-    "name": "Masjid Tun Abdul Aziz",
-    "description": "kuala_lumpur'in tarihi ibadet yapılarından biri.",
+    "name": "Pavilion KL",
+    "description": "Pavilion KL, kuala_lumpur şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=24",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 3.1122569,
-      "longitude": 101.6341355
+      "latitude": 3.1653678623345756,
+      "longitude": 101.70544635892324
     },
-    "estimatedDuration": 31,
+    "estimatedDuration": 162,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 0,
+    "cost": 47,
     "interests": [
       "Tarihi"
     ]
   },
   {
     "id": "kuala_lumpur_26",
-    "name": "Masjid Al-Mukarramah",
-    "description": "kuala_lumpur'in tarihi ibadet yapılarından biri.",
+    "name": "Suria KLCC",
+    "description": "Suria KLCC, kuala_lumpur şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=25",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 3.1913884,
-      "longitude": 101.6140362
+      "latitude": 3.1746765469796525,
+      "longitude": 101.69442034612128
     },
-    "estimatedDuration": 49,
+    "estimatedDuration": 175,
     "openingTime": "09:00",
     "closingTime": "18:00",
     "cost": 0,
@@ -469,87 +469,87 @@
   },
   {
     "id": "kuala_lumpur_27",
-    "name": "Sunway Lagoon",
-    "description": "kuala_lumpur'de ziyaret edilebilecek popüler bir nokta: Sunway Lagoon.",
+    "name": "Berjaya Times Square",
+    "description": "Berjaya Times Square, kuala_lumpur şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=26",
-    "category": "Eğlence",
+    "category": "Tarihi",
     "coordinates": {
-      "latitude": 3.0696115,
-      "longitude": 101.6067748
+      "latitude": 3.1100380221200026,
+      "longitude": 101.67453259111488
+    },
+    "estimatedDuration": 139,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 298,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "kuala_lumpur_28",
+    "name": "Mid Valley Megamall",
+    "description": "Mid Valley Megamall, kuala_lumpur şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=27",
+    "category": "Alışveriş",
+    "coordinates": {
+      "latitude": 3.1219960357669856,
+      "longitude": 101.71621855248476
+    },
+    "estimatedDuration": 62,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Alışveriş"
+    ]
+  },
+  {
+    "id": "kuala_lumpur_29",
+    "name": "The Gardens Mall",
+    "description": "The Gardens Mall, kuala_lumpur şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=28",
+    "category": "Park",
+    "coordinates": {
+      "latitude": 3.1079446196391727,
+      "longitude": 101.65260484458186
     },
     "estimatedDuration": 85,
     "openingTime": "09:00",
     "closingTime": "18:00",
     "cost": 0,
     "interests": [
-      "Eğlence"
+      "Park"
     ]
   },
   {
-    "id": "kuala_lumpur_28",
-    "name": "Masjid Tengku Kelana Jaya Petra",
-    "description": "kuala_lumpur'in tarihi ibadet yapılarından biri.",
-    "image": "https://picsum.photos/800/600?random=27",
+    "id": "kuala_lumpur_30",
+    "name": "Sunway Pyramid",
+    "description": "Sunway Pyramid, kuala_lumpur şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=29",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 3.0951518,
-      "longitude": 101.5954096
+      "latitude": 3.1051703517405556,
+      "longitude": 101.66927332540129
     },
-    "estimatedDuration": 52,
+    "estimatedDuration": 161,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 103,
+    "cost": 0,
     "interests": [
       "Tarihi"
     ]
   },
   {
-    "id": "kuala_lumpur_29",
-    "name": "Pusat Sains Negara",
-    "description": "kuala_lumpur'de bulunan önemli bir müze.",
-    "image": "https://picsum.photos/800/600?random=28",
-    "category": "Müze",
-    "coordinates": {
-      "latitude": 3.1494931,
-      "longitude": 101.64485
-    },
-    "estimatedDuration": 46,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 49,
-    "interests": [
-      "Müze"
-    ]
-  },
-  {
-    "id": "kuala_lumpur_30",
-    "name": "Muzium Diraja",
-    "description": "kuala_lumpur'de bulunan önemli bir müze.",
-    "image": "https://picsum.photos/800/600?random=29",
-    "category": "Müze",
-    "coordinates": {
-      "latitude": 3.1325443,
-      "longitude": 101.6958886
-    },
-    "estimatedDuration": 84,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Müze"
-    ]
-  },
-  {
     "id": "kuala_lumpur_31",
-    "name": "Masjid Nurus Saadah",
-    "description": "kuala_lumpur'in tarihi ibadet yapılarından biri.",
+    "name": "Sunway Lagoon",
+    "description": "Sunway Lagoon, kuala_lumpur şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=30",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 3.1095068,
-      "longitude": 101.7535543
+      "latitude": 3.14755234579394,
+      "longitude": 101.66306871476013
     },
-    "estimatedDuration": 57,
+    "estimatedDuration": 119,
     "openingTime": "09:00",
     "closingTime": "18:00",
     "cost": 0,
@@ -559,33 +559,33 @@
   },
   {
     "id": "kuala_lumpur_32",
-    "name": "Surau Nurul Iman",
-    "description": "kuala_lumpur'in tarihi ibadet yapılarından biri.",
+    "name": "Genting Highlands",
+    "description": "Genting Highlands, kuala_lumpur şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=31",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 3.0574752,
-      "longitude": 101.7529791
+      "latitude": 3.1100735704947926,
+      "longitude": 101.6775091699219
     },
-    "estimatedDuration": 68,
+    "estimatedDuration": 161,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 0,
+    "cost": 121,
     "interests": [
       "Tarihi"
     ]
   },
   {
     "id": "kuala_lumpur_33",
-    "name": "Masjid Al-Falah",
-    "description": "kuala_lumpur'in tarihi ibadet yapılarından biri.",
+    "name": "Berjaya Hills",
+    "description": "Berjaya Hills, kuala_lumpur şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=32",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 3.0451721,
-      "longitude": 101.5875566
+      "latitude": 3.120361121057363,
+      "longitude": 101.6962743696709
     },
-    "estimatedDuration": 31,
+    "estimatedDuration": 70,
     "openingTime": "09:00",
     "closingTime": "18:00",
     "cost": 0,
@@ -595,445 +595,13 @@
   },
   {
     "id": "kuala_lumpur_34",
-    "name": "Masjid Nurul Ehsan",
-    "description": "kuala_lumpur'in tarihi ibadet yapılarından biri.",
+    "name": "Forest Research Institute Malaysia (FRIM)",
+    "description": "Forest Research Institute Malaysia (FRIM), kuala_lumpur şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=33",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 3.0801257,
-      "longitude": 101.6283635
-    },
-    "estimatedDuration": 79,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "kuala_lumpur_35",
-    "name": "Istana Negara",
-    "description": "kuala_lumpur'in tarihine tanıklık eden bir kale.",
-    "image": "https://picsum.photos/800/600?random=34",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 3.1614724,
-      "longitude": 101.6635134
-    },
-    "estimatedDuration": 52,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "kuala_lumpur_36",
-    "name": "Masjid Al-Huda",
-    "description": "kuala_lumpur'in tarihi ibadet yapılarından biri.",
-    "image": "https://picsum.photos/800/600?random=35",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 3.2004702,
-      "longitude": 101.550129
-    },
-    "estimatedDuration": 88,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "kuala_lumpur_37",
-    "name": "Masjid Jamek Al-Amaniah",
-    "description": "kuala_lumpur'in tarihi ibadet yapılarından biri.",
-    "image": "https://picsum.photos/800/600?random=36",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 3.2360323,
-      "longitude": 101.6744544
-    },
-    "estimatedDuration": 55,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "kuala_lumpur_38",
-    "name": "Menara Berkembar Petronas",
-    "description": "kuala_lumpur'de ziyaret edilebilecek popüler bir nokta: Menara Berkembar Petronas.",
-    "image": "https://picsum.photos/800/600?random=37",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 3.1579705,
-      "longitude": 101.711761
-    },
-    "estimatedDuration": 60,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "kuala_lumpur_39",
-    "name": "Masjid At-Taqwa",
-    "description": "kuala_lumpur'in tarihi ibadet yapılarından biri.",
-    "image": "https://picsum.photos/800/600?random=38",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 3.1461644,
-      "longitude": 101.6298025
-    },
-    "estimatedDuration": 31,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "kuala_lumpur_40",
-    "name": "Masjid Al - Muttaqin",
-    "description": "kuala_lumpur'in tarihi ibadet yapılarından biri.",
-    "image": "https://picsum.photos/800/600?random=39",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 3.1459208,
-      "longitude": 101.8381793
-    },
-    "estimatedDuration": 56,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 165,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "kuala_lumpur_41",
-    "name": "St. John's Cathedral",
-    "description": "kuala_lumpur'in tarihi ibadet yapılarından biri.",
-    "image": "https://picsum.photos/800/600?random=40",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 3.1498591,
-      "longitude": 101.6994214
-    },
-    "estimatedDuration": 61,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "kuala_lumpur_42",
-    "name": "Masjid Taming Jaya",
-    "description": "kuala_lumpur'in tarihi ibadet yapılarından biri.",
-    "image": "https://picsum.photos/800/600?random=41",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 3.0246075,
-      "longitude": 101.7384145
-    },
-    "estimatedDuration": 49,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 168,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "kuala_lumpur_43",
-    "name": "Muzium Negara",
-    "description": "kuala_lumpur'de bulunan önemli bir müze.",
-    "image": "https://picsum.photos/800/600?random=42",
-    "category": "Müze",
-    "coordinates": {
-      "latitude": 3.137709,
-      "longitude": 101.687381
-    },
-    "estimatedDuration": 70,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 102,
-    "interests": [
-      "Müze"
-    ]
-  },
-  {
-    "id": "kuala_lumpur_44",
-    "name": "Muzium Seni Asia",
-    "description": "kuala_lumpur'de bulunan önemli bir müze.",
-    "image": "https://picsum.photos/800/600?random=43",
-    "category": "Müze",
-    "coordinates": {
-      "latitude": 3.1181972,
-      "longitude": 101.6531754
-    },
-    "estimatedDuration": 48,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 163,
-    "interests": [
-      "Müze"
-    ]
-  },
-  {
-    "id": "kuala_lumpur_45",
-    "name": "St Mary's Cathedral",
-    "description": "kuala_lumpur'in tarihi ibadet yapılarından biri.",
-    "image": "https://picsum.photos/800/600?random=44",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 3.15034,
-      "longitude": 101.6934765
-    },
-    "estimatedDuration": 35,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "kuala_lumpur_46",
-    "name": "Muzium Etnologi Dunia Melayu",
-    "description": "kuala_lumpur'de bulunan önemli bir müze.",
-    "image": "https://picsum.photos/800/600?random=45",
-    "category": "Müze",
-    "coordinates": {
-      "latitude": 3.1376831,
-      "longitude": 101.6884371
-    },
-    "estimatedDuration": 76,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Müze"
-    ]
-  },
-  {
-    "id": "kuala_lumpur_47",
-    "name": "Masjid Al-Mukminun",
-    "description": "kuala_lumpur'in tarihi ibadet yapılarından biri.",
-    "image": "https://picsum.photos/800/600?random=46",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 3.0600219,
-      "longitude": 101.5855039
-    },
-    "estimatedDuration": 73,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 1,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "kuala_lumpur_48",
-    "name": "Masjid Al-Muhtadin",
-    "description": "kuala_lumpur'in tarihi ibadet yapılarından biri.",
-    "image": "https://picsum.photos/800/600?random=47",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 3.1945156,
-      "longitude": 101.5957635
-    },
-    "estimatedDuration": 46,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "kuala_lumpur_49",
-    "name": "Taman Burung Kuala Lumpur",
-    "description": "kuala_lumpur'de ziyaret edilebilecek popüler bir nokta: Taman Burung Kuala Lumpur.",
-    "image": "https://picsum.photos/800/600?random=48",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 3.1435168,
-      "longitude": 101.6881727
-    },
-    "estimatedDuration": 77,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 79,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "kuala_lumpur_50",
-    "name": "Jalan Petaling",
-    "description": "kuala_lumpur'de ziyaret edilebilecek popüler bir nokta: Jalan Petaling.",
-    "image": "https://picsum.photos/800/600?random=49",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 3.1438675,
-      "longitude": 101.6976221
-    },
-    "estimatedDuration": 72,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "kuala_lumpur_51",
-    "name": "Thean Hou Temple",
-    "description": "kuala_lumpur'in tarihi ibadet yapılarından biri.",
-    "image": "https://picsum.photos/800/600?random=50",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 3.1218324,
-      "longitude": 101.6876484
-    },
-    "estimatedDuration": 71,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "kuala_lumpur_52",
-    "name": "Surau / Masjid Bukit Jelutong",
-    "description": "kuala_lumpur'in tarihi ibadet yapılarından biri.",
-    "image": "https://picsum.photos/800/600?random=51",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 3.1000702,
-      "longitude": 101.5268729
-    },
-    "estimatedDuration": 43,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "kuala_lumpur_53",
-    "name": "Masjid Saidina Abu Bakar As-Siddiq",
-    "description": "kuala_lumpur'in tarihi ibadet yapılarından biri.",
-    "image": "https://picsum.photos/800/600?random=52",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 3.1295368,
-      "longitude": 101.6718889
-    },
-    "estimatedDuration": 78,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 118,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "kuala_lumpur_54",
-    "name": "Jalan Alor",
-    "description": "kuala_lumpur'de ziyaret edilebilecek popüler bir nokta: Jalan Alor.",
-    "image": "https://picsum.photos/800/600?random=53",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 3.1456933,
-      "longitude": 101.7086769
-    },
-    "estimatedDuration": 50,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "kuala_lumpur_55",
-    "name": "Masjid Jamek Kuala Lumpur",
-    "description": "kuala_lumpur'in tarihi ibadet yapılarından biri.",
-    "image": "https://picsum.photos/800/600?random=54",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 3.1488366,
-      "longitude": 101.6957991
-    },
-    "estimatedDuration": 31,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "kuala_lumpur_56",
-    "name": "Masjid An-Nur",
-    "description": "kuala_lumpur'in tarihi ibadet yapılarından biri.",
-    "image": "https://picsum.photos/800/600?random=55",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 3.0573112,
-      "longitude": 101.5765751
-    },
-    "estimatedDuration": 79,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "kuala_lumpur_57",
-    "name": "Masjid Darul Ehsan",
-    "description": "kuala_lumpur'in tarihi ibadet yapılarından biri.",
-    "image": "https://picsum.photos/800/600?random=56",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 3.0804735,
-      "longitude": 101.5856934
-    },
-    "estimatedDuration": 39,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "kuala_lumpur_58",
-    "name": "Masjid Saidina Umar Al-Khattab",
-    "description": "kuala_lumpur'in tarihi ibadet yapılarından biri.",
-    "image": "https://picsum.photos/800/600?random=57",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 3.1500569,
-      "longitude": 101.6551625
+      "latitude": 3.157841740684076,
+      "longitude": 101.70979481554572
     },
     "estimatedDuration": 75,
     "openingTime": "09:00",
@@ -1044,16 +612,16 @@
     ]
   },
   {
-    "id": "kuala_lumpur_59",
-    "name": "Masjid Negara",
-    "description": "kuala_lumpur'in tarihi ibadet yapılarından biri.",
-    "image": "https://picsum.photos/800/600?random=58",
+    "id": "kuala_lumpur_35",
+    "name": "Broga Hill",
+    "description": "Broga Hill, kuala_lumpur şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=34",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 3.1419718,
-      "longitude": 101.6916776
+      "latitude": 3.1534703655975536,
+      "longitude": 101.72400554218507
     },
-    "estimatedDuration": 48,
+    "estimatedDuration": 132,
     "openingTime": "09:00",
     "closingTime": "18:00",
     "cost": 0,
@@ -1062,19 +630,271 @@
     ]
   },
   {
-    "id": "kuala_lumpur_60",
-    "name": "Masjid Al-Bukhary",
-    "description": "kuala_lumpur'in tarihi ibadet yapılarından biri.",
-    "image": "https://picsum.photos/800/600?random=59",
+    "id": "kuala_lumpur_36",
+    "name": "Taman Tugu",
+    "description": "Taman Tugu, kuala_lumpur şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=35",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 3.1393031,
-      "longitude": 101.7048176
+      "latitude": 3.1376720352797554,
+      "longitude": 101.6992610681309
     },
-    "estimatedDuration": 42,
+    "estimatedDuration": 169,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 18,
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "kuala_lumpur_37",
+    "name": "Titiwangsa Lake Garden",
+    "description": "Titiwangsa Lake Garden, kuala_lumpur şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=36",
+    "category": "Park",
+    "coordinates": {
+      "latitude": 3.1512607921732836,
+      "longitude": 101.67602325418264
+    },
+    "estimatedDuration": 120,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 343,
+    "interests": [
+      "Park"
+    ]
+  },
+  {
+    "id": "kuala_lumpur_38",
+    "name": "KLCC Park",
+    "description": "KLCC Park, kuala_lumpur şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=37",
+    "category": "Park",
+    "coordinates": {
+      "latitude": 3.1038361539819443,
+      "longitude": 101.66740330047193
+    },
+    "estimatedDuration": 137,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 107,
+    "interests": [
+      "Park"
+    ]
+  },
+  {
+    "id": "kuala_lumpur_39",
+    "name": "Desa ParkCity",
+    "description": "Desa ParkCity, kuala_lumpur şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=38",
+    "category": "Park",
+    "coordinates": {
+      "latitude": 3.142159811475857,
+      "longitude": 101.66346621486257
+    },
+    "estimatedDuration": 69,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 352,
+    "interests": [
+      "Park"
+    ]
+  },
+  {
+    "id": "kuala_lumpur_40",
+    "name": "Bukit Gasing Forest Park",
+    "description": "Bukit Gasing Forest Park, kuala_lumpur şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=39",
+    "category": "Park",
+    "coordinates": {
+      "latitude": 3.1312409485396686,
+      "longitude": 101.72395967418953
+    },
+    "estimatedDuration": 87,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 300,
+    "interests": [
+      "Park"
+    ]
+  },
+  {
+    "id": "kuala_lumpur_41",
+    "name": "Jalan Alor",
+    "description": "Jalan Alor, kuala_lumpur şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=40",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 3.1555063378681596,
+      "longitude": 101.65723928917235
+    },
+    "estimatedDuration": 71,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 394,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "kuala_lumpur_42",
+    "name": "Changkat Bukit Bintang",
+    "description": "Changkat Bukit Bintang, kuala_lumpur şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=41",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 3.153510925583101,
+      "longitude": 101.68401216991339
+    },
+    "estimatedDuration": 93,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "kuala_lumpur_43",
+    "name": "TREC KL",
+    "description": "TREC KL, kuala_lumpur şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=42",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 3.1173414957219396,
+      "longitude": 101.66560199459806
+    },
+    "estimatedDuration": 78,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "kuala_lumpur_44",
+    "name": "Zouk Club",
+    "description": "Zouk Club, kuala_lumpur şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=43",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 3.172433280968619,
+      "longitude": 101.69443063340974
+    },
+    "estimatedDuration": 159,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "kuala_lumpur_45",
+    "name": "Heli Lounge Bar",
+    "description": "Heli Lounge Bar, kuala_lumpur şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=44",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 3.108596181034624,
+      "longitude": 101.71594597801732
+    },
+    "estimatedDuration": 68,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 92,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "kuala_lumpur_46",
+    "name": "Marini's on 57",
+    "description": "Marini's on 57, kuala_lumpur şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=45",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 3.1042835143625673,
+      "longitude": 101.68598731708987
+    },
+    "estimatedDuration": 175,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "kuala_lumpur_47",
+    "name": "SkyBar",
+    "description": "SkyBar, kuala_lumpur şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=46",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 3.1168782353878273,
+      "longitude": 101.71757549519893
+    },
+    "estimatedDuration": 122,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "kuala_lumpur_48",
+    "name": "Atmosphere 360",
+    "description": "Atmosphere 360, kuala_lumpur şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=47",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 3.1398652350560674,
+      "longitude": 101.70700691873093
+    },
+    "estimatedDuration": 82,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "kuala_lumpur_49",
+    "name": "Dinner in the Sky Malaysia",
+    "description": "Dinner in the Sky Malaysia, kuala_lumpur şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=48",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 3.170618735159246,
+      "longitude": 101.68795283846471
+    },
+    "estimatedDuration": 107,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "kuala_lumpur_50",
+    "name": "Saloma Link",
+    "description": "Saloma Link, kuala_lumpur şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=49",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 3.1592684165331,
+      "longitude": 101.64798996294395
+    },
+    "estimatedDuration": 111,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
     "interests": [
       "Tarihi"
     ]

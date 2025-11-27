@@ -1,15 +1,15 @@
 [
   {
     "id": "rome_1",
-    "name": "Quattro Fontane",
-    "description": "rome'de ziyaret edilebilecek popüler bir nokta: Quattro Fontane.",
+    "name": "Colosseum",
+    "description": "Colosseum, rome şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=0",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 41.9019689,
-      "longitude": 12.4907414
+      "latitude": 41.89971870079872,
+      "longitude": 12.50469152973892
     },
-    "estimatedDuration": 49,
+    "estimatedDuration": 146,
     "openingTime": "09:00",
     "closingTime": "18:00",
     "cost": 0,
@@ -19,15 +19,15 @@
   },
   {
     "id": "rome_2",
-    "name": "Porta Magica",
-    "description": "rome'de ziyaret edilebilecek popüler bir nokta: Porta Magica.",
+    "name": "Roman Forum",
+    "description": "Roman Forum, rome şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=1",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 41.8955021,
-      "longitude": 12.5037397
+      "latitude": 41.93054868299314,
+      "longitude": 12.485687945296492
     },
-    "estimatedDuration": 62,
+    "estimatedDuration": 140,
     "openingTime": "09:00",
     "closingTime": "18:00",
     "cost": 0,
@@ -37,15 +37,33 @@
   },
   {
     "id": "rome_3",
-    "name": "Catacombe di Priscilla",
-    "description": "rome'de ziyaret edilebilecek popüler bir nokta: Catacombe di Priscilla.",
+    "name": "Palatine Hill",
+    "description": "Palatine Hill, rome şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=2",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 41.9297262,
-      "longitude": 12.5087652
+      "latitude": 41.883799742127025,
+      "longitude": 12.503935331127265
     },
-    "estimatedDuration": 59,
+    "estimatedDuration": 103,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 464,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "rome_4",
+    "name": "Pantheon",
+    "description": "Pantheon, rome şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://images.pexels.com/photos/34923646/pexels-photo-34923646.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.88120818555295,
+      "longitude": 12.483513413874576
+    },
+    "estimatedDuration": 105,
     "openingTime": "09:00",
     "closingTime": "18:00",
     "cost": 0,
@@ -54,70 +72,52 @@
     ]
   },
   {
-    "id": "rome_4",
-    "name": "Fontana dell'Acqua Acetosa",
-    "description": "rome'de ziyaret edilebilecek popüler bir nokta: Fontana dell'Acqua Acetosa.",
-    "image": "https://picsum.photos/800/600?random=3",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 41.9315211,
-      "longitude": 12.4856511
-    },
-    "estimatedDuration": 35,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 81,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
     "id": "rome_5",
-    "name": "Catacombe di Sant'Agnese",
-    "description": "rome'de ziyaret edilebilecek popüler bir nokta: Catacombe di Sant'Agnese.",
+    "name": "Trevi Fountain",
+    "description": "Trevi Fountain, rome şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=4",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 41.9227681,
-      "longitude": 12.51876
+      "latitude": 41.86490844212785,
+      "longitude": 12.485264184140128
     },
-    "estimatedDuration": 54,
+    "estimatedDuration": 68,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 187,
+    "cost": 313,
     "interests": [
       "Tarihi"
     ]
   },
   {
     "id": "rome_6",
-    "name": "Ninfeo di Egeria",
-    "description": "rome'de ziyaret edilebilecek popüler bir nokta: Ninfeo di Egeria.",
+    "name": "Spanish Steps",
+    "description": "Spanish Steps, rome şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=5",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 41.8591593,
-      "longitude": 12.5242611
+      "latitude": 41.92585933664425,
+      "longitude": 12.48341197859616
     },
-    "estimatedDuration": 48,
+    "estimatedDuration": 157,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 195,
+    "cost": 460,
     "interests": [
       "Tarihi"
     ]
   },
   {
     "id": "rome_7",
-    "name": "Obelisco Matteiano",
-    "description": "rome'de ziyaret edilebilecek popüler bir nokta: Obelisco Matteiano.",
+    "name": "Piazza Navona",
+    "description": "Piazza Navona, rome şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=6",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 41.8833893,
-      "longitude": 12.495335
+      "latitude": 41.895441335599244,
+      "longitude": 12.478346008418015
     },
-    "estimatedDuration": 45,
+    "estimatedDuration": 87,
     "openingTime": "09:00",
     "closingTime": "18:00",
     "cost": 0,
@@ -127,87 +127,87 @@
   },
   {
     "id": "rome_8",
-    "name": "Santuario della Madonna del Divino Amore",
-    "description": "rome'in tarihi ibadet yapılarından biri.",
+    "name": "St. Peter's Basilica",
+    "description": "St. Peter's Basilica, rome şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=7",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 41.7782417,
-      "longitude": 12.5425955
+      "latitude": 41.887471500553445,
+      "longitude": 12.532832071645743
     },
-    "estimatedDuration": 52,
+    "estimatedDuration": 118,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 190,
+    "cost": 147,
     "interests": [
       "Tarihi"
     ]
   },
   {
     "id": "rome_9",
-    "name": "San Gregorio dei Muratori",
-    "description": "rome'in tarihi ibadet yapılarından biri.",
+    "name": "Vatican Museums",
+    "description": "Vatican Museums, rome şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=8",
-    "category": "Tarihi",
+    "category": "Müze",
     "coordinates": {
-      "latitude": 41.9035059,
-      "longitude": 12.4750473
+      "latitude": 41.87801155068681,
+      "longitude": 12.46238695189038
     },
-    "estimatedDuration": 72,
+    "estimatedDuration": 135,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 31,
+    "cost": 0,
     "interests": [
-      "Tarihi"
+      "Müze"
     ]
   },
   {
     "id": "rome_10",
-    "name": "Santa Maria in Trivio",
-    "description": "rome'in tarihi ibadet yapılarından biri.",
+    "name": "Sistine Chapel",
+    "description": "Sistine Chapel, rome şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=9",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 41.9011982,
-      "longitude": 12.4827454
+      "latitude": 41.903140835072975,
+      "longitude": 12.52580676072217
     },
-    "estimatedDuration": 65,
+    "estimatedDuration": 132,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 0,
+    "cost": 457,
     "interests": [
       "Tarihi"
     ]
   },
   {
     "id": "rome_11",
-    "name": "Statua \"parlante\" di Pasquino",
-    "description": "rome'de ziyaret edilebilecek popüler bir nokta: Statua \"parlante\" di Pasquino.",
+    "name": "Castel Sant'Angelo",
+    "description": "Castel Sant'Angelo, rome şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=10",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 41.8977153,
-      "longitude": 12.4723082
+      "latitude": 41.895729220961144,
+      "longitude": 12.483117098580452
     },
-    "estimatedDuration": 65,
+    "estimatedDuration": 60,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 77,
+    "cost": 67,
     "interests": [
       "Tarihi"
     ]
   },
   {
     "id": "rome_12",
-    "name": "Colle Palatino",
-    "description": "rome'de ziyaret edilebilecek popüler bir nokta: Colle Palatino.",
+    "name": "Villa Borghese",
+    "description": "Villa Borghese, rome şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=11",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 41.8893064,
-      "longitude": 12.4871093
+      "latitude": 41.88431739072841,
+      "longitude": 12.47107766078708
     },
-    "estimatedDuration": 52,
+    "estimatedDuration": 166,
     "openingTime": "09:00",
     "closingTime": "18:00",
     "cost": 0,
@@ -217,13 +217,283 @@
   },
   {
     "id": "rome_13",
-    "name": "Chiesa di San Cleto",
-    "description": "rome'in tarihi ibadet yapılarından biri.",
+    "name": "Galleria Borghese",
+    "description": "Galleria Borghese, rome şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=12",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 41.9466347,
-      "longitude": 12.5711787
+      "latitude": 41.88426146684869,
+      "longitude": 12.486388473477895
+    },
+    "estimatedDuration": 158,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 96,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "rome_14",
+    "name": "Piazza del Popolo",
+    "description": "Piazza del Popolo, rome şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=13",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.911537901796585,
+      "longitude": 12.497538869887663
+    },
+    "estimatedDuration": 112,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 98,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "rome_15",
+    "name": "Piazza Venezia",
+    "description": "Piazza Venezia, rome şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=14",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.91668989722298,
+      "longitude": 12.521252059546423
+    },
+    "estimatedDuration": 155,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "rome_16",
+    "name": "Altare della Patria",
+    "description": "Altare della Patria, rome şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=15",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.86911807853183,
+      "longitude": 12.496179035810941
+    },
+    "estimatedDuration": 137,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 456,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "rome_17",
+    "name": "Capitoline Museums",
+    "description": "Capitoline Museums, rome şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=16",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 41.88518654346717,
+      "longitude": 12.513689658533222
+    },
+    "estimatedDuration": 84,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 85,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "rome_18",
+    "name": "Trajan's Market",
+    "description": "Trajan's Market, rome şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=17",
+    "category": "Alışveriş",
+    "coordinates": {
+      "latitude": 41.90426172621076,
+      "longitude": 12.472925026410564
+    },
+    "estimatedDuration": 87,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Alışveriş"
+    ]
+  },
+  {
+    "id": "rome_19",
+    "name": "Baths of Caracalla",
+    "description": "Baths of Caracalla, rome şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=18",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.89079326355963,
+      "longitude": 12.488616188440503
+    },
+    "estimatedDuration": 162,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 139,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "rome_20",
+    "name": "Circus Maximus",
+    "description": "Circus Maximus, rome şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=19",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.87771113224983,
+      "longitude": 12.456475277417095
+    },
+    "estimatedDuration": 174,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 33,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "rome_21",
+    "name": "Basilica of Santa Maria Maggiore",
+    "description": "Basilica of Santa Maria Maggiore, rome şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=20",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.90985676143921,
+      "longitude": 12.478749755836072
+    },
+    "estimatedDuration": 89,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 427,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "rome_22",
+    "name": "Basilica of San Giovanni in Laterano",
+    "description": "Basilica of San Giovanni in Laterano, rome şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=21",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.882141395098564,
+      "longitude": 12.50899719007947
+    },
+    "estimatedDuration": 145,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 451,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "rome_23",
+    "name": "Basilica of San Paolo fuori le Mura",
+    "description": "Basilica of San Paolo fuori le Mura, rome şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=22",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.88393339749305,
+      "longitude": 12.507451645569711
+    },
+    "estimatedDuration": 146,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "rome_24",
+    "name": "Santa Maria in Trastevere",
+    "description": "Santa Maria in Trastevere, rome şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=23",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.90068365929459,
+      "longitude": 12.461979435778124
+    },
+    "estimatedDuration": 167,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 307,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "rome_25",
+    "name": "San Clemente Basilica",
+    "description": "San Clemente Basilica, rome şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=24",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.87065356903448,
+      "longitude": 12.526365013102485
+    },
+    "estimatedDuration": 60,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "rome_26",
+    "name": "Trastevere",
+    "description": "Trastevere, rome şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=25",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.88113596564597,
+      "longitude": 12.48999824372713
+    },
+    "estimatedDuration": 123,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 361,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "rome_27",
+    "name": "Campo de' Fiori",
+    "description": "Campo de' Fiori, rome şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=26",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.91194798495736,
+      "longitude": 12.490485638841195
+    },
+    "estimatedDuration": 101,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "rome_28",
+    "name": "Jewish Ghetto",
+    "description": "Jewish Ghetto, rome şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=27",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.88282976626812,
+      "longitude": 12.497291140779122
     },
     "estimatedDuration": 77,
     "openingTime": "09:00",
@@ -234,304 +504,34 @@
     ]
   },
   {
-    "id": "rome_14",
-    "name": "Catacombe di San Sebastiano",
-    "description": "rome'de ziyaret edilebilecek popüler bir nokta: Catacombe di San Sebastiano.",
-    "image": "https://picsum.photos/800/600?random=13",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 41.85593,
-      "longitude": 12.5157968
-    },
-    "estimatedDuration": 63,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "rome_15",
-    "name": "Museo Storico dei Bersaglieri",
-    "description": "rome'de bulunan önemli bir müze.",
-    "image": "https://picsum.photos/800/600?random=14",
-    "category": "Müze",
-    "coordinates": {
-      "latitude": 41.909267,
-      "longitude": 12.5010785
-    },
-    "estimatedDuration": 42,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 32,
-    "interests": [
-      "Müze"
-    ]
-  },
-  {
-    "id": "rome_16",
-    "name": "Galleria Spada",
-    "description": "rome'de bulunan önemli bir müze.",
-    "image": "https://picsum.photos/800/600?random=15",
-    "category": "Müze",
-    "coordinates": {
-      "latitude": 41.8938866,
-      "longitude": 12.4722011
-    },
-    "estimatedDuration": 33,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Müze"
-    ]
-  },
-  {
-    "id": "rome_17",
-    "name": "Museo di Roma",
-    "description": "rome'de bulunan önemli bir müze.",
-    "image": "https://picsum.photos/800/600?random=16",
-    "category": "Müze",
-    "coordinates": {
-      "latitude": 41.8972775,
-      "longitude": 12.4727772
-    },
-    "estimatedDuration": 39,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Müze"
-    ]
-  },
-  {
-    "id": "rome_18",
-    "name": "Museo Nazionale Romano",
-    "description": "rome'de bulunan önemli bir müze.",
-    "image": "https://picsum.photos/800/600?random=17",
-    "category": "Müze",
-    "coordinates": {
-      "latitude": 41.9011978,
-      "longitude": 12.4728382
-    },
-    "estimatedDuration": 30,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Müze"
-    ]
-  },
-  {
-    "id": "rome_19",
-    "name": "Palazzo Doria Pamphilj",
-    "description": "rome'de bulunan önemli bir müze.",
-    "image": "https://picsum.photos/800/600?random=18",
-    "category": "Müze",
-    "coordinates": {
-      "latitude": 41.8978235,
-      "longitude": 12.4815609
-    },
-    "estimatedDuration": 33,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Müze"
-    ]
-  },
-  {
-    "id": "rome_20",
-    "name": "Harry's Bar",
-    "description": "rome'de ziyaret edilebilecek popüler bir nokta: Harry's Bar.",
-    "image": "https://picsum.photos/800/600?random=19",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 41.909077,
-      "longitude": 12.488319
-    },
-    "estimatedDuration": 86,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 21,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "rome_21",
-    "name": "Museo Pietro Canonica",
-    "description": "rome'de bulunan önemli bir müze.",
-    "image": "https://picsum.photos/800/600?random=20",
-    "category": "Müze",
-    "coordinates": {
-      "latitude": 41.9151103,
-      "longitude": 12.4864794
-    },
-    "estimatedDuration": 78,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Müze"
-    ]
-  },
-  {
-    "id": "rome_22",
-    "name": "Idrocronometro",
-    "description": "rome'de ziyaret edilebilecek popüler bir nokta: Idrocronometro.",
-    "image": "https://picsum.photos/800/600?random=21",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 41.9117513,
-      "longitude": 12.4807242
-    },
-    "estimatedDuration": 52,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "rome_23",
-    "name": "Obelisco della Minerva",
-    "description": "rome'de ziyaret edilebilecek popüler bir nokta: Obelisco della Minerva.",
-    "image": "https://picsum.photos/800/600?random=22",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 41.8979741,
-      "longitude": 12.4775597
-    },
-    "estimatedDuration": 84,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 118,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "rome_24",
-    "name": "Testa di Costantino",
-    "description": "rome'de ziyaret edilebilecek popüler bir nokta: Testa di Costantino.",
-    "image": "https://picsum.photos/800/600?random=23",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 41.8928946,
-      "longitude": 12.4824892
-    },
-    "estimatedDuration": 89,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 109,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "rome_25",
-    "name": "Galleria Borghese",
-    "description": "rome'de bulunan önemli bir müze.",
-    "image": "https://picsum.photos/800/600?random=24",
-    "category": "Müze",
-    "coordinates": {
-      "latitude": 41.9140607,
-      "longitude": 12.4920302
-    },
-    "estimatedDuration": 63,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 175,
-    "interests": [
-      "Müze"
-    ]
-  },
-  {
-    "id": "rome_26",
-    "name": "Tempio di Augusto",
-    "description": "rome'de ziyaret edilebilecek popüler bir nokta: Tempio di Augusto.",
-    "image": "https://picsum.photos/800/600?random=25",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 41.8913995,
-      "longitude": 12.485294
-    },
-    "estimatedDuration": 78,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "rome_27",
-    "name": "Torrione di Via Prenestina",
-    "description": "rome'de ziyaret edilebilecek popüler bir nokta: Torrione di Via Prenestina.",
-    "image": "https://picsum.photos/800/600?random=26",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 41.8920651,
-      "longitude": 12.5297079
-    },
-    "estimatedDuration": 55,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "rome_28",
-    "name": "Criptoportico Neroniano",
-    "description": "rome'de ziyaret edilebilecek popüler bir nokta: Criptoportico Neroniano.",
-    "image": "https://picsum.photos/800/600?random=27",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 41.890019,
-      "longitude": 12.4871741
-    },
-    "estimatedDuration": 62,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
     "id": "rome_29",
-    "name": "Monumento a Giovanni Paolo II",
-    "description": "rome'de ziyaret edilebilecek popüler bir nokta: Monumento a Giovanni Paolo II.",
+    "name": "Testaccio",
+    "description": "Testaccio, rome şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=28",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 41.9019956,
-      "longitude": 12.4990131
+      "latitude": 41.864110768897135,
+      "longitude": 12.532175907118022
     },
-    "estimatedDuration": 53,
+    "estimatedDuration": 160,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 107,
+    "cost": 91,
     "interests": [
       "Tarihi"
     ]
   },
   {
     "id": "rome_30",
-    "name": "Piazzale delle Corporazioni",
-    "description": "rome'de ziyaret edilebilecek popüler bir nokta: Piazzale delle Corporazioni.",
+    "name": "Monti",
+    "description": "Monti, rome şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=29",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 41.7563626,
-      "longitude": 12.2910242
+      "latitude": 41.88797429091602,
+      "longitude": 12.500763870116403
     },
-    "estimatedDuration": 36,
+    "estimatedDuration": 111,
     "openingTime": "09:00",
     "closingTime": "18:00",
     "cost": 0,
@@ -541,51 +541,51 @@
   },
   {
     "id": "rome_31",
-    "name": "Ruderi di Coazzo",
-    "description": "rome'de ziyaret edilebilecek popüler bir nokta: Ruderi di Coazzo.",
+    "name": "Janiculum Hill",
+    "description": "Janiculum Hill, rome şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=30",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 41.9474455,
-      "longitude": 12.5733532
+      "latitude": 41.9035406298222,
+      "longitude": 12.501047038391286
     },
-    "estimatedDuration": 60,
+    "estimatedDuration": 152,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 41,
+    "cost": 301,
     "interests": [
       "Tarihi"
     ]
   },
   {
     "id": "rome_32",
-    "name": "Chiostro del Bramante",
-    "description": "rome'de bulunan önemli bir müze.",
+    "name": "Orange Garden",
+    "description": "Orange Garden, rome şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=31",
-    "category": "Müze",
+    "category": "Park",
     "coordinates": {
-      "latitude": 41.9000215,
-      "longitude": 12.4715028
+      "latitude": 41.894013687876665,
+      "longitude": 12.464137873855165
     },
-    "estimatedDuration": 81,
+    "estimatedDuration": 152,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 21,
+    "cost": 0,
     "interests": [
-      "Müze"
+      "Park"
     ]
   },
   {
     "id": "rome_33",
-    "name": "Anfiteatro castrense",
-    "description": "rome'de ziyaret edilebilecek popüler bir nokta: Anfiteatro castrense.",
+    "name": "Pincian Hill",
+    "description": "Pincian Hill, rome şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=32",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 41.8876475,
-      "longitude": 12.5150843
+      "latitude": 41.942548681094905,
+      "longitude": 12.474755166418843
     },
-    "estimatedDuration": 80,
+    "estimatedDuration": 155,
     "openingTime": "09:00",
     "closingTime": "18:00",
     "cost": 0,
@@ -595,15 +595,15 @@
   },
   {
     "id": "rome_34",
-    "name": "Capanna Protostorica",
-    "description": "rome'de ziyaret edilebilecek popüler bir nokta: Capanna Protostorica.",
+    "name": "Appian Way",
+    "description": "Appian Way, rome şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=33",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 41.9785339,
-      "longitude": 12.5123309
+      "latitude": 41.89075850435198,
+      "longitude": 12.46760246192853
     },
-    "estimatedDuration": 50,
+    "estimatedDuration": 156,
     "openingTime": "09:00",
     "closingTime": "18:00",
     "cost": 0,
@@ -613,265 +613,13 @@
   },
   {
     "id": "rome_35",
-    "name": "Museo napoleonico di Roma",
-    "description": "rome'de bulunan önemli bir müze.",
+    "name": "Catacombs of San Callisto",
+    "description": "Catacombs of San Callisto, rome şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=34",
-    "category": "Müze",
-    "coordinates": {
-      "latitude": 41.901781,
-      "longitude": 12.4720387
-    },
-    "estimatedDuration": 88,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Müze"
-    ]
-  },
-  {
-    "id": "rome_36",
-    "name": "Villa di Livia",
-    "description": "rome'de ziyaret edilebilecek popüler bir nokta: Villa di Livia.",
-    "image": "https://picsum.photos/800/600?random=35",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 42.0031166,
-      "longitude": 12.4926138
-    },
-    "estimatedDuration": 89,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "rome_37",
-    "name": "Galleria Nazionale d'Arte Antica",
-    "description": "rome'de bulunan önemli bir müze.",
-    "image": "https://picsum.photos/800/600?random=36",
-    "category": "Müze",
-    "coordinates": {
-      "latitude": 41.9033252,
-      "longitude": 12.4898746
-    },
-    "estimatedDuration": 32,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 162,
-    "interests": [
-      "Müze"
-    ]
-  },
-  {
-    "id": "rome_38",
-    "name": "Casa di Goethe",
-    "description": "rome'de bulunan önemli bir müze.",
-    "image": "https://picsum.photos/800/600?random=37",
-    "category": "Müze",
-    "coordinates": {
-      "latitude": 41.9090468,
-      "longitude": 12.4771678
-    },
-    "estimatedDuration": 52,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Müze"
-    ]
-  },
-  {
-    "id": "rome_39",
-    "name": "ricordo della strage di via Fani",
-    "description": "rome'de ziyaret edilebilecek popüler bir nokta: ricordo della strage di via Fani.",
-    "image": "https://picsum.photos/800/600?random=38",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 41.9379221,
-      "longitude": 12.4414601
-    },
-    "estimatedDuration": 42,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 3,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "rome_40",
-    "name": "Domus Augustana - Peristilio",
-    "description": "rome'de ziyaret edilebilecek popüler bir nokta: Domus Augustana - Peristilio.",
-    "image": "https://picsum.photos/800/600?random=39",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 41.8878622,
-      "longitude": 12.4865652
-    },
-    "estimatedDuration": 66,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "rome_41",
-    "name": "Catacombe Ad Decimum",
-    "description": "rome'de ziyaret edilebilecek popüler bir nokta: Catacombe Ad Decimum.",
-    "image": "https://picsum.photos/800/600?random=40",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 41.8029531,
-      "longitude": 12.6388251
-    },
-    "estimatedDuration": 75,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 24,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "rome_42",
-    "name": "Stadio di Domiziano",
-    "description": "rome'de bulunan önemli bir müze.",
-    "image": "https://picsum.photos/800/600?random=41",
-    "category": "Müze",
-    "coordinates": {
-      "latitude": 41.9002046,
-      "longitude": 12.4725609
-    },
-    "estimatedDuration": 82,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Müze"
-    ]
-  },
-  {
-    "id": "rome_43",
-    "name": "Museo Storico della Liberazione",
-    "description": "rome'de bulunan önemli bir müze.",
-    "image": "https://picsum.photos/800/600?random=42",
-    "category": "Müze",
-    "coordinates": {
-      "latitude": 41.8887174,
-      "longitude": 12.5063522
-    },
-    "estimatedDuration": 44,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Müze"
-    ]
-  },
-  {
-    "id": "rome_44",
-    "name": "Ipogeo di Santa Passera",
-    "description": "rome'de ziyaret edilebilecek popüler bir nokta: Ipogeo di Santa Passera.",
-    "image": "https://picsum.photos/800/600?random=43",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 41.8584919,
-      "longitude": 12.4602864
-    },
-    "estimatedDuration": 85,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "rome_45",
-    "name": "rilievo di Asclepio",
-    "description": "rome'de ziyaret edilebilecek popüler bir nokta: rilievo di Asclepio.",
-    "image": "https://picsum.photos/800/600?random=44",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 41.8900824,
-      "longitude": 12.4787848
-    },
-    "estimatedDuration": 42,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 72,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "rome_46",
-    "name": "Villa di Massenzio",
-    "description": "rome'de ziyaret edilebilecek popüler bir nokta: Villa di Massenzio.",
-    "image": "https://picsum.photos/800/600?random=45",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 41.8559222,
-      "longitude": 12.5195946
-    },
-    "estimatedDuration": 58,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "rome_47",
-    "name": "Ipogeo di Trebio Giusto",
-    "description": "rome'de ziyaret edilebilecek popüler bir nokta: Ipogeo di Trebio Giusto.",
-    "image": "https://picsum.photos/800/600?random=46",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 41.873765,
-      "longitude": 12.5159997
-    },
-    "estimatedDuration": 32,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "rome_48",
-    "name": "Ipogeo degli Ottavi",
-    "description": "rome'de ziyaret edilebilecek popüler bir nokta: Ipogeo degli Ottavi.",
-    "image": "https://picsum.photos/800/600?random=47",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 41.963092,
-      "longitude": 12.4064224
-    },
-    "estimatedDuration": 67,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 112,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "rome_49",
-    "name": "Basilica Hilariana",
-    "description": "rome'de ziyaret edilebilecek popüler bir nokta: Basilica Hilariana.",
-    "image": "https://picsum.photos/800/600?random=48",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 41.8858204,
-      "longitude": 12.4966238
+      "latitude": 41.928120600474884,
+      "longitude": 12.461271174387468
     },
     "estimatedDuration": 72,
     "openingTime": "09:00",
@@ -882,199 +630,271 @@
     ]
   },
   {
+    "id": "rome_36",
+    "name": "Catacombs of Domitilla",
+    "description": "Catacombs of Domitilla, rome şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=35",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.870873599802195,
+      "longitude": 12.493373296451274
+    },
+    "estimatedDuration": 105,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 280,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "rome_37",
+    "name": "Bocca della Verità",
+    "description": "Bocca della Verità, rome şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=36",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.88466226881319,
+      "longitude": 12.477496816400304
+    },
+    "estimatedDuration": 81,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "rome_38",
+    "name": "Theater of Marcellus",
+    "description": "Theater of Marcellus, rome şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=37",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.931763267186106,
+      "longitude": 12.472230056073204
+    },
+    "estimatedDuration": 155,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "rome_39",
+    "name": "Ara Pacis",
+    "description": "Ara Pacis, rome şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=38",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.874919413096165,
+      "longitude": 12.535497687133892
+    },
+    "estimatedDuration": 170,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "rome_40",
+    "name": "Mausoleum of Augustus",
+    "description": "Mausoleum of Augustus, rome şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=39",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.937383226080314,
+      "longitude": 12.494232579778192
+    },
+    "estimatedDuration": 174,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "rome_41",
+    "name": "Ponte Sant'Angelo",
+    "description": "Ponte Sant'Angelo, rome şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=40",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.921544910810404,
+      "longitude": 12.50409684999867
+    },
+    "estimatedDuration": 100,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 66,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "rome_42",
+    "name": "Tiber Island",
+    "description": "Tiber Island, rome şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=41",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.908278116097804,
+      "longitude": 12.528974685652333
+    },
+    "estimatedDuration": 66,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 118,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "rome_43",
+    "name": "Villa Doria Pamphili",
+    "description": "Villa Doria Pamphili, rome şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=42",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.89962272803245,
+      "longitude": 12.477528158975117
+    },
+    "estimatedDuration": 70,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "rome_44",
+    "name": "Villa Ada",
+    "description": "Villa Ada, rome şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=43",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.91987594858262,
+      "longitude": 12.517397573529161
+    },
+    "estimatedDuration": 125,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "rome_45",
+    "name": "Botanical Garden of Rome",
+    "description": "Botanical Garden of Rome, rome şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=44",
+    "category": "Park",
+    "coordinates": {
+      "latitude": 41.92996538563685,
+      "longitude": 12.520754690425342
+    },
+    "estimatedDuration": 91,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 59,
+    "interests": [
+      "Park"
+    ]
+  },
+  {
+    "id": "rome_46",
+    "name": "Maxxi Museum",
+    "description": "Maxxi Museum, rome şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=45",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 41.91262239786145,
+      "longitude": 12.505672051937674
+    },
+    "estimatedDuration": 70,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "rome_47",
+    "name": "National Roman Museum",
+    "description": "National Roman Museum, rome şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=46",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 41.94016253294409,
+      "longitude": 12.511657188585573
+    },
+    "estimatedDuration": 120,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "rome_48",
+    "name": "Palazzo Barberini",
+    "description": "Palazzo Barberini, rome şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=47",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.91401166251953,
+      "longitude": 12.496291891214444
+    },
+    "estimatedDuration": 116,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 187,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "rome_49",
+    "name": "Palazzo Colonna",
+    "description": "Palazzo Colonna, rome şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=48",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.902389374649744,
+      "longitude": 12.529129585537024
+    },
+    "estimatedDuration": 169,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
     "id": "rome_50",
-    "name": "Ipogeo di via Livenza",
-    "description": "rome'de ziyaret edilebilecek popüler bir nokta: Ipogeo di via Livenza.",
-    "image": "https://picsum.photos/800/600?random=49",
+    "name": "Doria Pamphilj Gallery",
+    "description": "Doria Pamphilj Gallery, rome şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://images.pexels.com/photos/34951304/pexels-photo-34951304.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 41.9134776,
-      "longitude": 12.4952373
+      "latitude": 41.92524414523198,
+      "longitude": 12.530183094528011
     },
-    "estimatedDuration": 71,
+    "estimatedDuration": 99,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "rome_51",
-    "name": "Auditoria di Adriano",
-    "description": "rome'de ziyaret edilebilecek popüler bir nokta: Auditoria di Adriano.",
-    "image": "https://picsum.photos/800/600?random=50",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 41.8958389,
-      "longitude": 12.4832418
-    },
-    "estimatedDuration": 36,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "rome_52",
-    "name": "Museo storico delle comunicazioni",
-    "description": "rome'de bulunan önemli bir müze.",
-    "image": "https://picsum.photos/800/600?random=51",
-    "category": "Müze",
-    "coordinates": {
-      "latitude": 41.8307378,
-      "longitude": 12.4686342
-    },
-    "estimatedDuration": 40,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Müze"
-    ]
-  },
-  {
-    "id": "rome_53",
-    "name": "Imperatore Costantino il Grande",
-    "description": "rome'de ziyaret edilebilecek popüler bir nokta: Imperatore Costantino il Grande.",
-    "image": "https://picsum.photos/800/600?random=52",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 41.902741,
-      "longitude": 12.4549356
-    },
-    "estimatedDuration": 55,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "rome_54",
-    "name": "Vigamus - Museo del Videogioco",
-    "description": "rome'de bulunan önemli bir müze.",
-    "image": "https://picsum.photos/800/600?random=53",
-    "category": "Müze",
-    "coordinates": {
-      "latitude": 41.916725,
-      "longitude": 12.4597359
-    },
-    "estimatedDuration": 75,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Müze"
-    ]
-  },
-  {
-    "id": "rome_55",
-    "name": "Museo Hendrik Christian Andersen",
-    "description": "rome'de bulunan önemli bir müze.",
-    "image": "https://picsum.photos/800/600?random=54",
-    "category": "Müze",
-    "coordinates": {
-      "latitude": 41.9141287,
-      "longitude": 12.4727214
-    },
-    "estimatedDuration": 60,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Müze"
-    ]
-  },
-  {
-    "id": "rome_56",
-    "name": "Museo Boncompagni Ludovisi per le arti decorative",
-    "description": "rome'de bulunan önemli bir müze.",
-    "image": "https://picsum.photos/800/600?random=55",
-    "category": "Müze",
-    "coordinates": {
-      "latitude": 41.9086748,
-      "longitude": 12.4951494
-    },
-    "estimatedDuration": 80,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 50,
-    "interests": [
-      "Müze"
-    ]
-  },
-  {
-    "id": "rome_57",
-    "name": "Cappella di Sant'Elena",
-    "description": "rome'in tarihi ibadet yapılarından biri.",
-    "image": "https://picsum.photos/800/600?random=56",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 41.8926176,
-      "longitude": 12.5029524
-    },
-    "estimatedDuration": 33,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "rome_58",
-    "name": "Ipogeo degli Aureli",
-    "description": "rome'de ziyaret edilebilecek popüler bir nokta: Ipogeo degli Aureli.",
-    "image": "https://picsum.photos/800/600?random=57",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 41.8925024,
-      "longitude": 12.5094723
-    },
-    "estimatedDuration": 34,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 19,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "rome_59",
-    "name": "San Giovanni",
-    "description": "rome'de bulunan önemli bir müze.",
-    "image": "https://picsum.photos/800/600?random=58",
-    "category": "Müze",
-    "coordinates": {
-      "latitude": 41.8853194,
-      "longitude": 12.5099333
-    },
-    "estimatedDuration": 50,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Müze"
-    ]
-  },
-  {
-    "id": "rome_60",
-    "name": "Necropoli della Via Triumphalis",
-    "description": "rome'de ziyaret edilebilecek popüler bir nokta: Necropoli della Via Triumphalis.",
-    "image": "https://picsum.photos/800/600?random=59",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 41.9056115,
-      "longitude": 12.4558767
-    },
-    "estimatedDuration": 37,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
+    "cost": 475,
     "interests": [
       "Tarihi"
     ]

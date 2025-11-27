@@ -1,33 +1,33 @@
 [
   {
     "id": "london_1",
-    "name": "The Gurkha Soldier",
-    "description": "london'de ziyaret edilebilecek popüler bir nokta: The Gurkha Soldier.",
+    "name": "Big Ben",
+    "description": "Big Ben, london şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=0",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 51.5050924,
-      "longitude": -0.1249977
+      "latitude": 51.53337335121794,
+      "longitude": -0.11702701006626655
     },
-    "estimatedDuration": 67,
+    "estimatedDuration": 169,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 20,
+    "cost": 0,
     "interests": [
       "Tarihi"
     ]
   },
   {
     "id": "london_2",
-    "name": "Anglo-Belgian War Memorial",
-    "description": "london'de ziyaret edilebilecek popüler bir nokta: Anglo-Belgian War Memorial.",
+    "name": "Houses of Parliament",
+    "description": "Houses of Parliament, london şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=1",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 51.5086558,
-      "longitude": -0.1207417
+      "latitude": 51.50397280661834,
+      "longitude": -0.1395579361285913
     },
-    "estimatedDuration": 60,
+    "estimatedDuration": 118,
     "openingTime": "09:00",
     "closingTime": "18:00",
     "cost": 0,
@@ -37,33 +37,51 @@
   },
   {
     "id": "london_3",
-    "name": "Royal Air Force Memorial",
-    "description": "london'de ziyaret edilebilecek popüler bir nokta: Royal Air Force Memorial.",
+    "name": "Westminster Abbey",
+    "description": "Westminster Abbey, london şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=2",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 51.5039918,
-      "longitude": -0.1230828
+      "latitude": 51.5004451327023,
+      "longitude": -0.09948249218918562
     },
-    "estimatedDuration": 46,
+    "estimatedDuration": 111,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 0,
+    "cost": 173,
     "interests": [
       "Tarihi"
     ]
   },
   {
     "id": "london_4",
-    "name": "Battle of Britain Memorial",
-    "description": "london'de ziyaret edilebilecek popüler bir nokta: Battle of Britain Memorial.",
+    "name": "Buckingham Palace",
+    "description": "Buckingham Palace, london şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=3",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 51.502939,
-      "longitude": -0.123428
+      "latitude": 51.47889331956025,
+      "longitude": -0.14259620764450254
     },
-    "estimatedDuration": 79,
+    "estimatedDuration": 60,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 111,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "london_5",
+    "name": "London Eye",
+    "description": "London Eye, london şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=4",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 51.478904122041584,
+      "longitude": -0.10337419941210751
+    },
+    "estimatedDuration": 124,
     "openingTime": "09:00",
     "closingTime": "18:00",
     "cost": 0,
@@ -72,34 +90,16 @@
     ]
   },
   {
-    "id": "london_5",
-    "name": "Douglas Haig",
-    "description": "london'de ziyaret edilebilecek popüler bir nokta: Douglas Haig.",
-    "image": "https://picsum.photos/800/600?random=4",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 51.5042783,
-      "longitude": -0.1262449
-    },
-    "estimatedDuration": 71,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 106,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
     "id": "london_6",
-    "name": "Alan Brooke, 1st Viscount Alanbrooke",
-    "description": "london'de ziyaret edilebilecek popüler bir nokta: Alan Brooke, 1st Viscount Alanbrooke.",
+    "name": "Tower of London",
+    "description": "Tower of London, london şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=5",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 51.5035868,
-      "longitude": -0.1258141
+      "latitude": 51.53484125495593,
+      "longitude": -0.11812532495397421
     },
-    "estimatedDuration": 64,
+    "estimatedDuration": 145,
     "openingTime": "09:00",
     "closingTime": "18:00",
     "cost": 0,
@@ -109,13 +109,715 @@
   },
   {
     "id": "london_7",
-    "name": "Monty",
-    "description": "london'de ziyaret edilebilecek popüler bir nokta: Monty.",
+    "name": "Tower Bridge",
+    "description": "Tower Bridge, london şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=6",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 51.503367,
-      "longitude": -0.1258314
+      "latitude": 51.54168517382307,
+      "longitude": -0.16110199560184496
+    },
+    "estimatedDuration": 84,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 134,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "london_8",
+    "name": "St Paul's Cathedral",
+    "description": "St Paul's Cathedral, london şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=7",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 51.48167756217896,
+      "longitude": -0.09210986779667835
+    },
+    "estimatedDuration": 175,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "london_9",
+    "name": "The Shard",
+    "description": "The Shard, london şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://images.pexels.com/photos/7245360/pexels-photo-7245360.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 51.495365458531666,
+      "longitude": -0.1551515223537207
+    },
+    "estimatedDuration": 139,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "london_10",
+    "name": "Sky Garden",
+    "description": "Sky Garden, london şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=9",
+    "category": "Park",
+    "coordinates": {
+      "latitude": 51.51800332699195,
+      "longitude": -0.09931292702040913
+    },
+    "estimatedDuration": 147,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 450,
+    "interests": [
+      "Park"
+    ]
+  },
+  {
+    "id": "london_11",
+    "name": "British Museum",
+    "description": "British Museum, london şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=10",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 51.47841800079971,
+      "longitude": -0.13711291908732387
+    },
+    "estimatedDuration": 107,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "london_12",
+    "name": "Natural History Museum",
+    "description": "Natural History Museum, london şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=11",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 51.530534696617856,
+      "longitude": -0.09161049796430135
+    },
+    "estimatedDuration": 161,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "london_13",
+    "name": "Science Museum",
+    "description": "Science Museum, london şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=12",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 51.50582170650919,
+      "longitude": -0.11030235074340983
+    },
+    "estimatedDuration": 125,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 461,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "london_14",
+    "name": "Victoria and Albert Museum",
+    "description": "Victoria and Albert Museum, london şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=13",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 51.541895148811506,
+      "longitude": -0.10881442579728398
+    },
+    "estimatedDuration": 60,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 119,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "london_15",
+    "name": "Tate Modern",
+    "description": "Tate Modern, london şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=14",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 51.468435661013615,
+      "longitude": -0.10108473168862105
+    },
+    "estimatedDuration": 111,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 333,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "london_16",
+    "name": "Tate Britain",
+    "description": "Tate Britain, london şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=15",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 51.5394541258746,
+      "longitude": -0.16645069120832762
+    },
+    "estimatedDuration": 144,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "london_17",
+    "name": "National Gallery",
+    "description": "National Gallery, london şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=16",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 51.5252392138175,
+      "longitude": -0.1619511772438246
+    },
+    "estimatedDuration": 152,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 357,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "london_18",
+    "name": "National Portrait Gallery",
+    "description": "National Portrait Gallery, london şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=17",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 51.53571279714028,
+      "longitude": -0.09620608085008787
+    },
+    "estimatedDuration": 109,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 132,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "london_19",
+    "name": "Imperial War Museum",
+    "description": "Imperial War Museum, london şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=18",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 51.46859709645676,
+      "longitude": -0.09952188185090485
+    },
+    "estimatedDuration": 149,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "london_20",
+    "name": "Museum of London",
+    "description": "Museum of London, london şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=19",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 51.54337671521935,
+      "longitude": -0.13974840528316507
+    },
+    "estimatedDuration": 178,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "london_21",
+    "name": "Hyde Park",
+    "description": "Hyde Park, london şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=20",
+    "category": "Park",
+    "coordinates": {
+      "latitude": 51.50776925602566,
+      "longitude": -0.15002422063574583
+    },
+    "estimatedDuration": 89,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 482,
+    "interests": [
+      "Park"
+    ]
+  },
+  {
+    "id": "london_22",
+    "name": "Kensington Gardens",
+    "description": "Kensington Gardens, london şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=21",
+    "category": "Park",
+    "coordinates": {
+      "latitude": 51.48248184680402,
+      "longitude": -0.15876914431266956
+    },
+    "estimatedDuration": 117,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 239,
+    "interests": [
+      "Park"
+    ]
+  },
+  {
+    "id": "london_23",
+    "name": "Regent's Park",
+    "description": "Regent's Park, london şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=22",
+    "category": "Park",
+    "coordinates": {
+      "latitude": 51.53037466401089,
+      "longitude": -0.1347285215866629
+    },
+    "estimatedDuration": 98,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Park"
+    ]
+  },
+  {
+    "id": "london_24",
+    "name": "St James's Park",
+    "description": "St James's Park, london şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=23",
+    "category": "Park",
+    "coordinates": {
+      "latitude": 51.51176986793065,
+      "longitude": -0.13699224803661783
+    },
+    "estimatedDuration": 115,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Park"
+    ]
+  },
+  {
+    "id": "london_25",
+    "name": "Greenwich Park",
+    "description": "Greenwich Park, london şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=24",
+    "category": "Park",
+    "coordinates": {
+      "latitude": 51.51245790491622,
+      "longitude": -0.10420689398810876
+    },
+    "estimatedDuration": 164,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Park"
+    ]
+  },
+  {
+    "id": "london_26",
+    "name": "Kew Gardens",
+    "description": "Kew Gardens, london şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=25",
+    "category": "Park",
+    "coordinates": {
+      "latitude": 51.47509204940095,
+      "longitude": -0.08934945418760792
+    },
+    "estimatedDuration": 172,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 314,
+    "interests": [
+      "Park"
+    ]
+  },
+  {
+    "id": "london_27",
+    "name": "Richmond Park",
+    "description": "Richmond Park, london şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=26",
+    "category": "Park",
+    "coordinates": {
+      "latitude": 51.507228968917126,
+      "longitude": -0.09119859803229585
+    },
+    "estimatedDuration": 158,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 130,
+    "interests": [
+      "Park"
+    ]
+  },
+  {
+    "id": "london_28",
+    "name": "Hampstead Heath",
+    "description": "Hampstead Heath, london şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=27",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 51.54014080558249,
+      "longitude": -0.09249823498738494
+    },
+    "estimatedDuration": 115,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 240,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "london_29",
+    "name": "Primrose Hill",
+    "description": "Primrose Hill, london şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=28",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 51.531483272177375,
+      "longitude": -0.16153599401218077
+    },
+    "estimatedDuration": 109,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "london_30",
+    "name": "Holland Park",
+    "description": "Holland Park, london şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=29",
+    "category": "Park",
+    "coordinates": {
+      "latitude": 51.54223369225766,
+      "longitude": -0.1260076054948958
+    },
+    "estimatedDuration": 117,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 379,
+    "interests": [
+      "Park"
+    ]
+  },
+  {
+    "id": "london_31",
+    "name": "Trafalgar Square",
+    "description": "Trafalgar Square, london şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=30",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 51.4705059082005,
+      "longitude": -0.15733784067711645
+    },
+    "estimatedDuration": 87,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 86,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "london_32",
+    "name": "Piccadilly Circus",
+    "description": "Piccadilly Circus, london şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=31",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 51.501946212963944,
+      "longitude": -0.0957023013844934
+    },
+    "estimatedDuration": 136,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 151,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "london_33",
+    "name": "Leicester Square",
+    "description": "Leicester Square, london şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=32",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 51.54365847860296,
+      "longitude": -0.15341261566877132
+    },
+    "estimatedDuration": 163,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "london_34",
+    "name": "Covent Garden",
+    "description": "Covent Garden, london şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=33",
+    "category": "Park",
+    "coordinates": {
+      "latitude": 51.479324236436334,
+      "longitude": -0.16320648445707647
+    },
+    "estimatedDuration": 74,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Park"
+    ]
+  },
+  {
+    "id": "london_35",
+    "name": "Soho",
+    "description": "Soho, london şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=34",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 51.54669484326917,
+      "longitude": -0.12924189297435484
+    },
+    "estimatedDuration": 129,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "london_36",
+    "name": "Chinatown",
+    "description": "Chinatown, london şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=35",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 51.474953717678666,
+      "longitude": -0.1285364429915527
+    },
+    "estimatedDuration": 165,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "london_37",
+    "name": "Camden Market",
+    "description": "Camden Market, london şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=36",
+    "category": "Alışveriş",
+    "coordinates": {
+      "latitude": 51.52322823209601,
+      "longitude": -0.10892183380157122
+    },
+    "estimatedDuration": 67,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 40,
+    "interests": [
+      "Alışveriş"
+    ]
+  },
+  {
+    "id": "london_38",
+    "name": "Borough Market",
+    "description": "Borough Market, london şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=37",
+    "category": "Alışveriş",
+    "coordinates": {
+      "latitude": 51.5079063846841,
+      "longitude": -0.154120049801463
+    },
+    "estimatedDuration": 129,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 208,
+    "interests": [
+      "Alışveriş"
+    ]
+  },
+  {
+    "id": "london_39",
+    "name": "Portobello Road Market",
+    "description": "Portobello Road Market, london şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=38",
+    "category": "Alışveriş",
+    "coordinates": {
+      "latitude": 51.527577320038795,
+      "longitude": -0.11338753946568383
+    },
+    "estimatedDuration": 173,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Alışveriş"
+    ]
+  },
+  {
+    "id": "london_40",
+    "name": "Brick Lane",
+    "description": "Brick Lane, london şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=39",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 51.544174312547106,
+      "longitude": -0.14209029926360575
+    },
+    "estimatedDuration": 77,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 70,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "london_41",
+    "name": "Oxford Street",
+    "description": "Oxford Street, london şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=40",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 51.50735893286292,
+      "longitude": -0.11293864560670944
+    },
+    "estimatedDuration": 77,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 365,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "london_42",
+    "name": "Regent Street",
+    "description": "Regent Street, london şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=41",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 51.52248951665683,
+      "longitude": -0.11246252586601294
+    },
+    "estimatedDuration": 131,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "london_43",
+    "name": "Bond Street",
+    "description": "Bond Street, london şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=42",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 51.49756392247913,
+      "longitude": -0.12077053770387476
+    },
+    "estimatedDuration": 98,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 77,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "london_44",
+    "name": "Harrods",
+    "description": "Harrods, london şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=43",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 51.513165823719014,
+      "longitude": -0.11495644731800758
+    },
+    "estimatedDuration": 175,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 211,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "london_45",
+    "name": "Selfridges",
+    "description": "Selfridges, london şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=44",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 51.52465075781003,
+      "longitude": -0.09169949647613124
+    },
+    "estimatedDuration": 146,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "london_46",
+    "name": "Shakespeare's Globe",
+    "description": "Shakespeare's Globe, london şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=45",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 51.4936479746346,
+      "longitude": -0.12820243720675448
     },
     "estimatedDuration": 77,
     "openingTime": "09:00",
@@ -126,736 +828,34 @@
     ]
   },
   {
-    "id": "london_8",
-    "name": "Epsom Downs Racecourse",
-    "description": "london'de ziyaret edilebilecek popüler bir nokta: Epsom Downs Racecourse.",
-    "image": "https://picsum.photos/800/600?random=7",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 51.3099991,
-      "longitude": -0.2526878
-    },
-    "estimatedDuration": 65,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "london_9",
-    "name": "Madame Tussauds",
-    "description": "london'de bulunan önemli bir müze.",
-    "image": "https://picsum.photos/800/600?random=8",
-    "category": "Müze",
-    "coordinates": {
-      "latitude": 51.5228224,
-      "longitude": -0.1547768
-    },
-    "estimatedDuration": 70,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Müze"
-    ]
-  },
-  {
-    "id": "london_10",
-    "name": "Whitton Methodist Church",
-    "description": "london'in tarihi ibadet yapılarından biri.",
-    "image": "https://picsum.photos/800/600?random=9",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 51.4448806,
-      "longitude": -0.3618948
-    },
-    "estimatedDuration": 74,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "london_11",
-    "name": "St Theodore",
-    "description": "london'in tarihi ibadet yapılarından biri.",
-    "image": "https://images.pexels.com/photos/8775868/pexels-photo-8775868.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 51.4157534,
-      "longitude": -0.3688489
-    },
-    "estimatedDuration": 60,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 52,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "london_12",
-    "name": "Hampton Baptist Church",
-    "description": "london'in tarihi ibadet yapılarından biri.",
-    "image": "https://picsum.photos/800/600?random=11",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 51.4143913,
-      "longitude": -0.3713906
-    },
-    "estimatedDuration": 39,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "london_13",
-    "name": "Three Bridges",
-    "description": "london'de ziyaret edilebilecek popüler bir nokta: Three Bridges.",
-    "image": "https://picsum.photos/800/600?random=12",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 51.5043762,
-      "longitude": -0.355293
-    },
-    "estimatedDuration": 46,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 18,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "london_14",
-    "name": "Stave Hill",
-    "description": "london'de ziyaret edilebilecek popüler bir nokta: Stave Hill.",
-    "image": "https://picsum.photos/800/600?random=13",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 51.5010897,
-      "longitude": -0.0404578
-    },
-    "estimatedDuration": 57,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 158,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "london_15",
-    "name": "London Bridge Experience",
-    "description": "london'de ziyaret edilebilecek popüler bir nokta: London Bridge Experience.",
-    "image": "https://picsum.photos/800/600?random=14",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 51.506379,
-      "longitude": -0.0882654
-    },
-    "estimatedDuration": 54,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 63,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "london_16",
-    "name": "London Buddhist Centre",
-    "description": "london'in tarihi ibadet yapılarından biri.",
-    "image": "https://picsum.photos/800/600?random=15",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 51.5280326,
-      "longitude": -0.0512545
-    },
-    "estimatedDuration": 34,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "london_17",
-    "name": "The Type Museum",
-    "description": "london'de bulunan önemli bir müze.",
-    "image": "https://picsum.photos/800/600?random=16",
-    "category": "Müze",
-    "coordinates": {
-      "latitude": 51.4736073,
-      "longitude": -0.1155806
-    },
-    "estimatedDuration": 67,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Müze"
-    ]
-  },
-  {
-    "id": "london_18",
-    "name": "Amyand Park Chapel",
-    "description": "london'in tarihi ibadet yapılarından biri.",
-    "image": "https://picsum.photos/800/600?random=17",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 51.4542201,
-      "longitude": -0.3211921
-    },
-    "estimatedDuration": 88,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "london_19",
-    "name": "The Coronation Stone",
-    "description": "london'de ziyaret edilebilecek popüler bir nokta: The Coronation Stone.",
-    "image": "https://picsum.photos/800/600?random=18",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 51.4084034,
-      "longitude": -0.3067469
-    },
-    "estimatedDuration": 61,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 76,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "london_20",
-    "name": "St Pancras Lock",
-    "description": "london'de ziyaret edilebilecek popüler bir nokta: St Pancras Lock.",
-    "image": "https://picsum.photos/800/600?random=19",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 51.5362114,
-      "longitude": -0.127826
-    },
-    "estimatedDuration": 46,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "london_21",
-    "name": "Arsenal Museum",
-    "description": "london'de bulunan önemli bir müze.",
-    "image": "https://picsum.photos/800/600?random=20",
-    "category": "Müze",
-    "coordinates": {
-      "latitude": 51.5566742,
-      "longitude": -0.1081434
-    },
-    "estimatedDuration": 40,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Müze"
-    ]
-  },
-  {
-    "id": "london_22",
-    "name": "Site of Nonsuch Palace",
-    "description": "london'de ziyaret edilebilecek popüler bir nokta: Site of Nonsuch Palace.",
-    "image": "https://picsum.photos/800/600?random=21",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 51.3547073,
-      "longitude": -0.2389464
-    },
-    "estimatedDuration": 31,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "london_23",
-    "name": "Monument to the 2002 Bali bombings",
-    "description": "london'de ziyaret edilebilecek popüler bir nokta: Monument to the 2002 Bali bombings.",
-    "image": "https://picsum.photos/800/600?random=22",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 51.5024054,
-      "longitude": -0.1295373
-    },
-    "estimatedDuration": 70,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "london_24",
-    "name": "Earl Mountbatten of Burma",
-    "description": "london'de ziyaret edilebilecek popüler bir nokta: Earl Mountbatten of Burma.",
-    "image": "https://picsum.photos/800/600?random=23",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 51.5036056,
-      "longitude": -0.1286361
-    },
-    "estimatedDuration": 60,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 103,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "london_25",
-    "name": "Captain James Cook",
-    "description": "london'de ziyaret edilebilecek popüler bir nokta: Captain James Cook.",
-    "image": "https://picsum.photos/800/600?random=24",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 51.5063418,
-      "longitude": -0.1292321
-    },
-    "estimatedDuration": 70,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "london_26",
-    "name": "Royal Marines",
-    "description": "london'de ziyaret edilebilecek popüler bir nokta: Royal Marines.",
-    "image": "https://picsum.photos/800/600?random=25",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 51.5065383,
-      "longitude": -0.1295323
-    },
-    "estimatedDuration": 47,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "london_27",
-    "name": "Winston Churchill",
-    "description": "london'de ziyaret edilebilecek popüler bir nokta: Winston Churchill.",
-    "image": "https://picsum.photos/800/600?random=26",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 51.5008416,
-      "longitude": -0.1264307
-    },
-    "estimatedDuration": 52,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "london_28",
-    "name": "Jan Smuts",
-    "description": "london'de ziyaret edilebilecek popüler bir nokta: Jan Smuts.",
-    "image": "https://picsum.photos/800/600?random=27",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 51.5008657,
-      "longitude": -0.1268841
-    },
-    "estimatedDuration": 86,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "london_29",
-    "name": "Earl of Derby",
-    "description": "london'de ziyaret edilebilecek popüler bir nokta: Earl of Derby.",
-    "image": "https://picsum.photos/800/600?random=28",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 51.5007874,
-      "longitude": -0.1273028
-    },
-    "estimatedDuration": 48,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "london_30",
-    "name": "Nelson Mandela",
-    "description": "london'de ziyaret edilebilecek popüler bir nokta: Nelson Mandela.",
-    "image": "https://picsum.photos/800/600?random=29",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 51.5004212,
-      "longitude": -0.1272452
-    },
-    "estimatedDuration": 85,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 151,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "london_31",
-    "name": "David Lloyd George",
-    "description": "london'de ziyaret edilebilecek popüler bir nokta: David Lloyd George.",
-    "image": "https://picsum.photos/800/600?random=30",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 51.5008535,
-      "longitude": -0.1266578
-    },
-    "estimatedDuration": 80,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 14,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "london_32",
-    "name": "Sir Robert Peel",
-    "description": "london'de ziyaret edilebilecek popüler bir nokta: Sir Robert Peel.",
-    "image": "https://picsum.photos/800/600?random=31",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 51.5004874,
-      "longitude": -0.1272913
-    },
-    "estimatedDuration": 57,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 197,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "london_33",
-    "name": "Lord Palmerston",
-    "description": "london'de ziyaret edilebilecek popüler bir nokta: Lord Palmerston.",
-    "image": "https://picsum.photos/800/600?random=32",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 51.5009057,
-      "longitude": -0.1270755
-    },
-    "estimatedDuration": 86,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "london_34",
-    "name": "George Canning",
-    "description": "london'de ziyaret edilebilecek popüler bir nokta: George Canning.",
-    "image": "https://picsum.photos/800/600?random=33",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 51.5010033,
-      "longitude": -0.1277194
-    },
-    "estimatedDuration": 47,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "london_35",
-    "name": "Islington Green War Memorial",
-    "description": "london'de ziyaret edilebilecek popüler bir nokta: Islington Green War Memorial.",
-    "image": "https://picsum.photos/800/600?random=34",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 51.536188,
-      "longitude": -0.1033121
-    },
-    "estimatedDuration": 40,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "london_36",
-    "name": "Buxton Memorial Fountain",
-    "description": "london'de ziyaret edilebilecek popüler bir nokta: Buxton Memorial Fountain.",
-    "image": "https://picsum.photos/800/600?random=35",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 51.496129,
-      "longitude": -0.1247439
-    },
-    "estimatedDuration": 49,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 61,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "london_37",
-    "name": "Emmeline and Christabel Pankhurst Memorial",
-    "description": "london'de ziyaret edilebilecek popüler bir nokta: Emmeline and Christabel Pankhurst Memorial.",
-    "image": "https://picsum.photos/800/600?random=36",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 51.4977775,
-      "longitude": -0.1253086
-    },
-    "estimatedDuration": 32,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "london_38",
-    "name": "Richard the Lionheart",
-    "description": "london'de ziyaret edilebilecek popüler bir nokta: Richard the Lionheart.",
-    "image": "https://picsum.photos/800/600?random=37",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 51.4991508,
-      "longitude": -0.1255492
-    },
-    "estimatedDuration": 59,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "london_39",
-    "name": "Whitehall",
-    "description": "london'de bulunan önemli bir müze.",
-    "image": "https://picsum.photos/800/600?random=38",
-    "category": "Müze",
-    "coordinates": {
-      "latitude": 51.3594267,
-      "longitude": -0.2171332
-    },
-    "estimatedDuration": 69,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Müze"
-    ]
-  },
-  {
-    "id": "london_40",
-    "name": "Sir Hugh Myddleton Memorial",
-    "description": "london'de ziyaret edilebilecek popüler bir nokta: Sir Hugh Myddleton Memorial.",
-    "image": "https://picsum.photos/800/600?random=39",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 51.5357375,
-      "longitude": -0.1036111
-    },
-    "estimatedDuration": 65,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 3,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "london_41",
-    "name": "National Submarine War Memorial",
-    "description": "london'de ziyaret edilebilecek popüler bir nokta: National Submarine War Memorial.",
-    "image": "https://picsum.photos/800/600?random=40",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 51.5108862,
-      "longitude": -0.1110141
-    },
-    "estimatedDuration": 57,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "london_42",
-    "name": "Topolski Century",
-    "description": "london'de bulunan önemli bir müze.",
-    "image": "https://picsum.photos/800/600?random=41",
-    "category": "Müze",
-    "coordinates": {
-      "latitude": 51.5048027,
-      "longitude": -0.1156513
-    },
-    "estimatedDuration": 82,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Müze"
-    ]
-  },
-  {
-    "id": "london_43",
-    "name": "The Viscount Slim",
-    "description": "london'de ziyaret edilebilecek popüler bir nokta: The Viscount Slim.",
-    "image": "https://picsum.photos/800/600?random=42",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 51.5037975,
-      "longitude": -0.1258441
-    },
-    "estimatedDuration": 84,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "london_44",
-    "name": "Kingston Museum",
-    "description": "london'de bulunan önemli bir müze.",
-    "image": "https://picsum.photos/800/600?random=43",
-    "category": "Müze",
-    "coordinates": {
-      "latitude": 51.4095825,
-      "longitude": -0.30031
-    },
-    "estimatedDuration": 76,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 158,
-    "interests": [
-      "Müze"
-    ]
-  },
-  {
-    "id": "london_45",
-    "name": "North Western Reform Synagogue",
-    "description": "london'in tarihi ibadet yapılarından biri.",
-    "image": "https://picsum.photos/800/600?random=44",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 51.5793901,
-      "longitude": -0.1963299
-    },
-    "estimatedDuration": 34,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "london_46",
-    "name": "Chislehurst Caves",
-    "description": "london'de ziyaret edilebilecek popüler bir nokta: Chislehurst Caves.",
-    "image": "https://picsum.photos/800/600?random=45",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 51.4073174,
-      "longitude": 0.0578495
-    },
-    "estimatedDuration": 33,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 195,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
     "id": "london_47",
-    "name": "Tower Hill Postern",
-    "description": "london'de ziyaret edilebilecek popüler bir nokta: Tower Hill Postern.",
+    "name": "Royal Albert Hall",
+    "description": "Royal Albert Hall, london şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=46",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 51.5094466,
-      "longitude": -0.0759463
+      "latitude": 51.53322780682035,
+      "longitude": -0.1383160839189989
     },
-    "estimatedDuration": 71,
+    "estimatedDuration": 159,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 0,
+    "cost": 461,
     "interests": [
       "Tarihi"
     ]
   },
   {
     "id": "london_48",
-    "name": "Saint Volodymyr",
-    "description": "london'de ziyaret edilebilecek popüler bir nokta: Saint Volodymyr.",
+    "name": "Royal Opera House",
+    "description": "Royal Opera House, london şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=47",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 51.5074703,
-      "longitude": -0.2040451
+      "latitude": 51.54430312115342,
+      "longitude": -0.09121527047755068
     },
-    "estimatedDuration": 46,
+    "estimatedDuration": 79,
     "openingTime": "09:00",
     "closingTime": "18:00",
     "cost": 0,
@@ -865,216 +865,36 @@
   },
   {
     "id": "london_49",
-    "name": "Canada Memorial",
-    "description": "london'de ziyaret edilebilecek popüler bir nokta: Canada Memorial.",
+    "name": "The O2",
+    "description": "The O2, london şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=48",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 51.5029024,
-      "longitude": -0.1426133
+      "latitude": 51.532582056146076,
+      "longitude": -0.11162604231141612
     },
-    "estimatedDuration": 52,
+    "estimatedDuration": 77,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 162,
+    "cost": 0,
     "interests": [
       "Tarihi"
     ]
   },
   {
     "id": "london_50",
-    "name": "Crown Court",
-    "description": "london'in tarihi ibadet yapılarından biri.",
+    "name": "Wembley Stadium",
+    "description": "Wembley Stadium, london şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=49",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 51.513419,
-      "longitude": -0.1209833
+      "latitude": 51.50305325913865,
+      "longitude": -0.12210148512089335
     },
     "estimatedDuration": 81,
     "openingTime": "09:00",
     "closingTime": "18:00",
     "cost": 0,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "london_51",
-    "name": "Holocaust Memorial",
-    "description": "london'de ziyaret edilebilecek popüler bir nokta: Holocaust Memorial.",
-    "image": "https://picsum.photos/800/600?random=50",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 51.5042779,
-      "longitude": -0.158779
-    },
-    "estimatedDuration": 73,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "london_52",
-    "name": "Grant Museum of Zoology",
-    "description": "london'de bulunan önemli bir müze.",
-    "image": "https://picsum.photos/800/600?random=51",
-    "category": "Müze",
-    "coordinates": {
-      "latitude": 51.523732,
-      "longitude": -0.1342662
-    },
-    "estimatedDuration": 55,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Müze"
-    ]
-  },
-  {
-    "id": "london_53",
-    "name": "Robert Raikes",
-    "description": "london'de ziyaret edilebilecek popüler bir nokta: Robert Raikes.",
-    "image": "https://picsum.photos/800/600?random=52",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 51.5093262,
-      "longitude": -0.1202645
-    },
-    "estimatedDuration": 42,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "london_54",
-    "name": "Kindertransport – The Arrival",
-    "description": "london'de ziyaret edilebilecek popüler bir nokta: Kindertransport – The Arrival.",
-    "image": "https://picsum.photos/800/600?random=53",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 51.5175861,
-      "longitude": -0.0825626
-    },
-    "estimatedDuration": 50,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "london_55",
-    "name": "The King's Gallery",
-    "description": "london'de bulunan önemli bir müze.",
-    "image": "https://picsum.photos/800/600?random=54",
-    "category": "Müze",
-    "coordinates": {
-      "latitude": 51.4998279,
-      "longitude": -0.142551
-    },
-    "estimatedDuration": 39,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 48,
-    "interests": [
-      "Müze"
-    ]
-  },
-  {
-    "id": "london_56",
-    "name": "Westminster Scholars War Memorial",
-    "description": "london'de ziyaret edilebilecek popüler bir nokta: Westminster Scholars War Memorial.",
-    "image": "https://picsum.photos/800/600?random=55",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 51.4995079,
-      "longitude": -0.1291453
-    },
-    "estimatedDuration": 56,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 146,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "london_57",
-    "name": "Handel & Hendrix",
-    "description": "london'de bulunan önemli bir müze.",
-    "image": "https://picsum.photos/800/600?random=56",
-    "category": "Müze",
-    "coordinates": {
-      "latitude": 51.5129421,
-      "longitude": -0.1458842
-    },
-    "estimatedDuration": 66,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Müze"
-    ]
-  },
-  {
-    "id": "london_58",
-    "name": "London and North Western Railway War Memorial",
-    "description": "london'de ziyaret edilebilecek popüler bir nokta: London and North Western Railway War Memorial.",
-    "image": "https://picsum.photos/800/600?random=57",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 51.5272435,
-      "longitude": -0.1325382
-    },
-    "estimatedDuration": 32,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "london_59",
-    "name": "Hackney Museum",
-    "description": "london'de bulunan önemli bir müze.",
-    "image": "https://picsum.photos/800/600?random=58",
-    "category": "Müze",
-    "coordinates": {
-      "latitude": 51.544491,
-      "longitude": -0.0559105
-    },
-    "estimatedDuration": 58,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Müze"
-    ]
-  },
-  {
-    "id": "london_60",
-    "name": "Edith Cavell Memorial",
-    "description": "london'de ziyaret edilebilecek popüler bir nokta: Edith Cavell Memorial.",
-    "image": "https://picsum.photos/800/600?random=59",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 51.509375,
-      "longitude": -0.1271672
-    },
-    "estimatedDuration": 40,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 147,
     "interests": [
       "Tarihi"
     ]

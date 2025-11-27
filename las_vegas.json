@@ -1,33 +1,33 @@
 [
   {
     "id": "las_vegas_1",
-    "name": "Big Shot",
-    "description": "las_vegas'de ziyaret edilebilecek popüler bir nokta: Big Shot.",
+    "name": "The Strip",
+    "description": "The Strip, las_vegas şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=0",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 36.1474091,
-      "longitude": -115.1555276
+      "latitude": 36.168988906435104,
+      "longitude": -115.14955417069434
     },
-    "estimatedDuration": 38,
+    "estimatedDuration": 126,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 0,
+    "cost": 451,
     "interests": [
       "Tarihi"
     ]
   },
   {
     "id": "las_vegas_2",
-    "name": "X-Scream",
-    "description": "las_vegas'de ziyaret edilebilecek popüler bir nokta: X-Scream.",
+    "name": "Fremont Street Experience",
+    "description": "Fremont Street Experience, las_vegas şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=1",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 36.1476086,
-      "longitude": -115.155601
+      "latitude": 36.19174649319302,
+      "longitude": -115.14548361942221
     },
-    "estimatedDuration": 74,
+    "estimatedDuration": 162,
     "openingTime": "09:00",
     "closingTime": "18:00",
     "cost": 0,
@@ -37,15 +37,15 @@
   },
   {
     "id": "las_vegas_3",
-    "name": "Fountains of Bellagio",
-    "description": "las_vegas'de ziyaret edilebilecek popüler bir nokta: Fountains of Bellagio.",
+    "name": "Bellagio Fountains",
+    "description": "Bellagio Fountains, las_vegas şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=2",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 36.1128057,
-      "longitude": -115.1741094
+      "latitude": 36.15301041483233,
+      "longitude": -115.13511627685648
     },
-    "estimatedDuration": 70,
+    "estimatedDuration": 124,
     "openingTime": "09:00",
     "closingTime": "18:00",
     "cost": 0,
@@ -55,87 +55,87 @@
   },
   {
     "id": "las_vegas_4",
-    "name": "Ethel M. Chocolate Factory",
-    "description": "las_vegas'de ziyaret edilebilecek popüler bir nokta: Ethel M. Chocolate Factory.",
+    "name": "High Roller",
+    "description": "High Roller, las_vegas şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=3",
-    "category": "Alışveriş",
+    "category": "Tarihi",
     "coordinates": {
-      "latitude": 36.0739344,
-      "longitude": -115.072082
+      "latitude": 36.20403189216245,
+      "longitude": -115.13019100302716
     },
-    "estimatedDuration": 32,
+    "estimatedDuration": 175,
     "openingTime": "09:00",
     "closingTime": "18:00",
     "cost": 0,
     "interests": [
-      "Alışveriş"
+      "Tarihi"
     ]
   },
   {
     "id": "las_vegas_5",
-    "name": "The Adventuredome",
-    "description": "las_vegas'de ziyaret edilebilecek popüler bir nokta: The Adventuredome.",
+    "name": "The Venetian",
+    "description": "The Venetian, las_vegas şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=4",
-    "category": "Eğlence",
+    "category": "Tarihi",
     "coordinates": {
-      "latitude": 36.137938,
-      "longitude": -115.1663902
+      "latitude": 36.16078205950455,
+      "longitude": -115.10928849008926
     },
-    "estimatedDuration": 75,
+    "estimatedDuration": 158,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 0,
+    "cost": 11,
     "interests": [
-      "Eğlence"
+      "Tarihi"
     ]
   },
   {
     "id": "las_vegas_6",
-    "name": "Erotic Heritage Museum",
-    "description": "las_vegas'de bulunan önemli bir müze.",
+    "name": "Caesars Palace",
+    "description": "Caesars Palace, las_vegas şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=5",
-    "category": "Müze",
+    "category": "Tarihi",
     "coordinates": {
-      "latitude": 36.1300818,
-      "longitude": -115.1746873
+      "latitude": 36.13106301164353,
+      "longitude": -115.12543896493256
     },
-    "estimatedDuration": 67,
+    "estimatedDuration": 158,
     "openingTime": "09:00",
     "closingTime": "18:00",
     "cost": 0,
     "interests": [
-      "Müze"
+      "Tarihi"
     ]
   },
   {
     "id": "las_vegas_7",
-    "name": "Atomic Museum Vegas",
-    "description": "las_vegas'de bulunan önemli bir müze.",
+    "name": "The Forum Shops",
+    "description": "The Forum Shops, las_vegas şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=6",
-    "category": "Müze",
+    "category": "Tarihi",
     "coordinates": {
-      "latitude": 36.1140195,
-      "longitude": -115.1483633
+      "latitude": 36.18117274967969,
+      "longitude": -115.11341733060736
     },
-    "estimatedDuration": 63,
+    "estimatedDuration": 102,
     "openingTime": "09:00",
     "closingTime": "18:00",
     "cost": 0,
     "interests": [
-      "Müze"
+      "Tarihi"
     ]
   },
   {
     "id": "las_vegas_8",
-    "name": "Little White Chapel",
-    "description": "las_vegas'in tarihi ibadet yapılarından biri.",
+    "name": "Paris Las Vegas",
+    "description": "Paris Las Vegas, las_vegas şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=7",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 36.1551775,
-      "longitude": -115.1492504
+      "latitude": 36.153840052069086,
+      "longitude": -115.12652867210795
     },
-    "estimatedDuration": 65,
+    "estimatedDuration": 162,
     "openingTime": "09:00",
     "closingTime": "18:00",
     "cost": 0,
@@ -145,105 +145,537 @@
   },
   {
     "id": "las_vegas_9",
-    "name": "High Roller",
-    "description": "las_vegas'de ziyaret edilebilecek popüler bir nokta: High Roller.",
+    "name": "Eiffel Tower Experience",
+    "description": "Eiffel Tower Experience, las_vegas şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=8",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 36.1175589,
-      "longitude": -115.1681609
+      "latitude": 36.157379770847434,
+      "longitude": -115.16095070147463
     },
-    "estimatedDuration": 46,
+    "estimatedDuration": 63,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 0,
+    "cost": 339,
     "interests": [
       "Tarihi"
     ]
   },
   {
     "id": "las_vegas_10",
-    "name": "Cowabunga Bay Las Vegas",
-    "description": "las_vegas'de ziyaret edilebilecek popüler bir nokta: Cowabunga Bay Las Vegas.",
+    "name": "The Mirage",
+    "description": "The Mirage, las_vegas şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=9",
-    "category": "Eğlence",
+    "category": "Tarihi",
     "coordinates": {
-      "latitude": 36.0721196,
-      "longitude": -115.0246102
+      "latitude": 36.19222487517846,
+      "longitude": -115.17964613974745
     },
-    "estimatedDuration": 87,
+    "estimatedDuration": 162,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 199,
+    "cost": 0,
     "interests": [
-      "Eğlence"
+      "Tarihi"
     ]
   },
   {
     "id": "las_vegas_11",
-    "name": "Guardian Angel Cathedral",
-    "description": "las_vegas'in tarihi ibadet yapılarından biri.",
+    "name": "Volcano at The Mirage",
+    "description": "Volcano at The Mirage, las_vegas şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=10",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 36.1305225,
-      "longitude": -115.1634659
+      "latitude": 36.151201219042754,
+      "longitude": -115.14980926789757
     },
-    "estimatedDuration": 70,
+    "estimatedDuration": 159,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 0,
+    "cost": 292,
     "interests": [
       "Tarihi"
     ]
   },
   {
     "id": "las_vegas_12",
-    "name": "Las Vegas Strip",
-    "description": "las_vegas'de ziyaret edilebilecek popüler bir nokta: Las Vegas Strip.",
+    "name": "Treasure Island",
+    "description": "Treasure Island, las_vegas şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=11",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 36.1193649,
-      "longitude": -115.1741363
+      "latitude": 36.19857913845134,
+      "longitude": -115.12106728094308
     },
-    "estimatedDuration": 40,
+    "estimatedDuration": 102,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 190,
+    "cost": 0,
     "interests": [
       "Tarihi"
     ]
   },
   {
     "id": "las_vegas_13",
-    "name": "Burlesque Hall of Fame",
-    "description": "las_vegas'de bulunan önemli bir müze.",
+    "name": "Wynn Las Vegas",
+    "description": "Wynn Las Vegas, las_vegas şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=12",
-    "category": "Müze",
+    "category": "Tarihi",
     "coordinates": {
-      "latitude": 36.160158,
-      "longitude": -115.1528682
+      "latitude": 36.19191074500912,
+      "longitude": -115.1467488064396
     },
-    "estimatedDuration": 63,
+    "estimatedDuration": 114,
     "openingTime": "09:00",
     "closingTime": "18:00",
     "cost": 0,
     "interests": [
-      "Müze"
+      "Tarihi"
     ]
   },
   {
     "id": "las_vegas_14",
-    "name": "Punk Rock Museum",
-    "description": "las_vegas'de bulunan önemli bir müze.",
+    "name": "Encore",
+    "description": "Encore, las_vegas şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=13",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 36.17634715077407,
+      "longitude": -115.15132777756939
+    },
+    "estimatedDuration": 159,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 433,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "las_vegas_15",
+    "name": "The Palazzo",
+    "description": "The Palazzo, las_vegas şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=14",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 36.17036216810524,
+      "longitude": -115.12272547307691
+    },
+    "estimatedDuration": 169,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 422,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "las_vegas_16",
+    "name": "MGM Grand",
+    "description": "MGM Grand, las_vegas şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=15",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 36.176156797471464,
+      "longitude": -115.16122522368413
+    },
+    "estimatedDuration": 118,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 131,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "las_vegas_17",
+    "name": "New York-New York",
+    "description": "New York-New York, las_vegas şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=16",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 36.179598252656604,
+      "longitude": -115.15575761712815
+    },
+    "estimatedDuration": 73,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "las_vegas_18",
+    "name": "Luxor",
+    "description": "Luxor, las_vegas şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://images.pexels.com/photos/21668633/pexels-photo-21668633.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 36.20922580636819,
+      "longitude": -115.17389403192459
+    },
+    "estimatedDuration": 137,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "las_vegas_19",
+    "name": "Excalibur",
+    "description": "Excalibur, las_vegas şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=18",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 36.16187464627413,
+      "longitude": -115.14997618832669
+    },
+    "estimatedDuration": 106,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 438,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "las_vegas_20",
+    "name": "Mandalay Bay",
+    "description": "Mandalay Bay, las_vegas şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=19",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 36.13301730395153,
+      "longitude": -115.12305619351284
+    },
+    "estimatedDuration": 114,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "las_vegas_21",
+    "name": "Shark Reef Aquarium",
+    "description": "Shark Reef Aquarium, las_vegas şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=20",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 36.17543895625878,
+      "longitude": -115.1605324236017
+    },
+    "estimatedDuration": 140,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "las_vegas_22",
+    "name": "The Cosmopolitan",
+    "description": "The Cosmopolitan, las_vegas şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=21",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 36.18575289255184,
+      "longitude": -115.12064156683599
+    },
+    "estimatedDuration": 156,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "las_vegas_23",
+    "name": "Aria",
+    "description": "Aria, las_vegas şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=22",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 36.179022623481266,
+      "longitude": -115.14737356829
+    },
+    "estimatedDuration": 170,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "las_vegas_24",
+    "name": "Vdara",
+    "description": "Vdara, las_vegas şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=23",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 36.16031355752023,
+      "longitude": -115.13083872476402
+    },
+    "estimatedDuration": 114,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 50,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "las_vegas_25",
+    "name": "CityCenter",
+    "description": "CityCenter, las_vegas şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=24",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 36.16854691673703,
+      "longitude": -115.15987953293907
+    },
+    "estimatedDuration": 167,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 112,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "las_vegas_26",
+    "name": "Planet Hollywood",
+    "description": "Planet Hollywood, las_vegas şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=25",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 36.1299993918884,
+      "longitude": -115.1287017810516
+    },
+    "estimatedDuration": 174,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 232,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "las_vegas_27",
+    "name": "Flamingo",
+    "description": "Flamingo, las_vegas şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=26",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 36.179803950264635,
+      "longitude": -115.133610305765
+    },
+    "estimatedDuration": 98,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 437,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "las_vegas_28",
+    "name": "Wildlife Habitat at Flamingo",
+    "description": "Wildlife Habitat at Flamingo, las_vegas şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=27",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 36.20151355529477,
+      "longitude": -115.13289444832984
+    },
+    "estimatedDuration": 109,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "las_vegas_29",
+    "name": "The Linq",
+    "description": "The Linq, las_vegas şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=28",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 36.14555493886536,
+      "longitude": -115.13459893998134
+    },
+    "estimatedDuration": 169,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 32,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "las_vegas_30",
+    "name": "Harrah's",
+    "description": "Harrah's, las_vegas şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=29",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 36.1924108157797,
+      "longitude": -115.16804944507174
+    },
+    "estimatedDuration": 125,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 83,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "las_vegas_31",
+    "name": "The Strat",
+    "description": "The Strat, las_vegas şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=30",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 36.16416798493373,
+      "longitude": -115.16987660534626
+    },
+    "estimatedDuration": 68,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 343,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "las_vegas_32",
+    "name": "Stratosphere Tower",
+    "description": "Stratosphere Tower, las_vegas şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=31",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 36.141197065182396,
+      "longitude": -115.15742820408899
+    },
+    "estimatedDuration": 90,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 141,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "las_vegas_33",
+    "name": "Circus Circus",
+    "description": "Circus Circus, las_vegas şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=32",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 36.193845429324675,
+      "longitude": -115.16258419779449
+    },
+    "estimatedDuration": 99,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "las_vegas_34",
+    "name": "Adventuredome",
+    "description": "Adventuredome, las_vegas şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=33",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 36.1856738095752,
+      "longitude": -115.10142426473634
+    },
+    "estimatedDuration": 154,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 395,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "las_vegas_35",
+    "name": "Resorts World",
+    "description": "Resorts World, las_vegas şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=34",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 36.192681922458775,
+      "longitude": -115.12710030305885
+    },
+    "estimatedDuration": 168,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 259,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "las_vegas_36",
+    "name": "Area15",
+    "description": "Area15, las_vegas şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=35",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 36.178446905161614,
+      "longitude": -115.11301974948083
+    },
+    "estimatedDuration": 67,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "las_vegas_37",
+    "name": "Omega Mart",
+    "description": "Omega Mart, las_vegas şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=36",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 36.192137290077525,
+      "longitude": -115.1768485034527
+    },
+    "estimatedDuration": 96,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "las_vegas_38",
+    "name": "Neon Museum",
+    "description": "Neon Museum, las_vegas şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=37",
     "category": "Müze",
     "coordinates": {
-      "latitude": 36.154343,
-      "longitude": -115.1606387
+      "latitude": 36.14456402172008,
+      "longitude": -115.1742861291585
     },
-    "estimatedDuration": 37,
+    "estimatedDuration": 155,
     "openingTime": "09:00",
     "closingTime": "18:00",
     "cost": 0,
@@ -252,19 +684,217 @@
     ]
   },
   {
-    "id": "las_vegas_15",
-    "name": "Fremont Street Experience",
-    "description": "las_vegas'de ziyaret edilebilecek popüler bir nokta: Fremont Street Experience.",
-    "image": "https://picsum.photos/800/600?random=14",
+    "id": "las_vegas_39",
+    "name": "Mob Museum",
+    "description": "Mob Museum, las_vegas şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=38",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 36.144940517368155,
+      "longitude": -115.1263100582359
+    },
+    "estimatedDuration": 92,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 253,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "las_vegas_40",
+    "name": "National Atomic Testing Museum",
+    "description": "National Atomic Testing Museum, las_vegas şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=39",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 36.19740988769479,
+      "longitude": -115.1006284698194
+    },
+    "estimatedDuration": 110,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 121,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "las_vegas_41",
+    "name": "Pinball Hall of Fame",
+    "description": "Pinball Hall of Fame, las_vegas şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=40",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 36.1704582,
-      "longitude": -115.1435489
+      "latitude": 36.16646728373972,
+      "longitude": -115.16851389928867
     },
-    "estimatedDuration": 87,
+    "estimatedDuration": 111,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 54,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "las_vegas_42",
+    "name": "Shelby Heritage Center",
+    "description": "Shelby Heritage Center, las_vegas şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=41",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 36.175742183471954,
+      "longitude": -115.13778480931084
+    },
+    "estimatedDuration": 101,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 248,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "las_vegas_43",
+    "name": "Las Vegas Motor Speedway",
+    "description": "Las Vegas Motor Speedway, las_vegas şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=42",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 36.17851989260526,
+      "longitude": -115.13996475097574
+    },
+    "estimatedDuration": 110,
     "openingTime": "09:00",
     "closingTime": "18:00",
     "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "las_vegas_44",
+    "name": "Red Rock Canyon",
+    "description": "Red Rock Canyon, las_vegas şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=43",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 36.13502700110627,
+      "longitude": -115.10840700098322
+    },
+    "estimatedDuration": 155,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 322,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "las_vegas_45",
+    "name": "Hoover Dam",
+    "description": "Hoover Dam, las_vegas şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=44",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 36.13095847782974,
+      "longitude": -115.138227094101
+    },
+    "estimatedDuration": 177,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "las_vegas_46",
+    "name": "Lake Mead",
+    "description": "Lake Mead, las_vegas şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=45",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 36.171234917407254,
+      "longitude": -115.15074321623659
+    },
+    "estimatedDuration": 129,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 266,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "las_vegas_47",
+    "name": "Valley of Fire",
+    "description": "Valley of Fire, las_vegas şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=46",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 36.19650444898598,
+      "longitude": -115.13196498598415
+    },
+    "estimatedDuration": 68,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "las_vegas_48",
+    "name": "Seven Magic Mountains",
+    "description": "Seven Magic Mountains, las_vegas şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=47",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 36.17446158425331,
+      "longitude": -115.12459062648898
+    },
+    "estimatedDuration": 99,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "las_vegas_49",
+    "name": "Grand Canyon (West Rim)",
+    "description": "Grand Canyon (West Rim), las_vegas şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=48",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 36.19860931359794,
+      "longitude": -115.11575181422701
+    },
+    "estimatedDuration": 95,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "las_vegas_50",
+    "name": "Welcome to Fabulous Las Vegas Sign",
+    "description": "Welcome to Fabulous Las Vegas Sign, las_vegas şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=49",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 36.13901499346586,
+      "longitude": -115.14105340078767
+    },
+    "estimatedDuration": 126,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 438,
     "interests": [
       "Tarihi"
     ]

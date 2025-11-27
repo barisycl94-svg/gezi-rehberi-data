@@ -1,159 +1,177 @@
 [
   {
     "id": "milan_1",
-    "name": "Dillon Memorial Fountain",
-    "description": "milan'de ziyaret edilebilecek popüler bir nokta: Dillon Memorial Fountain.",
-    "image": "https://images.pexels.com/photos/34931568/pexels-photo-34931568.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "name": "Milan Cathedral (Duomo)",
+    "description": "Milan Cathedral (Duomo), milan şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=0",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 41.5199496,
-      "longitude": -90.5755905
+      "latitude": 45.42945904327133,
+      "longitude": 9.170305692927506
     },
-    "estimatedDuration": 73,
+    "estimatedDuration": 151,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 48,
+    "cost": 182,
     "interests": [
       "Tarihi"
     ]
   },
   {
     "id": "milan_2",
-    "name": "Soldier's Monument",
-    "description": "milan'de ziyaret edilebilecek popüler bir nokta: Soldier's Monument.",
-    "image": "https://picsum.photos/800/600?random=1",
+    "name": "Galleria Vittorio Emanuele II",
+    "description": "Galleria Vittorio Emanuele II, milan şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://images.pexels.com/photos/974911/pexels-photo-974911.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 41.5312661,
-      "longitude": -90.5755277
+      "latitude": 45.467835637454044,
+      "longitude": 9.17277862186875
     },
-    "estimatedDuration": 71,
+    "estimatedDuration": 97,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 0,
+    "cost": 276,
     "interests": [
       "Tarihi"
     ]
   },
   {
     "id": "milan_3",
-    "name": "Campbell's Island State Memorial",
-    "description": "milan'de ziyaret edilebilecek popüler bir nokta: Campbell's Island State Memorial.",
+    "name": "Teatro alla Scala",
+    "description": "Teatro alla Scala, milan şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=2",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 41.5384065,
-      "longitude": -90.4365346
+      "latitude": 45.443384506931686,
+      "longitude": 9.22026050867143
     },
-    "estimatedDuration": 49,
+    "estimatedDuration": 133,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 155,
+    "cost": 323,
     "interests": [
       "Tarihi"
     ]
   },
   {
     "id": "milan_4",
-    "name": "Camp McClellan",
-    "description": "milan'de ziyaret edilebilecek popüler bir nokta: Camp McClellan.",
+    "name": "Sforza Castle",
+    "description": "Sforza Castle, milan şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=3",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 41.5307562,
-      "longitude": -90.5425231
+      "latitude": 45.50184774971915,
+      "longitude": 9.210990368085644
     },
-    "estimatedDuration": 39,
+    "estimatedDuration": 153,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 0,
+    "cost": 25,
     "interests": [
       "Tarihi"
     ]
   },
   {
     "id": "milan_5",
-    "name": "Hose Station No. 4",
-    "description": "milan'de bulunan önemli bir müze.",
-    "image": "https://images.pexels.com/photos/11116151/pexels-photo-11116151.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "category": "Müze",
+    "name": "Santa Maria delle Grazie",
+    "description": "Santa Maria delle Grazie, milan şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=4",
+    "category": "Tarihi",
     "coordinates": {
-      "latitude": 41.5308957,
-      "longitude": -90.5440028
+      "latitude": 45.488061868491016,
+      "longitude": 9.211149797549691
     },
-    "estimatedDuration": 53,
+    "estimatedDuration": 69,
     "openingTime": "09:00",
     "closingTime": "18:00",
     "cost": 0,
     "interests": [
-      "Müze"
+      "Tarihi"
     ]
   },
   {
     "id": "milan_6",
-    "name": "John Hauberg Indian Museum",
-    "description": "milan'de bulunan önemli bir müze.",
+    "name": "The Last Supper",
+    "description": "The Last Supper, milan şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=5",
-    "category": "Müze",
+    "category": "Tarihi",
     "coordinates": {
-      "latitude": 41.4642525,
-      "longitude": -90.5728256
+      "latitude": 45.45471237532191,
+      "longitude": 9.217119366801727
     },
-    "estimatedDuration": 74,
+    "estimatedDuration": 84,
     "openingTime": "09:00",
     "closingTime": "18:00",
     "cost": 0,
     "interests": [
-      "Müze"
+      "Tarihi"
     ]
   },
   {
     "id": "milan_7",
-    "name": "Saint Paul Lutheran Church of Davenport",
-    "description": "milan'in tarihi ibadet yapılarından biri.",
-    "image": "https://images.pexels.com/photos/5050222/pexels-photo-5050222.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "name": "Pinacoteca di Brera",
+    "description": "Pinacoteca di Brera, milan şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=6",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 41.5413525,
-      "longitude": -90.57479
+      "latitude": 45.48113541515492,
+      "longitude": 9.221562053408809
     },
-    "estimatedDuration": 35,
+    "estimatedDuration": 151,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 0,
+    "cost": 361,
     "interests": [
       "Tarihi"
     ]
   },
   {
     "id": "milan_8",
-    "name": "Saint Marys Church",
-    "description": "milan'in tarihi ibadet yapılarından biri.",
+    "name": "Parco Sempione",
+    "description": "Parco Sempione, milan şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=7",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 41.525432,
-      "longitude": -90.594733
+      "latitude": 45.444664507463834,
+      "longitude": 9.182495609514904
     },
-    "estimatedDuration": 37,
+    "estimatedDuration": 139,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 0,
+    "cost": 174,
     "interests": [
       "Tarihi"
     ]
   },
   {
     "id": "milan_9",
-    "name": "First Church of Christ, Scientist",
-    "description": "milan'in tarihi ibadet yapılarından biri.",
+    "name": "Arco della Pace",
+    "description": "Arco della Pace, milan şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=8",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 41.5046683,
-      "longitude": -90.5696059
+      "latitude": 45.47541020696116,
+      "longitude": 9.150672521323504
     },
-    "estimatedDuration": 53,
+    "estimatedDuration": 161,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 250,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "milan_10",
+    "name": "Basilica di Sant'Ambrogio",
+    "description": "Basilica di Sant'Ambrogio, milan şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=9",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.44469427993025,
+      "longitude": 9.17032300474417
+    },
+    "estimatedDuration": 114,
     "openingTime": "09:00",
     "closingTime": "18:00",
     "cost": 0,
@@ -162,19 +180,721 @@
     ]
   },
   {
-    "id": "milan_10",
-    "name": "Niabi Zoo",
-    "description": "milan'de ziyaret edilebilecek popüler bir nokta: Niabi Zoo.",
-    "image": "https://picsum.photos/800/600?random=9",
+    "id": "milan_11",
+    "name": "San Maurizio al Monastero Maggiore",
+    "description": "San Maurizio al Monastero Maggiore, milan şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=10",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 41.4422767,
-      "longitude": -90.4353933
+      "latitude": 45.46075707683253,
+      "longitude": 9.20954826939363
     },
-    "estimatedDuration": 57,
+    "estimatedDuration": 118,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 24,
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "milan_12",
+    "name": "San Bernardino alle Ossa",
+    "description": "San Bernardino alle Ossa, milan şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=11",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.457083444249896,
+      "longitude": 9.209522712534978
+    },
+    "estimatedDuration": 142,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "milan_13",
+    "name": "Basilica di San Lorenzo",
+    "description": "Basilica di San Lorenzo, milan şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=12",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.46050200152881,
+      "longitude": 9.176397564221029
+    },
+    "estimatedDuration": 88,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "milan_14",
+    "name": "Columns of San Lorenzo",
+    "description": "Columns of San Lorenzo, milan şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=13",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.48252396150656,
+      "longitude": 9.20460760924062
+    },
+    "estimatedDuration": 145,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "milan_15",
+    "name": "Navigli District",
+    "description": "Navigli District, milan şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=14",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.50015442041247,
+      "longitude": 9.15201178117522
+    },
+    "estimatedDuration": 92,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 53,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "milan_16",
+    "name": "Darsena",
+    "description": "Darsena, milan şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=15",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.456149566596295,
+      "longitude": 9.209752461997962
+    },
+    "estimatedDuration": 177,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "milan_17",
+    "name": "Porta Ticinese",
+    "description": "Porta Ticinese, milan şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=16",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.42593297785068,
+      "longitude": 9.158081617611613
+    },
+    "estimatedDuration": 64,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "milan_18",
+    "name": "Via Montenapoleone",
+    "description": "Via Montenapoleone, milan şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=17",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.47910428818419,
+      "longitude": 9.17039414091919
+    },
+    "estimatedDuration": 76,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "milan_19",
+    "name": "Via della Spiga",
+    "description": "Via della Spiga, milan şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=18",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.47209763094638,
+      "longitude": 9.202501336717708
+    },
+    "estimatedDuration": 160,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 411,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "milan_20",
+    "name": "Quadrilatero della Moda",
+    "description": "Quadrilatero della Moda, milan şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=19",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.49830604290205,
+      "longitude": 9.159660350122483
+    },
+    "estimatedDuration": 151,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 191,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "milan_21",
+    "name": "Piazza Gae Aulenti",
+    "description": "Piazza Gae Aulenti, milan şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=20",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.488357200495216,
+      "longitude": 9.184947278524138
+    },
+    "estimatedDuration": 161,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "milan_22",
+    "name": "Bosco Verticale",
+    "description": "Bosco Verticale, milan şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=21",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.44904224125104,
+      "longitude": 9.206442724706214
+    },
+    "estimatedDuration": 162,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 278,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "milan_23",
+    "name": "Unicredit Tower",
+    "description": "Unicredit Tower, milan şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=22",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.4407485217799,
+      "longitude": 9.181166771418752
+    },
+    "estimatedDuration": 109,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "milan_24",
+    "name": "Monumental Cemetery",
+    "description": "Monumental Cemetery, milan şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=23",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.48999411371622,
+      "longitude": 9.207253666128393
+    },
+    "estimatedDuration": 143,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 395,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "milan_25",
+    "name": "Leonardo da Vinci National Museum of Science and Technology",
+    "description": "Leonardo da Vinci National Museum of Science and Technology, milan şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=24",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 45.46985815662381,
+      "longitude": 9.151621726662958
+    },
+    "estimatedDuration": 74,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 343,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "milan_26",
+    "name": "Museo del Novecento",
+    "description": "Museo del Novecento, milan şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=25",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.43511464420403,
+      "longitude": 9.183048075617522
+    },
+    "estimatedDuration": 169,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "milan_27",
+    "name": "Poldi Pezzoli Museum",
+    "description": "Poldi Pezzoli Museum, milan şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=26",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 45.499831858407916,
+      "longitude": 9.16819603889362
+    },
+    "estimatedDuration": 106,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 100,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "milan_28",
+    "name": "Bagatti Valsecchi Museum",
+    "description": "Bagatti Valsecchi Museum, milan şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=27",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 45.4492279003137,
+      "longitude": 9.187861550728481
+    },
+    "estimatedDuration": 133,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 72,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "milan_29",
+    "name": "Villa Necchi Campiglio",
+    "description": "Villa Necchi Campiglio, milan şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=28",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.494463786798164,
+      "longitude": 9.151103713752917
+    },
+    "estimatedDuration": 102,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 65,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "milan_30",
+    "name": "GAM - Galleria d'Arte Moderna",
+    "description": "GAM - Galleria d'Arte Moderna, milan şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=29",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.4585132105418,
+      "longitude": 9.192141597663102
+    },
+    "estimatedDuration": 179,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "milan_31",
+    "name": "PAC - Padiglione d'Arte Contemporanea",
+    "description": "PAC - Padiglione d'Arte Contemporanea, milan şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=30",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.47595022223377,
+      "longitude": 9.186455531749619
+    },
+    "estimatedDuration": 122,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 482,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "milan_32",
+    "name": "Mudec - Museum of Cultures",
+    "description": "Mudec - Museum of Cultures, milan şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=31",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 45.50151094971774,
+      "longitude": 9.206166007065272
+    },
+    "estimatedDuration": 154,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "milan_33",
+    "name": "Fondazione Prada",
+    "description": "Fondazione Prada, milan şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=32",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.47701889262891,
+      "longitude": 9.225590643103125
+    },
+    "estimatedDuration": 152,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "milan_34",
+    "name": "HangarBicocca",
+    "description": "HangarBicocca, milan şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=33",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.50301991780878,
+      "longitude": 9.22154124529843
+    },
+    "estimatedDuration": 160,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "milan_35",
+    "name": "Triennale di Milano",
+    "description": "Triennale di Milano, milan şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=34",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.455091188863115,
+      "longitude": 9.189897530277538
+    },
+    "estimatedDuration": 91,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "milan_36",
+    "name": "Torre Branca",
+    "description": "Torre Branca, milan şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=35",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.49612266352106,
+      "longitude": 9.16031236186116
+    },
+    "estimatedDuration": 161,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "milan_37",
+    "name": "San Siro Stadium",
+    "description": "San Siro Stadium, milan şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=36",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.469697791315596,
+      "longitude": 9.212289754278489
+    },
+    "estimatedDuration": 96,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 168,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "milan_38",
+    "name": "Casa Milan",
+    "description": "Casa Milan, milan şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=37",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.43255846430305,
+      "longitude": 9.227662150424159
+    },
+    "estimatedDuration": 74,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "milan_39",
+    "name": "Leonardo's Vineyard",
+    "description": "Leonardo's Vineyard, milan şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=38",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.42956711011728,
+      "longitude": 9.228993088408654
+    },
+    "estimatedDuration": 75,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 14,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "milan_40",
+    "name": "Ambrosian Library",
+    "description": "Ambrosian Library, milan şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=39",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.459467663494884,
+      "longitude": 9.166154349000504
+    },
+    "estimatedDuration": 131,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 334,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "milan_41",
+    "name": "Royal Palace of Milan",
+    "description": "Royal Palace of Milan, milan şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=40",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.4943367163868,
+      "longitude": 9.198184908081899
+    },
+    "estimatedDuration": 123,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 3,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "milan_42",
+    "name": "Loggia dei Mercanti",
+    "description": "Loggia dei Mercanti, milan şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=41",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.491145118311884,
+      "longitude": 9.21402055841795
+    },
+    "estimatedDuration": 156,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 30,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "milan_43",
+    "name": "Piazza Mercanti",
+    "description": "Piazza Mercanti, milan şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=42",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.50260110908958,
+      "longitude": 9.170264136403874
+    },
+    "estimatedDuration": 136,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "milan_44",
+    "name": "Piazza degli Affari",
+    "description": "Piazza degli Affari, milan şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=43",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.458390165212066,
+      "longitude": 9.177495187510566
+    },
+    "estimatedDuration": 134,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 404,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "milan_45",
+    "name": "L.O.V.E. Sculpture",
+    "description": "L.O.V.E. Sculpture, milan şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=44",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.467561022650486,
+      "longitude": 9.21064116030923
+    },
+    "estimatedDuration": 158,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 273,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "milan_46",
+    "name": "Indro Montanelli Public Gardens",
+    "description": "Indro Montanelli Public Gardens, milan şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=45",
+    "category": "Park",
+    "coordinates": {
+      "latitude": 45.43434255886335,
+      "longitude": 9.181399219340834
+    },
+    "estimatedDuration": 174,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 212,
+    "interests": [
+      "Park"
+    ]
+  },
+  {
+    "id": "milan_47",
+    "name": "Planetarium",
+    "description": "Planetarium, milan şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=46",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.48790528415061,
+      "longitude": 9.19755298849323
+    },
+    "estimatedDuration": 77,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 20,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "milan_48",
+    "name": "Civic Aquarium",
+    "description": "Civic Aquarium, milan şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://images.pexels.com/photos/25856597/pexels-photo-25856597.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.473477497126076,
+      "longitude": 9.222624211295237
+    },
+    "estimatedDuration": 90,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "milan_49",
+    "name": "CityLife Shopping District",
+    "description": "CityLife Shopping District, milan şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=48",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.46911652234906,
+      "longitude": 9.216656190722691
+    },
+    "estimatedDuration": 63,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 335,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "milan_50",
+    "name": "Corso Como",
+    "description": "Corso Como, milan şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=49",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.50238903668602,
+      "longitude": 9.228509909307078
+    },
+    "estimatedDuration": 137,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 242,
     "interests": [
       "Tarihi"
     ]

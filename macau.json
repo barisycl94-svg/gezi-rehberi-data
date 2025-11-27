@@ -1,0 +1,902 @@
+[
+  {
+    "id": "macau_1",
+    "name": "Ruins of St. Paul's",
+    "description": "Ruins of St. Paul's, macau şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=0",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 22.168067888935287,
+      "longitude": 113.50697907990222
+    },
+    "estimatedDuration": 149,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "macau_2",
+    "name": "Senado Square",
+    "description": "Senado Square, macau şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=1",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 22.173920716709823,
+      "longitude": 113.50864833857526
+    },
+    "estimatedDuration": 66,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "macau_3",
+    "name": "A-Ma Temple",
+    "description": "A-Ma Temple, macau şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=2",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 22.223714085644946,
+      "longitude": 113.55413581810295
+    },
+    "estimatedDuration": 173,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "macau_4",
+    "name": "Macau Tower",
+    "description": "Macau Tower, macau şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=3",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 22.20053003531375,
+      "longitude": 113.56817763118123
+    },
+    "estimatedDuration": 153,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 245,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "macau_5",
+    "name": "The Venetian Macao",
+    "description": "The Venetian Macao, macau şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=4",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 22.219986801267193,
+      "longitude": 113.56019445127104
+    },
+    "estimatedDuration": 96,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 25,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "macau_6",
+    "name": "City of Dreams",
+    "description": "City of Dreams, macau şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=5",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 22.180546653891504,
+      "longitude": 113.58165124251994
+    },
+    "estimatedDuration": 133,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 429,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "macau_7",
+    "name": "Galaxy Macau",
+    "description": "Galaxy Macau, macau şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=6",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 22.180993045308405,
+      "longitude": 113.57714395601634
+    },
+    "estimatedDuration": 99,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "macau_8",
+    "name": "Wynn Palace",
+    "description": "Wynn Palace, macau şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=7",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 22.159702436194994,
+      "longitude": 113.57177600046589
+    },
+    "estimatedDuration": 144,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "macau_9",
+    "name": "Grand Lisboa",
+    "description": "Grand Lisboa, macau şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=8",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 22.177861547820243,
+      "longitude": 113.5099650185671
+    },
+    "estimatedDuration": 151,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "macau_10",
+    "name": "MGM Cotai",
+    "description": "MGM Cotai, macau şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=9",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 22.17252036803738,
+      "longitude": 113.56715834839501
+    },
+    "estimatedDuration": 93,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "macau_11",
+    "name": "Studio City",
+    "description": "Studio City, macau şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=10",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 22.193659167146464,
+      "longitude": 113.57776445974221
+    },
+    "estimatedDuration": 61,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "macau_12",
+    "name": "Parisian Macao",
+    "description": "Parisian Macao, macau şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=11",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 22.20933625935932,
+      "longitude": 113.51480186599913
+    },
+    "estimatedDuration": 171,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 151,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "macau_13",
+    "name": "Londoner Macao",
+    "description": "Londoner Macao, macau şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=12",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 22.214021121270676,
+      "longitude": 113.55601143830785
+    },
+    "estimatedDuration": 117,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "macau_14",
+    "name": "Fisherman's Wharf",
+    "description": "Fisherman's Wharf, macau şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=13",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 22.206789328418576,
+      "longitude": 113.52343270759809
+    },
+    "estimatedDuration": 130,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "macau_15",
+    "name": "Macau Science Center",
+    "description": "Macau Science Center, macau şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=14",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 22.23712895804888,
+      "longitude": 113.54409057602871
+    },
+    "estimatedDuration": 143,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 72,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "macau_16",
+    "name": "Macau Museum",
+    "description": "Macau Museum, macau şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=15",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 22.207797628562826,
+      "longitude": 113.57828706725567
+    },
+    "estimatedDuration": 176,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "macau_17",
+    "name": "Maritime Museum",
+    "description": "Maritime Museum, macau şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=16",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 22.20016554025605,
+      "longitude": 113.54789180876365
+    },
+    "estimatedDuration": 167,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 205,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "macau_18",
+    "name": "Grand Prix Museum",
+    "description": "Grand Prix Museum, macau şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=17",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 22.19300346152321,
+      "longitude": 113.5335549640011
+    },
+    "estimatedDuration": 80,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 5,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "macau_19",
+    "name": "Wine Museum",
+    "description": "Wine Museum, macau şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=18",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 22.207349447293968,
+      "longitude": 113.57051089844926
+    },
+    "estimatedDuration": 84,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "macau_20",
+    "name": "Holy House of Mercy",
+    "description": "Holy House of Mercy, macau şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=19",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 22.233447981951628,
+      "longitude": 113.55974979533931
+    },
+    "estimatedDuration": 93,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "macau_21",
+    "name": "St. Dominic's Church",
+    "description": "St. Dominic's Church, macau şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=20",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 22.165142499654117,
+      "longitude": 113.57953237876755
+    },
+    "estimatedDuration": 118,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "macau_22",
+    "name": "Guia Fortress",
+    "description": "Guia Fortress, macau şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=21",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 22.172783949113274,
+      "longitude": 113.52820795827311
+    },
+    "estimatedDuration": 92,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 476,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "macau_23",
+    "name": "Monte Fort",
+    "description": "Monte Fort, macau şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=22",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 22.21206504760918,
+      "longitude": 113.5180379876403
+    },
+    "estimatedDuration": 95,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 28,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "macau_24",
+    "name": "Taipa Village",
+    "description": "Taipa Village, macau şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=23",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 22.189317769779723,
+      "longitude": 113.54701726474768
+    },
+    "estimatedDuration": 69,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 343,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "macau_25",
+    "name": "Coloane Village",
+    "description": "Coloane Village, macau şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=24",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 22.21219468785115,
+      "longitude": 113.54997646553664
+    },
+    "estimatedDuration": 140,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 351,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "macau_26",
+    "name": "Hac Sa Beach",
+    "description": "Hac Sa Beach, macau şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=25",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 22.2006697067136,
+      "longitude": 113.57491052110802
+    },
+    "estimatedDuration": 70,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "macau_27",
+    "name": "Cheoc Van Beach",
+    "description": "Cheoc Van Beach, macau şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://images.pexels.com/photos/18926447/pexels-photo-18926447.png?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 22.22595277863358,
+      "longitude": 113.55748926090561
+    },
+    "estimatedDuration": 67,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "macau_28",
+    "name": "Seac Pai Van Park",
+    "description": "Seac Pai Van Park, macau şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=27",
+    "category": "Park",
+    "coordinates": {
+      "latitude": 22.208733356749224,
+      "longitude": 113.57994626022294
+    },
+    "estimatedDuration": 145,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 318,
+    "interests": [
+      "Park"
+    ]
+  },
+  {
+    "id": "macau_29",
+    "name": "Macau Giant Panda Pavilion",
+    "description": "Macau Giant Panda Pavilion, macau şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=28",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 22.17324327007401,
+      "longitude": 113.52135122650367
+    },
+    "estimatedDuration": 158,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 321,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "macau_30",
+    "name": "Kun Iam Statue",
+    "description": "Kun Iam Statue, macau şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=29",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 22.22045716299544,
+      "longitude": 113.57242283219472
+    },
+    "estimatedDuration": 124,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "macau_31",
+    "name": "Nam Van Lake",
+    "description": "Nam Van Lake, macau şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=30",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 22.183126675569042,
+      "longitude": 113.50798274737787
+    },
+    "estimatedDuration": 165,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "macau_32",
+    "name": "Sai Van Lake",
+    "description": "Sai Van Lake, macau şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=31",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 22.229696352194555,
+      "longitude": 113.5613025183586
+    },
+    "estimatedDuration": 67,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "macau_33",
+    "name": "Penha Hill",
+    "description": "Penha Hill, macau şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=32",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 22.214352003932618,
+      "longitude": 113.5499684115883
+    },
+    "estimatedDuration": 104,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 133,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "macau_34",
+    "name": "Lilau Square",
+    "description": "Lilau Square, macau şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=33",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 22.19867253040091,
+      "longitude": 113.56562790520394
+    },
+    "estimatedDuration": 96,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "macau_35",
+    "name": "Mandarin's House",
+    "description": "Mandarin's House, macau şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=34",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 22.205223966937915,
+      "longitude": 113.5090232325611
+    },
+    "estimatedDuration": 74,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 123,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "macau_36",
+    "name": "Lou Kau Mansion",
+    "description": "Lou Kau Mansion, macau şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=35",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 22.236279299561645,
+      "longitude": 113.54620700733061
+    },
+    "estimatedDuration": 179,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 275,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "macau_37",
+    "name": "Dom Pedro V Theatre",
+    "description": "Dom Pedro V Theatre, macau şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=36",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 22.20372161613192,
+      "longitude": 113.58079733427597
+    },
+    "estimatedDuration": 82,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "macau_38",
+    "name": "Sir Robert Ho Tung Library",
+    "description": "Sir Robert Ho Tung Library, macau şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=37",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 22.210750776597436,
+      "longitude": 113.55645476966534
+    },
+    "estimatedDuration": 101,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 402,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "macau_39",
+    "name": "St. Augustine's Church",
+    "description": "St. Augustine's Church, macau şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=38",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 22.168733456913547,
+      "longitude": 113.53221738190948
+    },
+    "estimatedDuration": 98,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "macau_40",
+    "name": "St. Lawrence's Church",
+    "description": "St. Lawrence's Church, macau şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=39",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 22.16335852143694,
+      "longitude": 113.51107787882185
+    },
+    "estimatedDuration": 61,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "macau_41",
+    "name": "St. Joseph's Seminary and Church",
+    "description": "St. Joseph's Seminary and Church, macau şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=40",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 22.19033327683236,
+      "longitude": 113.58163039364473
+    },
+    "estimatedDuration": 141,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 154,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "macau_42",
+    "name": "Na Tcha Temple",
+    "description": "Na Tcha Temple, macau şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=41",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 22.161990669890336,
+      "longitude": 113.52018090328296
+    },
+    "estimatedDuration": 106,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 247,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "macau_43",
+    "name": "Section of the Old City Walls",
+    "description": "Section of the Old City Walls, macau şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=42",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 22.232935452099184,
+      "longitude": 113.5351389272791
+    },
+    "estimatedDuration": 77,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "macau_44",
+    "name": "Mount Fortress",
+    "description": "Mount Fortress, macau şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=43",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 22.206936436687837,
+      "longitude": 113.50477407936513
+    },
+    "estimatedDuration": 67,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 197,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "macau_45",
+    "name": "Camoes Garden",
+    "description": "Camoes Garden, macau şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=44",
+    "category": "Park",
+    "coordinates": {
+      "latitude": 22.16067266367316,
+      "longitude": 113.56160758493584
+    },
+    "estimatedDuration": 112,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Park"
+    ]
+  },
+  {
+    "id": "macau_46",
+    "name": "Lou Lim Ieoc Garden",
+    "description": "Lou Lim Ieoc Garden, macau şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=45",
+    "category": "Park",
+    "coordinates": {
+      "latitude": 22.197471586255034,
+      "longitude": 113.5712864542171
+    },
+    "estimatedDuration": 84,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 477,
+    "interests": [
+      "Park"
+    ]
+  },
+  {
+    "id": "macau_47",
+    "name": "Flora Garden",
+    "description": "Flora Garden, macau şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=46",
+    "category": "Park",
+    "coordinates": {
+      "latitude": 22.19501349988016,
+      "longitude": 113.52757010873141
+    },
+    "estimatedDuration": 112,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 409,
+    "interests": [
+      "Park"
+    ]
+  },
+  {
+    "id": "macau_48",
+    "name": "Sun Yat Sen Park",
+    "description": "Sun Yat Sen Park, macau şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=47",
+    "category": "Park",
+    "coordinates": {
+      "latitude": 22.21309840841644,
+      "longitude": 113.58284344819216
+    },
+    "estimatedDuration": 173,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 405,
+    "interests": [
+      "Park"
+    ]
+  },
+  {
+    "id": "macau_49",
+    "name": "Macau Tea Culture House",
+    "description": "Macau Tea Culture House, macau şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=48",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 22.22831422671096,
+      "longitude": 113.56455495324812
+    },
+    "estimatedDuration": 78,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "macau_50",
+    "name": "Tap Seac Square",
+    "description": "Tap Seac Square, macau şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=49",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 22.20213799415792,
+      "longitude": 113.52155008746662
+    },
+    "estimatedDuration": 70,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 283,
+    "interests": [
+      "Tarihi"
+    ]
+  }
+]

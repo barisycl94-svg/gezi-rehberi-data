@@ -1,33 +1,15 @@
 [
   {
     "id": "paris_1",
-    "name": "Musée de l'Armée",
-    "description": "paris'de bulunan önemli bir müze.",
+    "name": "Eiffel Tower",
+    "description": "Eiffel Tower, paris şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=0",
-    "category": "Müze",
-    "coordinates": {
-      "latitude": 48.8570374,
-      "longitude": 2.3118779
-    },
-    "estimatedDuration": 55,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 174,
-    "interests": [
-      "Müze"
-    ]
-  },
-  {
-    "id": "paris_2",
-    "name": "Point zéro des Routes de France",
-    "description": "paris'de ziyaret edilebilecek popüler bir nokta: Point zéro des Routes de France.",
-    "image": "https://picsum.photos/800/600?random=1",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 48.8533973,
-      "longitude": 2.3487972
+      "latitude": 48.85069481028618,
+      "longitude": 2.3544797647314493
     },
-    "estimatedDuration": 76,
+    "estimatedDuration": 63,
     "openingTime": "09:00",
     "closingTime": "18:00",
     "cost": 0,
@@ -36,214 +18,106 @@
     ]
   },
   {
-    "id": "paris_3",
-    "name": "Musée de l'Assistance Publique Hôpitaux de Paris",
-    "description": "paris'de bulunan önemli bir müze.",
-    "image": "https://picsum.photos/800/600?random=2",
+    "id": "paris_2",
+    "name": "Louvre Museum",
+    "description": "Louvre Museum, paris şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=1",
     "category": "Müze",
     "coordinates": {
-      "latitude": 48.8091747,
-      "longitude": 2.3524371
+      "latitude": 48.84097836930561,
+      "longitude": 2.3459843909594107
     },
-    "estimatedDuration": 60,
+    "estimatedDuration": 155,
     "openingTime": "09:00",
     "closingTime": "18:00",
     "cost": 0,
     "interests": [
       "Müze"
+    ]
+  },
+  {
+    "id": "paris_3",
+    "name": "Notre-Dame Cathedral",
+    "description": "Notre-Dame Cathedral, paris şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=2",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 48.88742826102877,
+      "longitude": 2.3473030902154863
+    },
+    "estimatedDuration": 121,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 291,
+    "interests": [
+      "Tarihi"
     ]
   },
   {
     "id": "paris_4",
-    "name": "Musée des Arts Décoratifs",
-    "description": "paris'de bulunan önemli bir müze.",
+    "name": "Arc de Triomphe",
+    "description": "Arc de Triomphe, paris şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=3",
-    "category": "Müze",
+    "category": "Tarihi",
     "coordinates": {
-      "latitude": 48.8631692,
-      "longitude": 2.3329513
+      "latitude": 48.89343789842714,
+      "longitude": 2.38220016691735
     },
-    "estimatedDuration": 70,
+    "estimatedDuration": 148,
     "openingTime": "09:00",
     "closingTime": "18:00",
     "cost": 0,
     "interests": [
-      "Müze"
+      "Tarihi"
     ]
   },
   {
     "id": "paris_5",
-    "name": "Musée des Arts et Métiers",
-    "description": "paris'de bulunan önemli bir müze.",
+    "name": "Sainte-Chapelle",
+    "description": "Sainte-Chapelle, paris şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=4",
-    "category": "Müze",
+    "category": "Tarihi",
     "coordinates": {
-      "latitude": 48.8660977,
-      "longitude": 2.3554138
+      "latitude": 48.86761390985997,
+      "longitude": 2.319292805371715
     },
-    "estimatedDuration": 58,
+    "estimatedDuration": 122,
     "openingTime": "09:00",
     "closingTime": "18:00",
     "cost": 0,
     "interests": [
-      "Müze"
+      "Tarihi"
     ]
   },
   {
     "id": "paris_6",
-    "name": "Tour de Jean-sans-Peur",
-    "description": "paris'in tarihine tanıklık eden bir kale.",
+    "name": "Sacré-Cœur Basilica",
+    "description": "Sacré-Cœur Basilica, paris şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=5",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 48.8643016,
-      "longitude": 2.3480523
+      "latitude": 48.844246559574465,
+      "longitude": 2.344103476762745
     },
-    "estimatedDuration": 43,
+    "estimatedDuration": 108,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 0,
+    "cost": 126,
     "interests": [
       "Tarihi"
     ]
   },
   {
     "id": "paris_7",
-    "name": "Musée national Gustave Moreau",
-    "description": "paris'de bulunan önemli bir müze.",
+    "name": "Palais Garnier",
+    "description": "Palais Garnier, paris şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=6",
-    "category": "Müze",
-    "coordinates": {
-      "latitude": 48.8778955,
-      "longitude": 2.3345468
-    },
-    "estimatedDuration": 85,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Müze"
-    ]
-  },
-  {
-    "id": "paris_8",
-    "name": "Musée Grévin",
-    "description": "paris'de bulunan önemli bir müze.",
-    "image": "https://images.pexels.com/photos/28993987/pexels-photo-28993987.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "category": "Müze",
-    "coordinates": {
-      "latitude": 48.8718365,
-      "longitude": 2.3420974
-    },
-    "estimatedDuration": 70,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 69,
-    "interests": [
-      "Müze"
-    ]
-  },
-  {
-    "id": "paris_9",
-    "name": "Musée Edith Piaf",
-    "description": "paris'de bulunan önemli bir müze.",
-    "image": "https://picsum.photos/800/600?random=8",
-    "category": "Müze",
-    "coordinates": {
-      "latitude": 48.8662368,
-      "longitude": 2.3817367
-    },
-    "estimatedDuration": 48,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Müze"
-    ]
-  },
-  {
-    "id": "paris_10",
-    "name": "Espace Dali",
-    "description": "paris'de bulunan önemli bir müze.",
-    "image": "https://picsum.photos/800/600?random=9",
-    "category": "Müze",
-    "coordinates": {
-      "latitude": 48.88648,
-      "longitude": 2.3399022
-    },
-    "estimatedDuration": 36,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Müze"
-    ]
-  },
-  {
-    "id": "paris_11",
-    "name": "Cité des Sciences et de l'Industrie",
-    "description": "paris'de bulunan önemli bir müze.",
-    "image": "https://picsum.photos/800/600?random=10",
-    "category": "Müze",
-    "coordinates": {
-      "latitude": 48.8957518,
-      "longitude": 2.3879761
-    },
-    "estimatedDuration": 88,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Müze"
-    ]
-  },
-  {
-    "id": "paris_12",
-    "name": "Maison de Victor Hugo",
-    "description": "paris'de bulunan önemli bir müze.",
-    "image": "https://picsum.photos/800/600?random=11",
-    "category": "Müze",
-    "coordinates": {
-      "latitude": 48.854799,
-      "longitude": 2.3661358
-    },
-    "estimatedDuration": 61,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Müze"
-    ]
-  },
-  {
-    "id": "paris_13",
-    "name": "Musée de la Carte à Jouer et Galerie d'Histoire de la Ville",
-    "description": "paris'de bulunan önemli bir müze.",
-    "image": "https://picsum.photos/800/600?random=12",
-    "category": "Müze",
-    "coordinates": {
-      "latitude": 48.8226911,
-      "longitude": 2.2734484
-    },
-    "estimatedDuration": 72,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Müze"
-    ]
-  },
-  {
-    "id": "paris_14",
-    "name": "Mémorial du génocide arménien d'Issy-les-Moulineaux",
-    "description": "paris'de ziyaret edilebilecek popüler bir nokta: Mémorial du génocide arménien d'Issy-les-Moulineaux.",
-    "image": "https://picsum.photos/800/600?random=13",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 48.8190417,
-      "longitude": 2.2597641
+      "latitude": 48.88472541278913,
+      "longitude": 2.3868486039609094
     },
-    "estimatedDuration": 70,
+    "estimatedDuration": 173,
     "openingTime": "09:00",
     "closingTime": "18:00",
     "cost": 0,
@@ -252,34 +126,160 @@
     ]
   },
   {
-    "id": "paris_15",
-    "name": "Maison Européenne de la Photographie",
-    "description": "paris'de bulunan önemli bir müze.",
-    "image": "https://picsum.photos/800/600?random=14",
-    "category": "Müze",
+    "id": "paris_8",
+    "name": "Pantheon",
+    "description": "Pantheon, paris şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=7",
+    "category": "Tarihi",
     "coordinates": {
-      "latitude": 48.8551205,
-      "longitude": 2.3589562
+      "latitude": 48.882772195452155,
+      "longitude": 2.322346672828323
     },
-    "estimatedDuration": 67,
+    "estimatedDuration": 149,
     "openingTime": "09:00",
     "closingTime": "18:00",
     "cost": 0,
     "interests": [
-      "Müze"
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "paris_9",
+    "name": "Luxembourg Gardens",
+    "description": "Luxembourg Gardens, paris şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=8",
+    "category": "Park",
+    "coordinates": {
+      "latitude": 48.83134943040542,
+      "longitude": 2.3532810650452984
+    },
+    "estimatedDuration": 173,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 28,
+    "interests": [
+      "Park"
+    ]
+  },
+  {
+    "id": "paris_10",
+    "name": "Tuileries Garden",
+    "description": "Tuileries Garden, paris şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=9",
+    "category": "Park",
+    "coordinates": {
+      "latitude": 48.86221890977472,
+      "longitude": 2.357178399891432
+    },
+    "estimatedDuration": 88,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Park"
+    ]
+  },
+  {
+    "id": "paris_11",
+    "name": "Musée d'Orsay",
+    "description": "Musée d'Orsay, paris şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=10",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 48.83266648628809,
+      "longitude": 2.336156015339176
+    },
+    "estimatedDuration": 102,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 33,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "paris_12",
+    "name": "Centre Pompidou",
+    "description": "Centre Pompidou, paris şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=11",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 48.83122858997399,
+      "longitude": 2.3152496712823876
+    },
+    "estimatedDuration": 89,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 477,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "paris_13",
+    "name": "Musée de l'Orangerie",
+    "description": "Musée de l'Orangerie, paris şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://images.pexels.com/photos/33151419/pexels-photo-33151419.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 48.877505293971694,
+      "longitude": 2.3585005984689853
+    },
+    "estimatedDuration": 72,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 88,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "paris_14",
+    "name": "Musée Rodin",
+    "description": "Musée Rodin, paris şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=13",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 48.82150255861317,
+      "longitude": 2.316917790409374
+    },
+    "estimatedDuration": 102,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 283,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "paris_15",
+    "name": "Musée Picasso",
+    "description": "Musée Picasso, paris şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=14",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 48.8295002318801,
+      "longitude": 2.3830537993934207
+    },
+    "estimatedDuration": 74,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
     ]
   },
   {
     "id": "paris_16",
-    "name": "Robinier du square René Viviani",
-    "description": "paris'de ziyaret edilebilecek popüler bir nokta: Robinier du square René Viviani.",
+    "name": "Les Invalides",
+    "description": "Les Invalides, paris şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=15",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 48.8521855,
-      "longitude": 2.3472903
+      "latitude": 48.889018801888426,
+      "longitude": 2.337046483000296
     },
-    "estimatedDuration": 70,
+    "estimatedDuration": 173,
     "openingTime": "09:00",
     "closingTime": "18:00",
     "cost": 0,
@@ -289,69 +289,69 @@
   },
   {
     "id": "paris_17",
-    "name": "Place du Carrousel",
-    "description": "paris'de ziyaret edilebilecek popüler bir nokta: Place du Carrousel.",
+    "name": "Conciergerie",
+    "description": "Conciergerie, paris şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=16",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 48.861633,
-      "longitude": 2.3340447
+      "latitude": 48.83797896069908,
+      "longitude": 2.3745882839003074
     },
-    "estimatedDuration": 53,
+    "estimatedDuration": 74,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 0,
+    "cost": 186,
     "interests": [
       "Tarihi"
     ]
   },
   {
     "id": "paris_18",
-    "name": "Folie Titon",
-    "description": "paris'de ziyaret edilebilecek popüler bir nokta: Folie Titon.",
+    "name": "Place de la Concorde",
+    "description": "Place de la Concorde, paris şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=17",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 48.8505273,
-      "longitude": 2.3858439
+      "latitude": 48.82686107326666,
+      "longitude": 2.3692523813742
     },
-    "estimatedDuration": 60,
+    "estimatedDuration": 78,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 0,
+    "cost": 439,
     "interests": [
       "Tarihi"
     ]
   },
   {
     "id": "paris_19",
-    "name": "Catacombes de Paris",
-    "description": "paris'de bulunan önemli bir müze.",
+    "name": "Champs-Élysées",
+    "description": "Champs-Élysées, paris şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=18",
-    "category": "Müze",
+    "category": "Tarihi",
     "coordinates": {
-      "latitude": 48.8337439,
-      "longitude": 2.3322925
+      "latitude": 48.88941518631751,
+      "longitude": 2.3217891007230405
     },
     "estimatedDuration": 63,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 0,
+    "cost": 412,
     "interests": [
-      "Müze"
+      "Tarihi"
     ]
   },
   {
     "id": "paris_20",
-    "name": "Fontaine Cuvier",
-    "description": "paris'de ziyaret edilebilecek popüler bir nokta: Fontaine Cuvier.",
+    "name": "Montmartre",
+    "description": "Montmartre, paris şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=19",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 48.8439963,
-      "longitude": 2.3550311
+      "latitude": 48.84163942770784,
+      "longitude": 2.3596955185025106
     },
-    "estimatedDuration": 50,
+    "estimatedDuration": 107,
     "openingTime": "09:00",
     "closingTime": "18:00",
     "cost": 0,
@@ -361,69 +361,69 @@
   },
   {
     "id": "paris_21",
-    "name": "Statue de George Washington",
-    "description": "paris'de ziyaret edilebilecek popüler bir nokta: Statue de George Washington.",
+    "name": "Le Marais",
+    "description": "Le Marais, paris şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=20",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 48.8647358,
-      "longitude": 2.2939065
+      "latitude": 48.886313950816515,
+      "longitude": 2.382638261781684
     },
-    "estimatedDuration": 79,
+    "estimatedDuration": 95,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 0,
+    "cost": 196,
     "interests": [
       "Tarihi"
     ]
   },
   {
     "id": "paris_22",
-    "name": "Château du Rancy",
-    "description": "paris'in tarihine tanıklık eden bir kale.",
+    "name": "Latin Quarter",
+    "description": "Latin Quarter, paris şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=21",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 48.775859,
-      "longitude": 2.485316
+      "latitude": 48.89643504689089,
+      "longitude": 2.3170786600056883
     },
-    "estimatedDuration": 51,
+    "estimatedDuration": 93,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 140,
+    "cost": 233,
     "interests": [
       "Tarihi"
     ]
   },
   {
     "id": "paris_23",
-    "name": "Le Petit Bouillon Pharamond",
-    "description": "paris'de ziyaret edilebilecek popüler bir nokta: Le Petit Bouillon Pharamond.",
+    "name": "Saint-Germain-des-Prés",
+    "description": "Saint-Germain-des-Prés, paris şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=22",
-    "category": "Yeme-İçme",
+    "category": "Tarihi",
     "coordinates": {
-      "latitude": 48.8630052,
-      "longitude": 2.3485011
+      "latitude": 48.88889144333834,
+      "longitude": 2.3220736625547973
     },
-    "estimatedDuration": 84,
+    "estimatedDuration": 60,
     "openingTime": "09:00",
     "closingTime": "18:00",
     "cost": 0,
     "interests": [
-      "Yeme-İçme"
+      "Tarihi"
     ]
   },
   {
     "id": "paris_24",
-    "name": "Fontaine Médicis",
-    "description": "paris'de ziyaret edilebilecek popüler bir nokta: Fontaine Médicis.",
+    "name": "Île de la Cité",
+    "description": "Île de la Cité, paris şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=23",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 48.8480587,
-      "longitude": 2.3392944
+      "latitude": 48.82601365272955,
+      "longitude": 2.3449771413967184
     },
-    "estimatedDuration": 49,
+    "estimatedDuration": 124,
     "openingTime": "09:00",
     "closingTime": "18:00",
     "cost": 0,
@@ -433,337 +433,283 @@
   },
   {
     "id": "paris_25",
-    "name": "Musée des Années 30",
-    "description": "paris'de bulunan önemli bir müze.",
+    "name": "Île Saint-Louis",
+    "description": "Île Saint-Louis, paris şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=24",
-    "category": "Müze",
+    "category": "Tarihi",
     "coordinates": {
-      "latitude": 48.8362557,
-      "longitude": 2.2397803
+      "latitude": 48.819683400021546,
+      "longitude": 2.338109902680752
     },
-    "estimatedDuration": 74,
+    "estimatedDuration": 159,
     "openingTime": "09:00",
     "closingTime": "18:00",
     "cost": 0,
     "interests": [
-      "Müze"
+      "Tarihi"
     ]
   },
   {
     "id": "paris_26",
-    "name": "Conciergerie",
-    "description": "paris'de bulunan önemli bir müze.",
+    "name": "Pont Alexandre III",
+    "description": "Pont Alexandre III, paris şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=25",
-    "category": "Müze",
+    "category": "Tarihi",
     "coordinates": {
-      "latitude": 48.8559492,
-      "longitude": 2.3460263
+      "latitude": 48.87278125219023,
+      "longitude": 2.3503141558533036
     },
-    "estimatedDuration": 81,
+    "estimatedDuration": 61,
     "openingTime": "09:00",
     "closingTime": "18:00",
     "cost": 0,
     "interests": [
-      "Müze"
+      "Tarihi"
     ]
   },
   {
     "id": "paris_27",
-    "name": "Union Libérale Israélite de France",
-    "description": "paris'in tarihi ibadet yapılarından biri.",
+    "name": "Pont Neuf",
+    "description": "Pont Neuf, paris şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=26",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 48.8693669,
-      "longitude": 2.2888363
+      "latitude": 48.84359108495762,
+      "longitude": 2.338729552552271
     },
-    "estimatedDuration": 43,
+    "estimatedDuration": 127,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 4,
+    "cost": 0,
     "interests": [
       "Tarihi"
     ]
   },
   {
     "id": "paris_28",
-    "name": "Musée du Vin",
-    "description": "paris'de bulunan önemli bir müze.",
+    "name": "Pont des Arts",
+    "description": "Pont des Arts, paris şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=27",
-    "category": "Müze",
+    "category": "Tarihi",
     "coordinates": {
-      "latitude": 48.8575222,
-      "longitude": 2.284569
+      "latitude": 48.87977206768718,
+      "longitude": 2.3365428959383503
     },
-    "estimatedDuration": 80,
+    "estimatedDuration": 70,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 0,
+    "cost": 448,
     "interests": [
-      "Müze"
+      "Tarihi"
     ]
   },
   {
     "id": "paris_29",
-    "name": "Musée de la Poste",
-    "description": "paris'de bulunan önemli bir müze.",
+    "name": "Canal Saint-Martin",
+    "description": "Canal Saint-Martin, paris şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=28",
-    "category": "Müze",
+    "category": "Tarihi",
     "coordinates": {
-      "latitude": 48.8414555,
-      "longitude": 2.317219
+      "latitude": 48.819129158272396,
+      "longitude": 2.358213159703516
     },
-    "estimatedDuration": 35,
+    "estimatedDuration": 143,
     "openingTime": "09:00",
     "closingTime": "18:00",
     "cost": 0,
     "interests": [
-      "Müze"
+      "Tarihi"
     ]
   },
   {
     "id": "paris_30",
-    "name": "Galerie-musée Baccarat",
-    "description": "paris'de bulunan önemli bir müze.",
+    "name": "Bois de Boulogne",
+    "description": "Bois de Boulogne, paris şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=29",
-    "category": "Müze",
+    "category": "Tarihi",
     "coordinates": {
-      "latitude": 48.8677391,
-      "longitude": 2.2936393
+      "latitude": 48.834799878211086,
+      "longitude": 2.356168626953228
     },
-    "estimatedDuration": 73,
+    "estimatedDuration": 70,
     "openingTime": "09:00",
     "closingTime": "18:00",
     "cost": 0,
     "interests": [
-      "Müze"
+      "Tarihi"
     ]
   },
   {
     "id": "paris_31",
-    "name": "Musée du chocolat",
-    "description": "paris'de bulunan önemli bir müze.",
+    "name": "Bois de Vincennes",
+    "description": "Bois de Vincennes, paris şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=30",
-    "category": "Müze",
+    "category": "Tarihi",
     "coordinates": {
-      "latitude": 48.870585,
-      "longitude": 2.3500955
+      "latitude": 48.86383739393973,
+      "longitude": 2.3880655467496026
     },
-    "estimatedDuration": 60,
+    "estimatedDuration": 141,
     "openingTime": "09:00",
     "closingTime": "18:00",
     "cost": 0,
     "interests": [
-      "Müze"
+      "Tarihi"
     ]
   },
   {
     "id": "paris_32",
-    "name": "Cité de l'architecture et du patrimoine",
-    "description": "paris'de bulunan önemli bir müze.",
+    "name": "Parc des Buttes-Chaumont",
+    "description": "Parc des Buttes-Chaumont, paris şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=31",
-    "category": "Müze",
+    "category": "Tarihi",
     "coordinates": {
-      "latitude": 48.8628901,
-      "longitude": 2.288981
+      "latitude": 48.86568335874183,
+      "longitude": 2.34476653743664
     },
-    "estimatedDuration": 34,
+    "estimatedDuration": 83,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 0,
+    "cost": 60,
     "interests": [
-      "Müze"
+      "Tarihi"
     ]
   },
   {
     "id": "paris_33",
-    "name": "Musée de la Marine",
-    "description": "paris'de bulunan önemli bir müze.",
+    "name": "Parc Monceau",
+    "description": "Parc Monceau, paris şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=32",
-    "category": "Müze",
+    "category": "Tarihi",
     "coordinates": {
-      "latitude": 48.8618163,
-      "longitude": 2.2873421
+      "latitude": 48.84270764411542,
+      "longitude": 2.3600459246567214
     },
-    "estimatedDuration": 87,
+    "estimatedDuration": 68,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 29,
+    "cost": 330,
     "interests": [
-      "Müze"
+      "Tarihi"
     ]
   },
   {
     "id": "paris_34",
-    "name": "Musée de la Franc-Maçonnerie",
-    "description": "paris'de bulunan önemli bir müze.",
+    "name": "Jardin des Plantes",
+    "description": "Jardin des Plantes, paris şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=33",
-    "category": "Müze",
+    "category": "Tarihi",
     "coordinates": {
-      "latitude": 48.8749151,
-      "longitude": 2.3431481
+      "latitude": 48.886044109588006,
+      "longitude": 2.3626752715864465
     },
-    "estimatedDuration": 74,
+    "estimatedDuration": 82,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 0,
+    "cost": 87,
     "interests": [
-      "Müze"
+      "Tarihi"
     ]
   },
   {
     "id": "paris_35",
-    "name": "Musée de la Contrefaçon",
-    "description": "paris'de bulunan önemli bir müze.",
+    "name": "Pere Lachaise Cemetery",
+    "description": "Pere Lachaise Cemetery, paris şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=34",
-    "category": "Müze",
+    "category": "Tarihi",
     "coordinates": {
-      "latitude": 48.8703234,
-      "longitude": 2.2765175
+      "latitude": 48.81846753229784,
+      "longitude": 2.369844591979549
     },
-    "estimatedDuration": 48,
+    "estimatedDuration": 72,
     "openingTime": "09:00",
     "closingTime": "18:00",
     "cost": 0,
     "interests": [
-      "Müze"
+      "Tarihi"
     ]
   },
   {
     "id": "paris_36",
-    "name": "Pavillons de Bercy",
-    "description": "paris'de bulunan önemli bir müze.",
+    "name": "Catacombs of Paris",
+    "description": "Catacombs of Paris, paris şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=35",
-    "category": "Müze",
+    "category": "Tarihi",
     "coordinates": {
-      "latitude": 48.8327663,
-      "longitude": 2.3893382
+      "latitude": 48.85430919046027,
+      "longitude": 2.3502178809766727
     },
-    "estimatedDuration": 55,
+    "estimatedDuration": 115,
     "openingTime": "09:00",
     "closingTime": "18:00",
     "cost": 0,
     "interests": [
-      "Müze"
+      "Tarihi"
     ]
   },
   {
     "id": "paris_37",
-    "name": "Musée Valentin Haüy",
-    "description": "paris'de bulunan önemli bir müze.",
+    "name": "Moulin Rouge",
+    "description": "Moulin Rouge, paris şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=36",
-    "category": "Müze",
+    "category": "Tarihi",
     "coordinates": {
-      "latitude": 48.8476741,
-      "longitude": 2.3140391
+      "latitude": 48.82351895866084,
+      "longitude": 2.389242244861772
     },
-    "estimatedDuration": 79,
+    "estimatedDuration": 122,
     "openingTime": "09:00",
     "closingTime": "18:00",
     "cost": 0,
     "interests": [
-      "Müze"
+      "Tarihi"
     ]
   },
   {
     "id": "paris_38",
-    "name": "Bibliothèque-Musée de l'Opéra",
-    "description": "paris'de bulunan önemli bir müze.",
+    "name": "Galeries Lafayette",
+    "description": "Galeries Lafayette, paris şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=37",
-    "category": "Müze",
+    "category": "Tarihi",
     "coordinates": {
-      "latitude": 48.871882,
-      "longitude": 2.331212
+      "latitude": 48.868070923049125,
+      "longitude": 2.391420600603911
     },
-    "estimatedDuration": 38,
+    "estimatedDuration": 143,
     "openingTime": "09:00",
     "closingTime": "18:00",
     "cost": 0,
     "interests": [
-      "Müze"
+      "Tarihi"
     ]
   },
   {
     "id": "paris_39",
-    "name": "Hôtel de Madame du Barry",
-    "description": "paris'de ziyaret edilebilecek popüler bir nokta: Hôtel de Madame du Barry.",
+    "name": "Printemps Haussmann",
+    "description": "Printemps Haussmann, paris şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=38",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 48.801406,
-      "longitude": 2.1350775
+      "latitude": 48.8181147748804,
+      "longitude": 2.3817151689321383
     },
-    "estimatedDuration": 54,
+    "estimatedDuration": 171,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 53,
+    "cost": 387,
     "interests": [
       "Tarihi"
     ]
   },
   {
     "id": "paris_40",
-    "name": "Thermes de Cluny",
-    "description": "paris'de ziyaret edilebilecek popüler bir nokta: Thermes de Cluny.",
+    "name": "Le Bon Marché",
+    "description": "Le Bon Marché, paris şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=39",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 48.8506016,
-      "longitude": 2.3432743
-    },
-    "estimatedDuration": 73,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "paris_41",
-    "name": "Musée Lambinet",
-    "description": "paris'de bulunan önemli bir müze.",
-    "image": "https://picsum.photos/800/600?random=40",
-    "category": "Müze",
-    "coordinates": {
-      "latitude": 48.8087784,
-      "longitude": 2.1305005
-    },
-    "estimatedDuration": 53,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Müze"
-    ]
-  },
-  {
-    "id": "paris_42",
-    "name": "Fort de Champigny",
-    "description": "paris'in tarihine tanıklık eden bir kale.",
-    "image": "https://picsum.photos/800/600?random=41",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 48.8035406,
-      "longitude": 2.5338588
-    },
-    "estimatedDuration": 37,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 83,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "paris_43",
-    "name": "Pyramide",
-    "description": "paris'de ziyaret edilebilecek popüler bir nokta: Pyramide.",
-    "image": "https://picsum.photos/800/600?random=42",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 48.8339043,
-      "longitude": 2.4451917
+      "latitude": 48.882009259260094,
+      "longitude": 2.3163912660930914
     },
     "estimatedDuration": 86,
     "openingTime": "09:00",
@@ -774,52 +720,106 @@
     ]
   },
   {
-    "id": "paris_44",
-    "name": "Musée du Domaine Départemental de Sceaux",
-    "description": "paris'de bulunan önemli bir müze.",
-    "image": "https://picsum.photos/800/600?random=43",
-    "category": "Müze",
+    "id": "paris_41",
+    "name": "Louis Vuitton Foundation",
+    "description": "Louis Vuitton Foundation, paris şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=40",
+    "category": "Tarihi",
     "coordinates": {
-      "latitude": 48.7743735,
-      "longitude": 2.3001225
+      "latitude": 48.86872302198648,
+      "longitude": 2.3865210425871197
     },
-    "estimatedDuration": 32,
+    "estimatedDuration": 119,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 474,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "paris_42",
+    "name": "Palais de Tokyo",
+    "description": "Palais de Tokyo, paris şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=41",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 48.888512074752214,
+      "longitude": 2.363930896883549
+    },
+    "estimatedDuration": 143,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 319,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "paris_43",
+    "name": "Musée du Quai Branly",
+    "description": "Musée du Quai Branly, paris şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=42",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 48.834936363084275,
+      "longitude": 2.3193813350890626
+    },
+    "estimatedDuration": 94,
     "openingTime": "09:00",
     "closingTime": "18:00",
     "cost": 0,
     "interests": [
-      "Müze"
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "paris_44",
+    "name": "Musée Marmottan Monet",
+    "description": "Musée Marmottan Monet, paris şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=43",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 48.877207505470025,
+      "longitude": 2.3378829598711235
+    },
+    "estimatedDuration": 148,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
     ]
   },
   {
     "id": "paris_45",
-    "name": "Esplanade du Trocadéro",
-    "description": "paris'de ziyaret edilebilecek popüler bir nokta: Esplanade du Trocadéro.",
+    "name": "Musée Jacquemart-André",
+    "description": "Musée Jacquemart-André, paris şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=44",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 48.8619948,
-      "longitude": 2.2887325
+      "latitude": 48.820244959947715,
+      "longitude": 2.3253482252339985
     },
-    "estimatedDuration": 52,
+    "estimatedDuration": 98,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 104,
+    "cost": 0,
     "interests": [
       "Tarihi"
     ]
   },
   {
     "id": "paris_46",
-    "name": "Domaine de Bellevue",
-    "description": "paris'de ziyaret edilebilecek popüler bir nokta: Domaine de Bellevue.",
+    "name": "Place des Vosges",
+    "description": "Place des Vosges, paris şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=45",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 48.8219471,
-      "longitude": 2.2279379
+      "latitude": 48.89383264610667,
+      "longitude": 2.366437757512802
     },
-    "estimatedDuration": 69,
+    "estimatedDuration": 87,
     "openingTime": "09:00",
     "closingTime": "18:00",
     "cost": 0,
@@ -829,15 +829,33 @@
   },
   {
     "id": "paris_47",
-    "name": "Abbaye de Saint-Maur",
-    "description": "paris'de ziyaret edilebilecek popüler bir nokta: Abbaye de Saint-Maur.",
+    "name": "Place Vendôme",
+    "description": "Place Vendôme, paris şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=46",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 48.8128725,
-      "longitude": 2.4754936
+      "latitude": 48.86232472419063,
+      "longitude": 2.3679834756355103
     },
-    "estimatedDuration": 43,
+    "estimatedDuration": 76,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 229,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "paris_48",
+    "name": "Place de la Bastille",
+    "description": "Place de la Bastille, paris şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=47",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 48.86638607458677,
+      "longitude": 2.3386955400701925
+    },
+    "estimatedDuration": 154,
     "openingTime": "09:00",
     "closingTime": "18:00",
     "cost": 0,
@@ -846,34 +864,16 @@
     ]
   },
   {
-    "id": "paris_48",
-    "name": "Musée Claude Debussy",
-    "description": "paris'de bulunan önemli bir müze.",
-    "image": "https://picsum.photos/800/600?random=47",
-    "category": "Müze",
-    "coordinates": {
-      "latitude": 48.8968886,
-      "longitude": 2.0926385
-    },
-    "estimatedDuration": 36,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Müze"
-    ]
-  },
-  {
     "id": "paris_49",
-    "name": "Châtaigniers de Tournebride",
-    "description": "paris'de ziyaret edilebilecek popüler bir nokta: Châtaigniers de Tournebride.",
+    "name": "Opera Bastille",
+    "description": "Opera Bastille, paris şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=48",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 48.8546445,
-      "longitude": 2.1422475
+      "latitude": 48.89237416585287,
+      "longitude": 2.3841764424737257
     },
-    "estimatedDuration": 50,
+    "estimatedDuration": 87,
     "openingTime": "09:00",
     "closingTime": "18:00",
     "cost": 0,
@@ -883,200 +883,20 @@
   },
   {
     "id": "paris_50",
-    "name": "Fort Saint-Sébastien",
-    "description": "paris'in tarihine tanıklık eden bir kale.",
+    "name": "La Défense",
+    "description": "La Défense, paris şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=49",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 48.9815752,
-      "longitude": 2.1472477
+      "latitude": 48.83923190617059,
+      "longitude": 2.356189381026416
     },
-    "estimatedDuration": 48,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 36,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "paris_51",
-    "name": "Musée de l’Histoire de France",
-    "description": "paris'de bulunan önemli bir müze.",
-    "image": "https://picsum.photos/800/600?random=50",
-    "category": "Müze",
-    "coordinates": {
-      "latitude": 48.8043021,
-      "longitude": 2.1208461
-    },
-    "estimatedDuration": 84,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Müze"
-    ]
-  },
-  {
-    "id": "paris_52",
-    "name": "Le Lido",
-    "description": "paris'de ziyaret edilebilecek popüler bir nokta: Le Lido.",
-    "image": "https://picsum.photos/800/600?random=51",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 48.8724266,
-      "longitude": 2.3008705
-    },
-    "estimatedDuration": 51,
+    "estimatedDuration": 160,
     "openingTime": "09:00",
     "closingTime": "18:00",
     "cost": 0,
     "interests": [
       "Tarihi"
-    ]
-  },
-  {
-    "id": "paris_53",
-    "name": "Allée couverte des Déserts",
-    "description": "paris'de ziyaret edilebilecek popüler bir nokta: Allée couverte des Déserts.",
-    "image": "https://picsum.photos/800/600?random=52",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 48.9522457,
-      "longitude": 2.2827163
-    },
-    "estimatedDuration": 71,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "paris_54",
-    "name": "Quartier latin",
-    "description": "paris'de ziyaret edilebilecek popüler bir nokta: Quartier latin.",
-    "image": "https://picsum.photos/800/600?random=53",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 48.8486028,
-      "longitude": 2.3425156
-    },
-    "estimatedDuration": 41,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "paris_55",
-    "name": "Chais et Entrepôts de Bercy",
-    "description": "paris'de ziyaret edilebilecek popüler bir nokta: Chais et Entrepôts de Bercy.",
-    "image": "https://picsum.photos/800/600?random=54",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 48.8327851,
-      "longitude": 2.3883176
-    },
-    "estimatedDuration": 56,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 116,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "paris_56",
-    "name": "Musée National d'Art Moderne",
-    "description": "paris'de bulunan önemli bir müze.",
-    "image": "https://picsum.photos/800/600?random=55",
-    "category": "Müze",
-    "coordinates": {
-      "latitude": 48.860324,
-      "longitude": 2.3522598
-    },
-    "estimatedDuration": 83,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Müze"
-    ]
-  },
-  {
-    "id": "paris_57",
-    "name": "Tour de l'Horloge",
-    "description": "paris'de ziyaret edilebilecek popüler bir nokta: Tour de l'Horloge.",
-    "image": "https://picsum.photos/800/600?random=56",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 48.856193,
-      "longitude": 2.3462327
-    },
-    "estimatedDuration": 41,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "paris_58",
-    "name": "Menhir de la Pierre aux Moines",
-    "description": "paris'de ziyaret edilebilecek popüler bir nokta: Menhir de la Pierre aux Moines.",
-    "image": "https://picsum.photos/800/600?random=57",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 48.7952607,
-      "longitude": 2.2428803
-    },
-    "estimatedDuration": 34,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "paris_59",
-    "name": "Carrières souterraines des Capucins",
-    "description": "paris'de ziyaret edilebilecek popüler bir nokta: Carrières souterraines des Capucins.",
-    "image": "https://picsum.photos/800/600?random=58",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 48.8371564,
-      "longitude": 2.3395284
-    },
-    "estimatedDuration": 44,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "paris_60",
-    "name": "Service historique de la Défense",
-    "description": "paris'de bulunan önemli bir müze.",
-    "image": "https://picsum.photos/800/600?random=59",
-    "category": "Müze",
-    "coordinates": {
-      "latitude": 48.8416174,
-      "longitude": 2.4347476
-    },
-    "estimatedDuration": 77,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 45,
-    "interests": [
-      "Müze"
     ]
   }
 ]

@@ -1,51 +1,69 @@
 [
   {
     "id": "seoul_1",
-    "name": "Barbaros Hayrettin Türbesi",
-    "description": "seoul'de ziyaret edilebilecek popüler bir nokta: Barbaros Hayrettin Türbesi.",
+    "name": "Gyeongbokgung Palace",
+    "description": "Gyeongbokgung Palace, seoul şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=0",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 41.0419227,
-      "longitude": 29.0068359
+      "latitude": 37.540094405281714,
+      "longitude": 127.01582095804683
     },
-    "estimatedDuration": 60,
+    "estimatedDuration": 84,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 0,
+    "cost": 464,
     "interests": [
       "Tarihi"
     ]
   },
   {
     "id": "seoul_2",
-    "name": "Surp Garabed Kilisesi",
-    "description": "seoul'in tarihi ibadet yapılarından biri.",
+    "name": "Bukchon Hanok Village",
+    "description": "Bukchon Hanok Village, seoul şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=1",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 41.0209212,
-      "longitude": 29.031366
+      "latitude": 37.58870602797022,
+      "longitude": 126.94984130724848
     },
-    "estimatedDuration": 62,
+    "estimatedDuration": 179,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 0,
+    "cost": 261,
     "interests": [
       "Tarihi"
     ]
   },
   {
     "id": "seoul_3",
-    "name": "Yılanlı Sütun",
-    "description": "seoul'de ziyaret edilebilecek popüler bir nokta: Yılanlı Sütun.",
+    "name": "N Seoul Tower",
+    "description": "N Seoul Tower, seoul şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=2",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 41.0056649,
-      "longitude": 28.9751101
+      "latitude": 37.58593922606229,
+      "longitude": 126.97683709208759
     },
-    "estimatedDuration": 56,
+    "estimatedDuration": 96,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 404,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "seoul_4",
+    "name": "Myeongdong",
+    "description": "Myeongdong, seoul şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=3",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 37.53118438417642,
+      "longitude": 126.95797396469112
+    },
+    "estimatedDuration": 107,
     "openingTime": "09:00",
     "closingTime": "18:00",
     "cost": 0,
@@ -54,34 +72,16 @@
     ]
   },
   {
-    "id": "seoul_4",
-    "name": "Sabancı Üniversitesi Sakıp Sabancı Müzesi",
-    "description": "seoul'de bulunan önemli bir müze.",
-    "image": "https://picsum.photos/800/600?random=3",
-    "category": "Müze",
-    "coordinates": {
-      "latitude": 41.106019,
-      "longitude": 29.0556289
-    },
-    "estimatedDuration": 35,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Müze"
-    ]
-  },
-  {
     "id": "seoul_5",
-    "name": "Çemberlitaş Hamamı",
-    "description": "seoul'de ziyaret edilebilecek popüler bir nokta: Çemberlitaş Hamamı.",
-    "image": "https://images.pexels.com/photos/17661486/pexels-photo-17661486.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "name": "Insadong",
+    "description": "Insadong, seoul şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=4",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 41.0085416,
-      "longitude": 28.9716244
+      "latitude": 37.56062445463831,
+      "longitude": 126.94936840981102
     },
-    "estimatedDuration": 39,
+    "estimatedDuration": 109,
     "openingTime": "09:00",
     "closingTime": "18:00",
     "cost": 0,
@@ -91,159 +91,177 @@
   },
   {
     "id": "seoul_6",
-    "name": "Neve Şalom Sinagogu",
-    "description": "seoul'in tarihi ibadet yapılarından biri.",
+    "name": "Changdeokgung Palace",
+    "description": "Changdeokgung Palace, seoul şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=5",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 41.0266963,
-      "longitude": 28.9724737
+      "latitude": 37.570983449948315,
+      "longitude": 126.95132249215992
     },
-    "estimatedDuration": 89,
+    "estimatedDuration": 65,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 171,
+    "cost": 0,
     "interests": [
       "Tarihi"
     ]
   },
   {
     "id": "seoul_7",
-    "name": "Fatih Mescidi",
-    "description": "seoul'in tarihi ibadet yapılarından biri.",
+    "name": "Changgyeonggung Palace",
+    "description": "Changgyeonggung Palace, seoul şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=6",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 41.0044905,
-      "longitude": 28.8526953
+      "latitude": 37.56683224834492,
+      "longitude": 126.96081777864534
     },
-    "estimatedDuration": 71,
+    "estimatedDuration": 126,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 0,
+    "cost": 429,
     "interests": [
       "Tarihi"
     ]
   },
   {
     "id": "seoul_8",
-    "name": "Havacılık Müzesi",
-    "description": "seoul'de bulunan önemli bir müze.",
+    "name": "Deoksugung Palace",
+    "description": "Deoksugung Palace, seoul şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=7",
-    "category": "Müze",
+    "category": "Tarihi",
     "coordinates": {
-      "latitude": 40.9641579,
-      "longitude": 28.8262655
+      "latitude": 37.561156887459205,
+      "longitude": 126.97804786681
     },
-    "estimatedDuration": 45,
+    "estimatedDuration": 166,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 154,
+    "cost": 0,
     "interests": [
-      "Müze"
+      "Tarihi"
     ]
   },
   {
     "id": "seoul_9",
-    "name": "Askerî Müze",
-    "description": "seoul'de bulunan önemli bir müze.",
+    "name": "Gwanghwamun Square",
+    "description": "Gwanghwamun Square, seoul şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=8",
-    "category": "Müze",
+    "category": "Tarihi",
     "coordinates": {
-      "latitude": 41.0488755,
-      "longitude": 28.9882427
+      "latitude": 37.58575206618078,
+      "longitude": 126.9607084147843
     },
-    "estimatedDuration": 45,
+    "estimatedDuration": 113,
     "openingTime": "09:00",
     "closingTime": "18:00",
     "cost": 0,
     "interests": [
-      "Müze"
+      "Tarihi"
     ]
   },
   {
     "id": "seoul_10",
-    "name": "Miniatürk Açıkhava Müzesi",
-    "description": "seoul'de bulunan önemli bir müze.",
+    "name": "Cheonggyecheon Stream",
+    "description": "Cheonggyecheon Stream, seoul şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=9",
-    "category": "Müze",
+    "category": "Tarihi",
     "coordinates": {
-      "latitude": 41.059005,
-      "longitude": 28.9490675
+      "latitude": 37.555116107899124,
+      "longitude": 126.97203192970059
     },
-    "estimatedDuration": 58,
+    "estimatedDuration": 147,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 0,
+    "cost": 438,
     "interests": [
-      "Müze"
+      "Tarihi"
     ]
   },
   {
     "id": "seoul_11",
-    "name": "Hatice Turhan Sultan Türbesi",
-    "description": "seoul'de ziyaret edilebilecek popüler bir nokta: Hatice Turhan Sultan Türbesi.",
+    "name": "Dongdaemun Design Plaza",
+    "description": "Dongdaemun Design Plaza, seoul şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=10",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 41.0162025,
-      "longitude": 28.9719047
+      "latitude": 37.542627216990645,
+      "longitude": 126.99284397398077
     },
-    "estimatedDuration": 60,
+    "estimatedDuration": 144,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 96,
+    "cost": 0,
     "interests": [
       "Tarihi"
     ]
   },
   {
     "id": "seoul_12",
-    "name": "Milyon Taşı",
-    "description": "seoul'de ziyaret edilebilecek popüler bir nokta: Milyon Taşı.",
+    "name": "Namdaemun Market",
+    "description": "Namdaemun Market, seoul şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=11",
-    "category": "Tarihi",
+    "category": "Alışveriş",
     "coordinates": {
-      "latitude": 41.0080674,
-      "longitude": 28.9780181
+      "latitude": 37.55186844920356,
+      "longitude": 126.97628762521697
     },
-    "estimatedDuration": 43,
+    "estimatedDuration": 110,
     "openingTime": "09:00",
     "closingTime": "18:00",
     "cost": 0,
     "interests": [
-      "Tarihi"
+      "Alışveriş"
     ]
   },
   {
     "id": "seoul_13",
-    "name": "Cumhuriyet Anıtı",
-    "description": "seoul'de ziyaret edilebilecek popüler bir nokta: Cumhuriyet Anıtı.",
+    "name": "Gwangjang Market",
+    "description": "Gwangjang Market, seoul şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=12",
-    "category": "Tarihi",
+    "category": "Alışveriş",
     "coordinates": {
-      "latitude": 41.0369723,
-      "longitude": 28.9851248
+      "latitude": 37.57656220714049,
+      "longitude": 127.00258171134543
     },
-    "estimatedDuration": 66,
+    "estimatedDuration": 108,
     "openingTime": "09:00",
     "closingTime": "18:00",
     "cost": 0,
     "interests": [
-      "Tarihi"
+      "Alışveriş"
     ]
   },
   {
     "id": "seoul_14",
-    "name": "2. Abdülhamit Anıtı",
-    "description": "seoul'de ziyaret edilebilecek popüler bir nokta: 2. Abdülhamit Anıtı.",
+    "name": "Noryangjin Fisheries Wholesale Market",
+    "description": "Noryangjin Fisheries Wholesale Market, seoul şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=13",
+    "category": "Alışveriş",
+    "coordinates": {
+      "latitude": 37.536787467433435,
+      "longitude": 126.98567120224763
+    },
+    "estimatedDuration": 150,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 222,
+    "interests": [
+      "Alışveriş"
+    ]
+  },
+  {
+    "id": "seoul_15",
+    "name": "Lotte World",
+    "description": "Lotte World, seoul şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=14",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 41.0017691,
-      "longitude": 29.0071158
+      "latitude": 37.596423174229784,
+      "longitude": 126.94302797836076
     },
-    "estimatedDuration": 48,
+    "estimatedDuration": 105,
     "openingTime": "09:00",
     "closingTime": "18:00",
     "cost": 0,
@@ -252,34 +270,16 @@
     ]
   },
   {
-    "id": "seoul_15",
-    "name": "Binbirdirek Sarnıcı",
-    "description": "seoul'de bulunan önemli bir müze.",
-    "image": "https://picsum.photos/800/600?random=14",
-    "category": "Müze",
-    "coordinates": {
-      "latitude": 41.007606,
-      "longitude": 28.9744173
-    },
-    "estimatedDuration": 52,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Müze"
-    ]
-  },
-  {
     "id": "seoul_16",
-    "name": "Boğa Heykeli",
-    "description": "seoul'de ziyaret edilebilecek popüler bir nokta: Boğa Heykeli.",
+    "name": "Lotte World Tower",
+    "description": "Lotte World Tower, seoul şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=15",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 40.9904629,
-      "longitude": 29.0291571
+      "latitude": 37.53560396621834,
+      "longitude": 126.99903769957167
     },
-    "estimatedDuration": 71,
+    "estimatedDuration": 74,
     "openingTime": "09:00",
     "closingTime": "18:00",
     "cost": 0,
@@ -289,15 +289,15 @@
   },
   {
     "id": "seoul_17",
-    "name": "Kıztaşı",
-    "description": "seoul'de ziyaret edilebilecek popüler bir nokta: Kıztaşı.",
+    "name": "Seoul Sky",
+    "description": "Seoul Sky, seoul şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=16",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 41.0154411,
-      "longitude": 28.9502846
+      "latitude": 37.56175274415683,
+      "longitude": 126.96213444965764
     },
-    "estimatedDuration": 48,
+    "estimatedDuration": 171,
     "openingTime": "09:00",
     "closingTime": "18:00",
     "cost": 0,
@@ -307,15 +307,15 @@
   },
   {
     "id": "seoul_18",
-    "name": "Fatih Anıtı",
-    "description": "seoul'de ziyaret edilebilecek popüler bir nokta: Fatih Anıtı.",
+    "name": "Coex Aquarium",
+    "description": "Coex Aquarium, seoul şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=17",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 41.0155727,
-      "longitude": 28.9542189
+      "latitude": 37.55886454565998,
+      "longitude": 127.00592596469656
     },
-    "estimatedDuration": 58,
+    "estimatedDuration": 84,
     "openingTime": "09:00",
     "closingTime": "18:00",
     "cost": 0,
@@ -325,69 +325,33 @@
   },
   {
     "id": "seoul_19",
-    "name": "Hava Şehitleri Anıtı",
-    "description": "seoul'de ziyaret edilebilecek popüler bir nokta: Hava Şehitleri Anıtı.",
+    "name": "Starfield Library",
+    "description": "Starfield Library, seoul şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=18",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 41.0160748,
-      "longitude": 28.9526349
+      "latitude": 37.55314734164459,
+      "longitude": 126.95555084301954
     },
-    "estimatedDuration": 62,
+    "estimatedDuration": 83,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 0,
+    "cost": 419,
     "interests": [
       "Tarihi"
     ]
   },
   {
     "id": "seoul_20",
-    "name": "Adam Mickiewicz Müzesi",
-    "description": "seoul'de bulunan önemli bir müze.",
+    "name": "Bongeunsa Temple",
+    "description": "Bongeunsa Temple, seoul şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=19",
-    "category": "Müze",
-    "coordinates": {
-      "latitude": 41.0387821,
-      "longitude": 28.9771474
-    },
-    "estimatedDuration": 84,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Müze"
-    ]
-  },
-  {
-    "id": "seoul_21",
-    "name": "Masumiyet Müzesi",
-    "description": "seoul'de bulunan önemli bir müze.",
-    "image": "https://picsum.photos/800/600?random=20",
-    "category": "Müze",
-    "coordinates": {
-      "latitude": 41.0308716,
-      "longitude": 28.9797952
-    },
-    "estimatedDuration": 40,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Müze"
-    ]
-  },
-  {
-    "id": "seoul_22",
-    "name": "Santa Maria Draperis",
-    "description": "seoul'in tarihi ibadet yapılarından biri.",
-    "image": "https://picsum.photos/800/600?random=21",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 41.0300987,
-      "longitude": 28.9761517
+      "latitude": 37.57957614967106,
+      "longitude": 126.98126282461052
     },
-    "estimatedDuration": 67,
+    "estimatedDuration": 70,
     "openingTime": "09:00",
     "closingTime": "18:00",
     "cost": 0,
@@ -396,16 +360,52 @@
     ]
   },
   {
+    "id": "seoul_21",
+    "name": "Jogyesa Temple",
+    "description": "Jogyesa Temple, seoul şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=20",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 37.57783256543719,
+      "longitude": 126.98992260911245
+    },
+    "estimatedDuration": 158,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "seoul_22",
+    "name": "War Memorial of Korea",
+    "description": "War Memorial of Korea, seoul şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=21",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 37.55244896904014,
+      "longitude": 126.95805060240632
+    },
+    "estimatedDuration": 73,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 346,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
     "id": "seoul_23",
-    "name": "Galatasaray Müzesi",
-    "description": "seoul'de bulunan önemli bir müze.",
+    "name": "National Museum of Korea",
+    "description": "National Museum of Korea, seoul şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=22",
     "category": "Müze",
     "coordinates": {
-      "latitude": 41.0334816,
-      "longitude": 28.9769398
+      "latitude": 37.58400265760916,
+      "longitude": 126.99484079872563
     },
-    "estimatedDuration": 60,
+    "estimatedDuration": 95,
     "openingTime": "09:00",
     "closingTime": "18:00",
     "cost": 0,
@@ -415,51 +415,69 @@
   },
   {
     "id": "seoul_24",
-    "name": "Anadolu Hisarı Namazgah",
-    "description": "seoul'in tarihi ibadet yapılarından biri.",
+    "name": "Leeum Samsung Museum of Art",
+    "description": "Leeum Samsung Museum of Art, seoul şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=23",
-    "category": "Tarihi",
+    "category": "Müze",
     "coordinates": {
-      "latitude": 41.0818296,
-      "longitude": 29.0667781
+      "latitude": 37.54807255177378,
+      "longitude": 127.00623388637892
     },
-    "estimatedDuration": 83,
+    "estimatedDuration": 89,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 27,
+    "cost": 477,
     "interests": [
-      "Tarihi"
+      "Müze"
     ]
   },
   {
     "id": "seoul_25",
-    "name": "Yıldız Sarayı",
-    "description": "seoul'de ziyaret edilebilecek popüler bir nokta: Yıldız Sarayı.",
+    "name": "National Folk Museum of Korea",
+    "description": "National Folk Museum of Korea, seoul şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=24",
-    "category": "Tarihi",
+    "category": "Müze",
     "coordinates": {
-      "latitude": 41.0507108,
-      "longitude": 29.0117042
+      "latitude": 37.5840045077186,
+      "longitude": 126.99531966956856
     },
-    "estimatedDuration": 38,
+    "estimatedDuration": 136,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 176,
+    "cost": 0,
     "interests": [
-      "Tarihi"
+      "Müze"
     ]
   },
   {
     "id": "seoul_26",
-    "name": "Meryem Ana Rum Manastiri",
-    "description": "seoul'in tarihi ibadet yapılarından biri.",
+    "name": "Seoul Museum of History",
+    "description": "Seoul Museum of History, seoul şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=25",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 37.539834482229146,
+      "longitude": 126.987414061914
+    },
+    "estimatedDuration": 123,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 341,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "seoul_27",
+    "name": "Unhyeongung Palace",
+    "description": "Unhyeongung Palace, seoul şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=26",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 41.0067555,
-      "longitude": 28.9155212
+      "latitude": 37.56866503972464,
+      "longitude": 126.99209733314552
     },
-    "estimatedDuration": 60,
+    "estimatedDuration": 166,
     "openingTime": "09:00",
     "closingTime": "18:00",
     "cost": 0,
@@ -468,34 +486,16 @@
     ]
   },
   {
-    "id": "seoul_27",
-    "name": "Kanuni Sultan Suleyman 1 Turbesi",
-    "description": "seoul'de ziyaret edilebilecek popüler bir nokta: Kanuni Sultan Suleyman 1 Turbesi.",
-    "image": "https://picsum.photos/800/600?random=26",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 41.0156999,
-      "longitude": 28.9644663
-    },
-    "estimatedDuration": 65,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 113,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
     "id": "seoul_28",
-    "name": "Hurrem Haseki (Roksolana) Turbesi",
-    "description": "seoul'de ziyaret edilebilecek popüler bir nokta: Hurrem Haseki (Roksolana) Turbesi.",
+    "name": "Jongmyo Shrine",
+    "description": "Jongmyo Shrine, seoul şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=27",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 41.0156683,
-      "longitude": 28.9648085
+      "latitude": 37.59548376579422,
+      "longitude": 126.95254307390907
     },
-    "estimatedDuration": 69,
+    "estimatedDuration": 160,
     "openingTime": "09:00",
     "closingTime": "18:00",
     "cost": 0,
@@ -505,15 +505,15 @@
   },
   {
     "id": "seoul_29",
-    "name": "Saat Kulesi",
-    "description": "seoul'de ziyaret edilebilecek popüler bir nokta: Saat Kulesi.",
+    "name": "Seodaemun Prison History Hall",
+    "description": "Seodaemun Prison History Hall, seoul şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=28",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 40.8741241,
-      "longitude": 29.1286022
+      "latitude": 37.55434786026034,
+      "longitude": 127.00915603434397
     },
-    "estimatedDuration": 49,
+    "estimatedDuration": 172,
     "openingTime": "09:00",
     "closingTime": "18:00",
     "cost": 0,
@@ -523,15 +523,15 @@
   },
   {
     "id": "seoul_30",
-    "name": "Caddebostan Sinagogu",
-    "description": "seoul'in tarihi ibadet yapılarından biri.",
+    "name": "Ihwa Mural Village",
+    "description": "Ihwa Mural Village, seoul şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=29",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 40.9724211,
-      "longitude": 29.0676302
+      "latitude": 37.555497573816545,
+      "longitude": 126.97181223096736
     },
-    "estimatedDuration": 82,
+    "estimatedDuration": 153,
     "openingTime": "09:00",
     "closingTime": "18:00",
     "cost": 0,
@@ -541,87 +541,87 @@
   },
   {
     "id": "seoul_31",
-    "name": "Gotlar Sütunu",
-    "description": "seoul'de ziyaret edilebilecek popüler bir nokta: Gotlar Sütunu.",
+    "name": "Naksan Park",
+    "description": "Naksan Park, seoul şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=30",
-    "category": "Tarihi",
+    "category": "Park",
     "coordinates": {
-      "latitude": 41.0146409,
-      "longitude": 28.9856774
+      "latitude": 37.55227981494649,
+      "longitude": 127.0168898061425
     },
-    "estimatedDuration": 52,
+    "estimatedDuration": 133,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 72,
+    "cost": 80,
     "interests": [
-      "Tarihi"
+      "Park"
     ]
   },
   {
     "id": "seoul_32",
-    "name": "Aziz Meryem",
-    "description": "seoul'in tarihi ibadet yapılarından biri.",
+    "name": "Hangang Park",
+    "description": "Hangang Park, seoul şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=31",
-    "category": "Tarihi",
+    "category": "Park",
     "coordinates": {
-      "latitude": 41.1603501,
-      "longitude": 29.0417196
+      "latitude": 37.56733594722582,
+      "longitude": 126.97243149344895
     },
-    "estimatedDuration": 82,
+    "estimatedDuration": 71,
     "openingTime": "09:00",
     "closingTime": "18:00",
     "cost": 0,
     "interests": [
-      "Tarihi"
+      "Park"
     ]
   },
   {
     "id": "seoul_33",
-    "name": "Dogançay Müzesi",
-    "description": "seoul'de bulunan önemli bir müze.",
+    "name": "Yeouido Park",
+    "description": "Yeouido Park, seoul şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=32",
-    "category": "Müze",
+    "category": "Park",
     "coordinates": {
-      "latitude": 41.0357703,
-      "longitude": 28.9783705
+      "latitude": 37.604565391849086,
+      "longitude": 127.00588949733618
     },
-    "estimatedDuration": 37,
+    "estimatedDuration": 76,
     "openingTime": "09:00",
     "closingTime": "18:00",
     "cost": 0,
     "interests": [
-      "Müze"
+      "Park"
     ]
   },
   {
     "id": "seoul_34",
-    "name": "Turkuazoo",
-    "description": "seoul'de ziyaret edilebilecek popüler bir nokta: Turkuazoo.",
-    "image": "https://picsum.photos/800/600?random=33",
+    "name": "Banpo Bridge Rainbow Fountain",
+    "description": "Banpo Bridge Rainbow Fountain, seoul şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://images.pexels.com/photos/3302788/pexels-photo-3302788.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 41.0455958,
-      "longitude": 28.896211
+      "latitude": 37.536427073831256,
+      "longitude": 126.9835300862046
     },
-    "estimatedDuration": 79,
+    "estimatedDuration": 146,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 0,
+    "cost": 61,
     "interests": [
       "Tarihi"
     ]
   },
   {
     "id": "seoul_35",
-    "name": "Ayios Polieuktos Kilisesi",
-    "description": "seoul'de ziyaret edilebilecek popüler bir nokta: Ayios Polieuktos Kilisesi.",
+    "name": "Sebitseom",
+    "description": "Sebitseom, seoul şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=34",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 41.0142319,
-      "longitude": 28.9529591
+      "latitude": 37.570979801019845,
+      "longitude": 126.9540403693656
     },
-    "estimatedDuration": 55,
+    "estimatedDuration": 151,
     "openingTime": "09:00",
     "closingTime": "18:00",
     "cost": 0,
@@ -631,393 +631,177 @@
   },
   {
     "id": "seoul_36",
-    "name": "Rezan Has Museum",
-    "description": "seoul'de bulunan önemli bir müze.",
+    "name": "63 Building",
+    "description": "63 Building, seoul şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=35",
-    "category": "Müze",
+    "category": "Tarihi",
     "coordinates": {
-      "latitude": 41.0252799,
-      "longitude": 28.9584325
+      "latitude": 37.546114340261234,
+      "longitude": 126.96040495805627
     },
-    "estimatedDuration": 68,
+    "estimatedDuration": 149,
     "openingTime": "09:00",
     "closingTime": "18:00",
     "cost": 0,
     "interests": [
-      "Müze"
+      "Tarihi"
     ]
   },
   {
     "id": "seoul_37",
-    "name": "Panayia Belgradu Kilisesi",
-    "description": "seoul'in tarihi ibadet yapılarından biri.",
+    "name": "Hongdae",
+    "description": "Hongdae, seoul şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=36",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 41.0001135,
-      "longitude": 28.9219792
+      "latitude": 37.593001523538625,
+      "longitude": 127.00246867310076
     },
-    "estimatedDuration": 63,
+    "estimatedDuration": 105,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 0,
+    "cost": 187,
     "interests": [
       "Tarihi"
     ]
   },
   {
     "id": "seoul_38",
-    "name": "Samatya Aya Analipsiz Kilisesi",
-    "description": "seoul'in tarihi ibadet yapılarından biri.",
+    "name": "Itaewon",
+    "description": "Itaewon, seoul şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=37",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 40.9990416,
-      "longitude": 28.9315881
+      "latitude": 37.52908230871758,
+      "longitude": 127.00353997539219
     },
-    "estimatedDuration": 38,
+    "estimatedDuration": 147,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 0,
+    "cost": 295,
     "interests": [
       "Tarihi"
     ]
   },
   {
     "id": "seoul_39",
-    "name": "İstanbul Demiryolu Müzesi",
-    "description": "seoul'de bulunan önemli bir müze.",
+    "name": "Gangnam",
+    "description": "Gangnam, seoul şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=38",
-    "category": "Müze",
+    "category": "Tarihi",
     "coordinates": {
-      "latitude": 41.0151986,
-      "longitude": 28.9766826
+      "latitude": 37.52861104659963,
+      "longitude": 126.96928013572467
     },
-    "estimatedDuration": 38,
+    "estimatedDuration": 152,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 0,
+    "cost": 22,
     "interests": [
-      "Müze"
+      "Tarihi"
     ]
   },
   {
     "id": "seoul_40",
-    "name": "Beyazıt Türk Hamam Kültürü Müzesi",
-    "description": "seoul'de bulunan önemli bir müze.",
+    "name": "Garosugil",
+    "description": "Garosugil, seoul şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=39",
-    "category": "Müze",
+    "category": "Tarihi",
     "coordinates": {
-      "latitude": 41.0099458,
-      "longitude": 28.9615545
+      "latitude": 37.57633474034629,
+      "longitude": 126.9619987835632
     },
-    "estimatedDuration": 68,
+    "estimatedDuration": 113,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 0,
+    "cost": 399,
     "interests": [
-      "Müze"
+      "Tarihi"
     ]
   },
   {
     "id": "seoul_41",
-    "name": "Kasturya Sinagogu",
-    "description": "seoul'in tarihi ibadet yapılarından biri.",
+    "name": "Apgujeong",
+    "description": "Apgujeong, seoul şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=40",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 41.0342139,
-      "longitude": 28.9414755
+      "latitude": 37.58635414149263,
+      "longitude": 126.9427530697361
     },
-    "estimatedDuration": 56,
+    "estimatedDuration": 83,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 162,
+    "cost": 160,
     "interests": [
       "Tarihi"
     ]
   },
   {
     "id": "seoul_42",
-    "name": "Türk ve İslam Eserleri Müzesi",
-    "description": "seoul'de bulunan önemli bir müze.",
+    "name": "Sinchon",
+    "description": "Sinchon, seoul şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=41",
-    "category": "Müze",
+    "category": "Tarihi",
     "coordinates": {
-      "latitude": 41.0062801,
-      "longitude": 28.974915
+      "latitude": 37.59330350773557,
+      "longitude": 126.99726854348246
     },
-    "estimatedDuration": 38,
+    "estimatedDuration": 92,
     "openingTime": "09:00",
     "closingTime": "18:00",
     "cost": 0,
     "interests": [
-      "Müze"
+      "Tarihi"
     ]
   },
   {
     "id": "seoul_43",
-    "name": "İslam bilim ve teknoloji tarihi müzesi",
-    "description": "seoul'de bulunan önemli bir müze.",
+    "name": "Ewha Womans University",
+    "description": "Ewha Womans University, seoul şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=42",
-    "category": "Müze",
-    "coordinates": {
-      "latitude": 41.0132188,
-      "longitude": 28.9789678
-    },
-    "estimatedDuration": 42,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 65,
-    "interests": [
-      "Müze"
-    ]
-  },
-  {
-    "id": "seoul_44",
-    "name": "Türk Vakıf Hat Sanatları Müzesi",
-    "description": "seoul'de bulunan önemli bir müze.",
-    "image": "https://picsum.photos/800/600?random=43",
-    "category": "Müze",
-    "coordinates": {
-      "latitude": 41.01005,
-      "longitude": 28.9631808
-    },
-    "estimatedDuration": 37,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 189,
-    "interests": [
-      "Müze"
-    ]
-  },
-  {
-    "id": "seoul_45",
-    "name": "Abdulmecit Efendi Köşkü",
-    "description": "seoul'de bulunan önemli bir müze.",
-    "image": "https://picsum.photos/800/600?random=44",
-    "category": "Müze",
-    "coordinates": {
-      "latitude": 41.0282408,
-      "longitude": 29.0415462
-    },
-    "estimatedDuration": 64,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Müze"
-    ]
-  },
-  {
-    "id": "seoul_46",
-    "name": "Mehmet Efendi Çeşmesi",
-    "description": "seoul'de ziyaret edilebilecek popüler bir nokta: Mehmet Efendi Çeşmesi.",
-    "image": "https://picsum.photos/800/600?random=45",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 41.0031805,
-      "longitude": 28.9720795
-    },
-    "estimatedDuration": 46,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "seoul_47",
-    "name": "Türkiye Gazeteciler Cemiyeti Basın Müzesi",
-    "description": "seoul'de bulunan önemli bir müze.",
-    "image": "https://picsum.photos/800/600?random=46",
-    "category": "Müze",
-    "coordinates": {
-      "latitude": 41.0085619,
-      "longitude": 28.9722162
-    },
-    "estimatedDuration": 30,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Müze"
-    ]
-  },
-  {
-    "id": "seoul_48",
-    "name": "Sarayburnu Atatürk Anıtı",
-    "description": "seoul'de ziyaret edilebilecek popüler bir nokta: Sarayburnu Atatürk Anıtı.",
-    "image": "https://picsum.photos/800/600?random=47",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 41.016263,
-      "longitude": 28.9861325
-    },
-    "estimatedDuration": 37,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 75,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "seoul_49",
-    "name": "500. Yıl Vakfı Türk Musevileri Müzesi",
-    "description": "seoul'de bulunan önemli bir müze.",
-    "image": "https://picsum.photos/800/600?random=48",
-    "category": "Müze",
-    "coordinates": {
-      "latitude": 41.0267866,
-      "longitude": 28.9727283
-    },
-    "estimatedDuration": 82,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Müze"
-    ]
-  },
-  {
-    "id": "seoul_50",
-    "name": "Surp Pırgiç Kilisesi",
-    "description": "seoul'in tarihi ibadet yapılarından biri.",
-    "image": "https://picsum.photos/800/600?random=49",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 41.0245024,
-      "longitude": 28.9760077
-    },
-    "estimatedDuration": 52,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "seoul_51",
-    "name": "Surp Kevork Kilisesi",
-    "description": "seoul'in tarihi ibadet yapılarından biri.",
-    "image": "https://picsum.photos/800/600?random=50",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 41.0018646,
-      "longitude": 28.9331468
-    },
-    "estimatedDuration": 57,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "seoul_52",
-    "name": "Surp Hagop Kilisesi",
-    "description": "seoul'in tarihi ibadet yapılarından biri.",
-    "image": "https://picsum.photos/800/600?random=51",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 41.0081065,
-      "longitude": 28.9347471
-    },
-    "estimatedDuration": 80,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "seoul_53",
-    "name": "Surp Yerits Mangants Kilisesi",
-    "description": "seoul'in tarihi ibadet yapılarından biri.",
-    "image": "https://picsum.photos/800/600?random=52",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 41.1023462,
-      "longitude": 29.051159
-    },
-    "estimatedDuration": 45,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 158,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "seoul_54",
-    "name": "Surp Asdvadzadzin Kilisesi",
-    "description": "seoul'in tarihi ibadet yapılarından biri.",
-    "image": "https://picsum.photos/800/600?random=53",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 41.0445539,
-      "longitude": 29.0053046
-    },
-    "estimatedDuration": 47,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 20,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "seoul_55",
-    "name": "Çiçek Pasajı",
-    "description": "seoul'de ziyaret edilebilecek popüler bir nokta: Çiçek Pasajı.",
-    "image": "https://picsum.photos/800/600?random=54",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 41.0340997,
-      "longitude": 28.9779211
-    },
-    "estimatedDuration": 87,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 17,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "seoul_56",
-    "name": "İstanbul Modern Sanat Müzesi",
-    "description": "seoul'de bulunan önemli bir müze.",
-    "image": "https://picsum.photos/800/600?random=55",
-    "category": "Müze",
-    "coordinates": {
-      "latitude": 41.025911,
-      "longitude": 28.982812
+      "latitude": 37.54454690795926,
+      "longitude": 126.97883879184711
     },
     "estimatedDuration": 75,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 0,
+    "cost": 487,
     "interests": [
-      "Müze"
+      "Tarihi"
     ]
   },
   {
-    "id": "seoul_57",
-    "name": "Aziz Yahya Kilisesi",
-    "description": "seoul'in tarihi ibadet yapılarından biri.",
-    "image": "https://picsum.photos/800/600?random=56",
+    "id": "seoul_44",
+    "name": "Seoul City Wall",
+    "description": "Seoul City Wall, seoul şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=43",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 41.0252215,
-      "longitude": 28.9781298
+      "latitude": 37.55584426393642,
+      "longitude": 126.96479170554841
     },
-    "estimatedDuration": 81,
+    "estimatedDuration": 98,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 298,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "seoul_45",
+    "name": "Inwangsan Mountain",
+    "description": "Inwangsan Mountain, seoul şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=44",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 37.58635868313224,
+      "longitude": 127.01574643777505
+    },
+    "estimatedDuration": 179,
     "openingTime": "09:00",
     "closingTime": "18:00",
     "cost": 0,
@@ -1026,57 +810,93 @@
     ]
   },
   {
-    "id": "seoul_58",
-    "name": "İtalyan Sinagogu",
-    "description": "seoul'in tarihi ibadet yapılarından biri.",
-    "image": "https://picsum.photos/800/600?random=57",
-    "category": "Tarihi",
+    "id": "seoul_46",
+    "name": "Bukhansan National Park",
+    "description": "Bukhansan National Park, seoul şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=45",
+    "category": "Park",
     "coordinates": {
-      "latitude": 41.025424,
-      "longitude": 28.9725458
+      "latitude": 37.573425783159315,
+      "longitude": 126.98246342886038
     },
-    "estimatedDuration": 63,
+    "estimatedDuration": 156,
     "openingTime": "09:00",
     "closingTime": "18:00",
     "cost": 0,
+    "interests": [
+      "Park"
+    ]
+  },
+  {
+    "id": "seoul_47",
+    "name": "Seoul Forest",
+    "description": "Seoul Forest, seoul şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=46",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 37.564975957486766,
+      "longitude": 126.98914570700074
+    },
+    "estimatedDuration": 79,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 494,
     "interests": [
       "Tarihi"
     ]
   },
   {
-    "id": "seoul_59",
-    "name": "Prison of Anemas",
-    "description": "seoul'de ziyaret edilebilecek popüler bir nokta: Prison of Anemas.",
-    "image": "https://picsum.photos/800/600?random=58",
-    "category": "Tarihi",
+    "id": "seoul_48",
+    "name": "Olympic Park",
+    "description": "Olympic Park, seoul şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=47",
+    "category": "Park",
     "coordinates": {
-      "latitude": 41.038414,
-      "longitude": 28.9407981
+      "latitude": 37.549872070520166,
+      "longitude": 126.93962394236257
     },
-    "estimatedDuration": 64,
+    "estimatedDuration": 132,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 153,
+    "cost": 121,
     "interests": [
-      "Tarihi"
+      "Park"
     ]
   },
   {
-    "id": "seoul_60",
-    "name": "Surp Vartanans",
-    "description": "seoul'in tarihi ibadet yapılarından biri.",
-    "image": "https://picsum.photos/800/600?random=59",
-    "category": "Tarihi",
+    "id": "seoul_49",
+    "name": "Children's Grand Park",
+    "description": "Children's Grand Park, seoul şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=48",
+    "category": "Park",
     "coordinates": {
-      "latitude": 41.0536475,
-      "longitude": 28.981291
+      "latitude": 37.53554935604293,
+      "longitude": 126.94229475006907
     },
-    "estimatedDuration": 39,
+    "estimatedDuration": 100,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 400,
+    "interests": [
+      "Park"
+    ]
+  },
+  {
+    "id": "seoul_50",
+    "name": "Seoul Grand Park",
+    "description": "Seoul Grand Park, seoul şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=49",
+    "category": "Park",
+    "coordinates": {
+      "latitude": 37.55298637207979,
+      "longitude": 126.996401643165
+    },
+    "estimatedDuration": 156,
     "openingTime": "09:00",
     "closingTime": "18:00",
     "cost": 0,
     "interests": [
-      "Tarihi"
+      "Park"
     ]
   }
 ]

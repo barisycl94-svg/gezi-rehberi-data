@@ -1,67 +1,31 @@
 [
   {
     "id": "amsterdam_1",
-    "name": "Wereldmuseum Amsterdam",
-    "description": "amsterdam'de bulunan önemli bir müze.",
+    "name": "Rijksmuseum",
+    "description": "Rijksmuseum, amsterdam şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=0",
     "category": "Müze",
     "coordinates": {
-      "latitude": 52.362688,
-      "longitude": 4.9224397
+      "latitude": 52.37827911829928,
+      "longitude": 4.940587278514432
     },
-    "estimatedDuration": 85,
+    "estimatedDuration": 125,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 0,
+    "cost": 450,
     "interests": [
       "Müze"
     ]
   },
   {
     "id": "amsterdam_2",
-    "name": "Willet-Holthuysen",
-    "description": "amsterdam'de bulunan önemli bir müze.",
+    "name": "Van Gogh Museum",
+    "description": "Van Gogh Museum, amsterdam şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=1",
     "category": "Müze",
     "coordinates": {
-      "latitude": 52.3656031,
-      "longitude": 4.8990152
-    },
-    "estimatedDuration": 36,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Müze"
-    ]
-  },
-  {
-    "id": "amsterdam_3",
-    "name": "Museum Vrolik",
-    "description": "amsterdam'de bulunan önemli bir müze.",
-    "image": "https://picsum.photos/800/600?random=2",
-    "category": "Müze",
-    "coordinates": {
-      "latitude": 52.2939911,
-      "longitude": 4.9600178
-    },
-    "estimatedDuration": 34,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 141,
-    "interests": [
-      "Müze"
-    ]
-  },
-  {
-    "id": "amsterdam_4",
-    "name": "Museum Jan",
-    "description": "amsterdam'de bulunan önemli bir müze.",
-    "image": "https://picsum.photos/800/600?random=3",
-    "category": "Müze",
-    "coordinates": {
-      "latitude": 52.3023149,
-      "longitude": 4.8467004
+      "latitude": 52.404741445304836,
+      "longitude": 4.868382990586519
     },
     "estimatedDuration": 70,
     "openingTime": "09:00",
@@ -72,124 +36,160 @@
     ]
   },
   {
-    "id": "amsterdam_5",
-    "name": "Museum Van Loon",
-    "description": "amsterdam'de bulunan önemli bir müze.",
-    "image": "https://picsum.photos/800/600?random=4",
-    "category": "Müze",
+    "id": "amsterdam_3",
+    "name": "Anne Frank House",
+    "description": "Anne Frank House, amsterdam şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=2",
+    "category": "Tarihi",
     "coordinates": {
-      "latitude": 52.363464,
-      "longitude": 4.8933781
+      "latitude": 52.39919455195229,
+      "longitude": 4.896905925442473
     },
-    "estimatedDuration": 38,
+    "estimatedDuration": 65,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 431,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "amsterdam_4",
+    "name": "Vondelpark",
+    "description": "Vondelpark, amsterdam şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=3",
+    "category": "Park",
+    "coordinates": {
+      "latitude": 52.37513750336443,
+      "longitude": 4.888167144696334
+    },
+    "estimatedDuration": 139,
     "openingTime": "09:00",
     "closingTime": "18:00",
     "cost": 0,
     "interests": [
-      "Müze"
+      "Park"
+    ]
+  },
+  {
+    "id": "amsterdam_5",
+    "name": "Dam Square",
+    "description": "Dam Square, amsterdam şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=4",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 52.3568653525713,
+      "longitude": 4.867159206058308
+    },
+    "estimatedDuration": 137,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
     ]
   },
   {
     "id": "amsterdam_6",
-    "name": "Archeologisch Museum Haarlem",
-    "description": "amsterdam'de bulunan önemli bir müze.",
+    "name": "Royal Palace of Amsterdam",
+    "description": "Royal Palace of Amsterdam, amsterdam şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=5",
-    "category": "Müze",
+    "category": "Tarihi",
     "coordinates": {
-      "latitude": 52.3811162,
-      "longitude": 4.6362052
+      "latitude": 52.36201569884738,
+      "longitude": 4.892153430728305
     },
-    "estimatedDuration": 77,
+    "estimatedDuration": 89,
     "openingTime": "09:00",
     "closingTime": "18:00",
     "cost": 0,
     "interests": [
-      "Müze"
+      "Tarihi"
     ]
   },
   {
     "id": "amsterdam_7",
-    "name": "Frans Hals Museum",
-    "description": "amsterdam'de bulunan önemli bir müze.",
+    "name": "Heineken Experience",
+    "description": "Heineken Experience, amsterdam şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=6",
-    "category": "Müze",
+    "category": "Tarihi",
     "coordinates": {
-      "latitude": 52.3766062,
-      "longitude": 4.6336897
+      "latitude": 52.374168984145406,
+      "longitude": 4.8831598670467455
     },
-    "estimatedDuration": 84,
+    "estimatedDuration": 91,
     "openingTime": "09:00",
     "closingTime": "18:00",
     "cost": 0,
     "interests": [
-      "Müze"
+      "Tarihi"
     ]
   },
   {
     "id": "amsterdam_8",
-    "name": "Theo Thijssen Museum",
-    "description": "amsterdam'de bulunan önemli bir müze.",
-    "image": "https://picsum.photos/800/600?random=7",
-    "category": "Müze",
+    "name": "Jordaan",
+    "description": "Jordaan, amsterdam şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://images.pexels.com/photos/16980404/pexels-photo-16980404.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
     "coordinates": {
-      "latitude": 52.3755212,
-      "longitude": 4.8826878
+      "latitude": 52.358821232245205,
+      "longitude": 4.86657388122523
     },
-    "estimatedDuration": 85,
+    "estimatedDuration": 92,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 0,
+    "cost": 133,
     "interests": [
-      "Müze"
+      "Tarihi"
     ]
   },
   {
     "id": "amsterdam_9",
-    "name": "Amsterdam Museum",
-    "description": "amsterdam'de bulunan önemli bir müze.",
+    "name": "Leidseplein",
+    "description": "Leidseplein, amsterdam şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=8",
-    "category": "Müze",
+    "category": "Tarihi",
     "coordinates": {
-      "latitude": 52.3704312,
-      "longitude": 4.8904288
+      "latitude": 52.34577980397154,
+      "longitude": 4.888712686054976
     },
-    "estimatedDuration": 38,
+    "estimatedDuration": 147,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 0,
+    "cost": 382,
     "interests": [
-      "Müze"
+      "Tarihi"
     ]
   },
   {
     "id": "amsterdam_10",
-    "name": "Allard Pierson Museum",
-    "description": "amsterdam'de bulunan önemli bir müze.",
-    "image": "https://images.pexels.com/photos/34936690/pexels-photo-34936690.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "category": "Müze",
+    "name": "Rembrandtplein",
+    "description": "Rembrandtplein, amsterdam şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=9",
+    "category": "Tarihi",
     "coordinates": {
-      "latitude": 52.3688053,
-      "longitude": 4.8930549
+      "latitude": 52.34261621620263,
+      "longitude": 4.898590266955361
     },
-    "estimatedDuration": 72,
+    "estimatedDuration": 162,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 173,
+    "cost": 25,
     "interests": [
-      "Müze"
+      "Tarihi"
     ]
   },
   {
     "id": "amsterdam_11",
-    "name": "De Dokwerker",
-    "description": "amsterdam'de ziyaret edilebilecek popüler bir nokta: De Dokwerker.",
+    "name": "Red Light District",
+    "description": "Red Light District, amsterdam şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=10",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 52.3671957,
-      "longitude": 4.9050146
+      "latitude": 52.35715787231606,
+      "longitude": 4.870731157648192
     },
-    "estimatedDuration": 64,
+    "estimatedDuration": 150,
     "openingTime": "09:00",
     "closingTime": "18:00",
     "cost": 0,
@@ -199,87 +199,51 @@
   },
   {
     "id": "amsterdam_12",
-    "name": "Keizersgrachtkerk",
-    "description": "amsterdam'in tarihi ibadet yapılarından biri.",
+    "name": "Oude Kerk",
+    "description": "Oude Kerk, amsterdam şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=11",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 52.3645621,
-      "longitude": 4.8880282
+      "latitude": 52.36038200897192,
+      "longitude": 4.942635642141963
     },
-    "estimatedDuration": 56,
+    "estimatedDuration": 85,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 0,
+    "cost": 118,
     "interests": [
       "Tarihi"
     ]
   },
   {
     "id": "amsterdam_13",
-    "name": "Samen Spelen Samen Leven",
-    "description": "amsterdam'de ziyaret edilebilecek popüler bir nokta: Samen Spelen Samen Leven.",
+    "name": "Nieuwe Kerk",
+    "description": "Nieuwe Kerk, amsterdam şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=12",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 52.3449153,
-      "longitude": 4.90797
+      "latitude": 52.37109788153568,
+      "longitude": 4.935569014406193
     },
-    "estimatedDuration": 31,
+    "estimatedDuration": 143,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 177,
+    "cost": 0,
     "interests": [
       "Tarihi"
     ]
   },
   {
     "id": "amsterdam_14",
-    "name": "foam",
-    "description": "amsterdam'de bulunan önemli bir müze.",
+    "name": "Westerkerk",
+    "description": "Westerkerk, amsterdam şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=13",
-    "category": "Müze",
-    "coordinates": {
-      "latitude": 52.3639884,
-      "longitude": 4.8932631
-    },
-    "estimatedDuration": 61,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Müze"
-    ]
-  },
-  {
-    "id": "amsterdam_15",
-    "name": "Rembrandthuis",
-    "description": "amsterdam'de bulunan önemli bir müze.",
-    "image": "https://picsum.photos/800/600?random=14",
-    "category": "Müze",
-    "coordinates": {
-      "latitude": 52.3693667,
-      "longitude": 4.9012367
-    },
-    "estimatedDuration": 44,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Müze"
-    ]
-  },
-  {
-    "id": "amsterdam_16",
-    "name": "Paaskerk",
-    "description": "amsterdam'in tarihi ibadet yapılarından biri.",
-    "image": "https://picsum.photos/800/600?random=15",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 52.2925551,
-      "longitude": 4.8607027
+      "latitude": 52.35446143453066,
+      "longitude": 4.902674984329022
     },
-    "estimatedDuration": 53,
+    "estimatedDuration": 166,
     "openingTime": "09:00",
     "closingTime": "18:00",
     "cost": 0,
@@ -288,32 +252,590 @@
     ]
   },
   {
+    "id": "amsterdam_15",
+    "name": "Begijnhof",
+    "description": "Begijnhof, amsterdam şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=14",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 52.36283257776347,
+      "longitude": 4.9051939113115735
+    },
+    "estimatedDuration": 92,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "amsterdam_16",
+    "name": "Museumplein",
+    "description": "Museumplein, amsterdam şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=15",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 52.383656716413206,
+      "longitude": 4.941662341800195
+    },
+    "estimatedDuration": 125,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
     "id": "amsterdam_17",
-    "name": "Venustempel Sexmuseum",
-    "description": "amsterdam'de bulunan önemli bir müze.",
+    "name": "Stedelijk Museum",
+    "description": "Stedelijk Museum, amsterdam şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=16",
     "category": "Müze",
     "coordinates": {
-      "latitude": 52.3765815,
-      "longitude": 4.8972749
+      "latitude": 52.35747613447954,
+      "longitude": 4.940903738971061
     },
-    "estimatedDuration": 72,
+    "estimatedDuration": 69,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 68,
+    "cost": 210,
     "interests": [
       "Müze"
     ]
   },
   {
     "id": "amsterdam_18",
-    "name": "The Amsterdam Dungeon",
-    "description": "amsterdam'de ziyaret edilebilecek popüler bir nokta: The Amsterdam Dungeon.",
+    "name": "NEMO Science Museum",
+    "description": "NEMO Science Museum, amsterdam şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=17",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 52.3638303427086,
+      "longitude": 4.907847249379578
+    },
+    "estimatedDuration": 132,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 142,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "amsterdam_19",
+    "name": "National Maritime Museum",
+    "description": "National Maritime Museum, amsterdam şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=18",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 52.39342287839135,
+      "longitude": 4.9217473917014125
+    },
+    "estimatedDuration": 110,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 423,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "amsterdam_20",
+    "name": "Hermitage Amsterdam",
+    "description": "Hermitage Amsterdam, amsterdam şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=19",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 52.3701984,
-      "longitude": 4.892168
+      "latitude": 52.342776496616516,
+      "longitude": 4.937356387794429
+    },
+    "estimatedDuration": 78,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 254,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "amsterdam_21",
+    "name": "Amsterdam Museum",
+    "description": "Amsterdam Museum, amsterdam şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=20",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 52.36967324737561,
+      "longitude": 4.9412264834298005
+    },
+    "estimatedDuration": 170,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "amsterdam_22",
+    "name": "Moco Museum",
+    "description": "Moco Museum, amsterdam şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=21",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 52.371490897310004,
+      "longitude": 4.893613469479368
+    },
+    "estimatedDuration": 102,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "amsterdam_23",
+    "name": "Eye Film Museum",
+    "description": "Eye Film Museum, amsterdam şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=22",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 52.348099506110756,
+      "longitude": 4.870954021996286
+    },
+    "estimatedDuration": 65,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "amsterdam_24",
+    "name": "A'DAM Lookout",
+    "description": "A'DAM Lookout, amsterdam şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=23",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 52.40415807056262,
+      "longitude": 4.87093680131093
+    },
+    "estimatedDuration": 70,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 86,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "amsterdam_25",
+    "name": "Artis Royal Zoo",
+    "description": "Artis Royal Zoo, amsterdam şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=24",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 52.33958238337735,
+      "longitude": 4.899220186608388
+    },
+    "estimatedDuration": 152,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "amsterdam_26",
+    "name": "Hortus Botanicus",
+    "description": "Hortus Botanicus, amsterdam şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=25",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 52.34113126612039,
+      "longitude": 4.8719641143122665
+    },
+    "estimatedDuration": 114,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "amsterdam_27",
+    "name": "Albert Cuyp Market",
+    "description": "Albert Cuyp Market, amsterdam şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=26",
+    "category": "Alışveriş",
+    "coordinates": {
+      "latitude": 52.329748040020235,
+      "longitude": 4.865008814841393
+    },
+    "estimatedDuration": 115,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 426,
+    "interests": [
+      "Alışveriş"
+    ]
+  },
+  {
+    "id": "amsterdam_28",
+    "name": "Bloemenmarkt",
+    "description": "Bloemenmarkt, amsterdam şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=27",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 52.33619307304303,
+      "longitude": 4.88688811965525
+    },
+    "estimatedDuration": 176,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 73,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "amsterdam_29",
+    "name": "Waterlooplein Market",
+    "description": "Waterlooplein Market, amsterdam şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=28",
+    "category": "Alışveriş",
+    "coordinates": {
+      "latitude": 52.36170989432792,
+      "longitude": 4.918968763977285
+    },
+    "estimatedDuration": 137,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Alışveriş"
+    ]
+  },
+  {
+    "id": "amsterdam_30",
+    "name": "Nine Streets",
+    "description": "Nine Streets, amsterdam şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=29",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 52.40326064317057,
+      "longitude": 4.916132217618591
+    },
+    "estimatedDuration": 67,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "amsterdam_31",
+    "name": "Kalverstraat",
+    "description": "Kalverstraat, amsterdam şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=30",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 52.386737524614325,
+      "longitude": 4.93629244057178
+    },
+    "estimatedDuration": 125,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 11,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "amsterdam_32",
+    "name": "Magere Brug",
+    "description": "Magere Brug, amsterdam şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=31",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 52.331178366079506,
+      "longitude": 4.931685142513625
+    },
+    "estimatedDuration": 176,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "amsterdam_33",
+    "name": "Canal Ring",
+    "description": "Canal Ring, amsterdam şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=32",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 52.33584041052648,
+      "longitude": 4.942351387211765
+    },
+    "estimatedDuration": 137,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 246,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "amsterdam_34",
+    "name": "Prinsengracht",
+    "description": "Prinsengracht, amsterdam şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=33",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 52.34153061181803,
+      "longitude": 4.910511092510871
+    },
+    "estimatedDuration": 114,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 15,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "amsterdam_35",
+    "name": "Keizersgracht",
+    "description": "Keizersgracht, amsterdam şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=34",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 52.38754826495306,
+      "longitude": 4.937874598681331
+    },
+    "estimatedDuration": 73,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "amsterdam_36",
+    "name": "Herengracht",
+    "description": "Herengracht, amsterdam şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=35",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 52.35371254868843,
+      "longitude": 4.919995504957142
+    },
+    "estimatedDuration": 149,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "amsterdam_37",
+    "name": "Singel",
+    "description": "Singel, amsterdam şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=36",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 52.35562515745757,
+      "longitude": 4.904725600677136
+    },
+    "estimatedDuration": 115,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 426,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "amsterdam_38",
+    "name": "Amstel River",
+    "description": "Amstel River, amsterdam şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=37",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 52.342235766205526,
+      "longitude": 4.898702151885711
+    },
+    "estimatedDuration": 127,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "amsterdam_39",
+    "name": "Johan Cruijff ArenA",
+    "description": "Johan Cruijff ArenA, amsterdam şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=38",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 52.387057264276415,
+      "longitude": 4.918808768447875
+    },
+    "estimatedDuration": 96,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "amsterdam_40",
+    "name": "Ziggo Dome",
+    "description": "Ziggo Dome, amsterdam şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=39",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 52.333990429674294,
+      "longitude": 4.889389354346151
+    },
+    "estimatedDuration": 178,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "amsterdam_41",
+    "name": "AFAS Live",
+    "description": "AFAS Live, amsterdam şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=40",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 52.32768829735853,
+      "longitude": 4.8904114743698965
+    },
+    "estimatedDuration": 120,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "amsterdam_42",
+    "name": "Concertgebouw",
+    "description": "Concertgebouw, amsterdam şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=41",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 52.39278323012382,
+      "longitude": 4.9423594147655345
+    },
+    "estimatedDuration": 119,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "amsterdam_43",
+    "name": "Paradiso",
+    "description": "Paradiso, amsterdam şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=42",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 52.347507229809395,
+      "longitude": 4.919391162488195
+    },
+    "estimatedDuration": 168,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "amsterdam_44",
+    "name": "Melkweg",
+    "description": "Melkweg, amsterdam şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=43",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 52.40042224731174,
+      "longitude": 4.933034900143693
+    },
+    "estimatedDuration": 77,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 123,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "amsterdam_45",
+    "name": "Fabrique des Lumières",
+    "description": "Fabrique des Lumières, amsterdam şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=44",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 52.40475684095786,
+      "longitude": 4.89071215411827
+    },
+    "estimatedDuration": 72,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 6,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "amsterdam_46",
+    "name": "This is Holland",
+    "description": "This is Holland, amsterdam şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=45",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 52.33776462942069,
+      "longitude": 4.877675496999495
+    },
+    "estimatedDuration": 120,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "amsterdam_47",
+    "name": "Body Worlds",
+    "description": "Body Worlds, amsterdam şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=46",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 52.32905689572254,
+      "longitude": 4.874460853302074
     },
     "estimatedDuration": 74,
     "openingTime": "09:00",
@@ -324,538 +846,16 @@
     ]
   },
   {
-    "id": "amsterdam_19",
-    "name": "Frans Hals Museum Hal",
-    "description": "amsterdam'de bulunan önemli bir müze.",
-    "image": "https://picsum.photos/800/600?random=18",
-    "category": "Müze",
-    "coordinates": {
-      "latitude": 52.3811377,
-      "longitude": 4.6360291
-    },
-    "estimatedDuration": 62,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Müze"
-    ]
-  },
-  {
-    "id": "amsterdam_20",
-    "name": "Olympiahuis",
-    "description": "amsterdam'de ziyaret edilebilecek popüler bir nokta: Olympiahuis.",
-    "image": "https://picsum.photos/800/600?random=19",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 52.3448864,
-      "longitude": 4.8561555
-    },
-    "estimatedDuration": 38,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "amsterdam_21",
-    "name": "Thomaskerk",
-    "description": "amsterdam'in tarihi ibadet yapılarından biri.",
-    "image": "https://picsum.photos/800/600?random=20",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 52.342086,
-      "longitude": 4.8748262
-    },
-    "estimatedDuration": 31,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "amsterdam_22",
-    "name": "Begijnhofkapel",
-    "description": "amsterdam'in tarihi ibadet yapılarından biri.",
-    "image": "https://picsum.photos/800/600?random=21",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 52.3692964,
-      "longitude": 4.8896053
-    },
-    "estimatedDuration": 44,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "amsterdam_23",
-    "name": "Rembrandt",
-    "description": "amsterdam'de ziyaret edilebilecek popüler bir nokta: Rembrandt.",
-    "image": "https://picsum.photos/800/600?random=22",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 52.3660041,
-      "longitude": 4.8965948
-    },
-    "estimatedDuration": 72,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 73,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "amsterdam_24",
-    "name": "Historisch Museum Haarlemmermeer",
-    "description": "amsterdam'de bulunan önemli bir müze.",
-    "image": "https://picsum.photos/800/600?random=23",
-    "category": "Müze",
-    "coordinates": {
-      "latitude": 52.3217557,
-      "longitude": 4.6649239
-    },
-    "estimatedDuration": 31,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 88,
-    "interests": [
-      "Müze"
-    ]
-  },
-  {
-    "id": "amsterdam_25",
-    "name": "Big Spotters Hill",
-    "description": "amsterdam'de ziyaret edilebilecek popüler bir nokta: Big Spotters Hill.",
-    "image": "https://picsum.photos/800/600?random=24",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 52.3348158,
-      "longitude": 4.6690128
-    },
-    "estimatedDuration": 30,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "amsterdam_26",
-    "name": "Museum Crash '40-45",
-    "description": "amsterdam'de bulunan önemli bir müze.",
-    "image": "https://picsum.photos/800/600?random=25",
-    "category": "Müze",
-    "coordinates": {
-      "latitude": 52.2686879,
-      "longitude": 4.7349906
-    },
-    "estimatedDuration": 84,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Müze"
-    ]
-  },
-  {
-    "id": "amsterdam_27",
-    "name": "Rozenoord",
-    "description": "amsterdam'de ziyaret edilebilecek popüler bir nokta: Rozenoord.",
-    "image": "https://picsum.photos/800/600?random=26",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 52.333962,
-      "longitude": 4.8983958
-    },
-    "estimatedDuration": 63,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "amsterdam_28",
-    "name": "Hollandsche Schouwburg",
-    "description": "amsterdam'de bulunan önemli bir müze.",
-    "image": "https://picsum.photos/800/600?random=27",
-    "category": "Müze",
-    "coordinates": {
-      "latitude": 52.3664388,
-      "longitude": 4.911154
-    },
-    "estimatedDuration": 69,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 162,
-    "interests": [
-      "Müze"
-    ]
-  },
-  {
-    "id": "amsterdam_29",
-    "name": "Auschwitzmonument",
-    "description": "amsterdam'de ziyaret edilebilecek popüler bir nokta: Auschwitzmonument.",
-    "image": "https://picsum.photos/800/600?random=28",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 52.3679407,
-      "longitude": 4.9092058
-    },
-    "estimatedDuration": 55,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "amsterdam_30",
-    "name": "Verzetsmuseum",
-    "description": "amsterdam'de bulunan önemli bir müze.",
-    "image": "https://picsum.photos/800/600?random=29",
-    "category": "Müze",
-    "coordinates": {
-      "latitude": 52.3677709,
-      "longitude": 4.912759
-    },
-    "estimatedDuration": 58,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Müze"
-    ]
-  },
-  {
-    "id": "amsterdam_31",
-    "name": "Thorbecke",
-    "description": "amsterdam'de ziyaret edilebilecek popüler bir nokta: Thorbecke.",
-    "image": "https://picsum.photos/800/600?random=30",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 52.3650584,
-      "longitude": 4.8958534
-    },
-    "estimatedDuration": 69,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 135,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "amsterdam_32",
-    "name": "Museum Het Schip",
-    "description": "amsterdam'de bulunan önemli bir müze.",
-    "image": "https://picsum.photos/800/600?random=31",
-    "category": "Müze",
-    "coordinates": {
-      "latitude": 52.3904885,
-      "longitude": 4.8737264
-    },
-    "estimatedDuration": 80,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Müze"
-    ]
-  },
-  {
-    "id": "amsterdam_33",
-    "name": "Kunstenaarsverzet",
-    "description": "amsterdam'de ziyaret edilebilecek popüler bir nokta: Kunstenaarsverzet.",
-    "image": "https://picsum.photos/800/600?random=32",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 52.3655646,
-      "longitude": 4.9136297
-    },
-    "estimatedDuration": 39,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "amsterdam_34",
-    "name": "Mahatma Gandhi",
-    "description": "amsterdam'de ziyaret edilebilecek popüler bir nokta: Mahatma Gandhi.",
-    "image": "https://picsum.photos/800/600?random=33",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 52.3470354,
-      "longitude": 4.8932492
-    },
-    "estimatedDuration": 59,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "amsterdam_35",
-    "name": "Sarphatimonument",
-    "description": "amsterdam'de ziyaret edilebilecek popüler bir nokta: Sarphatimonument.",
-    "image": "https://picsum.photos/800/600?random=34",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 52.3544625,
-      "longitude": 4.8955726
-    },
-    "estimatedDuration": 53,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "amsterdam_36",
-    "name": "Obrechtkerk",
-    "description": "amsterdam'in tarihi ibadet yapılarından biri.",
-    "image": "https://picsum.photos/800/600?random=35",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 52.3558942,
-      "longitude": 4.8751073
-    },
-    "estimatedDuration": 59,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 84,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "amsterdam_37",
-    "name": "Koningskerk",
-    "description": "amsterdam'in tarihi ibadet yapılarından biri.",
-    "image": "https://picsum.photos/800/600?random=36",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 52.3484038,
-      "longitude": 4.9362608
-    },
-    "estimatedDuration": 50,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 74,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "amsterdam_38",
-    "name": "Monument voor gefusilleerde verzetstrijders",
-    "description": "amsterdam'de ziyaret edilebilecek popüler bir nokta: Monument voor gefusilleerde verzetstrijders.",
-    "image": "https://picsum.photos/800/600?random=37",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 52.3507032,
-      "longitude": 4.8777528
-    },
-    "estimatedDuration": 42,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "amsterdam_39",
-    "name": "Torture Museum",
-    "description": "amsterdam'de bulunan önemli bir müze.",
-    "image": "https://picsum.photos/800/600?random=38",
-    "category": "Müze",
-    "coordinates": {
-      "latitude": 52.3672872,
-      "longitude": 4.8906653
-    },
-    "estimatedDuration": 73,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Müze"
-    ]
-  },
-  {
-    "id": "amsterdam_40",
-    "name": "Hofje van Oorschot",
-    "description": "amsterdam'de ziyaret edilebilecek popüler bir nokta: Hofje van Oorschot.",
-    "image": "https://picsum.photos/800/600?random=39",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 52.383217,
-      "longitude": 4.6350537
-    },
-    "estimatedDuration": 83,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "amsterdam_41",
-    "name": "Huis Marseille",
-    "description": "amsterdam'de bulunan önemli bir müze.",
-    "image": "https://picsum.photos/800/600?random=40",
-    "category": "Müze",
-    "coordinates": {
-      "latitude": 52.3676378,
-      "longitude": 4.8848092
-    },
-    "estimatedDuration": 56,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Müze"
-    ]
-  },
-  {
-    "id": "amsterdam_42",
-    "name": "Hofkerk",
-    "description": "amsterdam'in tarihi ibadet yapılarından biri.",
-    "image": "https://picsum.photos/800/600?random=41",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 52.3530371,
-      "longitude": 4.9336399
-    },
-    "estimatedDuration": 47,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 164,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "amsterdam_43",
-    "name": "Multatuli Museum",
-    "description": "amsterdam'de bulunan önemli bir müze.",
-    "image": "https://picsum.photos/800/600?random=42",
-    "category": "Müze",
-    "coordinates": {
-      "latitude": 52.3774872,
-      "longitude": 4.8911258
-    },
-    "estimatedDuration": 78,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Müze"
-    ]
-  },
-  {
-    "id": "amsterdam_44",
-    "name": "Zuiderkerkstoren",
-    "description": "amsterdam'de ziyaret edilebilecek popüler bir nokta: Zuiderkerkstoren.",
-    "image": "https://picsum.photos/800/600?random=43",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 52.3702214,
-      "longitude": 4.8995216
-    },
-    "estimatedDuration": 50,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "amsterdam_45",
-    "name": "Max Euwe Centrum",
-    "description": "amsterdam'de bulunan önemli bir müze.",
-    "image": "https://picsum.photos/800/600?random=44",
-    "category": "Müze",
-    "coordinates": {
-      "latitude": 52.3627156,
-      "longitude": 4.8829059
-    },
-    "estimatedDuration": 66,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Müze"
-    ]
-  },
-  {
-    "id": "amsterdam_46",
-    "name": "Hash Marihuana & Hemp Museum",
-    "description": "amsterdam'de bulunan önemli bir müze.",
-    "image": "https://picsum.photos/800/600?random=45",
-    "category": "Müze",
-    "coordinates": {
-      "latitude": 52.3717617,
-      "longitude": 4.896959
-    },
-    "estimatedDuration": 83,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Müze"
-    ]
-  },
-  {
-    "id": "amsterdam_47",
-    "name": "Anne Frank",
-    "description": "amsterdam'de ziyaret edilebilecek popüler bir nokta: Anne Frank.",
-    "image": "https://picsum.photos/800/600?random=46",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 52.3455675,
-      "longitude": 4.9002337
-    },
-    "estimatedDuration": 51,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 41,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
     "id": "amsterdam_48",
-    "name": "Monument voor de Canadese militairen",
-    "description": "amsterdam'de ziyaret edilebilecek popüler bir nokta: Monument voor de Canadese militairen.",
+    "name": "Madame Tussauds Amsterdam",
+    "description": "Madame Tussauds Amsterdam, amsterdam şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=47",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 52.3481615,
-      "longitude": 4.8835114
+      "latitude": 52.379114585879535,
+      "longitude": 4.895561779363098
     },
-    "estimatedDuration": 49,
+    "estimatedDuration": 128,
     "openingTime": "09:00",
     "closingTime": "18:00",
     "cost": 0,
@@ -865,33 +865,15 @@
   },
   {
     "id": "amsterdam_49",
-    "name": "Mozes en Aäronkerk",
-    "description": "amsterdam'in tarihi ibadet yapılarından biri.",
-    "image": "https://images.pexels.com/photos/6832111/pexels-photo-6832111.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "name": "Amsterdam Dungeon",
+    "description": "Amsterdam Dungeon, amsterdam şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=48",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 52.368262,
-      "longitude": 4.9031963
+      "latitude": 52.32824553891698,
+      "longitude": 4.911137922634424
     },
-    "estimatedDuration": 82,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 21,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "amsterdam_50",
-    "name": "Mama Baranka (Moeder Rots)",
-    "description": "amsterdam'de ziyaret edilebilecek popüler bir nokta: Mama Baranka (Moeder Rots).",
-    "image": "https://images.pexels.com/photos/34912325/pexels-photo-34912325.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 52.3592507,
-      "longitude": 4.8744178
-    },
-    "estimatedDuration": 81,
+    "estimatedDuration": 167,
     "openingTime": "09:00",
     "closingTime": "18:00",
     "cost": 0,
@@ -900,163 +882,19 @@
     ]
   },
   {
-    "id": "amsterdam_51",
-    "name": "Museum van de Geest/Het Dolhuys",
-    "description": "amsterdam'de bulunan önemli bir müze.",
-    "image": "https://picsum.photos/800/600?random=50",
+    "id": "amsterdam_50",
+    "name": "Torture Museum",
+    "description": "Torture Museum, amsterdam şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=49",
     "category": "Müze",
     "coordinates": {
-      "latitude": 52.3905413,
-      "longitude": 4.637786
+      "latitude": 52.39360282756024,
+      "longitude": 4.915825142868553
     },
-    "estimatedDuration": 51,
+    "estimatedDuration": 174,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Müze"
-    ]
-  },
-  {
-    "id": "amsterdam_52",
-    "name": "Banpaal",
-    "description": "amsterdam'de ziyaret edilebilecek popüler bir nokta: Banpaal.",
-    "image": "https://picsum.photos/800/600?random=51",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 52.3920158,
-      "longitude": 4.7692066
-    },
-    "estimatedDuration": 46,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "amsterdam_53",
-    "name": "Corrie ten Boom Museum",
-    "description": "amsterdam'de bulunan önemli bir müze.",
-    "image": "https://picsum.photos/800/600?random=52",
-    "category": "Müze",
-    "coordinates": {
-      "latitude": 52.3822632,
-      "longitude": 4.635411
-    },
-    "estimatedDuration": 70,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Müze"
-    ]
-  },
-  {
-    "id": "amsterdam_54",
-    "name": "Monument Joods Verzet 1940-'45",
-    "description": "amsterdam'de ziyaret edilebilecek popüler bir nokta: Monument Joods Verzet 1940-'45.",
-    "image": "https://picsum.photos/800/600?random=53",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 52.3676105,
-      "longitude": 4.8988548
-    },
-    "estimatedDuration": 76,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "amsterdam_56",
-    "name": "De Boom die alles zag",
-    "description": "amsterdam'de ziyaret edilebilecek popüler bir nokta: De Boom die alles zag.",
-    "image": "https://picsum.photos/800/600?random=55",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 52.3189551,
-      "longitude": 4.9741142
-    },
-    "estimatedDuration": 68,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 61,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "amsterdam_57",
-    "name": "Meerpadkerk",
-    "description": "amsterdam'in tarihi ibadet yapılarından biri.",
-    "image": "https://picsum.photos/800/600?random=56",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 52.392239,
-      "longitude": 4.9341123
-    },
-    "estimatedDuration": 66,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "amsterdam_58",
-    "name": "Gerard Dou Synagogue",
-    "description": "amsterdam'in tarihi ibadet yapılarından biri.",
-    "image": "https://picsum.photos/800/600?random=57",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 52.3570182,
-      "longitude": 4.8978874
-    },
-    "estimatedDuration": 36,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 166,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "amsterdam_59",
-    "name": "Museum De Dageraad",
-    "description": "amsterdam'de bulunan önemli bir müze.",
-    "image": "https://picsum.photos/800/600?random=58",
-    "category": "Müze",
-    "coordinates": {
-      "latitude": 52.3498616,
-      "longitude": 4.8990404
-    },
-    "estimatedDuration": 41,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Müze"
-    ]
-  },
-  {
-    "id": "amsterdam_60",
-    "name": "Electric Ladyland",
-    "description": "amsterdam'de bulunan önemli bir müze.",
-    "image": "https://picsum.photos/800/600?random=59",
-    "category": "Müze",
-    "coordinates": {
-      "latitude": 52.3756175,
-      "longitude": 4.8807964
-    },
-    "estimatedDuration": 41,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
+    "cost": 307,
     "interests": [
       "Müze"
     ]

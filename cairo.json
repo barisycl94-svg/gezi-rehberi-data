@@ -1,15 +1,123 @@
 [
   {
     "id": "cairo_1",
-    "name": "Lowest Point in Illinois",
-    "description": "cairo'de ziyaret edilebilecek popüler bir nokta: Lowest Point in Illinois.",
+    "name": "Giza Pyramids",
+    "description": "Giza Pyramids, cairo şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=0",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 36.9839772,
-      "longitude": -89.1410945
+      "latitude": 30.076239976494243,
+      "longitude": 31.22117869454795
     },
-    "estimatedDuration": 80,
+    "estimatedDuration": 155,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 249,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cairo_2",
+    "name": "Great Sphinx",
+    "description": "Great Sphinx, cairo şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=1",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 30.026388369118635,
+      "longitude": 31.196906018704038
+    },
+    "estimatedDuration": 63,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 445,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cairo_3",
+    "name": "Egyptian Museum",
+    "description": "Egyptian Museum, cairo şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=2",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 30.01499809122041,
+      "longitude": 31.227008466261513
+    },
+    "estimatedDuration": 124,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 366,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "cairo_4",
+    "name": "Grand Egyptian Museum",
+    "description": "Grand Egyptian Museum, cairo şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=3",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 30.070071745844594,
+      "longitude": 31.22358882437357
+    },
+    "estimatedDuration": 81,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "cairo_5",
+    "name": "National Museum of Egyptian Civilization",
+    "description": "National Museum of Egyptian Civilization, cairo şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://images.pexels.com/photos/34939903/pexels-photo-34939903.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 30.018570144979908,
+      "longitude": 31.275237312545162
+    },
+    "estimatedDuration": 96,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "cairo_6",
+    "name": "Khan el-Khalili",
+    "description": "Khan el-Khalili, cairo şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=5",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 30.07850856591529,
+      "longitude": 31.261316845803968
+    },
+    "estimatedDuration": 62,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 196,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cairo_7",
+    "name": "Al-Muizz Street",
+    "description": "Al-Muizz Street, cairo şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=6",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 30.069973134284407,
+      "longitude": 31.20266287763512
+    },
+    "estimatedDuration": 174,
     "openingTime": "09:00",
     "closingTime": "18:00",
     "cost": 0,
@@ -18,14 +126,32 @@
     ]
   },
   {
-    "id": "cairo_2",
-    "name": "Proceeding On",
-    "description": "cairo'de ziyaret edilebilecek popüler bir nokta: Proceeding On.",
-    "image": "https://picsum.photos/800/600?random=1",
+    "id": "cairo_8",
+    "name": "Salah El-Din Citadel",
+    "description": "Salah El-Din Citadel, cairo şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=7",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 36.9839748,
-      "longitude": -89.1399803
+      "latitude": 30.06031454890428,
+      "longitude": 31.23643845928543
+    },
+    "estimatedDuration": 95,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cairo_9",
+    "name": "Mosque of Muhammad Ali",
+    "description": "Mosque of Muhammad Ali, cairo şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=8",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 30.02047972157955,
+      "longitude": 31.2298052260158
     },
     "estimatedDuration": 85,
     "openingTime": "09:00",
@@ -36,16 +162,160 @@
     ]
   },
   {
-    "id": "cairo_3",
-    "name": "Cairo Custom House Museum",
-    "description": "cairo'de bulunan önemli bir müze.",
-    "image": "https://images.pexels.com/photos/34939918/pexels-photo-34939918.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "id": "cairo_10",
+    "name": "Mosque of Sultan Hassan",
+    "description": "Mosque of Sultan Hassan, cairo şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=9",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 30.008637204216324,
+      "longitude": 31.228619753046956
+    },
+    "estimatedDuration": 72,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 395,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cairo_11",
+    "name": "Al-Rifa'i Mosque",
+    "description": "Al-Rifa'i Mosque, cairo şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=10",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 30.07210178410789,
+      "longitude": 31.221538301208668
+    },
+    "estimatedDuration": 62,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cairo_12",
+    "name": "Mosque of Ibn Tulun",
+    "description": "Mosque of Ibn Tulun, cairo şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=11",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 30.008251072914344,
+      "longitude": 31.222632030329525
+    },
+    "estimatedDuration": 106,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cairo_13",
+    "name": "Al-Azhar Mosque",
+    "description": "Al-Azhar Mosque, cairo şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=12",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 30.075777036172063,
+      "longitude": 31.226221971809757
+    },
+    "estimatedDuration": 147,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 296,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cairo_14",
+    "name": "Coptic Cairo",
+    "description": "Coptic Cairo, cairo şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=13",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 30.082221206491624,
+      "longitude": 31.257292623441
+    },
+    "estimatedDuration": 132,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cairo_15",
+    "name": "Hanging Church",
+    "description": "Hanging Church, cairo şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=14",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 30.03057497403791,
+      "longitude": 31.221717124550352
+    },
+    "estimatedDuration": 99,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cairo_16",
+    "name": "Church of St. Sergius and Bacchus",
+    "description": "Church of St. Sergius and Bacchus, cairo şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=15",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 30.07552973063277,
+      "longitude": 31.208818368905874
+    },
+    "estimatedDuration": 117,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cairo_17",
+    "name": "Ben Ezra Synagogue",
+    "description": "Ben Ezra Synagogue, cairo şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=16",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 30.051893378479015,
+      "longitude": 31.248293131038825
+    },
+    "estimatedDuration": 141,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cairo_18",
+    "name": "Coptic Museum",
+    "description": "Coptic Museum, cairo şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=17",
     "category": "Müze",
     "coordinates": {
-      "latitude": 37.0029058,
-      "longitude": -89.1718085
+      "latitude": 30.05393965543714,
+      "longitude": 31.2530065592363
     },
-    "estimatedDuration": 34,
+    "estimatedDuration": 139,
     "openingTime": "09:00",
     "closingTime": "18:00",
     "cost": 0,
@@ -54,21 +324,579 @@
     ]
   },
   {
-    "id": "cairo_4",
-    "name": "Magnolia Manor",
-    "description": "cairo'de ziyaret edilebilecek popüler bir nokta: Magnolia Manor.",
-    "image": "https://picsum.photos/800/600?random=3",
+    "id": "cairo_19",
+    "name": "Cairo Tower",
+    "description": "Cairo Tower, cairo şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=18",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 37.0093735,
-      "longitude": -89.1824678
+      "latitude": 30.081351842014307,
+      "longitude": 31.19894285371753
     },
-    "estimatedDuration": 45,
+    "estimatedDuration": 70,
     "openingTime": "09:00",
     "closingTime": "18:00",
     "cost": 0,
     "interests": [
       "Tarihi"
+    ]
+  },
+  {
+    "id": "cairo_20",
+    "name": "Cairo Opera House",
+    "description": "Cairo Opera House, cairo şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=19",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 30.040394563083492,
+      "longitude": 31.19767258405902
+    },
+    "estimatedDuration": 152,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cairo_21",
+    "name": "Al-Azhar Park",
+    "description": "Al-Azhar Park, cairo şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=20",
+    "category": "Park",
+    "coordinates": {
+      "latitude": 30.0081183082502,
+      "longitude": 31.25510619899484
+    },
+    "estimatedDuration": 135,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Park"
+    ]
+  },
+  {
+    "id": "cairo_22",
+    "name": "Nilometer",
+    "description": "Nilometer, cairo şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=21",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 30.016599494807945,
+      "longitude": 31.20872988258041
+    },
+    "estimatedDuration": 122,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cairo_23",
+    "name": "Manial Palace",
+    "description": "Manial Palace, cairo şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=22",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 30.047043739981888,
+      "longitude": 31.253790133953075
+    },
+    "estimatedDuration": 77,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cairo_24",
+    "name": "Abdeen Palace",
+    "description": "Abdeen Palace, cairo şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=23",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 30.035823855372858,
+      "longitude": 31.231453835150834
+    },
+    "estimatedDuration": 90,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cairo_25",
+    "name": "Baron Empain Palace",
+    "description": "Baron Empain Palace, cairo şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=24",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 30.05870524705092,
+      "longitude": 31.2070290284368
+    },
+    "estimatedDuration": 120,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 357,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cairo_26",
+    "name": "City of the Dead",
+    "description": "City of the Dead, cairo şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=25",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 30.032206865128085,
+      "longitude": 31.198495352004283
+    },
+    "estimatedDuration": 160,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cairo_27",
+    "name": "Garbage City",
+    "description": "Garbage City, cairo şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=26",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 30.039372103854763,
+      "longitude": 31.21653783582275
+    },
+    "estimatedDuration": 123,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cairo_28",
+    "name": "Cave Church",
+    "description": "Cave Church, cairo şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=27",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 30.03929142895131,
+      "longitude": 31.275300982319422
+    },
+    "estimatedDuration": 91,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cairo_29",
+    "name": "Pharaonic Village",
+    "description": "Pharaonic Village, cairo şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=28",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 30.037204034214472,
+      "longitude": 31.233873784703018
+    },
+    "estimatedDuration": 159,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 473,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cairo_30",
+    "name": "Giza Zoo",
+    "description": "Giza Zoo, cairo şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=29",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 30.011288315414586,
+      "longitude": 31.26494679017941
+    },
+    "estimatedDuration": 79,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 103,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cairo_31",
+    "name": "Orman Garden",
+    "description": "Orman Garden, cairo şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=30",
+    "category": "Park",
+    "coordinates": {
+      "latitude": 30.030811598365364,
+      "longitude": 31.247066040857675
+    },
+    "estimatedDuration": 69,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 291,
+    "interests": [
+      "Park"
+    ]
+  },
+  {
+    "id": "cairo_32",
+    "name": "Al-Horreya Garden",
+    "description": "Al-Horreya Garden, cairo şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=31",
+    "category": "Park",
+    "coordinates": {
+      "latitude": 30.079548483937973,
+      "longitude": 31.197121750850595
+    },
+    "estimatedDuration": 114,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 449,
+    "interests": [
+      "Park"
+    ]
+  },
+  {
+    "id": "cairo_33",
+    "name": "Aquarium Grotto Garden",
+    "description": "Aquarium Grotto Garden, cairo şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=32",
+    "category": "Park",
+    "coordinates": {
+      "latitude": 30.018165281026175,
+      "longitude": 31.195862456429605
+    },
+    "estimatedDuration": 96,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Park"
+    ]
+  },
+  {
+    "id": "cairo_34",
+    "name": "Merryland Park",
+    "description": "Merryland Park, cairo şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=33",
+    "category": "Park",
+    "coordinates": {
+      "latitude": 30.02844670935921,
+      "longitude": 31.228499426260324
+    },
+    "estimatedDuration": 178,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Park"
+    ]
+  },
+  {
+    "id": "cairo_35",
+    "name": "Family Park",
+    "description": "Family Park, cairo şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=34",
+    "category": "Park",
+    "coordinates": {
+      "latitude": 30.009395459940453,
+      "longitude": 31.22514782568723
+    },
+    "estimatedDuration": 115,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 10,
+    "interests": [
+      "Park"
+    ]
+  },
+  {
+    "id": "cairo_36",
+    "name": "Dream Park",
+    "description": "Dream Park, cairo şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=35",
+    "category": "Park",
+    "coordinates": {
+      "latitude": 30.08146065135612,
+      "longitude": 31.217326937024232
+    },
+    "estimatedDuration": 94,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 106,
+    "interests": [
+      "Park"
+    ]
+  },
+  {
+    "id": "cairo_37",
+    "name": "Magic Land",
+    "description": "Magic Land, cairo şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=36",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 30.043442774160848,
+      "longitude": 31.23661037544077
+    },
+    "estimatedDuration": 139,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 81,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cairo_38",
+    "name": "Ski Egypt",
+    "description": "Ski Egypt, cairo şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=37",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 30.059237602475907,
+      "longitude": 31.255154176137495
+    },
+    "estimatedDuration": 81,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 434,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cairo_39",
+    "name": "Mall of Egypt",
+    "description": "Mall of Egypt, cairo şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=38",
+    "category": "Alışveriş",
+    "coordinates": {
+      "latitude": 30.01480416852238,
+      "longitude": 31.196646559789777
+    },
+    "estimatedDuration": 83,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Alışveriş"
+    ]
+  },
+  {
+    "id": "cairo_40",
+    "name": "Cairo Festival City",
+    "description": "Cairo Festival City, cairo şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=39",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 30.018911302132473,
+      "longitude": 31.227775357705394
+    },
+    "estimatedDuration": 137,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 170,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cairo_41",
+    "name": "Citystars",
+    "description": "Citystars, cairo şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=40",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 30.075954022490723,
+      "longitude": 31.251846459585952
+    },
+    "estimatedDuration": 117,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cairo_42",
+    "name": "Khan el-Khalili",
+    "description": "Khan el-Khalili, cairo şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=41",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 30.083662501310126,
+      "longitude": 31.273472285187825
+    },
+    "estimatedDuration": 109,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cairo_43",
+    "name": "Wekalet El Ghouri",
+    "description": "Wekalet El Ghouri, cairo şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=42",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 30.027692752227665,
+      "longitude": 31.269531268501552
+    },
+    "estimatedDuration": 79,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 44,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cairo_44",
+    "name": "Bab Zuweila",
+    "description": "Bab Zuweila, cairo şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=43",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 30.073596930659576,
+      "longitude": 31.241006485720003
+    },
+    "estimatedDuration": 145,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cairo_45",
+    "name": "Bab al-Futuh",
+    "description": "Bab al-Futuh, cairo şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=44",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 30.03472221636661,
+      "longitude": 31.244849293812763
+    },
+    "estimatedDuration": 143,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cairo_46",
+    "name": "Bab al-Nasr",
+    "description": "Bab al-Nasr, cairo şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=45",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 30.040678170572605,
+      "longitude": 31.22388301253374
+    },
+    "estimatedDuration": 149,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 112,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cairo_47",
+    "name": "Mosque of Al-Hakim",
+    "description": "Mosque of Al-Hakim, cairo şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=46",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 30.05180003051628,
+      "longitude": 31.232117397054868
+    },
+    "estimatedDuration": 116,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cairo_48",
+    "name": "Bayt Al-Suhaymi",
+    "description": "Bayt Al-Suhaymi, cairo şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=47",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 30.029308097865478,
+      "longitude": 31.272533942573478
+    },
+    "estimatedDuration": 146,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 211,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cairo_49",
+    "name": "Gayer-Anderson Museum",
+    "description": "Gayer-Anderson Museum, cairo şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=48",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 30.03933787629716,
+      "longitude": 31.22055994622177
+    },
+    "estimatedDuration": 100,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 243,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "cairo_50",
+    "name": "Islamic Art Museum",
+    "description": "Islamic Art Museum, cairo şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=49",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 30.019980283303482,
+      "longitude": 31.2733917429959
+    },
+    "estimatedDuration": 163,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
     ]
   }
 ]

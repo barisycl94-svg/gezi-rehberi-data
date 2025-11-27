@@ -1,18 +1,900 @@
 [
   {
     "id": "berlin_1",
-    "name": "Daycholah Lookout",
-    "description": "berlin'de ziyaret edilebilecek popüler bir nokta: Daycholah Lookout.",
-    "image": "https://images.pexels.com/photos/34933401/pexels-photo-34933401.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "name": "Brandenburg Gate",
+    "description": "Brandenburg Gate, berlin şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=0",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 43.836304,
-      "longitude": -88.958702
+      "latitude": 52.51057667697901,
+      "longitude": 13.40012999812008
     },
-    "estimatedDuration": 58,
+    "estimatedDuration": 123,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 153,
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "berlin_2",
+    "name": "Reichstag Building",
+    "description": "Reichstag Building, berlin şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=1",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 52.49496968133045,
+      "longitude": 13.406962498204242
+    },
+    "estimatedDuration": 72,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 333,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "berlin_3",
+    "name": "Berlin Wall Memorial",
+    "description": "Berlin Wall Memorial, berlin şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=2",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 52.51740860995719,
+      "longitude": 13.375234212789918
+    },
+    "estimatedDuration": 119,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "berlin_4",
+    "name": "East Side Gallery",
+    "description": "East Side Gallery, berlin şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=3",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 52.55375133439548,
+      "longitude": 13.42942220070612
+    },
+    "estimatedDuration": 95,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "berlin_5",
+    "name": "Checkpoint Charlie",
+    "description": "Checkpoint Charlie, berlin şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=4",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 52.49919196455412,
+      "longitude": 13.40440416705075
+    },
+    "estimatedDuration": 67,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 265,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "berlin_6",
+    "name": "Museum Island",
+    "description": "Museum Island, berlin şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=5",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 52.48303419202077,
+      "longitude": 13.370720354173512
+    },
+    "estimatedDuration": 68,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 452,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "berlin_7",
+    "name": "Pergamon Museum",
+    "description": "Pergamon Museum, berlin şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=6",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 52.55182671364433,
+      "longitude": 13.407369847518385
+    },
+    "estimatedDuration": 126,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 337,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "berlin_8",
+    "name": "Neues Museum",
+    "description": "Neues Museum, berlin şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=7",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 52.55723911927831,
+      "longitude": 13.384327272409356
+    },
+    "estimatedDuration": 86,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "berlin_9",
+    "name": "Altes Museum",
+    "description": "Altes Museum, berlin şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=8",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 52.53278838039568,
+      "longitude": 13.373497922495606
+    },
+    "estimatedDuration": 93,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 220,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "berlin_10",
+    "name": "Bode Museum",
+    "description": "Bode Museum, berlin şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=9",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 52.498411318080805,
+      "longitude": 13.416011828524287
+    },
+    "estimatedDuration": 162,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 440,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "berlin_11",
+    "name": "Alte Nationalgalerie",
+    "description": "Alte Nationalgalerie, berlin şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=10",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 52.48200846183415,
+      "longitude": 13.393425630305442
+    },
+    "estimatedDuration": 94,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 468,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "berlin_12",
+    "name": "Berlin Cathedral",
+    "description": "Berlin Cathedral, berlin şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=11",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 52.52418443238901,
+      "longitude": 13.39055139732572
+    },
+    "estimatedDuration": 105,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "berlin_13",
+    "name": "Alexanderplatz",
+    "description": "Alexanderplatz, berlin şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=12",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 52.53474282253748,
+      "longitude": 13.423043118875096
+    },
+    "estimatedDuration": 90,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "berlin_14",
+    "name": "TV Tower (Fernsehturm)",
+    "description": "TV Tower (Fernsehturm), berlin şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=13",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 52.54861916524985,
+      "longitude": 13.411213628417855
+    },
+    "estimatedDuration": 101,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "berlin_15",
+    "name": "Potsdamer Platz",
+    "description": "Potsdamer Platz, berlin şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=14",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 52.545428627795026,
+      "longitude": 13.412206965724167
+    },
+    "estimatedDuration": 82,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "berlin_16",
+    "name": "Sony Center",
+    "description": "Sony Center, berlin şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=15",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 52.544391972052786,
+      "longitude": 13.43247103089951
+    },
+    "estimatedDuration": 114,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "berlin_17",
+    "name": "Holocaust Memorial",
+    "description": "Holocaust Memorial, berlin şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=16",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 52.55067257686923,
+      "longitude": 13.431329302073737
+    },
+    "estimatedDuration": 84,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "berlin_18",
+    "name": "Topography of Terror",
+    "description": "Topography of Terror, berlin şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=17",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 52.53289393171391,
+      "longitude": 13.433457215602893
+    },
+    "estimatedDuration": 102,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 19,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "berlin_19",
+    "name": "Jewish Museum Berlin",
+    "description": "Jewish Museum Berlin, berlin şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=18",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 52.49444783037998,
+      "longitude": 13.371392623917226
+    },
+    "estimatedDuration": 140,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "berlin_20",
+    "name": "German Historical Museum",
+    "description": "German Historical Museum, berlin şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=19",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 52.552398846944904,
+      "longitude": 13.374923828848276
+    },
+    "estimatedDuration": 127,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 186,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "berlin_21",
+    "name": "DDR Museum",
+    "description": "DDR Museum, berlin şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=20",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 52.53533222493605,
+      "longitude": 13.417670796171212
+    },
+    "estimatedDuration": 89,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "berlin_22",
+    "name": "Stasi Museum",
+    "description": "Stasi Museum, berlin şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=21",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 52.497933019703716,
+      "longitude": 13.442476526530742
+    },
+    "estimatedDuration": 134,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 23,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "berlin_23",
+    "name": "Tränenpalast",
+    "description": "Tränenpalast, berlin şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=22",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 52.552380232599155,
+      "longitude": 13.410327725312575
+    },
+    "estimatedDuration": 165,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "berlin_24",
+    "name": "Gendarmenmarkt",
+    "description": "Gendarmenmarkt, berlin şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=23",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 52.5036628046336,
+      "longitude": 13.384422237596723
+    },
+    "estimatedDuration": 84,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "berlin_25",
+    "name": "Konzerthaus Berlin",
+    "description": "Konzerthaus Berlin, berlin şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=24",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 52.535521982829756,
+      "longitude": 13.442184601948863
+    },
+    "estimatedDuration": 65,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 53,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "berlin_26",
+    "name": "French Cathedral",
+    "description": "French Cathedral, berlin şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=25",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 52.538718324652585,
+      "longitude": 13.402581242059657
+    },
+    "estimatedDuration": 178,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 251,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "berlin_27",
+    "name": "German Cathedral",
+    "description": "German Cathedral, berlin şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=26",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 52.48472247380895,
+      "longitude": 13.441198449052614
+    },
+    "estimatedDuration": 147,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 231,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "berlin_28",
+    "name": "Charlottenburg Palace",
+    "description": "Charlottenburg Palace, berlin şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=27",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 52.55658171909858,
+      "longitude": 13.432626288975968
+    },
+    "estimatedDuration": 169,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "berlin_29",
+    "name": "Kaiser Wilhelm Memorial Church",
+    "description": "Kaiser Wilhelm Memorial Church, berlin şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=28",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 52.543026505838675,
+      "longitude": 13.442675268128337
+    },
+    "estimatedDuration": 103,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "berlin_30",
+    "name": "Kurfürstendamm",
+    "description": "Kurfürstendamm, berlin şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://images.pexels.com/photos/12042140/pexels-photo-12042140.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 52.49053241213168,
+      "longitude": 13.38242095106774
+    },
+    "estimatedDuration": 166,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 458,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "berlin_31",
+    "name": "KaDeWe",
+    "description": "KaDeWe, berlin şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=30",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 52.503187744487185,
+      "longitude": 13.42208986365301
+    },
+    "estimatedDuration": 96,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "berlin_32",
+    "name": "Tiergarten",
+    "description": "Tiergarten, berlin şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=31",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 52.4852082869108,
+      "longitude": 13.365756008363823
+    },
+    "estimatedDuration": 176,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "berlin_33",
+    "name": "Victory Column",
+    "description": "Victory Column, berlin şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=32",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 52.49602888047488,
+      "longitude": 13.440707692112792
+    },
+    "estimatedDuration": 62,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 17,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "berlin_34",
+    "name": "Bellevue Palace",
+    "description": "Bellevue Palace, berlin şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=33",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 52.54566593269546,
+      "longitude": 13.431675358400245
+    },
+    "estimatedDuration": 73,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "berlin_35",
+    "name": "Berlin Zoo",
+    "description": "Berlin Zoo, berlin şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=34",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 52.485025721792084,
+      "longitude": 13.426139059038583
+    },
+    "estimatedDuration": 83,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 157,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "berlin_36",
+    "name": "Aquarium Berlin",
+    "description": "Aquarium Berlin, berlin şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=35",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 52.49645883386515,
+      "longitude": 13.396277322785075
+    },
+    "estimatedDuration": 68,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 220,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "berlin_37",
+    "name": "Botanical Garden",
+    "description": "Botanical Garden, berlin şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=36",
+    "category": "Park",
+    "coordinates": {
+      "latitude": 52.50873720961071,
+      "longitude": 13.427930744971817
+    },
+    "estimatedDuration": 70,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Park"
+    ]
+  },
+  {
+    "id": "berlin_38",
+    "name": "Treptower Park",
+    "description": "Treptower Park, berlin şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=37",
+    "category": "Park",
+    "coordinates": {
+      "latitude": 52.492288628279766,
+      "longitude": 13.39113499957587
+    },
+    "estimatedDuration": 171,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Park"
+    ]
+  },
+  {
+    "id": "berlin_39",
+    "name": "Soviet War Memorial",
+    "description": "Soviet War Memorial, berlin şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=38",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 52.512226844207035,
+      "longitude": 13.39137471381372
+    },
+    "estimatedDuration": 90,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "berlin_40",
+    "name": "Tempelhofer Feld",
+    "description": "Tempelhofer Feld, berlin şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=39",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 52.481185352583935,
+      "longitude": 13.43956750682874
+    },
+    "estimatedDuration": 121,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "berlin_41",
+    "name": "Mauerpark",
+    "description": "Mauerpark, berlin şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=40",
+    "category": "Park",
+    "coordinates": {
+      "latitude": 52.5544438745099,
+      "longitude": 13.435910695944294
+    },
+    "estimatedDuration": 78,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Park"
+    ]
+  },
+  {
+    "id": "berlin_42",
+    "name": "Hackesche Höfe",
+    "description": "Hackesche Höfe, berlin şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=41",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 52.48784493766065,
+      "longitude": 13.438952614029146
+    },
+    "estimatedDuration": 149,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "berlin_43",
+    "name": "Nikolaiviertel",
+    "description": "Nikolaiviertel, berlin şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=42",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 52.53397705411467,
+      "longitude": 13.422546132746797
+    },
+    "estimatedDuration": 132,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "berlin_44",
+    "name": "Rotes Rathaus",
+    "description": "Rotes Rathaus, berlin şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=43",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 52.54479437994987,
+      "longitude": 13.431580499543552
+    },
+    "estimatedDuration": 106,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "berlin_45",
+    "name": "Oberbaum Bridge",
+    "description": "Oberbaum Bridge, berlin şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=44",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 52.532495657401725,
+      "longitude": 13.3676055031599
+    },
+    "estimatedDuration": 99,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "berlin_46",
+    "name": "Molecule Man",
+    "description": "Molecule Man, berlin şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=45",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 52.51960456251895,
+      "longitude": 13.42726873211118
+    },
+    "estimatedDuration": 110,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 351,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "berlin_47",
+    "name": "Berlin Philharmonie",
+    "description": "Berlin Philharmonie, berlin şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=46",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 52.51813147066601,
+      "longitude": 13.424599041616634
+    },
+    "estimatedDuration": 179,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "berlin_48",
+    "name": "Berlin State Opera",
+    "description": "Berlin State Opera, berlin şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=47",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 52.50027366578846,
+      "longitude": 13.437758120538922
+    },
+    "estimatedDuration": 84,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "berlin_49",
+    "name": "Friedrichstadt-Palast",
+    "description": "Friedrichstadt-Palast, berlin şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=48",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 52.481946233140185,
+      "longitude": 13.411181630562654
+    },
+    "estimatedDuration": 164,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "berlin_50",
+    "name": "Teufelsberg",
+    "description": "Teufelsberg, berlin şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=49",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 52.52529037707473,
+      "longitude": 13.428495351450035
+    },
+    "estimatedDuration": 73,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
     "interests": [
       "Tarihi"
     ]

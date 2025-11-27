@@ -1,15 +1,15 @@
 [
   {
     "id": "antalya_1",
-    "name": "Aşağı Düden Şelalesi",
-    "description": "antalya'de ziyaret edilebilecek popüler bir nokta: Aşağı Düden Şelalesi.",
+    "name": "Kaleici (Old Town)",
+    "description": "Kaleici (Old Town), antalya şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=0",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 36.850951,
-      "longitude": 30.7834957
+      "latitude": 36.86975797609969,
+      "longitude": 30.67344876504638
     },
-    "estimatedDuration": 42,
+    "estimatedDuration": 86,
     "openingTime": "09:00",
     "closingTime": "18:00",
     "cost": 0,
@@ -19,159 +19,177 @@
   },
   {
     "id": "antalya_2",
-    "name": "Düden Şelalesi",
-    "description": "antalya'de ziyaret edilebilecek popüler bir nokta: Düden Şelalesi.",
+    "name": "Hadrian's Gate",
+    "description": "Hadrian's Gate, antalya şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=1",
-    "category": "Eğlence",
+    "category": "Tarihi",
     "coordinates": {
-      "latitude": 36.9648286,
-      "longitude": 30.726664
+      "latitude": 36.92742885678705,
+      "longitude": 30.714357864310234
     },
-    "estimatedDuration": 80,
+    "estimatedDuration": 100,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 0,
+    "cost": 263,
     "interests": [
-      "Eğlence"
+      "Tarihi"
     ]
   },
   {
     "id": "antalya_3",
-    "name": "Arapsu bridge",
-    "description": "antalya'de ziyaret edilebilecek popüler bir nokta: Arapsu bridge.",
+    "name": "Yivli Minare Mosque",
+    "description": "Yivli Minare Mosque, antalya şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=2",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 36.8808901,
-      "longitude": 30.6593135
+      "latitude": 36.932457763139425,
+      "longitude": 30.710227461674567
     },
-    "estimatedDuration": 56,
+    "estimatedDuration": 68,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 0,
+    "cost": 344,
     "interests": [
       "Tarihi"
     ]
   },
   {
     "id": "antalya_4",
-    "name": "Antalya Oyuncak Müzesi",
-    "description": "antalya'de bulunan önemli bir müze.",
+    "name": "Hidirlik Tower",
+    "description": "Hidirlik Tower, antalya şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=3",
-    "category": "Müze",
+    "category": "Tarihi",
     "coordinates": {
-      "latitude": 36.885515,
-      "longitude": 30.7018977
+      "latitude": 36.8680348056905,
+      "longitude": 30.73826824607394
     },
-    "estimatedDuration": 66,
+    "estimatedDuration": 167,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 117,
+    "cost": 3,
     "interests": [
-      "Müze"
+      "Tarihi"
     ]
   },
   {
     "id": "antalya_5",
-    "name": "Suna & İnan Kıraç Kaleiçi Museum",
-    "description": "antalya'de bulunan önemli bir müze.",
+    "name": "Antalya Museum",
+    "description": "Antalya Museum, antalya şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=4",
     "category": "Müze",
     "coordinates": {
-      "latitude": 36.8840816,
-      "longitude": 30.707878
+      "latitude": 36.93316773253408,
+      "longitude": 30.711459041999735
     },
-    "estimatedDuration": 59,
+    "estimatedDuration": 173,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 183,
+    "cost": 0,
     "interests": [
       "Müze"
     ]
   },
   {
     "id": "antalya_6",
-    "name": "Antalya Mevlevihanesi",
-    "description": "antalya'in tarihi ibadet yapılarından biri.",
+    "name": "Duden Waterfalls",
+    "description": "Duden Waterfalls, antalya şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=5",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 36.8868162,
-      "longitude": 30.7044207
+      "latitude": 36.86332718202893,
+      "longitude": 30.73270672564749
     },
-    "estimatedDuration": 59,
+    "estimatedDuration": 126,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 0,
+    "cost": 27,
     "interests": [
       "Tarihi"
     ]
   },
   {
     "id": "antalya_7",
-    "name": "Araştırmacı - Gazeteci Uğur MUMCU (22.08.1942 - 24.01.1993)",
-    "description": "antalya'de ziyaret edilebilecek popüler bir nokta: Araştırmacı - Gazeteci Uğur MUMCU (22.08.1942 - 24.01.1993).",
+    "name": "Kursunlu Waterfall",
+    "description": "Kursunlu Waterfall, antalya şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=6",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 36.8889985,
-      "longitude": 30.7214497
+      "latitude": 36.893840256675325,
+      "longitude": 30.71532501291138
     },
-    "estimatedDuration": 41,
+    "estimatedDuration": 99,
     "openingTime": "09:00",
     "closingTime": "18:00",
     "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "antalya_8",
+    "name": "Manavgat Waterfall",
+    "description": "Manavgat Waterfall, antalya şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=7",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 36.900689432609255,
+      "longitude": 30.70167223771947
+    },
+    "estimatedDuration": 90,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 496,
     "interests": [
       "Tarihi"
     ]
   },
   {
     "id": "antalya_9",
-    "name": "Tekeli Mehmet Paşa Camii",
-    "description": "antalya'in tarihi ibadet yapılarından biri.",
+    "name": "Konyaalti Beach",
+    "description": "Konyaalti Beach, antalya şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=8",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 36.886511,
-      "longitude": 30.7058935
+      "latitude": 36.873597646527415,
+      "longitude": 30.722285045837076
     },
-    "estimatedDuration": 56,
+    "estimatedDuration": 146,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 0,
+    "cost": 106,
     "interests": [
       "Tarihi"
     ]
   },
   {
     "id": "antalya_10",
-    "name": "Hadrian Kapısı",
-    "description": "antalya'de ziyaret edilebilecek popüler bir nokta: Hadrian Kapısı.",
+    "name": "Lara Beach",
+    "description": "Lara Beach, antalya şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=9",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 36.8852646,
-      "longitude": 30.7085481
+      "latitude": 36.92205523110358,
+      "longitude": 30.68755993722314
     },
-    "estimatedDuration": 53,
+    "estimatedDuration": 118,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 186,
+    "cost": 182,
     "interests": [
       "Tarihi"
     ]
   },
   {
     "id": "antalya_11",
-    "name": "Muratpaşa Camii",
-    "description": "antalya'in tarihi ibadet yapılarından biri.",
+    "name": "Termessos",
+    "description": "Termessos, antalya şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=10",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 36.8914593,
-      "longitude": 30.7026025
+      "latitude": 36.862240171680355,
+      "longitude": 30.680028642949694
     },
-    "estimatedDuration": 56,
+    "estimatedDuration": 179,
     "openingTime": "09:00",
     "closingTime": "18:00",
     "cost": 0,
@@ -181,123 +199,123 @@
   },
   {
     "id": "antalya_12",
-    "name": "Hıdırlık Kulesi",
-    "description": "antalya'de ziyaret edilebilecek popüler bir nokta: Hıdırlık Kulesi.",
+    "name": "Perge",
+    "description": "Perge, antalya şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=11",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 36.8812523,
-      "longitude": 30.7036522
+      "latitude": 36.87064384749854,
+      "longitude": 30.737731866921095
     },
-    "estimatedDuration": 49,
+    "estimatedDuration": 143,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 90,
+    "cost": 0,
     "interests": [
       "Tarihi"
     ]
   },
   {
     "id": "antalya_13",
-    "name": "Perga",
-    "description": "antalya'de ziyaret edilebilecek popüler bir nokta: Perga.",
+    "name": "Aspendos",
+    "description": "Aspendos, antalya şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=12",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 36.9643869,
-      "longitude": 30.8542057
+      "latitude": 36.87325450330829,
+      "longitude": 30.730790318734925
     },
-    "estimatedDuration": 61,
+    "estimatedDuration": 169,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 96,
+    "cost": 262,
     "interests": [
       "Tarihi"
     ]
   },
   {
     "id": "antalya_14",
-    "name": "Kurşunlu Şelalesi",
-    "description": "antalya'de ziyaret edilebilecek popüler bir nokta: Kurşunlu Şelalesi.",
+    "name": "Side Ancient City",
+    "description": "Side Ancient City, antalya şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=13",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 37.0022,
-      "longitude": 30.8203648
+      "latitude": 36.92490314550704,
+      "longitude": 30.69877360473726
     },
-    "estimatedDuration": 75,
+    "estimatedDuration": 103,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 182,
+    "cost": 390,
     "interests": [
       "Tarihi"
     ]
   },
   {
     "id": "antalya_15",
-    "name": "Yivli Minare Camii",
-    "description": "antalya'in tarihi ibadet yapılarından biri.",
+    "name": "Temple of Apollo",
+    "description": "Temple of Apollo, antalya şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=14",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 36.8866107,
-      "longitude": 30.7044745
+      "latitude": 36.871375708328074,
+      "longitude": 30.68738366960941
     },
-    "estimatedDuration": 66,
+    "estimatedDuration": 163,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 0,
+    "cost": 319,
     "interests": [
       "Tarihi"
     ]
   },
   {
     "id": "antalya_16",
-    "name": "Evdir Han",
-    "description": "antalya'de ziyaret edilebilecek popüler bir nokta: Evdir Han.",
+    "name": "Phaselis",
+    "description": "Phaselis, antalya şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=15",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 36.9883223,
-      "longitude": 30.5799293
+      "latitude": 36.87390871820458,
+      "longitude": 30.685821760356255
     },
-    "estimatedDuration": 58,
+    "estimatedDuration": 164,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 0,
+    "cost": 138,
     "interests": [
       "Tarihi"
     ]
   },
   {
     "id": "antalya_17",
-    "name": "Saat Kulesi",
-    "description": "antalya'de ziyaret edilebilecek popüler bir nokta: Saat Kulesi.",
+    "name": "Olympos",
+    "description": "Olympos, antalya şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=16",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 36.8868372,
-      "longitude": 30.7058519
+      "latitude": 36.929224573472055,
+      "longitude": 30.743204313083293
     },
-    "estimatedDuration": 88,
+    "estimatedDuration": 97,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 105,
+    "cost": 442,
     "interests": [
       "Tarihi"
     ]
   },
   {
     "id": "antalya_18",
-    "name": "Kesik Minare",
-    "description": "antalya'de ziyaret edilebilecek popüler bir nokta: Kesik Minare.",
+    "name": "Chimaera (Yanartas)",
+    "description": "Chimaera (Yanartas), antalya şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=17",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 36.8827112,
-      "longitude": 30.7057278
+      "latitude": 36.905296049938215,
+      "longitude": 30.677065291743453
     },
-    "estimatedDuration": 84,
+    "estimatedDuration": 98,
     "openingTime": "09:00",
     "closingTime": "18:00",
     "cost": 0,
@@ -307,15 +325,15 @@
   },
   {
     "id": "antalya_19",
-    "name": "Korkut Camii",
-    "description": "antalya'in tarihi ibadet yapılarından biri.",
+    "name": "Myra",
+    "description": "Myra, antalya şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=18",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 36.8825674,
-      "longitude": 30.7060631
+      "latitude": 36.908328143947365,
+      "longitude": 30.746322670909713
     },
-    "estimatedDuration": 80,
+    "estimatedDuration": 107,
     "openingTime": "09:00",
     "closingTime": "18:00",
     "cost": 0,
@@ -325,49 +343,49 @@
   },
   {
     "id": "antalya_20",
-    "name": "Ataturk muze",
-    "description": "antalya'de bulunan önemli bir müze.",
+    "name": "St. Nicholas Church",
+    "description": "St. Nicholas Church, antalya şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=19",
-    "category": "Müze",
+    "category": "Tarihi",
     "coordinates": {
-      "latitude": 36.8807267,
-      "longitude": 30.7081522
+      "latitude": 36.89614656286256,
+      "longitude": 30.678807384216054
     },
-    "estimatedDuration": 63,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 59,
-    "interests": [
-      "Müze"
-    ]
-  },
-  {
-    "id": "antalya_21",
-    "name": "Antalya Arkeoloji Müzesi (Museum)",
-    "description": "antalya'de bulunan önemli bir müze.",
-    "image": "https://picsum.photos/800/600?random=20",
-    "category": "Müze",
-    "coordinates": {
-      "latitude": 36.8857689,
-      "longitude": 30.6795146
-    },
-    "estimatedDuration": 78,
+    "estimatedDuration": 104,
     "openingTime": "09:00",
     "closingTime": "18:00",
     "cost": 0,
     "interests": [
-      "Müze"
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "antalya_21",
+    "name": "Kekova",
+    "description": "Kekova, antalya şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=20",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 36.88662540154836,
+      "longitude": 30.678121024616022
+    },
+    "estimatedDuration": 104,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
     ]
   },
   {
     "id": "antalya_22",
-    "name": "Mustafa Kemal Atatürk",
-    "description": "antalya'de ziyaret edilebilecek popüler bir nokta: Mustafa Kemal Atatürk.",
+    "name": "Simena (Kalekoy)",
+    "description": "Simena (Kalekoy), antalya şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=21",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 36.952793,
-      "longitude": 30.6326844
+      "latitude": 36.87341706857118,
+      "longitude": 30.7331397902449
     },
     "estimatedDuration": 83,
     "openingTime": "09:00",
@@ -379,18 +397,504 @@
   },
   {
     "id": "antalya_23",
-    "name": "Magydos",
-    "description": "antalya'de ziyaret edilebilecek popüler bir nokta: Magydos.",
+    "name": "Patara Beach",
+    "description": "Patara Beach, antalya şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=22",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 36.847663,
-      "longitude": 30.7997642
+      "latitude": 36.926885292931004,
+      "longitude": 30.69853897869083
     },
-    "estimatedDuration": 71,
+    "estimatedDuration": 81,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 89,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "antalya_24",
+    "name": "Xanthos",
+    "description": "Xanthos, antalya şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=23",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 36.89738250312935,
+      "longitude": 30.7220194368104
+    },
+    "estimatedDuration": 140,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 56,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "antalya_25",
+    "name": "Saklikent Gorge",
+    "description": "Saklikent Gorge, antalya şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=24",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 36.86113466620568,
+      "longitude": 30.728363720964747
+    },
+    "estimatedDuration": 141,
     "openingTime": "09:00",
     "closingTime": "18:00",
     "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "antalya_26",
+    "name": "Karain Cave",
+    "description": "Karain Cave, antalya şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=25",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 36.890696411612524,
+      "longitude": 30.690888806504546
+    },
+    "estimatedDuration": 174,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "antalya_27",
+    "name": "Antalya Aquarium",
+    "description": "Antalya Aquarium, antalya şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=26",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 36.89471100204524,
+      "longitude": 30.704438614347463
+    },
+    "estimatedDuration": 175,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 312,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "antalya_28",
+    "name": "Sandland",
+    "description": "Sandland, antalya şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=27",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 36.90880018527944,
+      "longitude": 30.69916309831944
+    },
+    "estimatedDuration": 114,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 238,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "antalya_29",
+    "name": "Tunektepe Cable Car",
+    "description": "Tunektepe Cable Car, antalya şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=28",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 36.91761708189856,
+      "longitude": 30.706438664425015
+    },
+    "estimatedDuration": 106,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 372,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "antalya_30",
+    "name": "Olympos Teleferik",
+    "description": "Olympos Teleferik, antalya şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://images.pexels.com/photos/13073909/pexels-photo-13073909.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 36.90040247977836,
+      "longitude": 30.74983040652832
+    },
+    "estimatedDuration": 141,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "antalya_31",
+    "name": "Land of Legends Theme Park",
+    "description": "Land of Legends Theme Park, antalya şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=30",
+    "category": "Park",
+    "coordinates": {
+      "latitude": 36.912974824011386,
+      "longitude": 30.698976923235087
+    },
+    "estimatedDuration": 179,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Park"
+    ]
+  },
+  {
+    "id": "antalya_32",
+    "name": "Antalya Toy Museum",
+    "description": "Antalya Toy Museum, antalya şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=31",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 36.86631918074323,
+      "longitude": 30.67876778919447
+    },
+    "estimatedDuration": 166,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "antalya_33",
+    "name": "Ataturk Park",
+    "description": "Ataturk Park, antalya şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=32",
+    "category": "Park",
+    "coordinates": {
+      "latitude": 36.93583782665162,
+      "longitude": 30.743573847942372
+    },
+    "estimatedDuration": 62,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Park"
+    ]
+  },
+  {
+    "id": "antalya_34",
+    "name": "Karaalioglu Park",
+    "description": "Karaalioglu Park, antalya şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=33",
+    "category": "Park",
+    "coordinates": {
+      "latitude": 36.86414766070848,
+      "longitude": 30.73894808464433
+    },
+    "estimatedDuration": 149,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 480,
+    "interests": [
+      "Park"
+    ]
+  },
+  {
+    "id": "antalya_35",
+    "name": "Mermerli Beach",
+    "description": "Mermerli Beach, antalya şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=34",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 36.870922704790885,
+      "longitude": 30.679388827046782
+    },
+    "estimatedDuration": 87,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 112,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "antalya_36",
+    "name": "Adrasan Beach",
+    "description": "Adrasan Beach, antalya şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=35",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 36.85719214794231,
+      "longitude": 30.730144010814268
+    },
+    "estimatedDuration": 97,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "antalya_37",
+    "name": "Cirali Beach",
+    "description": "Cirali Beach, antalya şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=36",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 36.9043202808846,
+      "longitude": 30.697560060999255
+    },
+    "estimatedDuration": 72,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 320,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "antalya_38",
+    "name": "Kaputas Beach",
+    "description": "Kaputas Beach, antalya şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=37",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 36.91331246364026,
+      "longitude": 30.735410880082224
+    },
+    "estimatedDuration": 167,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 146,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "antalya_39",
+    "name": "Kalkan",
+    "description": "Kalkan, antalya şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=38",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 36.918081215159226,
+      "longitude": 30.688607729020333
+    },
+    "estimatedDuration": 61,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 175,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "antalya_40",
+    "name": "Kas",
+    "description": "Kas, antalya şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=39",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 36.9005005352218,
+      "longitude": 30.702163711873713
+    },
+    "estimatedDuration": 87,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 178,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "antalya_41",
+    "name": "Koprulu Canyon",
+    "description": "Koprulu Canyon, antalya şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=40",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 36.93137361436038,
+      "longitude": 30.732968233806353
+    },
+    "estimatedDuration": 92,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 14,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "antalya_42",
+    "name": "Tazi Canyon",
+    "description": "Tazi Canyon, antalya şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=41",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 36.91534040157119,
+      "longitude": 30.70718736549455
+    },
+    "estimatedDuration": 147,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 293,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "antalya_43",
+    "name": "Altinbesik Cave",
+    "description": "Altinbesik Cave, antalya şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=42",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 36.88440601800675,
+      "longitude": 30.69373484268342
+    },
+    "estimatedDuration": 123,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 232,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "antalya_44",
+    "name": "Dim Cave",
+    "description": "Dim Cave, antalya şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=43",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 36.90427133469599,
+      "longitude": 30.680288277104673
+    },
+    "estimatedDuration": 69,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 121,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "antalya_45",
+    "name": "Alanya Castle",
+    "description": "Alanya Castle, antalya şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=44",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 36.90229366013411,
+      "longitude": 30.680858543356894
+    },
+    "estimatedDuration": 116,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "antalya_46",
+    "name": "Red Tower (Kizilkule)",
+    "description": "Red Tower (Kizilkule), antalya şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=45",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 36.91691242293835,
+      "longitude": 30.7464487101527
+    },
+    "estimatedDuration": 118,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "antalya_47",
+    "name": "Damlatas Cave",
+    "description": "Damlatas Cave, antalya şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=46",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 36.923898725160306,
+      "longitude": 30.703125588711952
+    },
+    "estimatedDuration": 60,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 15,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "antalya_48",
+    "name": "Cleopatra Beach",
+    "description": "Cleopatra Beach, antalya şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=47",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 36.89691029222014,
+      "longitude": 30.69665833359715
+    },
+    "estimatedDuration": 114,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 342,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "antalya_49",
+    "name": "Alanya Harbor",
+    "description": "Alanya Harbor, antalya şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=48",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 36.87271893001416,
+      "longitude": 30.723748686956082
+    },
+    "estimatedDuration": 80,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 42,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "antalya_50",
+    "name": "Alanya Teleferik",
+    "description": "Alanya Teleferik, antalya şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=49",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 36.93668245957885,
+      "longitude": 30.74858575041497
+    },
+    "estimatedDuration": 174,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 488,
     "interests": [
       "Tarihi"
     ]

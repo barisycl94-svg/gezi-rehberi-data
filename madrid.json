@@ -1,51 +1,33 @@
 [
   {
     "id": "madrid_1",
-    "name": "Museo Casa de la Moneda",
-    "description": "madrid'de bulunan önemli bir müze.",
+    "name": "Royal Palace of Madrid",
+    "description": "Royal Palace of Madrid, madrid şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=0",
-    "category": "Müze",
-    "coordinates": {
-      "latitude": 40.422598,
-      "longitude": -3.6691465
-    },
-    "estimatedDuration": 63,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 108,
-    "interests": [
-      "Müze"
-    ]
-  },
-  {
-    "id": "madrid_2",
-    "name": "Monumento a Claudio Moyano",
-    "description": "madrid'de ziyaret edilebilecek popüler bir nokta: Monumento a Claudio Moyano.",
-    "image": "https://picsum.photos/800/600?random=1",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 40.4093166,
-      "longitude": -3.6915086
+      "latitude": 40.380413407988975,
+      "longitude": -3.6957070738908278
     },
-    "estimatedDuration": 61,
+    "estimatedDuration": 126,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 192,
+    "cost": 0,
     "interests": [
       "Tarihi"
     ]
   },
   {
-    "id": "madrid_3",
-    "name": "Museo Arqueológico Nacional",
-    "description": "madrid'de bulunan önemli bir müze.",
-    "image": "https://images.pexels.com/photos/3680770/pexels-photo-3680770.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "id": "madrid_2",
+    "name": "Prado Museum",
+    "description": "Prado Museum, madrid şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=1",
     "category": "Müze",
     "coordinates": {
-      "latitude": 40.4234289,
-      "longitude": -3.6888894
+      "latitude": 40.44337429144368,
+      "longitude": -3.7186283605865773
     },
-    "estimatedDuration": 82,
+    "estimatedDuration": 123,
     "openingTime": "09:00",
     "closingTime": "18:00",
     "cost": 0,
@@ -54,122 +36,50 @@
     ]
   },
   {
+    "id": "madrid_3",
+    "name": "Retiro Park",
+    "description": "Retiro Park, madrid şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=2",
+    "category": "Park",
+    "coordinates": {
+      "latitude": 40.425501156002134,
+      "longitude": -3.736915284234439
+    },
+    "estimatedDuration": 82,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 217,
+    "interests": [
+      "Park"
+    ]
+  },
+  {
     "id": "madrid_4",
-    "name": "Convento de Carmelitas Descalzas",
-    "description": "madrid'in tarihi ibadet yapılarından biri.",
+    "name": "Plaza Mayor",
+    "description": "Plaza Mayor, madrid şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=3",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 40.309269,
-      "longitude": -3.6842164
+      "latitude": 40.38804004855715,
+      "longitude": -3.7337169499831804
     },
-    "estimatedDuration": 77,
+    "estimatedDuration": 154,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 12,
+    "cost": 0,
     "interests": [
       "Tarihi"
     ]
   },
   {
     "id": "madrid_5",
-    "name": "Museo del Ferrocarril de Madrid",
-    "description": "madrid'de bulunan önemli bir müze.",
+    "name": "Puerta del Sol",
+    "description": "Puerta del Sol, madrid şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=4",
-    "category": "Müze",
-    "coordinates": {
-      "latitude": 40.3993218,
-      "longitude": -3.6921489
-    },
-    "estimatedDuration": 71,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Müze"
-    ]
-  },
-  {
-    "id": "madrid_6",
-    "name": "Monumento a los Caídos por España",
-    "description": "madrid'de ziyaret edilebilecek popüler bir nokta: Monumento a los Caídos por España.",
-    "image": "https://picsum.photos/800/600?random=5",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 40.416387,
-      "longitude": -3.6928847
-    },
-    "estimatedDuration": 30,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 141,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "madrid_7",
-    "name": "Kilómetro Cero",
-    "description": "madrid'de ziyaret edilebilecek popüler bir nokta: Kilómetro Cero.",
-    "image": "https://picsum.photos/800/600?random=6",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 40.4166314,
-      "longitude": -3.7038148
-    },
-    "estimatedDuration": 74,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "madrid_8",
-    "name": "Monumento en honor a los abogados de Atocha",
-    "description": "madrid'de ziyaret edilebilecek popüler bir nokta: Monumento en honor a los abogados de Atocha.",
-    "image": "https://picsum.photos/800/600?random=7",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 40.4124029,
-      "longitude": -3.6993281
-    },
-    "estimatedDuration": 39,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 39,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "madrid_9",
-    "name": "Francisco de Quevedo y Villegas",
-    "description": "madrid'de ziyaret edilebilecek popüler bir nokta: Francisco de Quevedo y Villegas.",
-    "image": "https://picsum.photos/800/600?random=8",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 40.4336329,
-      "longitude": -3.704246
-    },
-    "estimatedDuration": 65,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "madrid_10",
-    "name": "Estatua de Federico García Lorca",
-    "description": "madrid'de ziyaret edilebilecek popüler bir nokta: Estatua de Federico García Lorca.",
-    "image": "https://picsum.photos/800/600?random=9",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 40.4147407,
-      "longitude": -3.7004971
+      "latitude": 40.41442550269585,
+      "longitude": -3.6902628644603688
     },
     "estimatedDuration": 87,
     "openingTime": "09:00",
@@ -180,16 +90,106 @@
     ]
   },
   {
+    "id": "madrid_6",
+    "name": "Gran Vía",
+    "description": "Gran Vía, madrid şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=5",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 40.381366856446505,
+      "longitude": -3.676447546374333
+    },
+    "estimatedDuration": 149,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "madrid_7",
+    "name": "Reina Sofía Museum",
+    "description": "Reina Sofía Museum, madrid şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=6",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 40.37781992361059,
+      "longitude": -3.741839035645872
+    },
+    "estimatedDuration": 113,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "madrid_8",
+    "name": "Thyssen-Bornemisza Museum",
+    "description": "Thyssen-Bornemisza Museum, madrid şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=7",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 40.43286013222821,
+      "longitude": -3.720172949385776
+    },
+    "estimatedDuration": 140,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "madrid_9",
+    "name": "Temple of Debod",
+    "description": "Temple of Debod, madrid şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=8",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 40.41969464159739,
+      "longitude": -3.696702516655995
+    },
+    "estimatedDuration": 137,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "madrid_10",
+    "name": "Almudena Cathedral",
+    "description": "Almudena Cathedral, madrid şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=9",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 40.44280016020711,
+      "longitude": -3.6639857639484466
+    },
+    "estimatedDuration": 105,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 170,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
     "id": "madrid_11",
-    "name": "Monumento a José de San Martín",
-    "description": "madrid'de ziyaret edilebilecek popüler bir nokta: Monumento a José de San Martín.",
+    "name": "Cibeles Palace",
+    "description": "Cibeles Palace, madrid şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=10",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 40.4367281,
-      "longitude": -3.7228304
+      "latitude": 40.43817380858067,
+      "longitude": -3.7126936525347896
     },
-    "estimatedDuration": 63,
+    "estimatedDuration": 91,
     "openingTime": "09:00",
     "closingTime": "18:00",
     "cost": 0,
@@ -199,15 +199,15 @@
   },
   {
     "id": "madrid_12",
-    "name": "Monumento al Teniente General Manuel Cassola",
-    "description": "madrid'de ziyaret edilebilecek popüler bir nokta: Monumento al Teniente General Manuel Cassola.",
+    "name": "Puerta de Alcalá",
+    "description": "Puerta de Alcalá, madrid şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=11",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 40.43457,
-      "longitude": -3.721239
+      "latitude": 40.421485267782714,
+      "longitude": -3.7051516059535445
     },
-    "estimatedDuration": 51,
+    "estimatedDuration": 80,
     "openingTime": "09:00",
     "closingTime": "18:00",
     "cost": 0,
@@ -217,69 +217,69 @@
   },
   {
     "id": "madrid_13",
-    "name": "Monumento a José Gervasio Artigas",
-    "description": "madrid'de ziyaret edilebilecek popüler bir nokta: Monumento a José Gervasio Artigas.",
+    "name": "Plaza de España",
+    "description": "Plaza de España, madrid şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=12",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 40.4355054,
-      "longitude": -3.7209614
+      "latitude": 40.3987488081001,
+      "longitude": -3.7105739763859638
     },
-    "estimatedDuration": 80,
+    "estimatedDuration": 88,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 193,
+    "cost": 0,
     "interests": [
       "Tarihi"
     ]
   },
   {
     "id": "madrid_14",
-    "name": "Monumento al pintor Eduardo Rosales",
-    "description": "madrid'de ziyaret edilebilecek popüler bir nokta: Monumento al pintor Eduardo Rosales.",
+    "name": "Mercado de San Miguel",
+    "description": "Mercado de San Miguel, madrid şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=13",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 40.429009,
-      "longitude": -3.7221405
+      "latitude": 40.38956982658397,
+      "longitude": -3.7041853691795157
     },
-    "estimatedDuration": 67,
+    "estimatedDuration": 131,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 23,
+    "cost": 374,
     "interests": [
       "Tarihi"
     ]
   },
   {
     "id": "madrid_15",
-    "name": "Monumento al Doctor Federico Rubio y Galí",
-    "description": "madrid'de ziyaret edilebilecek popüler bir nokta: Monumento al Doctor Federico Rubio y Galí.",
+    "name": "El Rastro",
+    "description": "El Rastro, madrid şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=14",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 40.4356618,
-      "longitude": -3.7243727
+      "latitude": 40.38562343475242,
+      "longitude": -3.6958791795065893
     },
-    "estimatedDuration": 47,
+    "estimatedDuration": 123,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 107,
+    "cost": 421,
     "interests": [
       "Tarihi"
     ]
   },
   {
     "id": "madrid_16",
-    "name": "Monumento a la Infanta Isabel",
-    "description": "madrid'de ziyaret edilebilecek popüler bir nokta: Monumento a la Infanta Isabel.",
+    "name": "Santiago Bernabéu Stadium",
+    "description": "Santiago Bernabéu Stadium, madrid şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=15",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 40.4267241,
-      "longitude": -3.7200328
+      "latitude": 40.449391694258935,
+      "longitude": -3.7379704256450244
     },
-    "estimatedDuration": 66,
+    "estimatedDuration": 165,
     "openingTime": "09:00",
     "closingTime": "18:00",
     "cost": 0,
@@ -289,15 +289,15 @@
   },
   {
     "id": "madrid_17",
-    "name": "Al patricio Juan Pablo Duarte y Díez",
-    "description": "madrid'de ziyaret edilebilecek popüler bir nokta: Al patricio Juan Pablo Duarte y Díez.",
+    "name": "Las Ventas Bullring",
+    "description": "Las Ventas Bullring, madrid şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=16",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 40.4303449,
-      "longitude": -3.7246473
+      "latitude": 40.41223963203234,
+      "longitude": -3.6658699133593697
     },
-    "estimatedDuration": 80,
+    "estimatedDuration": 87,
     "openingTime": "09:00",
     "closingTime": "18:00",
     "cost": 0,
@@ -307,15 +307,15 @@
   },
   {
     "id": "madrid_18",
-    "name": "Monumento a Eugenio de Santa Cruz y Espejo",
-    "description": "madrid'de ziyaret edilebilecek popüler bir nokta: Monumento a Eugenio de Santa Cruz y Espejo.",
+    "name": "Casa de Campo",
+    "description": "Casa de Campo, madrid şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=17",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 40.4311449,
-      "longitude": -3.7255127
+      "latitude": 40.40818896046281,
+      "longitude": -3.700266019260052
     },
-    "estimatedDuration": 57,
+    "estimatedDuration": 105,
     "openingTime": "09:00",
     "closingTime": "18:00",
     "cost": 0,
@@ -325,15 +325,15 @@
   },
   {
     "id": "madrid_19",
-    "name": "Monumento a Juan Montalvo",
-    "description": "madrid'de ziyaret edilebilecek popüler bir nokta: Monumento a Juan Montalvo.",
+    "name": "Madrid Zoo Aquarium",
+    "description": "Madrid Zoo Aquarium, madrid şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=18",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 40.4322154,
-      "longitude": -3.726416
+      "latitude": 40.392715693648064,
+      "longitude": -3.6922860352660574
     },
-    "estimatedDuration": 37,
+    "estimatedDuration": 170,
     "openingTime": "09:00",
     "closingTime": "18:00",
     "cost": 0,
@@ -343,105 +343,87 @@
   },
   {
     "id": "madrid_20",
-    "name": "Monumento a Eugenio María de Hostos",
-    "description": "madrid'de ziyaret edilebilecek popüler bir nokta: Monumento a Eugenio María de Hostos.",
+    "name": "Parque de Atracciones",
+    "description": "Parque de Atracciones, madrid şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=19",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 40.4305794,
-      "longitude": -3.7249411
+      "latitude": 40.432396075138435,
+      "longitude": -3.675891425044726
     },
-    "estimatedDuration": 72,
+    "estimatedDuration": 173,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 102,
+    "cost": 95,
     "interests": [
       "Tarihi"
     ]
   },
   {
     "id": "madrid_21",
-    "name": "Monumento a Concepción Arenal",
-    "description": "madrid'de ziyaret edilebilecek popüler bir nokta: Monumento a Concepción Arenal.",
+    "name": "Royal Botanical Garden",
+    "description": "Royal Botanical Garden, madrid şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=20",
-    "category": "Tarihi",
+    "category": "Park",
     "coordinates": {
-      "latitude": 40.4328655,
-      "longitude": -3.7251889
+      "latitude": 40.38657519175502,
+      "longitude": -3.7093390715552372
     },
-    "estimatedDuration": 42,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 199,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "madrid_22",
-    "name": "Monumento a Miguel Hidalgo Costilla",
-    "description": "madrid'de ziyaret edilebilecek popüler bir nokta: Monumento a Miguel Hidalgo Costilla.",
-    "image": "https://picsum.photos/800/600?random=21",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 40.4329053,
-      "longitude": -3.7273346
-    },
-    "estimatedDuration": 81,
+    "estimatedDuration": 113,
     "openingTime": "09:00",
     "closingTime": "18:00",
     "cost": 0,
     "interests": [
-      "Tarihi"
+      "Park"
+    ]
+  },
+  {
+    "id": "madrid_22",
+    "name": "Sabatini Gardens",
+    "description": "Sabatini Gardens, madrid şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=21",
+    "category": "Park",
+    "coordinates": {
+      "latitude": 40.400025712739044,
+      "longitude": -3.6936207504470215
+    },
+    "estimatedDuration": 172,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Park"
     ]
   },
   {
     "id": "madrid_23",
-    "name": "Monumento a Miguel Hernández",
-    "description": "madrid'de ziyaret edilebilecek popüler bir nokta: Monumento a Miguel Hernández.",
+    "name": "Campo del Moro",
+    "description": "Campo del Moro, madrid şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=22",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 40.4332582,
-      "longitude": -3.7256521
+      "latitude": 40.37744822043152,
+      "longitude": -3.7127728424876056
     },
-    "estimatedDuration": 70,
+    "estimatedDuration": 84,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 64,
+    "cost": 0,
     "interests": [
       "Tarihi"
     ]
   },
   {
     "id": "madrid_24",
-    "name": "Estatua de Espartero",
-    "description": "madrid'de ziyaret edilebilecek popüler bir nokta: Estatua de Espartero.",
+    "name": "Madrid Río",
+    "description": "Madrid Río, madrid şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=23",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 40.4211219,
-      "longitude": -3.6835969
+      "latitude": 40.429238436643686,
+      "longitude": -3.6831058545729913
     },
-    "estimatedDuration": 43,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 9,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "madrid_25",
-    "name": "Estatua a Miguel de Cervantes Saavedra",
-    "description": "madrid'de ziyaret edilebilecek popüler bir nokta: Estatua a Miguel de Cervantes Saavedra.",
-    "image": "https://picsum.photos/800/600?random=24",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 40.4157393,
-      "longitude": -3.6964893
-    },
-    "estimatedDuration": 60,
+    "estimatedDuration": 140,
     "openingTime": "09:00",
     "closingTime": "18:00",
     "cost": 0,
@@ -450,14 +432,14 @@
     ]
   },
   {
-    "id": "madrid_26",
-    "name": "Monumento al Mariscal Santa Cruz Calahumana",
-    "description": "madrid'de ziyaret edilebilecek popüler bir nokta: Monumento al Mariscal Santa Cruz Calahumana.",
-    "image": "https://picsum.photos/800/600?random=25",
+    "id": "madrid_25",
+    "name": "Matadero Madrid",
+    "description": "Matadero Madrid, madrid şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=24",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 40.4363339,
-      "longitude": -3.7253553
+      "latitude": 40.43056827260313,
+      "longitude": -3.7399251389115795
     },
     "estimatedDuration": 63,
     "openingTime": "09:00",
@@ -468,214 +450,232 @@
     ]
   },
   {
-    "id": "madrid_27",
-    "name": "Cánovas del Castillo",
-    "description": "madrid'de ziyaret edilebilecek popüler bir nokta: Cánovas del Castillo.",
-    "image": "https://picsum.photos/800/600?random=26",
+    "id": "madrid_26",
+    "name": "CaixaForum Madrid",
+    "description": "CaixaForum Madrid, madrid şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://images.pexels.com/photos/34897642/pexels-photo-34897642.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 40.4209325,
-      "longitude": -3.7115357
+      "latitude": 40.38803997154939,
+      "longitude": -3.678296615834064
     },
-    "estimatedDuration": 47,
+    "estimatedDuration": 175,
     "openingTime": "09:00",
     "closingTime": "18:00",
     "cost": 0,
     "interests": [
       "Tarihi"
+    ]
+  },
+  {
+    "id": "madrid_27",
+    "name": "National Archaeological Museum",
+    "description": "National Archaeological Museum, madrid şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=26",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 40.40609544392319,
+      "longitude": -3.6863470286114426
+    },
+    "estimatedDuration": 103,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
     ]
   },
   {
     "id": "madrid_28",
-    "name": "Santo Domingo de la Calzada",
-    "description": "madrid'in tarihi ibadet yapılarından biri.",
+    "name": "Sorolla Museum",
+    "description": "Sorolla Museum, madrid şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=27",
-    "category": "Tarihi",
+    "category": "Müze",
     "coordinates": {
-      "latitude": 40.4742726,
-      "longitude": -3.7436079
+      "latitude": 40.421111140774215,
+      "longitude": -3.69713710584573
     },
-    "estimatedDuration": 71,
+    "estimatedDuration": 136,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 0,
+    "cost": 230,
     "interests": [
-      "Tarihi"
+      "Müze"
     ]
   },
   {
     "id": "madrid_29",
-    "name": "Cerro de Garabitas",
-    "description": "madrid'de ziyaret edilebilecek popüler bir nokta: Cerro de Garabitas.",
+    "name": "Cerralbo Museum",
+    "description": "Cerralbo Museum, madrid şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=28",
-    "category": "Tarihi",
+    "category": "Müze",
     "coordinates": {
-      "latitude": 40.4344943,
-      "longitude": -3.7564977
+      "latitude": 40.38801583664415,
+      "longitude": -3.7176601777587646
     },
-    "estimatedDuration": 38,
+    "estimatedDuration": 115,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 107,
+    "cost": 0,
     "interests": [
-      "Tarihi"
+      "Müze"
     ]
   },
   {
     "id": "madrid_30",
-    "name": "Iglesia de San Lorenzo",
-    "description": "madrid'in tarihi ibadet yapılarından biri.",
+    "name": "Lázaro Galdiano Museum",
+    "description": "Lázaro Galdiano Museum, madrid şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=29",
-    "category": "Tarihi",
+    "category": "Müze",
     "coordinates": {
-      "latitude": 40.4085654,
-      "longitude": -3.6987855
+      "latitude": 40.39503052681852,
+      "longitude": -3.7036515439057998
     },
-    "estimatedDuration": 65,
+    "estimatedDuration": 156,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 0,
+    "cost": 357,
     "interests": [
-      "Tarihi"
+      "Müze"
     ]
   },
   {
     "id": "madrid_31",
-    "name": "Centro de Arte Dos de Mayo (CA2M)",
-    "description": "madrid'de bulunan önemli bir müze.",
+    "name": "Museum of the Americas",
+    "description": "Museum of the Americas, madrid şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=30",
     "category": "Müze",
     "coordinates": {
-      "latitude": 40.3247132,
-      "longitude": -3.8633021
+      "latitude": 40.43847750932562,
+      "longitude": -3.6731956224787905
     },
-    "estimatedDuration": 53,
+    "estimatedDuration": 138,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 0,
+    "cost": 350,
     "interests": [
       "Müze"
     ]
   },
   {
     "id": "madrid_32",
-    "name": "Monumento a Bernardo O'Higgins",
-    "description": "madrid'de ziyaret edilebilecek popüler bir nokta: Monumento a Bernardo O'Higgins.",
+    "name": "Naval Museum",
+    "description": "Naval Museum, madrid şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=31",
-    "category": "Tarihi",
+    "category": "Müze",
     "coordinates": {
-      "latitude": 40.4338869,
-      "longitude": -3.7336755
+      "latitude": 40.45331492004102,
+      "longitude": -3.6638680854801953
     },
-    "estimatedDuration": 40,
+    "estimatedDuration": 108,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 0,
+    "cost": 63,
     "interests": [
-      "Tarihi"
+      "Müze"
     ]
   },
   {
     "id": "madrid_33",
-    "name": "Museo Sorolla",
-    "description": "madrid'de bulunan önemli bir müze.",
+    "name": "Romanticism Museum",
+    "description": "Romanticism Museum, madrid şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=32",
     "category": "Müze",
     "coordinates": {
-      "latitude": 40.4353934,
-      "longitude": -3.692512
+      "latitude": 40.428843094785464,
+      "longitude": -3.7063147729737858
     },
-    "estimatedDuration": 38,
+    "estimatedDuration": 129,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 0,
+    "cost": 45,
     "interests": [
       "Müze"
     ]
   },
   {
     "id": "madrid_34",
-    "name": "Exedra",
-    "description": "madrid'de ziyaret edilebilecek popüler bir nokta: Exedra.",
+    "name": "History Museum of Madrid",
+    "description": "History Museum of Madrid, madrid şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=33",
-    "category": "Tarihi",
+    "category": "Müze",
     "coordinates": {
-      "latitude": 40.4558352,
-      "longitude": -3.5971753
+      "latitude": 40.387758936013945,
+      "longitude": -3.7434452311689865
     },
-    "estimatedDuration": 41,
+    "estimatedDuration": 154,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 0,
+    "cost": 286,
     "interests": [
-      "Tarihi"
+      "Müze"
     ]
   },
   {
     "id": "madrid_35",
-    "name": "Abismo",
-    "description": "madrid'de ziyaret edilebilecek popüler bir nokta: Abismo.",
+    "name": "Railway Museum",
+    "description": "Railway Museum, madrid şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=34",
-    "category": "Tarihi",
+    "category": "Müze",
     "coordinates": {
-      "latitude": 40.4127479,
-      "longitude": -3.7492941
+      "latitude": 40.44959090790711,
+      "longitude": -3.717153731440764
     },
-    "estimatedDuration": 50,
+    "estimatedDuration": 77,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 0,
+    "cost": 78,
     "interests": [
-      "Tarihi"
+      "Müze"
     ]
   },
   {
     "id": "madrid_36",
-    "name": "Tornado",
-    "description": "madrid'de ziyaret edilebilecek popüler bir nokta: Tornado.",
+    "name": "Planetarium",
+    "description": "Planetarium, madrid şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=35",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 40.4135367,
-      "longitude": -3.7487219
+      "latitude": 40.43661767161321,
+      "longitude": -3.7052915569016767
     },
-    "estimatedDuration": 74,
+    "estimatedDuration": 85,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 0,
+    "cost": 106,
     "interests": [
       "Tarihi"
     ]
   },
   {
     "id": "madrid_37",
-    "name": "Estatua de Goya",
-    "description": "madrid'de ziyaret edilebilecek popüler bir nokta: Estatua de Goya.",
+    "name": "Faro de Moncloa",
+    "description": "Faro de Moncloa, madrid şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=36",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 40.414983,
-      "longitude": -3.6925365
+      "latitude": 40.41731704593263,
+      "longitude": -3.743395101227829
     },
-    "estimatedDuration": 82,
+    "estimatedDuration": 145,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 30,
+    "cost": 130,
     "interests": [
       "Tarihi"
     ]
   },
   {
     "id": "madrid_38",
-    "name": "Monumento a los caídos en el cuartel de la Montaña",
-    "description": "madrid'de ziyaret edilebilecek popüler bir nokta: Monumento a los caídos en el cuartel de la Montaña.",
+    "name": "Teleférico de Madrid",
+    "description": "Teleférico de Madrid, madrid şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=37",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 40.4242734,
-      "longitude": -3.7164598
+      "latitude": 40.44666439998557,
+      "longitude": -3.7278742904051883
     },
-    "estimatedDuration": 31,
+    "estimatedDuration": 103,
     "openingTime": "09:00",
     "closingTime": "18:00",
     "cost": 0,
@@ -685,33 +685,33 @@
   },
   {
     "id": "madrid_39",
-    "name": "Monumento a la Hispanidad",
-    "description": "madrid'de ziyaret edilebilecek popüler bir nokta: Monumento a la Hispanidad.",
+    "name": "Plaza de la Villa",
+    "description": "Plaza de la Villa, madrid şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=38",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 40.437641,
-      "longitude": -3.7212364
+      "latitude": 40.393141298161545,
+      "longitude": -3.6639189620097246
     },
-    "estimatedDuration": 73,
+    "estimatedDuration": 79,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 30,
+    "cost": 54,
     "interests": [
       "Tarihi"
     ]
   },
   {
     "id": "madrid_40",
-    "name": "Jaime I El Conquistador, Rey de Aragón",
-    "description": "madrid'de ziyaret edilebilecek popüler bir nokta: Jaime I El Conquistador, Rey de Aragón.",
+    "name": "Plaza de Santa Ana",
+    "description": "Plaza de Santa Ana, madrid şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=39",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 40.429222,
-      "longitude": -3.7239872
+      "latitude": 40.40126809390079,
+      "longitude": -3.671339456274801
     },
-    "estimatedDuration": 39,
+    "estimatedDuration": 170,
     "openingTime": "09:00",
     "closingTime": "18:00",
     "cost": 0,
@@ -721,33 +721,15 @@
   },
   {
     "id": "madrid_41",
-    "name": "Museo ABC",
-    "description": "madrid'de bulunan önemli bir müze.",
+    "name": "Plaza de Oriente",
+    "description": "Plaza de Oriente, madrid şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=40",
-    "category": "Müze",
-    "coordinates": {
-      "latitude": 40.4276832,
-      "longitude": -3.7096739
-    },
-    "estimatedDuration": 45,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 194,
-    "interests": [
-      "Müze"
-    ]
-  },
-  {
-    "id": "madrid_42",
-    "name": "Estatua del Marqués del Duero",
-    "description": "madrid'de ziyaret edilebilecek popüler bir nokta: Estatua del Marqués del Duero.",
-    "image": "https://picsum.photos/800/600?random=41",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 40.4380057,
-      "longitude": -3.6906957
+      "latitude": 40.39969343728265,
+      "longitude": -3.7300565218215316
     },
-    "estimatedDuration": 42,
+    "estimatedDuration": 128,
     "openingTime": "09:00",
     "closingTime": "18:00",
     "cost": 0,
@@ -756,16 +738,34 @@
     ]
   },
   {
+    "id": "madrid_42",
+    "name": "Plaza de Colón",
+    "description": "Plaza de Colón, madrid şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=41",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 40.432134553418464,
+      "longitude": -3.7347712316655253
+    },
+    "estimatedDuration": 112,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 364,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
     "id": "madrid_43",
-    "name": "Estatua a Bravo Murillo",
-    "description": "madrid'de ziyaret edilebilecek popüler bir nokta: Estatua a Bravo Murillo.",
+    "name": "Paseo del Prado",
+    "description": "Paseo del Prado, madrid şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=42",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 40.4388882,
-      "longitude": -3.7038918
+      "latitude": 40.41002366751353,
+      "longitude": -3.674670980695556
     },
-    "estimatedDuration": 51,
+    "estimatedDuration": 113,
     "openingTime": "09:00",
     "closingTime": "18:00",
     "cost": 0,
@@ -775,51 +775,51 @@
   },
   {
     "id": "madrid_44",
-    "name": "Monumento a José Martí",
-    "description": "madrid'de ziyaret edilebilecek popüler bir nokta: Monumento a José Martí.",
+    "name": "Calle de Alcalá",
+    "description": "Calle de Alcalá, madrid şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=43",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 40.4492877,
-      "longitude": -3.6891084
+      "latitude": 40.39079215000241,
+      "longitude": -3.6678627024717905
     },
-    "estimatedDuration": 30,
+    "estimatedDuration": 70,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 0,
+    "cost": 205,
     "interests": [
       "Tarihi"
     ]
   },
   {
     "id": "madrid_45",
-    "name": "Capilla de Nuestra Señora de la Soledad",
-    "description": "madrid'in tarihi ibadet yapılarından biri.",
+    "name": "Calle de Serrano",
+    "description": "Calle de Serrano, madrid şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=44",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 40.423084,
-      "longitude": -3.7006213
+      "latitude": 40.39346820141127,
+      "longitude": -3.727409004845124
     },
-    "estimatedDuration": 34,
+    "estimatedDuration": 94,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 183,
+    "cost": 421,
     "interests": [
       "Tarihi"
     ]
   },
   {
     "id": "madrid_46",
-    "name": "Monumento a las Brigadas Internacionales",
-    "description": "madrid'de ziyaret edilebilecek popüler bir nokta: Monumento a las Brigadas Internacionales.",
+    "name": "Chueca",
+    "description": "Chueca, madrid şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=45",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 40.4434071,
-      "longitude": -3.727791
+      "latitude": 40.3901531024132,
+      "longitude": -3.7283804901251067
     },
-    "estimatedDuration": 72,
+    "estimatedDuration": 92,
     "openingTime": "09:00",
     "closingTime": "18:00",
     "cost": 0,
@@ -829,33 +829,33 @@
   },
   {
     "id": "madrid_47",
-    "name": "Monumento a Sor Juana Inés de la Cruz",
-    "description": "madrid'de ziyaret edilebilecek popüler bir nokta: Monumento a Sor Juana Inés de la Cruz.",
+    "name": "Malasaña",
+    "description": "Malasaña, madrid şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=46",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 40.4234134,
-      "longitude": -3.7155474
+      "latitude": 40.44593549046538,
+      "longitude": -3.7095848482402776
     },
-    "estimatedDuration": 41,
+    "estimatedDuration": 145,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 126,
+    "cost": 307,
     "interests": [
       "Tarihi"
     ]
   },
   {
     "id": "madrid_48",
-    "name": "Monumento a Pío Baroja",
-    "description": "madrid'de ziyaret edilebilecek popüler bir nokta: Monumento a Pío Baroja.",
+    "name": "La Latina",
+    "description": "La Latina, madrid şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=47",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 40.409693,
-      "longitude": -3.6890671
+      "latitude": 40.42814637662491,
+      "longitude": -3.685823730254386
     },
-    "estimatedDuration": 55,
+    "estimatedDuration": 89,
     "openingTime": "09:00",
     "closingTime": "18:00",
     "cost": 0,
@@ -865,216 +865,36 @@
   },
   {
     "id": "madrid_49",
-    "name": "Museo de Arte Contemporáneo",
-    "description": "madrid'de bulunan önemli bir müze.",
+    "name": "Lavapiés",
+    "description": "Lavapiés, madrid şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=48",
-    "category": "Müze",
+    "category": "Tarihi",
     "coordinates": {
-      "latitude": 40.4276017,
-      "longitude": -3.7105347
+      "latitude": 40.38054219939471,
+      "longitude": -3.728787104455503
     },
-    "estimatedDuration": 73,
+    "estimatedDuration": 171,
     "openingTime": "09:00",
     "closingTime": "18:00",
     "cost": 0,
     "interests": [
-      "Müze"
+      "Tarihi"
     ]
   },
   {
     "id": "madrid_50",
-    "name": "Museo de Cera",
-    "description": "madrid'de bulunan önemli bir müze.",
+    "name": "Barrio de las Letras",
+    "description": "Barrio de las Letras, madrid şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=49",
-    "category": "Müze",
-    "coordinates": {
-      "latitude": 40.4248066,
-      "longitude": -3.6914067
-    },
-    "estimatedDuration": 48,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Müze"
-    ]
-  },
-  {
-    "id": "madrid_51",
-    "name": "Obelisco de la Arganzuela",
-    "description": "madrid'de ziyaret edilebilecek popüler bir nokta: Obelisco de la Arganzuela.",
-    "image": "https://picsum.photos/800/600?random=50",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 40.397409,
-      "longitude": -3.709034
+      "latitude": 40.43031822005037,
+      "longitude": -3.727249690136381
     },
-    "estimatedDuration": 49,
+    "estimatedDuration": 168,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "madrid_52",
-    "name": "Real Monasterio de Santa Isabel",
-    "description": "madrid'de bulunan önemli bir müze.",
-    "image": "https://picsum.photos/800/600?random=51",
-    "category": "Müze",
-    "coordinates": {
-      "latitude": 40.4094874,
-      "longitude": -3.6962417
-    },
-    "estimatedDuration": 84,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Müze"
-    ]
-  },
-  {
-    "id": "madrid_53",
-    "name": "Palacio Real de Madrid",
-    "description": "madrid'de bulunan önemli bir müze.",
-    "image": "https://picsum.photos/800/600?random=52",
-    "category": "Müze",
-    "coordinates": {
-      "latitude": 40.4167403,
-      "longitude": -3.7136222
-    },
-    "estimatedDuration": 50,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Müze"
-    ]
-  },
-  {
-    "id": "madrid_54",
-    "name": "Placa en honor a Carrero Blanco",
-    "description": "madrid'de ziyaret edilebilecek popüler bir nokta: Placa en honor a Carrero Blanco.",
-    "image": "https://picsum.photos/800/600?random=53",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 40.4341976,
-      "longitude": -3.6855851
-    },
-    "estimatedDuration": 39,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "madrid_55",
-    "name": "Placa en honor a los abogados de Atocha",
-    "description": "madrid'de ziyaret edilebilecek popüler bir nokta: Placa en honor a los abogados de Atocha.",
-    "image": "https://picsum.photos/800/600?random=54",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 40.4128196,
-      "longitude": -3.6998442
-    },
-    "estimatedDuration": 46,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "madrid_56",
-    "name": "Monumento a Agustín de Argüelles",
-    "description": "madrid'de ziyaret edilebilecek popüler bir nokta: Monumento a Agustín de Argüelles.",
-    "image": "https://picsum.photos/800/600?random=55",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 40.4253941,
-      "longitude": -3.7168491
-    },
-    "estimatedDuration": 67,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "madrid_57",
-    "name": "Capilla de Nuestra Señora y de san Juan de Letrán",
-    "description": "madrid'de ziyaret edilebilecek popüler bir nokta: Capilla de Nuestra Señora y de san Juan de Letrán.",
-    "image": "https://picsum.photos/800/600?random=56",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 40.4124918,
-      "longitude": -3.7115931
-    },
-    "estimatedDuration": 46,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 12,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "madrid_58",
-    "name": "Puente de la Cea",
-    "description": "madrid'de ziyaret edilebilecek popüler bir nokta: Puente de la Cea.",
-    "image": "https://picsum.photos/800/600?random=57",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 40.4484051,
-      "longitude": -3.6502259
-    },
-    "estimatedDuration": 83,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "madrid_59",
-    "name": "Monumento a Jacinto Benavente",
-    "description": "madrid'de ziyaret edilebilecek popüler bir nokta: Monumento a Jacinto Benavente.",
-    "image": "https://picsum.photos/800/600?random=58",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 40.4153063,
-      "longitude": -3.6869033
-    },
-    "estimatedDuration": 69,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "madrid_60",
-    "name": "Ramón de Campoamor",
-    "description": "madrid'de ziyaret edilebilecek popüler bir nokta: Ramón de Campoamor.",
-    "image": "https://picsum.photos/800/600?random=59",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 40.4129383,
-      "longitude": -3.6796489
-    },
-    "estimatedDuration": 44,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
+    "cost": 452,
     "interests": [
       "Tarihi"
     ]

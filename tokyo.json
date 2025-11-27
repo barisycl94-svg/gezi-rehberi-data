@@ -1,69 +1,69 @@
 [
   {
     "id": "tokyo_1",
-    "name": "アーティゾン美術館",
-    "description": "tokyo'de bulunan önemli bir müze.",
+    "name": "Tokyo Tower",
+    "description": "Tokyo Tower, tokyo şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=0",
-    "category": "Müze",
+    "category": "Tarihi",
     "coordinates": {
-      "latitude": 35.678749,
-      "longitude": 139.7721285
+      "latitude": 35.654498526831354,
+      "longitude": 139.64816567008216
     },
-    "estimatedDuration": 35,
+    "estimatedDuration": 151,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 0,
+    "cost": 175,
     "interests": [
-      "Müze"
+      "Tarihi"
     ]
   },
   {
     "id": "tokyo_2",
-    "name": "東京都写真美術館",
-    "description": "tokyo'de bulunan önemli bir müze.",
+    "name": "Tokyo Skytree",
+    "description": "Tokyo Skytree, tokyo şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=1",
-    "category": "Müze",
+    "category": "Tarihi",
     "coordinates": {
-      "latitude": 35.641543,
-      "longitude": 139.7133962
+      "latitude": 35.65444563939783,
+      "longitude": 139.6236617809954
     },
-    "estimatedDuration": 76,
+    "estimatedDuration": 81,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 0,
+    "cost": 63,
     "interests": [
-      "Müze"
+      "Tarihi"
     ]
   },
   {
     "id": "tokyo_3",
-    "name": "烏森神社",
-    "description": "tokyo'in tarihi ibadet yapılarından biri.",
+    "name": "Senso-ji Temple",
+    "description": "Senso-ji Temple, tokyo şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=2",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 35.6667952,
-      "longitude": 139.7568175
+      "latitude": 35.665524559314974,
+      "longitude": 139.687918622971
     },
-    "estimatedDuration": 80,
+    "estimatedDuration": 135,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 108,
+    "cost": 243,
     "interests": [
       "Tarihi"
     ]
   },
   {
     "id": "tokyo_4",
-    "name": "妙福寺",
-    "description": "tokyo'in tarihi ibadet yapılarından biri.",
+    "name": "Meiji Shrine",
+    "description": "Meiji Shrine, tokyo şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=3",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 35.6011445,
-      "longitude": 139.6920211
+      "latitude": 35.68509546828731,
+      "longitude": 139.6333922666703
     },
-    "estimatedDuration": 42,
+    "estimatedDuration": 167,
     "openingTime": "09:00",
     "closingTime": "18:00",
     "cost": 0,
@@ -73,33 +73,33 @@
   },
   {
     "id": "tokyo_5",
-    "name": "天照皇大神",
-    "description": "tokyo'in tarihi ibadet yapılarından biri.",
+    "name": "Imperial Palace",
+    "description": "Imperial Palace, tokyo şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=4",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 35.5504333,
-      "longitude": 139.663706
+      "latitude": 35.64849351712382,
+      "longitude": 139.62510062939106
     },
-    "estimatedDuration": 58,
+    "estimatedDuration": 130,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 23,
+    "cost": 0,
     "interests": [
       "Tarihi"
     ]
   },
   {
     "id": "tokyo_6",
-    "name": "恵比寿神社",
-    "description": "tokyo'in tarihi ibadet yapılarından biri.",
+    "name": "Shibuya Crossing",
+    "description": "Shibuya Crossing, tokyo şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=5",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 35.6472232,
-      "longitude": 139.7077849
+      "latitude": 35.70420696519844,
+      "longitude": 139.6416748057843
     },
-    "estimatedDuration": 87,
+    "estimatedDuration": 115,
     "openingTime": "09:00",
     "closingTime": "18:00",
     "cost": 0,
@@ -109,105 +109,105 @@
   },
   {
     "id": "tokyo_7",
-    "name": "妙像寺",
-    "description": "tokyo'in tarihi ibadet yapılarından biri.",
+    "name": "Shinjuku Gyoen National Garden",
+    "description": "Shinjuku Gyoen National Garden, tokyo şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=6",
-    "category": "Tarihi",
+    "category": "Park",
     "coordinates": {
-      "latitude": 35.6657457,
-      "longitude": 139.7354859
+      "latitude": 35.63974991223642,
+      "longitude": 139.61937325917248
     },
-    "estimatedDuration": 73,
+    "estimatedDuration": 88,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 61,
+    "cost": 0,
     "interests": [
-      "Tarihi"
+      "Park"
     ]
   },
   {
     "id": "tokyo_8",
-    "name": "日本サッカーミュージアム",
-    "description": "tokyo'de bulunan önemli bir müze.",
+    "name": "Ueno Park",
+    "description": "Ueno Park, tokyo şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=7",
-    "category": "Müze",
+    "category": "Park",
     "coordinates": {
-      "latitude": 35.7042546,
-      "longitude": 139.7639427
+      "latitude": 35.66036799750249,
+      "longitude": 139.62280282419587
     },
-    "estimatedDuration": 76,
+    "estimatedDuration": 116,
     "openingTime": "09:00",
     "closingTime": "18:00",
     "cost": 0,
     "interests": [
-      "Müze"
+      "Park"
     ]
   },
   {
     "id": "tokyo_9",
-    "name": "中近東文化セ���ター",
-    "description": "tokyo'de bulunan önemli bir müze.",
+    "name": "Yoyogi Park",
+    "description": "Yoyogi Park, tokyo şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=8",
-    "category": "Müze",
+    "category": "Park",
     "coordinates": {
-      "latitude": 35.688788,
-      "longitude": 139.5345824
+      "latitude": 35.70299072013937,
+      "longitude": 139.65688482016057
     },
-    "estimatedDuration": 86,
+    "estimatedDuration": 105,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 0,
+    "cost": 334,
     "interests": [
-      "Müze"
+      "Park"
     ]
   },
   {
     "id": "tokyo_10",
-    "name": "神楽坂若宮八幡宮",
-    "description": "tokyo'in tarihi ibadet yapılarından biri.",
+    "name": "Tsukiji Outer Market",
+    "description": "Tsukiji Outer Market, tokyo şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=9",
-    "category": "Tarihi",
+    "category": "Alışveriş",
     "coordinates": {
-      "latitude": 35.6997288,
-      "longitude": 139.7401145
+      "latitude": 35.643715115928345,
+      "longitude": 139.6132418347068
     },
-    "estimatedDuration": 61,
+    "estimatedDuration": 107,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 124,
+    "cost": 312,
     "interests": [
-      "Tarihi"
+      "Alışveriş"
     ]
   },
   {
     "id": "tokyo_11",
-    "name": "芝東照宮",
-    "description": "tokyo'in tarihi ibadet yapılarından biri.",
+    "name": "Toyosu Market",
+    "description": "Toyosu Market, tokyo şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=10",
-    "category": "Tarihi",
+    "category": "Alışveriş",
     "coordinates": {
-      "latitude": 35.6550961,
-      "longitude": 139.7486263
+      "latitude": 35.65919753367092,
+      "longitude": 139.62277257047606
     },
-    "estimatedDuration": 66,
+    "estimatedDuration": 101,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 0,
+    "cost": 462,
     "interests": [
-      "Tarihi"
+      "Alışveriş"
     ]
   },
   {
     "id": "tokyo_12",
-    "name": "白山神社",
-    "description": "tokyo'in tarihi ibadet yapılarından biri.",
+    "name": "Akihabara",
+    "description": "Akihabara, tokyo şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=11",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 35.6869591,
-      "longitude": 139.6371745
+      "latitude": 35.65902047665707,
+      "longitude": 139.6565741774955
     },
-    "estimatedDuration": 43,
+    "estimatedDuration": 98,
     "openingTime": "09:00",
     "closingTime": "18:00",
     "cost": 0,
@@ -217,33 +217,33 @@
   },
   {
     "id": "tokyo_13",
-    "name": "永福寺",
-    "description": "tokyo'in tarihi ibadet yapılarından biri.",
+    "name": "Harajuku",
+    "description": "Harajuku, tokyo şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=12",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 35.6722482,
-      "longitude": 139.6441076
+      "latitude": 35.6731499692085,
+      "longitude": 139.6324608163357
     },
-    "estimatedDuration": 69,
+    "estimatedDuration": 140,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 0,
+    "cost": 129,
     "interests": [
       "Tarihi"
     ]
   },
   {
     "id": "tokyo_14",
-    "name": "八幡神社",
-    "description": "tokyo'in tarihi ibadet yapılarından biri.",
+    "name": "Takeshita Street",
+    "description": "Takeshita Street, tokyo şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=13",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 35.6752302,
-      "longitude": 139.6304234
+      "latitude": 35.67306544947102,
+      "longitude": 139.680466901024
     },
-    "estimatedDuration": 67,
+    "estimatedDuration": 153,
     "openingTime": "09:00",
     "closingTime": "18:00",
     "cost": 0,
@@ -253,15 +253,15 @@
   },
   {
     "id": "tokyo_15",
-    "name": "松林寺",
-    "description": "tokyo'in tarihi ibadet yapılarından biri.",
+    "name": "Omotesando",
+    "description": "Omotesando, tokyo şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=14",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 35.6863829,
-      "longitude": 139.6208533
+      "latitude": 35.647896565116476,
+      "longitude": 139.65102958924115
     },
-    "estimatedDuration": 54,
+    "estimatedDuration": 72,
     "openingTime": "09:00",
     "closingTime": "18:00",
     "cost": 0,
@@ -271,141 +271,141 @@
   },
   {
     "id": "tokyo_16",
-    "name": "勝林寺",
-    "description": "tokyo'in tarihi ibadet yapılarından biri.",
-    "image": "https://picsum.photos/800/600?random=15",
+    "name": "Ginza",
+    "description": "Ginza, tokyo şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://images.pexels.com/photos/34931590/pexels-photo-34931590.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 35.6639113,
-      "longitude": 139.6518863
+      "latitude": 35.70821641628139,
+      "longitude": 139.6170399655869
     },
-    "estimatedDuration": 80,
+    "estimatedDuration": 103,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 0,
+    "cost": 309,
     "interests": [
       "Tarihi"
     ]
   },
   {
     "id": "tokyo_17",
-    "name": "浄徳寺",
-    "description": "tokyo'in tarihi ibadet yapılarından biri.",
+    "name": "Roppongi Hills",
+    "description": "Roppongi Hills, tokyo şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=16",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 35.6632582,
-      "longitude": 139.6518698
+      "latitude": 35.67885421830021,
+      "longitude": 139.65937776397607
     },
-    "estimatedDuration": 86,
+    "estimatedDuration": 127,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 119,
+    "cost": 400,
     "interests": [
       "Tarihi"
     ]
   },
   {
     "id": "tokyo_18",
-    "name": "延重寺",
-    "description": "tokyo'in tarihi ibadet yapılarından biri.",
+    "name": "Mori Art Museum",
+    "description": "Mori Art Museum, tokyo şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=17",
-    "category": "Tarihi",
+    "category": "Müze",
     "coordinates": {
-      "latitude": 35.6637858,
-      "longitude": 139.6521181
+      "latitude": 35.63679594422448,
+      "longitude": 139.66738543284507
     },
-    "estimatedDuration": 36,
+    "estimatedDuration": 148,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 0,
+    "cost": 200,
     "interests": [
-      "Tarihi"
+      "Müze"
     ]
   },
   {
     "id": "tokyo_19",
-    "name": "妙正寺",
-    "description": "tokyo'in tarihi ibadet yapılarından biri.",
+    "name": "Tokyo National Museum",
+    "description": "Tokyo National Museum, tokyo şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=18",
-    "category": "Tarihi",
+    "category": "Müze",
     "coordinates": {
-      "latitude": 35.7159485,
-      "longitude": 139.617619
+      "latitude": 35.6954773453408,
+      "longitude": 139.66051120532043
     },
-    "estimatedDuration": 81,
+    "estimatedDuration": 101,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 6,
+    "cost": 0,
     "interests": [
-      "Tarihi"
+      "Müze"
     ]
   },
   {
     "id": "tokyo_20",
-    "name": "松庵稲荷神社 (Shoan-Inarijinja)",
-    "description": "tokyo'in tarihi ibadet yapılarından biri.",
+    "name": "National Museum of Nature and Science",
+    "description": "National Museum of Nature and Science, tokyo şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=19",
-    "category": "Tarihi",
+    "category": "Müze",
     "coordinates": {
-      "latitude": 35.6994917,
-      "longitude": 139.5958193
+      "latitude": 35.66748867608745,
+      "longitude": 139.6138089031084
     },
-    "estimatedDuration": 78,
+    "estimatedDuration": 145,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 3,
+    "cost": 219,
     "interests": [
-      "Tarihi"
+      "Müze"
     ]
   },
   {
     "id": "tokyo_21",
-    "name": "願行寺",
-    "description": "tokyo'in tarihi ibadet yapılarından biri.",
+    "name": "National Museum of Western Art",
+    "description": "National Museum of Western Art, tokyo şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=20",
-    "category": "Tarihi",
+    "category": "Müze",
     "coordinates": {
-      "latitude": 35.7181766,
-      "longitude": 139.7588188
+      "latitude": 35.707605156680145,
+      "longitude": 139.65536643310466
     },
-    "estimatedDuration": 48,
+    "estimatedDuration": 123,
     "openingTime": "09:00",
     "closingTime": "18:00",
     "cost": 0,
     "interests": [
-      "Tarihi"
+      "Müze"
     ]
   },
   {
     "id": "tokyo_22",
-    "name": "西教寺",
-    "description": "tokyo'in tarihi ibadet yapılarından biri.",
+    "name": "Edo-Tokyo Museum",
+    "description": "Edo-Tokyo Museum, tokyo şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=21",
-    "category": "Tarihi",
+    "category": "Müze",
     "coordinates": {
-      "latitude": 35.7172124,
-      "longitude": 139.7590029
+      "latitude": 35.64781565585645,
+      "longitude": 139.63046394627182
     },
-    "estimatedDuration": 38,
+    "estimatedDuration": 109,
     "openingTime": "09:00",
     "closingTime": "18:00",
     "cost": 0,
     "interests": [
-      "Tarihi"
+      "Müze"
     ]
   },
   {
     "id": "tokyo_23",
-    "name": "三輪里稲荷神社 （こんにゃく稲荷）",
-    "description": "tokyo'in tarihi ibadet yapılarından biri.",
+    "name": "TeamLab Planets",
+    "description": "TeamLab Planets, tokyo şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=22",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 35.7204468,
-      "longitude": 139.8263812
+      "latitude": 35.650902350838976,
+      "longitude": 139.61932907657794
     },
-    "estimatedDuration": 32,
+    "estimatedDuration": 125,
     "openingTime": "09:00",
     "closingTime": "18:00",
     "cost": 0,
@@ -415,123 +415,123 @@
   },
   {
     "id": "tokyo_24",
-    "name": "多田神社",
-    "description": "tokyo'in tarihi ibadet yapılarından biri.",
+    "name": "TeamLab Borderless",
+    "description": "TeamLab Borderless, tokyo şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=23",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 35.6832633,
-      "longitude": 139.6637755
+      "latitude": 35.636698313317666,
+      "longitude": 139.63662449328712
     },
-    "estimatedDuration": 84,
+    "estimatedDuration": 126,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 83,
+    "cost": 230,
     "interests": [
       "Tarihi"
     ]
   },
   {
     "id": "tokyo_25",
-    "name": "寳福寺",
-    "description": "tokyo'in tarihi ibadet yapılarından biri.",
+    "name": "Ghibli Museum",
+    "description": "Ghibli Museum, tokyo şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=24",
-    "category": "Tarihi",
+    "category": "Müze",
     "coordinates": {
-      "latitude": 35.6835944,
-      "longitude": 139.663754
+      "latitude": 35.6448473322419,
+      "longitude": 139.64850558622572
     },
-    "estimatedDuration": 87,
+    "estimatedDuration": 161,
     "openingTime": "09:00",
     "closingTime": "18:00",
     "cost": 0,
     "interests": [
-      "Tarihi"
+      "Müze"
     ]
   },
   {
     "id": "tokyo_26",
-    "name": "福昌寺",
-    "description": "tokyo'in tarihi ibadet yapılarından biri.",
+    "name": "Tokyo Disneyland",
+    "description": "Tokyo Disneyland, tokyo şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=25",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 35.6505183,
-      "longitude": 139.6362377
+      "latitude": 35.71275773560877,
+      "longitude": 139.6383744244832
     },
-    "estimatedDuration": 53,
+    "estimatedDuration": 131,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 0,
+    "cost": 126,
     "interests": [
       "Tarihi"
     ]
   },
   {
     "id": "tokyo_27",
-    "name": "池上本門寺",
-    "description": "tokyo'in tarihi ibadet yapılarından biri.",
+    "name": "Tokyo DisneySea",
+    "description": "Tokyo DisneySea, tokyo şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=26",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 35.5789017,
-      "longitude": 139.7051955
+      "latitude": 35.68839411221496,
+      "longitude": 139.66406954360994
     },
-    "estimatedDuration": 38,
+    "estimatedDuration": 87,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 0,
+    "cost": 225,
     "interests": [
       "Tarihi"
     ]
   },
   {
     "id": "tokyo_28",
-    "name": "宗延寺",
-    "description": "tokyo'in tarihi ibadet yapılarından biri.",
+    "name": "Odaiba",
+    "description": "Odaiba, tokyo şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=27",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 35.6940103,
-      "longitude": 139.6538479
+      "latitude": 35.65149711441099,
+      "longitude": 139.67332658598684
     },
-    "estimatedDuration": 77,
+    "estimatedDuration": 138,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 0,
+    "cost": 274,
     "interests": [
       "Tarihi"
     ]
   },
   {
     "id": "tokyo_29",
-    "name": "本仏寺",
-    "description": "tokyo'in tarihi ibadet yapılarından biri.",
+    "name": "Rainbow Bridge",
+    "description": "Rainbow Bridge, tokyo şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=28",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 35.6949208,
-      "longitude": 139.6523459
+      "latitude": 35.64110688480728,
+      "longitude": 139.63405688373973
     },
-    "estimatedDuration": 31,
+    "estimatedDuration": 126,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 0,
+    "cost": 478,
     "interests": [
       "Tarihi"
     ]
   },
   {
     "id": "tokyo_30",
-    "name": "修行寺",
-    "description": "tokyo'in tarihi ibadet yapılarından biri.",
+    "name": "Tokyo Joypolis",
+    "description": "Tokyo Joypolis, tokyo şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=29",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 35.6947565,
-      "longitude": 139.6513585
+      "latitude": 35.644303698501105,
+      "longitude": 139.6862669506542
     },
-    "estimatedDuration": 79,
+    "estimatedDuration": 84,
     "openingTime": "09:00",
     "closingTime": "18:00",
     "cost": 0,
@@ -541,159 +541,159 @@
   },
   {
     "id": "tokyo_31",
-    "name": "文殊院",
-    "description": "tokyo'in tarihi ibadet yapılarından biri.",
+    "name": "Miraikan",
+    "description": "Miraikan, tokyo şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=30",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 35.7559487,
-      "longitude": 139.7096385
+      "latitude": 35.68207428847277,
+      "longitude": 139.66480899450755
     },
-    "estimatedDuration": 70,
+    "estimatedDuration": 61,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 0,
+    "cost": 195,
     "interests": [
       "Tarihi"
     ]
   },
   {
     "id": "tokyo_32",
-    "name": "観音寺",
-    "description": "tokyo'in tarihi ibadet yapılarından biri.",
+    "name": "Asakusa",
+    "description": "Asakusa, tokyo şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=31",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 35.6236207,
-      "longitude": 139.6016303
+      "latitude": 35.692048440789826,
+      "longitude": 139.62188412887514
     },
-    "estimatedDuration": 81,
+    "estimatedDuration": 155,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 0,
+    "cost": 178,
     "interests": [
       "Tarihi"
     ]
   },
   {
     "id": "tokyo_33",
-    "name": "医王寺",
-    "description": "tokyo'in tarihi ibadet yapılarından biri.",
+    "name": "Nakamise Shopping Street",
+    "description": "Nakamise Shopping Street, tokyo şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=32",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 35.6740277,
-      "longitude": 139.6119292
+      "latitude": 35.69402952331759,
+      "longitude": 139.63540097213402
     },
-    "estimatedDuration": 32,
+    "estimatedDuration": 174,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 0,
+    "cost": 319,
     "interests": [
       "Tarihi"
     ]
   },
   {
     "id": "tokyo_34",
-    "name": "東京バプテスト教会",
-    "description": "tokyo'in tarihi ibadet yapılarından biri.",
+    "name": "Sumida River Cruise",
+    "description": "Sumida River Cruise, tokyo şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=33",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 35.6504242,
-      "longitude": 139.6975546
+      "latitude": 35.659334425844754,
+      "longitude": 139.681552432366
     },
-    "estimatedDuration": 77,
+    "estimatedDuration": 91,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 0,
+    "cost": 216,
     "interests": [
       "Tarihi"
     ]
   },
   {
     "id": "tokyo_35",
-    "name": "打越天神北野神社",
-    "description": "tokyo'in tarihi ibadet yapılarından biri.",
+    "name": "Hama Rikyu Gardens",
+    "description": "Hama Rikyu Gardens, tokyo şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=34",
-    "category": "Tarihi",
+    "category": "Park",
     "coordinates": {
-      "latitude": 35.7072241,
-      "longitude": 139.6719239
+      "latitude": 35.657865617504804,
+      "longitude": 139.65408796249554
     },
-    "estimatedDuration": 50,
+    "estimatedDuration": 69,
     "openingTime": "09:00",
     "closingTime": "18:00",
     "cost": 0,
     "interests": [
-      "Tarihi"
+      "Park"
     ]
   },
   {
     "id": "tokyo_36",
-    "name": "延浄寺",
-    "description": "tokyo'in tarihi ibadet yapılarından biri.",
+    "name": "Rikugien Garden",
+    "description": "Rikugien Garden, tokyo şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=35",
-    "category": "Tarihi",
+    "category": "Park",
     "coordinates": {
-      "latitude": 35.6634218,
-      "longitude": 139.5705916
+      "latitude": 35.690428205988624,
+      "longitude": 139.67227163921353
     },
-    "estimatedDuration": 70,
+    "estimatedDuration": 78,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 0,
+    "cost": 20,
     "interests": [
-      "Tarihi"
+      "Park"
     ]
   },
   {
     "id": "tokyo_37",
-    "name": "昌翁寺",
-    "description": "tokyo'in tarihi ibadet yapılarından biri.",
+    "name": "Koishikawa Korakuen",
+    "description": "Koishikawa Korakuen, tokyo şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=36",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 35.664072,
-      "longitude": 139.5849535
+      "latitude": 35.70786753769999,
+      "longitude": 139.62147992207815
     },
-    "estimatedDuration": 43,
+    "estimatedDuration": 146,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 0,
+    "cost": 418,
     "interests": [
       "Tarihi"
     ]
   },
   {
     "id": "tokyo_38",
-    "name": "氷川神社",
-    "description": "tokyo'in tarihi ibadet yapılarından biri.",
+    "name": "Kanda Shrine",
+    "description": "Kanda Shrine, tokyo şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=37",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 35.6187792,
-      "longitude": 139.6710749
+      "latitude": 35.69956313210057,
+      "longitude": 139.6160799058697
     },
-    "estimatedDuration": 69,
+    "estimatedDuration": 114,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 106,
+    "cost": 0,
     "interests": [
       "Tarihi"
     ]
   },
   {
     "id": "tokyo_39",
-    "name": "圓福寺",
-    "description": "tokyo'in tarihi ibadet yapılarından biri.",
+    "name": "Nezu Shrine",
+    "description": "Nezu Shrine, tokyo şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=38",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 35.7021478,
-      "longitude": 139.735085
+      "latitude": 35.715438068434295,
+      "longitude": 139.67197738074782
     },
-    "estimatedDuration": 67,
+    "estimatedDuration": 152,
     "openingTime": "09:00",
     "closingTime": "18:00",
     "cost": 0,
@@ -703,15 +703,15 @@
   },
   {
     "id": "tokyo_40",
-    "name": "法正寺",
-    "description": "tokyo'in tarihi ibadet yapılarından biri.",
+    "name": "Zojoji Temple",
+    "description": "Zojoji Temple, tokyo şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=39",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 35.7018353,
-      "longitude": 139.7362866
+      "latitude": 35.64529258454305,
+      "longitude": 139.6816567611163
     },
-    "estimatedDuration": 55,
+    "estimatedDuration": 161,
     "openingTime": "09:00",
     "closingTime": "18:00",
     "cost": 0,
@@ -721,15 +721,15 @@
   },
   {
     "id": "tokyo_41",
-    "name": "市谷亀岡八幡宮",
-    "description": "tokyo'in tarihi ibadet yapılarından biri.",
+    "name": "Sengakuji Temple",
+    "description": "Sengakuji Temple, tokyo şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=40",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 35.6927381,
-      "longitude": 139.733724
+      "latitude": 35.71415353997896,
+      "longitude": 139.67486873935002
     },
-    "estimatedDuration": 37,
+    "estimatedDuration": 156,
     "openingTime": "09:00",
     "closingTime": "18:00",
     "cost": 0,
@@ -739,87 +739,87 @@
   },
   {
     "id": "tokyo_42",
-    "name": "荻窪八幡神社",
-    "description": "tokyo'in tarihi ibadet yapılarından biri.",
+    "name": "Yasukuni Shrine",
+    "description": "Yasukuni Shrine, tokyo şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=41",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 35.7106212,
-      "longitude": 139.6063292
+      "latitude": 35.67167277284871,
+      "longitude": 139.6243070266633
     },
-    "estimatedDuration": 76,
+    "estimatedDuration": 170,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 67,
+    "cost": 0,
     "interests": [
       "Tarihi"
     ]
   },
   {
     "id": "tokyo_43",
-    "name": "伏見三宝稲荷神社",
-    "description": "tokyo'in tarihi ibadet yapılarından biri.",
+    "name": "Tokyo Dome",
+    "description": "Tokyo Dome, tokyo şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=42",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 35.6542344,
-      "longitude": 139.7453916
+      "latitude": 35.67017747619457,
+      "longitude": 139.68589038664373
     },
-    "estimatedDuration": 70,
+    "estimatedDuration": 166,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 171,
+    "cost": 0,
     "interests": [
       "Tarihi"
     ]
   },
   {
     "id": "tokyo_44",
-    "name": "願泉寺",
-    "description": "tokyo'in tarihi ibadet yapılarından biri.",
+    "name": "Ryogoku Kokugikan",
+    "description": "Ryogoku Kokugikan, tokyo şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=43",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 35.7039724,
-      "longitude": 139.6122215
+      "latitude": 35.64317596259479,
+      "longitude": 139.64880304760808
     },
-    "estimatedDuration": 31,
+    "estimatedDuration": 80,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 0,
+    "cost": 85,
     "interests": [
       "Tarihi"
     ]
   },
   {
     "id": "tokyo_45",
-    "name": "三界寺",
-    "description": "tokyo'in tarihi ibadet yapılarından biri.",
+    "name": "Kabukicho",
+    "description": "Kabukicho, tokyo şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=44",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 35.6586271,
-      "longitude": 139.6438024
+      "latitude": 35.68884330112296,
+      "longitude": 139.61653589126422
     },
-    "estimatedDuration": 48,
+    "estimatedDuration": 167,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 0,
+    "cost": 222,
     "interests": [
       "Tarihi"
     ]
   },
   {
     "id": "tokyo_46",
-    "name": "安養寺",
-    "description": "tokyo'in tarihi ibadet yapılarından biri.",
+    "name": "Golden Gai",
+    "description": "Golden Gai, tokyo şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=45",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 35.7125103,
-      "longitude": 139.8426167
+      "latitude": 35.70921527469458,
+      "longitude": 139.62632724704795
     },
-    "estimatedDuration": 67,
+    "estimatedDuration": 129,
     "openingTime": "09:00",
     "closingTime": "18:00",
     "cost": 0,
@@ -829,15 +829,15 @@
   },
   {
     "id": "tokyo_47",
-    "name": "杉山神社",
-    "description": "tokyo'in tarihi ibadet yapılarından biri.",
+    "name": "Omoide Yokocho",
+    "description": "Omoide Yokocho, tokyo şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=46",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 35.5486891,
-      "longitude": 139.5730156
+      "latitude": 35.66205933469091,
+      "longitude": 139.63926375695476
     },
-    "estimatedDuration": 43,
+    "estimatedDuration": 139,
     "openingTime": "09:00",
     "closingTime": "18:00",
     "cost": 0,
@@ -847,216 +847,54 @@
   },
   {
     "id": "tokyo_48",
-    "name": "白髭神社",
-    "description": "tokyo'in tarihi ibadet yapılarından biri.",
+    "name": "Ameya-Yokocho",
+    "description": "Ameya-Yokocho, tokyo şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=47",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 35.7328433,
-      "longitude": 139.8403003
+      "latitude": 35.660137948627224,
+      "longitude": 139.61952283543184
     },
-    "estimatedDuration": 61,
+    "estimatedDuration": 167,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 0,
+    "cost": 316,
     "interests": [
       "Tarihi"
     ]
   },
   {
     "id": "tokyo_49",
-    "name": "光照寺",
-    "description": "tokyo'in tarihi ibadet yapılarından biri.",
+    "name": "Sunshine City",
+    "description": "Sunshine City, tokyo şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=48",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 35.6561752,
-      "longitude": 139.561738
+      "latitude": 35.70560669035518,
+      "longitude": 139.65988259472977
     },
-    "estimatedDuration": 43,
+    "estimatedDuration": 170,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 0,
+    "cost": 29,
     "interests": [
       "Tarihi"
     ]
   },
   {
     "id": "tokyo_50",
-    "name": "慈眼院",
-    "description": "tokyo'in tarihi ibadet yapılarından biri.",
+    "name": "Pokemon Center Mega Tokyo",
+    "description": "Pokemon Center Mega Tokyo, tokyo şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=49",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 35.7399006,
-      "longitude": 139.8337185
+      "latitude": 35.70623137099582,
+      "longitude": 139.65701037176177
     },
-    "estimatedDuration": 89,
+    "estimatedDuration": 109,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "tokyo_51",
-    "name": "春日神社",
-    "description": "tokyo'in tarihi ibadet yapılarından biri.",
-    "image": "https://picsum.photos/800/600?random=50",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 35.5859717,
-      "longitude": 139.6453398
-    },
-    "estimatedDuration": 35,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "tokyo_52",
-    "name": "五反田神社",
-    "description": "tokyo'in tarihi ibadet yapılarından biri.",
-    "image": "https://picsum.photos/800/600?random=51",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 35.6144369,
-      "longitude": 139.5437319
-    },
-    "estimatedDuration": 71,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "tokyo_53",
-    "name": "興安寺",
-    "description": "tokyo'in tarihi ibadet yapılarından biri.",
-    "image": "https://picsum.photos/800/600?random=52",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 35.703775,
-      "longitude": 139.7579874
-    },
-    "estimatedDuration": 47,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "tokyo_54",
-    "name": "蓮光寺",
-    "description": "tokyo'in tarihi ibadet yapılarından biri.",
-    "image": "https://picsum.photos/800/600?random=53",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 35.6956549,
-      "longitude": 139.65491
-    },
-    "estimatedDuration": 44,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "tokyo_55",
-    "name": "西藏院",
-    "description": "tokyo'in tarihi ibadet yapılarından biri.",
-    "image": "https://picsum.photos/800/600?random=54",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 35.6472336,
-      "longitude": 139.740909
-    },
-    "estimatedDuration": 47,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "tokyo_56",
-    "name": "禅林寺",
-    "description": "tokyo'in tarihi ibadet yapılarından biri.",
-    "image": "https://picsum.photos/800/600?random=55",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 35.6943549,
-      "longitude": 139.5599009
-    },
-    "estimatedDuration": 36,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 39,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "tokyo_57",
-    "name": "居木神社",
-    "description": "tokyo'in tarihi ibadet yapılarından biri.",
-    "image": "https://picsum.photos/800/600?random=56",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 35.6198531,
-      "longitude": 139.7252578
-    },
-    "estimatedDuration": 54,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "tokyo_58",
-    "name": "六所神社",
-    "description": "tokyo'in tarihi ibadet yapılarından biri.",
-    "image": "https://picsum.photos/800/600?random=57",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 35.6585234,
-      "longitude": 139.6432292
-    },
-    "estimatedDuration": 86,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 32,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "tokyo_59",
-    "name": "大安楽寺",
-    "description": "tokyo'in tarihi ibadet yapılarından biri.",
-    "image": "https://picsum.photos/800/600?random=58",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 35.6908528,
-      "longitude": 139.7780335
-    },
-    "estimatedDuration": 72,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
+    "cost": 364,
     "interests": [
       "Tarihi"
     ]

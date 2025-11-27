@@ -1,15 +1,15 @@
 [
   {
     "id": "dubai_1",
-    "name": "Heritage of Cebu Monument",
-    "description": "dubai'de ziyaret edilebilecek popüler bir nokta: Heritage of Cebu Monument.",
-    "image": "https://images.pexels.com/photos/1364558/pexels-photo-1364558.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "name": "Burj Khalifa",
+    "description": "Burj Khalifa, dubai şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=0",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 10.2988934,
-      "longitude": 123.903617
+      "latitude": 25.186826194251807,
+      "longitude": 55.262242566936834
     },
-    "estimatedDuration": 57,
+    "estimatedDuration": 139,
     "openingTime": "09:00",
     "closingTime": "18:00",
     "cost": 0,
@@ -19,33 +19,33 @@
   },
   {
     "id": "dubai_2",
-    "name": "Lapulapu Monument",
-    "description": "dubai'de ziyaret edilebilecek popüler bir nokta: Lapulapu Monument.",
+    "name": "The Dubai Mall",
+    "description": "The Dubai Mall, dubai şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=1",
-    "category": "Tarihi",
+    "category": "Alışveriş",
     "coordinates": {
-      "latitude": 10.3110647,
-      "longitude": 124.0152459
+      "latitude": 25.21501006812837,
+      "longitude": 55.27875541810071
     },
-    "estimatedDuration": 32,
+    "estimatedDuration": 129,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 0,
+    "cost": 486,
     "interests": [
-      "Tarihi"
+      "Alışveriş"
     ]
   },
   {
     "id": "dubai_3",
-    "name": "Ang Madugong Linggo ng Palaspas 1898",
-    "description": "dubai'de ziyaret edilebilecek popüler bir nokta: Ang Madugong Linggo ng Palaspas 1898.",
+    "name": "The Dubai Fountain",
+    "description": "The Dubai Fountain, dubai şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=2",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 10.2968056,
-      "longitude": 123.8886984
+      "latitude": 25.203499144323587,
+      "longitude": 55.240294272356664
     },
-    "estimatedDuration": 60,
+    "estimatedDuration": 77,
     "openingTime": "09:00",
     "closingTime": "18:00",
     "cost": 0,
@@ -55,33 +55,33 @@
   },
   {
     "id": "dubai_4",
-    "name": "Basilica Minore del Santo Niño de Cebu Pilgrim Center",
-    "description": "dubai'in tarihi ibadet yapılarından biri.",
+    "name": "Palm Jumeirah",
+    "description": "Palm Jumeirah, dubai şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=3",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 10.2939971,
-      "longitude": 123.902712
+      "latitude": 25.19456045083702,
+      "longitude": 55.30811860759524
     },
-    "estimatedDuration": 36,
+    "estimatedDuration": 96,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 109,
+    "cost": 149,
     "interests": [
       "Tarihi"
     ]
   },
   {
     "id": "dubai_5",
-    "name": "Fort San Pedro",
-    "description": "dubai'de ziyaret edilebilecek popüler bir nokta: Fort San Pedro.",
+    "name": "Burj Al Arab",
+    "description": "Burj Al Arab, dubai şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=4",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 10.2926136,
-      "longitude": 123.905789
+      "latitude": 25.23601915052843,
+      "longitude": 55.23220705749254
     },
-    "estimatedDuration": 59,
+    "estimatedDuration": 83,
     "openingTime": "09:00",
     "closingTime": "18:00",
     "cost": 0,
@@ -91,87 +91,159 @@
   },
   {
     "id": "dubai_6",
-    "name": "National Museum of the Philippines - Cebu",
-    "description": "dubai'de bulunan önemli bir müze.",
+    "name": "Dubai Marina",
+    "description": "Dubai Marina, dubai şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=5",
-    "category": "Müze",
+    "category": "Tarihi",
     "coordinates": {
-      "latitude": 10.2917443,
-      "longitude": 123.9044009
+      "latitude": 25.18708810504063,
+      "longitude": 55.30931103766932
     },
-    "estimatedDuration": 80,
+    "estimatedDuration": 136,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 0,
+    "cost": 403,
     "interests": [
-      "Müze"
+      "Tarihi"
     ]
   },
   {
     "id": "dubai_7",
-    "name": "Liberty Shrine",
-    "description": "dubai şehrinde doğa ile iç içe bir park.",
+    "name": "Mall of the Emirates",
+    "description": "Mall of the Emirates, dubai şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=6",
-    "category": "Park",
+    "category": "Alışveriş",
     "coordinates": {
-      "latitude": 10.3110463,
-      "longitude": 124.0152705
+      "latitude": 25.19138761632287,
+      "longitude": 55.30985071467169
     },
-    "estimatedDuration": 62,
+    "estimatedDuration": 88,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 13,
+    "cost": 0,
     "interests": [
-      "Park"
+      "Alışveriş"
     ]
   },
   {
     "id": "dubai_8",
-    "name": "Bradford United Church of Christ in the Philippines",
-    "description": "dubai'in tarihi ibadet yapılarından biri.",
+    "name": "Ski Dubai",
+    "description": "Ski Dubai, dubai şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=7",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 10.3058494,
-      "longitude": 123.8948886
+      "latitude": 25.201113278652436,
+      "longitude": 55.28791221414123
     },
-    "estimatedDuration": 38,
+    "estimatedDuration": 165,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 0,
+    "cost": 448,
     "interests": [
       "Tarihi"
     ]
   },
   {
     "id": "dubai_9",
-    "name": "Magellan Monument",
-    "description": "dubai'de ziyaret edilebilecek popüler bir nokta: Magellan Monument.",
+    "name": "Dubai Aquarium & Underwater Zoo",
+    "description": "Dubai Aquarium & Underwater Zoo, dubai şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=8",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 10.310821,
-      "longitude": 124.0152253
+      "latitude": 25.23454206458951,
+      "longitude": 55.25463772338811
     },
-    "estimatedDuration": 86,
+    "estimatedDuration": 171,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 0,
+    "cost": 110,
     "interests": [
       "Tarihi"
     ]
   },
   {
     "id": "dubai_10",
-    "name": "National Shrine of Saint Joseph",
-    "description": "dubai'in tarihi ibadet yapılarından biri.",
+    "name": "Dubai Miracle Garden",
+    "description": "Dubai Miracle Garden, dubai şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=9",
+    "category": "Park",
+    "coordinates": {
+      "latitude": 25.18893705663396,
+      "longitude": 55.2517864159882
+    },
+    "estimatedDuration": 142,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 160,
+    "interests": [
+      "Park"
+    ]
+  },
+  {
+    "id": "dubai_11",
+    "name": "Global Village",
+    "description": "Global Village, dubai şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=10",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 10.3274199,
-      "longitude": 123.9421631
+      "latitude": 25.20136318567599,
+      "longitude": 55.28190686796945
     },
-    "estimatedDuration": 50,
+    "estimatedDuration": 102,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 112,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "dubai_12",
+    "name": "Dubai Frame",
+    "description": "Dubai Frame, dubai şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=11",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 25.234778802832174,
+      "longitude": 55.2342010212433
+    },
+    "estimatedDuration": 128,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 36,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "dubai_13",
+    "name": "Museum of the Future",
+    "description": "Museum of the Future, dubai şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=12",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 25.188547013761603,
+      "longitude": 55.252342235529525
+    },
+    "estimatedDuration": 136,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 287,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "dubai_14",
+    "name": "Dubai Creek",
+    "description": "Dubai Creek, dubai şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=13",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 25.19279912899616,
+      "longitude": 55.29136109470895
+    },
+    "estimatedDuration": 171,
     "openingTime": "09:00",
     "closingTime": "18:00",
     "cost": 0,
@@ -180,16 +252,646 @@
     ]
   },
   {
-    "id": "dubai_11",
-    "name": "Basilica Minore del Santo Niño de Cebu",
-    "description": "dubai'in tarihi ibadet yapılarından biri.",
-    "image": "https://picsum.photos/800/600?random=10",
+    "id": "dubai_15",
+    "name": "Gold Souk",
+    "description": "Gold Souk, dubai şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=14",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 10.294336,
-      "longitude": 123.9018821
+      "latitude": 25.230220990948226,
+      "longitude": 55.279783244074196
     },
-    "estimatedDuration": 82,
+    "estimatedDuration": 131,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "dubai_16",
+    "name": "Spice Souk",
+    "description": "Spice Souk, dubai şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=15",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 25.24457533444222,
+      "longitude": 55.23544576293942
+    },
+    "estimatedDuration": 66,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "dubai_17",
+    "name": "Textile Souk",
+    "description": "Textile Souk, dubai şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=16",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 25.170115180087873,
+      "longitude": 55.29742576552917
+    },
+    "estimatedDuration": 141,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "dubai_18",
+    "name": "Al Fahidi Historical Neighbourhood",
+    "description": "Al Fahidi Historical Neighbourhood, dubai şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=17",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 25.234458730151893,
+      "longitude": 55.279016681152754
+    },
+    "estimatedDuration": 80,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 147,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "dubai_19",
+    "name": "Dubai Museum",
+    "description": "Dubai Museum, dubai şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=18",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 25.241152629195355,
+      "longitude": 55.30882199625817
+    },
+    "estimatedDuration": 160,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 20,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "dubai_20",
+    "name": "Jumeirah Mosque",
+    "description": "Jumeirah Mosque, dubai şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=19",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 25.222967489805843,
+      "longitude": 55.29447486461003
+    },
+    "estimatedDuration": 131,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 131,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "dubai_21",
+    "name": "Jumeirah Beach",
+    "description": "Jumeirah Beach, dubai şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=20",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 25.185494495518874,
+      "longitude": 55.28274166806112
+    },
+    "estimatedDuration": 148,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 271,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "dubai_22",
+    "name": "Kite Beach",
+    "description": "Kite Beach, dubai şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=21",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 25.16818242708975,
+      "longitude": 55.238066860858524
+    },
+    "estimatedDuration": 75,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 295,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "dubai_23",
+    "name": "La Mer",
+    "description": "La Mer, dubai şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=22",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 25.18611361974993,
+      "longitude": 55.258556219348065
+    },
+    "estimatedDuration": 76,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 322,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "dubai_24",
+    "name": "Bluewaters Island",
+    "description": "Bluewaters Island, dubai şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=23",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 25.19552493058341,
+      "longitude": 55.29902295297819
+    },
+    "estimatedDuration": 81,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "dubai_25",
+    "name": "Ain Dubai",
+    "description": "Ain Dubai, dubai şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=24",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 25.230568152065203,
+      "longitude": 55.263662909452734
+    },
+    "estimatedDuration": 130,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 166,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "dubai_26",
+    "name": "Atlantis Aquaventure Waterpark",
+    "description": "Atlantis Aquaventure Waterpark, dubai şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=25",
+    "category": "Park",
+    "coordinates": {
+      "latitude": 25.242581887383373,
+      "longitude": 55.24277729632021
+    },
+    "estimatedDuration": 79,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 328,
+    "interests": [
+      "Park"
+    ]
+  },
+  {
+    "id": "dubai_27",
+    "name": "Wild Wadi Waterpark",
+    "description": "Wild Wadi Waterpark, dubai şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=26",
+    "category": "Park",
+    "coordinates": {
+      "latitude": 25.200082775727726,
+      "longitude": 55.23737001308582
+    },
+    "estimatedDuration": 106,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 125,
+    "interests": [
+      "Park"
+    ]
+  },
+  {
+    "id": "dubai_28",
+    "name": "IMG Worlds of Adventure",
+    "description": "IMG Worlds of Adventure, dubai şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=27",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 25.21168134373892,
+      "longitude": 55.26834425697198
+    },
+    "estimatedDuration": 134,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 109,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "dubai_29",
+    "name": "Dubai Parks and Resorts",
+    "description": "Dubai Parks and Resorts, dubai şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=28",
+    "category": "Park",
+    "coordinates": {
+      "latitude": 25.20526635138964,
+      "longitude": 55.30240800324186
+    },
+    "estimatedDuration": 152,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Park"
+    ]
+  },
+  {
+    "id": "dubai_30",
+    "name": "Motiongate Dubai",
+    "description": "Motiongate Dubai, dubai şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=29",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 25.172224044726175,
+      "longitude": 55.265072195523125
+    },
+    "estimatedDuration": 70,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "dubai_31",
+    "name": "Bollywood Parks Dubai",
+    "description": "Bollywood Parks Dubai, dubai şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=30",
+    "category": "Park",
+    "coordinates": {
+      "latitude": 25.166717061710795,
+      "longitude": 55.28940405744079
+    },
+    "estimatedDuration": 160,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Park"
+    ]
+  },
+  {
+    "id": "dubai_32",
+    "name": "Legoland Dubai",
+    "description": "Legoland Dubai, dubai şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=31",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 25.220612046466904,
+      "longitude": 55.27587523043185
+    },
+    "estimatedDuration": 149,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 102,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "dubai_33",
+    "name": "Dubai Opera",
+    "description": "Dubai Opera, dubai şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=32",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 25.191611863015623,
+      "longitude": 55.280605278738165
+    },
+    "estimatedDuration": 71,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "dubai_34",
+    "name": "Dubai Garden Glow",
+    "description": "Dubai Garden Glow, dubai şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://images.pexels.com/photos/1707310/pexels-photo-1707310.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Park",
+    "coordinates": {
+      "latitude": 25.179059577022223,
+      "longitude": 55.26325886302228
+    },
+    "estimatedDuration": 128,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Park"
+    ]
+  },
+  {
+    "id": "dubai_35",
+    "name": "The Green Planet",
+    "description": "The Green Planet, dubai şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=34",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 25.233522320863354,
+      "longitude": 55.28363312896838
+    },
+    "estimatedDuration": 66,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 407,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "dubai_36",
+    "name": "Dubai Safari Park",
+    "description": "Dubai Safari Park, dubai şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=35",
+    "category": "Park",
+    "coordinates": {
+      "latitude": 25.203143747754716,
+      "longitude": 55.27113868950061
+    },
+    "estimatedDuration": 164,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 490,
+    "interests": [
+      "Park"
+    ]
+  },
+  {
+    "id": "dubai_37",
+    "name": "Ras Al Khor Wildlife Sanctuary",
+    "description": "Ras Al Khor Wildlife Sanctuary, dubai şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=36",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 25.223368654483185,
+      "longitude": 55.247126603443675
+    },
+    "estimatedDuration": 111,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "dubai_38",
+    "name": "Love Lake Dubai",
+    "description": "Love Lake Dubai, dubai şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=37",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 25.174706972096427,
+      "longitude": 55.256578459827175
+    },
+    "estimatedDuration": 170,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 107,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "dubai_39",
+    "name": "Al Qudra Lakes",
+    "description": "Al Qudra Lakes, dubai şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=38",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 25.170779152979936,
+      "longitude": 55.24092300507353
+    },
+    "estimatedDuration": 120,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "dubai_40",
+    "name": "Hatta Dam",
+    "description": "Hatta Dam, dubai şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=39",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 25.169545660344713,
+      "longitude": 55.296604279973785
+    },
+    "estimatedDuration": 108,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 70,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "dubai_41",
+    "name": "Desert Safari",
+    "description": "Desert Safari, dubai şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=40",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 25.195800333823865,
+      "longitude": 55.25232819647803
+    },
+    "estimatedDuration": 132,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 315,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "dubai_42",
+    "name": "Dubai Marina Yacht Club",
+    "description": "Dubai Marina Yacht Club, dubai şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=41",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 25.227944547319353,
+      "longitude": 55.28587260186219
+    },
+    "estimatedDuration": 117,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 114,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "dubai_43",
+    "name": "Skydive Dubai",
+    "description": "Skydive Dubai, dubai şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=42",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 25.219267510341616,
+      "longitude": 55.309415822168084
+    },
+    "estimatedDuration": 64,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "dubai_44",
+    "name": "XLine Dubai Marina",
+    "description": "XLine Dubai Marina, dubai şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=43",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 25.21907170297888,
+      "longitude": 55.238887993437366
+    },
+    "estimatedDuration": 169,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 254,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "dubai_45",
+    "name": "Deep Dive Dubai",
+    "description": "Deep Dive Dubai, dubai şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=44",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 25.192655980985528,
+      "longitude": 55.283688340431056
+    },
+    "estimatedDuration": 96,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "dubai_46",
+    "name": "Souk Madinat Jumeirah",
+    "description": "Souk Madinat Jumeirah, dubai şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=45",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 25.22707761924597,
+      "longitude": 55.27056810941491
+    },
+    "estimatedDuration": 116,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "dubai_47",
+    "name": "City Walk",
+    "description": "City Walk, dubai şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=46",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 25.20399461598384,
+      "longitude": 55.24022547041741
+    },
+    "estimatedDuration": 160,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 465,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "dubai_48",
+    "name": "Boxpark",
+    "description": "Boxpark, dubai şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=47",
+    "category": "Park",
+    "coordinates": {
+      "latitude": 25.207625297523364,
+      "longitude": 55.29123284081948
+    },
+    "estimatedDuration": 76,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Park"
+    ]
+  },
+  {
+    "id": "dubai_49",
+    "name": "The Pointe",
+    "description": "The Pointe, dubai şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=48",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 25.208011392918326,
+      "longitude": 55.24290075059794
+    },
+    "estimatedDuration": 123,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "dubai_50",
+    "name": "The View at The Palm",
+    "description": "The View at The Palm, dubai şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=49",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 25.219764868792723,
+      "longitude": 55.2858018315994
+    },
+    "estimatedDuration": 138,
     "openingTime": "09:00",
     "closingTime": "18:00",
     "cost": 0,

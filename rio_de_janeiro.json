@@ -1,0 +1,902 @@
+[
+  {
+    "id": "rio_de_janeiro_1",
+    "name": "Christ the Redeemer",
+    "description": "Christ the Redeemer, rio_de_janeiro şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=0",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -22.87291458484741,
+      "longitude": -43.13537805186513
+    },
+    "estimatedDuration": 68,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "rio_de_janeiro_2",
+    "name": "Sugarloaf Mountain",
+    "description": "Sugarloaf Mountain, rio_de_janeiro şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=1",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -22.90049706257401,
+      "longitude": -43.19839107686961
+    },
+    "estimatedDuration": 61,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "rio_de_janeiro_3",
+    "name": "Copacabana Beach",
+    "description": "Copacabana Beach, rio_de_janeiro şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=2",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -22.92191586136838,
+      "longitude": -43.1579423561738
+    },
+    "estimatedDuration": 80,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "rio_de_janeiro_4",
+    "name": "Ipanema Beach",
+    "description": "Ipanema Beach, rio_de_janeiro şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=3",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -22.881137283732293,
+      "longitude": -43.2097584254408
+    },
+    "estimatedDuration": 122,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 36,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "rio_de_janeiro_5",
+    "name": "Leblon Beach",
+    "description": "Leblon Beach, rio_de_janeiro şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=4",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -22.86880699759011,
+      "longitude": -43.20334448891238
+    },
+    "estimatedDuration": 128,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "rio_de_janeiro_6",
+    "name": "Tijuca National Park",
+    "description": "Tijuca National Park, rio_de_janeiro şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=5",
+    "category": "Park",
+    "coordinates": {
+      "latitude": -22.9458400275195,
+      "longitude": -43.148202279114464
+    },
+    "estimatedDuration": 126,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Park"
+    ]
+  },
+  {
+    "id": "rio_de_janeiro_7",
+    "name": "Botanical Garden",
+    "description": "Botanical Garden, rio_de_janeiro şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=6",
+    "category": "Park",
+    "coordinates": {
+      "latitude": -22.89217444922982,
+      "longitude": -43.17947838092331
+    },
+    "estimatedDuration": 155,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Park"
+    ]
+  },
+  {
+    "id": "rio_de_janeiro_8",
+    "name": "Parque Lage",
+    "description": "Parque Lage, rio_de_janeiro şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=7",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -22.883720134009156,
+      "longitude": -43.211003422292976
+    },
+    "estimatedDuration": 153,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 368,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "rio_de_janeiro_9",
+    "name": "Maracanã Stadium",
+    "description": "Maracanã Stadium, rio_de_janeiro şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=8",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -22.937509902887548,
+      "longitude": -43.16248363532314
+    },
+    "estimatedDuration": 92,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "rio_de_janeiro_10",
+    "name": "Sambadrome",
+    "description": "Sambadrome, rio_de_janeiro şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=9",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -22.928623452084825,
+      "longitude": -43.19579618241092
+    },
+    "estimatedDuration": 92,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "rio_de_janeiro_11",
+    "name": "Museum of Tomorrow",
+    "description": "Museum of Tomorrow, rio_de_janeiro şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=10",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": -22.91879791872611,
+      "longitude": -43.20422517491357
+    },
+    "estimatedDuration": 171,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 372,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "rio_de_janeiro_12",
+    "name": "Rio Art Museum",
+    "description": "Rio Art Museum, rio_de_janeiro şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://images.pexels.com/photos/13071877/pexels-photo-13071877.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": -22.913567404028473,
+      "longitude": -43.19431113342444
+    },
+    "estimatedDuration": 115,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "rio_de_janeiro_13",
+    "name": "National Museum of Fine Arts",
+    "description": "National Museum of Fine Arts, rio_de_janeiro şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=12",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": -22.89002577660265,
+      "longitude": -43.13815996838022
+    },
+    "estimatedDuration": 81,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "rio_de_janeiro_14",
+    "name": "Municipal Theatre",
+    "description": "Municipal Theatre, rio_de_janeiro şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=13",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -22.935111900698878,
+      "longitude": -43.15529056003284
+    },
+    "estimatedDuration": 143,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "rio_de_janeiro_15",
+    "name": "National Library",
+    "description": "National Library, rio_de_janeiro şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=14",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -22.8919657058626,
+      "longitude": -43.19749099788102
+    },
+    "estimatedDuration": 173,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 475,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "rio_de_janeiro_16",
+    "name": "Candelária Church",
+    "description": "Candelária Church, rio_de_janeiro şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=15",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -22.919460702423297,
+      "longitude": -43.206255973324666
+    },
+    "estimatedDuration": 167,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "rio_de_janeiro_17",
+    "name": "Metropolitan Cathedral",
+    "description": "Metropolitan Cathedral, rio_de_janeiro şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=16",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -22.873775934843145,
+      "longitude": -43.1481059735093
+    },
+    "estimatedDuration": 81,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "rio_de_janeiro_18",
+    "name": "Selarón Steps",
+    "description": "Selarón Steps, rio_de_janeiro şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=17",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -22.921040672586592,
+      "longitude": -43.14965098748866
+    },
+    "estimatedDuration": 103,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 359,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "rio_de_janeiro_19",
+    "name": "Lapa Arches",
+    "description": "Lapa Arches, rio_de_janeiro şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=18",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -22.881775674497923,
+      "longitude": -43.205591083527224
+    },
+    "estimatedDuration": 166,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 420,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "rio_de_janeiro_20",
+    "name": "Santa Teresa",
+    "description": "Santa Teresa, rio_de_janeiro şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=19",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -22.92976306347773,
+      "longitude": -43.14302263066829
+    },
+    "estimatedDuration": 99,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "rio_de_janeiro_21",
+    "name": "Ruins Park",
+    "description": "Ruins Park, rio_de_janeiro şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=20",
+    "category": "Park",
+    "coordinates": {
+      "latitude": -22.907978287950378,
+      "longitude": -43.19975279547493
+    },
+    "estimatedDuration": 135,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Park"
+    ]
+  },
+  {
+    "id": "rio_de_janeiro_22",
+    "name": "Chácara do Céu Museum",
+    "description": "Chácara do Céu Museum, rio_de_janeiro şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=21",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": -22.94112355272821,
+      "longitude": -43.17507741507129
+    },
+    "estimatedDuration": 173,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "rio_de_janeiro_23",
+    "name": "Gloria Marina",
+    "description": "Gloria Marina, rio_de_janeiro şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=22",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -22.945255165176757,
+      "longitude": -43.138977683461945
+    },
+    "estimatedDuration": 174,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 238,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "rio_de_janeiro_24",
+    "name": "Flamengo Park",
+    "description": "Flamengo Park, rio_de_janeiro şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=23",
+    "category": "Park",
+    "coordinates": {
+      "latitude": -22.927849036823197,
+      "longitude": -43.17090835845397
+    },
+    "estimatedDuration": 135,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 396,
+    "interests": [
+      "Park"
+    ]
+  },
+  {
+    "id": "rio_de_janeiro_25",
+    "name": "Museum of Modern Art",
+    "description": "Museum of Modern Art, rio_de_janeiro şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=24",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": -22.897618054977084,
+      "longitude": -43.15344306119649
+    },
+    "estimatedDuration": 111,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "rio_de_janeiro_26",
+    "name": "Niteroi Contemporary Art Museum",
+    "description": "Niteroi Contemporary Art Museum, rio_de_janeiro şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=25",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": -22.926677832310904,
+      "longitude": -43.18046400824082
+    },
+    "estimatedDuration": 133,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 352,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "rio_de_janeiro_27",
+    "name": "Fort Copacabana",
+    "description": "Fort Copacabana, rio_de_janeiro şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=26",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -22.872231042736257,
+      "longitude": -43.20916487429467
+    },
+    "estimatedDuration": 153,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "rio_de_janeiro_28",
+    "name": "Army Historical Museum",
+    "description": "Army Historical Museum, rio_de_janeiro şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=27",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": -22.940610006023,
+      "longitude": -43.189045320626825
+    },
+    "estimatedDuration": 94,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 160,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "rio_de_janeiro_29",
+    "name": "Arpoador",
+    "description": "Arpoador, rio_de_janeiro şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=28",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -22.910894755179847,
+      "longitude": -43.16046020051142
+    },
+    "estimatedDuration": 132,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "rio_de_janeiro_30",
+    "name": "Pedra da Gávea",
+    "description": "Pedra da Gávea, rio_de_janeiro şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=29",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -22.925373924685417,
+      "longitude": -43.13850816165719
+    },
+    "estimatedDuration": 87,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "rio_de_janeiro_31",
+    "name": "Pedra Bonita",
+    "description": "Pedra Bonita, rio_de_janeiro şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=30",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -22.896642742376223,
+      "longitude": -43.184243004380846
+    },
+    "estimatedDuration": 154,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 437,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "rio_de_janeiro_32",
+    "name": "Vista Chinesa",
+    "description": "Vista Chinesa, rio_de_janeiro şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=31",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -22.946376526139968,
+      "longitude": -43.19434251011081
+    },
+    "estimatedDuration": 146,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 372,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "rio_de_janeiro_33",
+    "name": "Rodrigo de Freitas Lagoon",
+    "description": "Rodrigo de Freitas Lagoon, rio_de_janeiro şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=32",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -22.87745611085411,
+      "longitude": -43.19736383167811
+    },
+    "estimatedDuration": 88,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "rio_de_janeiro_34",
+    "name": "Barra da Tijuca",
+    "description": "Barra da Tijuca, rio_de_janeiro şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=33",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -22.89663483668182,
+      "longitude": -43.1716799251503
+    },
+    "estimatedDuration": 127,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "rio_de_janeiro_35",
+    "name": "Prainha Beach",
+    "description": "Prainha Beach, rio_de_janeiro şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=34",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -22.91154058251255,
+      "longitude": -43.1509313118192
+    },
+    "estimatedDuration": 176,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 458,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "rio_de_janeiro_36",
+    "name": "Grumari Beach",
+    "description": "Grumari Beach, rio_de_janeiro şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=35",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -22.907627519797416,
+      "longitude": -43.18826029006113
+    },
+    "estimatedDuration": 90,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 126,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "rio_de_janeiro_37",
+    "name": "Joatinga Beach",
+    "description": "Joatinga Beach, rio_de_janeiro şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=36",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -22.896849758217947,
+      "longitude": -43.16291980540496
+    },
+    "estimatedDuration": 150,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 163,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "rio_de_janeiro_38",
+    "name": "Red Beach",
+    "description": "Red Beach, rio_de_janeiro şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=37",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -22.924372222899812,
+      "longitude": -43.20747383137185
+    },
+    "estimatedDuration": 169,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "rio_de_janeiro_39",
+    "name": "Urca",
+    "description": "Urca, rio_de_janeiro şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=38",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -22.933348380458188,
+      "longitude": -43.13913675764815
+    },
+    "estimatedDuration": 60,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 179,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "rio_de_janeiro_40",
+    "name": "Sao Bento Monastery",
+    "description": "Sao Bento Monastery, rio_de_janeiro şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=39",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -22.941944453605004,
+      "longitude": -43.152302946620814
+    },
+    "estimatedDuration": 159,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "rio_de_janeiro_41",
+    "name": "Confeitaria Colombo",
+    "description": "Confeitaria Colombo, rio_de_janeiro şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=40",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -22.90107859915523,
+      "longitude": -43.20343553972733
+    },
+    "estimatedDuration": 153,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "rio_de_janeiro_42",
+    "name": "Royal Portuguese Cabinet of Reading",
+    "description": "Royal Portuguese Cabinet of Reading, rio_de_janeiro şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=41",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -22.899558004665707,
+      "longitude": -43.15453946856376
+    },
+    "estimatedDuration": 110,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "rio_de_janeiro_43",
+    "name": "Centro Cultural Banco do Brasil",
+    "description": "Centro Cultural Banco do Brasil, rio_de_janeiro şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=42",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -22.883934304510895,
+      "longitude": -43.16875792462416
+    },
+    "estimatedDuration": 84,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 272,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "rio_de_janeiro_44",
+    "name": "AquaRio",
+    "description": "AquaRio, rio_de_janeiro şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=43",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -22.87825380080191,
+      "longitude": -43.14854429651811
+    },
+    "estimatedDuration": 62,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "rio_de_janeiro_45",
+    "name": "Rio Star",
+    "description": "Rio Star, rio_de_janeiro şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=44",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -22.93987937159257,
+      "longitude": -43.169098187303156
+    },
+    "estimatedDuration": 105,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 188,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "rio_de_janeiro_46",
+    "name": "BioParque do Rio",
+    "description": "BioParque do Rio, rio_de_janeiro şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=45",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -22.867964270572436,
+      "longitude": -43.19884579991559
+    },
+    "estimatedDuration": 67,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "rio_de_janeiro_47",
+    "name": "Quinta da Boa Vista",
+    "description": "Quinta da Boa Vista, rio_de_janeiro şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=46",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -22.90048255011723,
+      "longitude": -43.13337177026137
+    },
+    "estimatedDuration": 84,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "rio_de_janeiro_48",
+    "name": "National Museum of Brazil",
+    "description": "National Museum of Brazil, rio_de_janeiro şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=47",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": -22.894738272246588,
+      "longitude": -43.147611120458244
+    },
+    "estimatedDuration": 102,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "rio_de_janeiro_49",
+    "name": "Feira de São Cristóvão",
+    "description": "Feira de São Cristóvão, rio_de_janeiro şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=48",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -22.937694677670574,
+      "longitude": -43.189463175323645
+    },
+    "estimatedDuration": 176,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "rio_de_janeiro_50",
+    "name": "Ilha Fiscal",
+    "description": "Ilha Fiscal, rio_de_janeiro şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=49",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -22.874211038578867,
+      "longitude": -43.17913117639936
+    },
+    "estimatedDuration": 121,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  }
+]

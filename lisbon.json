@@ -1,15 +1,15 @@
 [
   {
     "id": "lisbon_1",
-    "name": "King Chapel",
-    "description": "lisbon'in tarihi ibadet yapılarından biri.",
+    "name": "Belém Tower",
+    "description": "Belém Tower, lisbon şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=0",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 41.9252115,
-      "longitude": -91.4239632
+      "latitude": 38.74725402631874,
+      "longitude": -9.17239701302012
     },
-    "estimatedDuration": 46,
+    "estimatedDuration": 125,
     "openingTime": "09:00",
     "closingTime": "18:00",
     "cost": 0,
@@ -19,15 +19,195 @@
   },
   {
     "id": "lisbon_2",
-    "name": "Abbe Creek School Museum",
-    "description": "lisbon'de bulunan önemli bir müze.",
-    "image": "https://images.pexels.com/photos/143970/pexels-photo-143970.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "name": "Jerónimos Monastery",
+    "description": "Jerónimos Monastery, lisbon şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=1",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 38.730008978922754,
+      "longitude": -9.13422669948591
+    },
+    "estimatedDuration": 111,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "lisbon_3",
+    "name": "São Jorge Castle",
+    "description": "São Jorge Castle, lisbon şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=2",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 38.75781475411702,
+      "longitude": -9.133067432086243
+    },
+    "estimatedDuration": 146,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "lisbon_4",
+    "name": "Praca do Comercio",
+    "description": "Praca do Comercio, lisbon şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=3",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 38.730766628562684,
+      "longitude": -9.105875049937184
+    },
+    "estimatedDuration": 60,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "lisbon_5",
+    "name": "Rossio Square",
+    "description": "Rossio Square, lisbon şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=4",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 38.75545327454401,
+      "longitude": -9.131781037784057
+    },
+    "estimatedDuration": 63,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 439,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "lisbon_6",
+    "name": "Santa Justa Lift",
+    "description": "Santa Justa Lift, lisbon şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=5",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 38.69841542950271,
+      "longitude": -9.169985417108242
+    },
+    "estimatedDuration": 167,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 209,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "lisbon_7",
+    "name": "Lisbon Cathedral",
+    "description": "Lisbon Cathedral, lisbon şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=6",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 38.74667372605075,
+      "longitude": -9.161743050198044
+    },
+    "estimatedDuration": 115,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 243,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "lisbon_8",
+    "name": "Carmo Convent",
+    "description": "Carmo Convent, lisbon şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=7",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 38.70587399718947,
+      "longitude": -9.139173764831858
+    },
+    "estimatedDuration": 149,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "lisbon_9",
+    "name": "National Pantheon",
+    "description": "National Pantheon, lisbon şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=8",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 38.74617092828605,
+      "longitude": -9.174518090449943
+    },
+    "estimatedDuration": 112,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "lisbon_10",
+    "name": "Monument to the Discoveries",
+    "description": "Monument to the Discoveries, lisbon şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=9",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 38.70930103095426,
+      "longitude": -9.117377564389978
+    },
+    "estimatedDuration": 167,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "lisbon_11",
+    "name": "MAAT",
+    "description": "MAAT, lisbon şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=10",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 38.72740134834566,
+      "longitude": -9.153818284193889
+    },
+    "estimatedDuration": 106,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 239,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "lisbon_12",
+    "name": "National Coach Museum",
+    "description": "National Coach Museum, lisbon şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=11",
     "category": "Müze",
     "coordinates": {
-      "latitude": 41.9421435,
-      "longitude": -91.4513154
+      "latitude": 38.697094994124996,
+      "longitude": -9.159878571111143
     },
-    "estimatedDuration": 30,
+    "estimatedDuration": 168,
     "openingTime": "09:00",
     "closingTime": "18:00",
     "cost": 0,
@@ -36,21 +216,687 @@
     ]
   },
   {
-    "id": "lisbon_3",
-    "name": "Norton Geology Center and Anderson Museum",
-    "description": "lisbon'de bulunan önemli bir müze.",
-    "image": "https://images.pexels.com/photos/6944191/pexels-photo-6944191.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "id": "lisbon_13",
+    "name": "National Tile Museum",
+    "description": "National Tile Museum, lisbon şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=12",
     "category": "Müze",
     "coordinates": {
-      "latitude": 41.9241638,
-      "longitude": -91.4219447
+      "latitude": 38.68592032509709,
+      "longitude": -9.144919906753916
     },
-    "estimatedDuration": 68,
+    "estimatedDuration": 138,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 132,
+    "cost": 313,
     "interests": [
       "Müze"
+    ]
+  },
+  {
+    "id": "lisbon_14",
+    "name": "Calouste Gulbenkian Museum",
+    "description": "Calouste Gulbenkian Museum, lisbon şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=13",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 38.69460532789561,
+      "longitude": -9.153468254534024
+    },
+    "estimatedDuration": 172,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "lisbon_15",
+    "name": "National Museum of Ancient Art",
+    "description": "National Museum of Ancient Art, lisbon şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=14",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 38.7306345796332,
+      "longitude": -9.139889823323427
+    },
+    "estimatedDuration": 166,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "lisbon_16",
+    "name": "Berardo Collection Museum",
+    "description": "Berardo Collection Museum, lisbon şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=15",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 38.747752347495016,
+      "longitude": -9.111434693278575
+    },
+    "estimatedDuration": 111,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 454,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "lisbon_17",
+    "name": "Fado Museum",
+    "description": "Fado Museum, lisbon şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=16",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 38.69060965137538,
+      "longitude": -9.13027097938247
+    },
+    "estimatedDuration": 88,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 46,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "lisbon_18",
+    "name": "Lisbon Oceanarium",
+    "description": "Lisbon Oceanarium, lisbon şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=17",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 38.70240914769623,
+      "longitude": -9.11021614206046
+    },
+    "estimatedDuration": 167,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 8,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "lisbon_19",
+    "name": "Parque das Nações",
+    "description": "Parque das Nações, lisbon şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=18",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 38.720757993197715,
+      "longitude": -9.129101274569297
+    },
+    "estimatedDuration": 73,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 375,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "lisbon_20",
+    "name": "Vasco da Gama Bridge",
+    "description": "Vasco da Gama Bridge, lisbon şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=19",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 38.6898520253378,
+      "longitude": -9.137623942531869
+    },
+    "estimatedDuration": 113,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "lisbon_21",
+    "name": "25 de Abril Bridge",
+    "description": "25 de Abril Bridge, lisbon şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=20",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 38.74695455663851,
+      "longitude": -9.13750293110445
+    },
+    "estimatedDuration": 178,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 368,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "lisbon_22",
+    "name": "Cristo Rei",
+    "description": "Cristo Rei, lisbon şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=21",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 38.683883942368524,
+      "longitude": -9.126899514795054
+    },
+    "estimatedDuration": 61,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 372,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "lisbon_23",
+    "name": "Eduardo VII Park",
+    "description": "Eduardo VII Park, lisbon şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=22",
+    "category": "Park",
+    "coordinates": {
+      "latitude": 38.722208077886215,
+      "longitude": -9.123267605154195
+    },
+    "estimatedDuration": 106,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Park"
+    ]
+  },
+  {
+    "id": "lisbon_24",
+    "name": "Estrela Basilica",
+    "description": "Estrela Basilica, lisbon şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=23",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 38.733926706425926,
+      "longitude": -9.147606326280608
+    },
+    "estimatedDuration": 115,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "lisbon_25",
+    "name": "Estrela Garden",
+    "description": "Estrela Garden, lisbon şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=24",
+    "category": "Park",
+    "coordinates": {
+      "latitude": 38.7483075913396,
+      "longitude": -9.103378349057314
+    },
+    "estimatedDuration": 116,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 182,
+    "interests": [
+      "Park"
+    ]
+  },
+  {
+    "id": "lisbon_26",
+    "name": "Botanical Garden",
+    "description": "Botanical Garden, lisbon şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=25",
+    "category": "Park",
+    "coordinates": {
+      "latitude": 38.737716537969455,
+      "longitude": -9.164445475736649
+    },
+    "estimatedDuration": 119,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Park"
+    ]
+  },
+  {
+    "id": "lisbon_27",
+    "name": "Miradouro da Senhora do Monte",
+    "description": "Miradouro da Senhora do Monte, lisbon şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=26",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 38.735965122115445,
+      "longitude": -9.12024797928863
+    },
+    "estimatedDuration": 124,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "lisbon_28",
+    "name": "Miradouro de Santa Luzia",
+    "description": "Miradouro de Santa Luzia, lisbon şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=27",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 38.717428533527915,
+      "longitude": -9.13558664294294
+    },
+    "estimatedDuration": 135,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "lisbon_29",
+    "name": "Miradouro das Portas do Sol",
+    "description": "Miradouro das Portas do Sol, lisbon şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=28",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 38.69306195610199,
+      "longitude": -9.163029129178579
+    },
+    "estimatedDuration": 133,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 206,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "lisbon_30",
+    "name": "Miradouro de São Pedro de Alcântara",
+    "description": "Miradouro de São Pedro de Alcântara, lisbon şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=29",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 38.70331152243953,
+      "longitude": -9.178634343349326
+    },
+    "estimatedDuration": 172,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 427,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "lisbon_31",
+    "name": "Alfama",
+    "description": "Alfama, lisbon şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=30",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 38.759803677060596,
+      "longitude": -9.161153703524034
+    },
+    "estimatedDuration": 163,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 78,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "lisbon_32",
+    "name": "Bairro Alto",
+    "description": "Bairro Alto, lisbon şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=31",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 38.689230595002144,
+      "longitude": -9.171075406444295
+    },
+    "estimatedDuration": 138,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "lisbon_33",
+    "name": "Chiado",
+    "description": "Chiado, lisbon şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=32",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 38.69402753951351,
+      "longitude": -9.13903628510561
+    },
+    "estimatedDuration": 162,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "lisbon_34",
+    "name": "Baixa",
+    "description": "Baixa, lisbon şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=33",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 38.6989705117567,
+      "longitude": -9.165479893693513
+    },
+    "estimatedDuration": 81,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "lisbon_35",
+    "name": "Principe Real",
+    "description": "Principe Real, lisbon şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=34",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 38.74488134419159,
+      "longitude": -9.12838463874358
+    },
+    "estimatedDuration": 97,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 273,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "lisbon_36",
+    "name": "Cais do Sodré",
+    "description": "Cais do Sodré, lisbon şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=35",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 38.73677181444541,
+      "longitude": -9.175641923106095
+    },
+    "estimatedDuration": 141,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 104,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "lisbon_37",
+    "name": "Pink Street",
+    "description": "Pink Street, lisbon şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=36",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 38.741033560316346,
+      "longitude": -9.165101509478546
+    },
+    "estimatedDuration": 112,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "lisbon_38",
+    "name": "Time Out Market",
+    "description": "Time Out Market, lisbon şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=37",
+    "category": "Alışveriş",
+    "coordinates": {
+      "latitude": 38.696692397301405,
+      "longitude": -9.111624528287605
+    },
+    "estimatedDuration": 66,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 187,
+    "interests": [
+      "Alışveriş"
+    ]
+  },
+  {
+    "id": "lisbon_39",
+    "name": "LX Factory",
+    "description": "LX Factory, lisbon şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=38",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 38.70516837188651,
+      "longitude": -9.174410005388504
+    },
+    "estimatedDuration": 103,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "lisbon_40",
+    "name": "Village Underground",
+    "description": "Village Underground, lisbon şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=39",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 38.71166812705013,
+      "longitude": -9.142448398416455
+    },
+    "estimatedDuration": 166,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "lisbon_41",
+    "name": "Tram 28",
+    "description": "Tram 28, lisbon şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=40",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 38.75791475227669,
+      "longitude": -9.13032751686981
+    },
+    "estimatedDuration": 66,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 464,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "lisbon_42",
+    "name": "Ascensor da Bica",
+    "description": "Ascensor da Bica, lisbon şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=41",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 38.719967286078706,
+      "longitude": -9.140698926426266
+    },
+    "estimatedDuration": 175,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "lisbon_43",
+    "name": "Ascensor da Glória",
+    "description": "Ascensor da Glória, lisbon şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=42",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 38.727171569538136,
+      "longitude": -9.171330859225945
+    },
+    "estimatedDuration": 159,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "lisbon_44",
+    "name": "Ascensor do Lavra",
+    "description": "Ascensor do Lavra, lisbon şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://images.pexels.com/photos/22776003/pexels-photo-22776003.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 38.69125458115982,
+      "longitude": -9.108121155272698
+    },
+    "estimatedDuration": 77,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "lisbon_45",
+    "name": "Rua Augusta Arch",
+    "description": "Rua Augusta Arch, lisbon şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=44",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 38.68275869138932,
+      "longitude": -9.148064886794604
+    },
+    "estimatedDuration": 91,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 83,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "lisbon_46",
+    "name": "Ajuda National Palace",
+    "description": "Ajuda National Palace, lisbon şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=45",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 38.69881602341085,
+      "longitude": -9.165418810693382
+    },
+    "estimatedDuration": 170,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "lisbon_47",
+    "name": "Fronteira Palace",
+    "description": "Fronteira Palace, lisbon şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=46",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 38.7527806732807,
+      "longitude": -9.130809968928403
+    },
+    "estimatedDuration": 153,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 435,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "lisbon_48",
+    "name": "Aqueduct of the Free Waters",
+    "description": "Aqueduct of the Free Waters, lisbon şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=47",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 38.705099953913496,
+      "longitude": -9.165750503001687
+    },
+    "estimatedDuration": 173,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 239,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "lisbon_49",
+    "name": "Estádio da Luz",
+    "description": "Estádio da Luz, lisbon şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=48",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 38.75302321950207,
+      "longitude": -9.169935917590207
+    },
+    "estimatedDuration": 174,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 17,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "lisbon_50",
+    "name": "Estádio José Alvalade",
+    "description": "Estádio José Alvalade, lisbon şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=49",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 38.76080327605575,
+      "longitude": -9.103037258630279
+    },
+    "estimatedDuration": 96,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
     ]
   }
 ]

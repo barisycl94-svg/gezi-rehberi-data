@@ -1,1021 +1,31 @@
 [
   {
     "id": "los_angeles_1",
-    "name": "Koreatown",
-    "description": "los_angeles'de ziyaret edilebilecek popüler bir nokta: Koreatown.",
+    "name": "Hollywood Sign",
+    "description": "Hollywood Sign, los_angeles şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=0",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 34.0617936,
-      "longitude": -118.305447
+      "latitude": 34.09094332216568,
+      "longitude": -118.27300727726703
     },
-    "estimatedDuration": 33,
+    "estimatedDuration": 119,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 64,
+    "cost": 0,
     "interests": [
       "Tarihi"
     ]
   },
   {
     "id": "los_angeles_2",
-    "name": "Saint Brendan Roman Catholic Church",
-    "description": "los_angeles'in tarihi ibadet yapılarından biri.",
+    "name": "Griffith Observatory",
+    "description": "Griffith Observatory, los_angeles şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=1",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 34.0686216,
-      "longitude": -118.3147982
-    },
-    "estimatedDuration": 53,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 151,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "los_angeles_3",
-    "name": "Saint Finbars Church",
-    "description": "los_angeles'in tarihi ibadet yapılarından biri.",
-    "image": "https://picsum.photos/800/600?random=2",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 34.1641667,
-      "longitude": -118.3258333
-    },
-    "estimatedDuration": 36,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "los_angeles_4",
-    "name": "Sinai Temple",
-    "description": "los_angeles'in tarihi ibadet yapılarından biri.",
-    "image": "https://picsum.photos/800/600?random=3",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 34.0661111,
-      "longitude": -118.429444
-    },
-    "estimatedDuration": 62,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "los_angeles_5",
-    "name": "USC Pacific Asia Museum",
-    "description": "los_angeles'de bulunan önemli bir müze.",
-    "image": "https://picsum.photos/800/600?random=4",
-    "category": "Müze",
-    "coordinates": {
-      "latitude": 34.1467474,
-      "longitude": -118.1410383
-    },
-    "estimatedDuration": 56,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Müze"
-    ]
-  },
-  {
-    "id": "los_angeles_6",
-    "name": "Southwest Museum of the American Indian",
-    "description": "los_angeles'de bulunan önemli bir müze.",
-    "image": "https://picsum.photos/800/600?random=5",
-    "category": "Müze",
-    "coordinates": {
-      "latitude": 34.1004643,
-      "longitude": -118.205806
-    },
-    "estimatedDuration": 67,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Müze"
-    ]
-  },
-  {
-    "id": "los_angeles_7",
-    "name": "Kuruvungna Springs",
-    "description": "los_angeles'de ziyaret edilebilecek popüler bir nokta: Kuruvungna Springs.",
-    "image": "https://picsum.photos/800/600?random=6",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 34.0449378,
-      "longitude": -118.4577727
-    },
-    "estimatedDuration": 32,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "los_angeles_8",
-    "name": "The World-Famous Studio Tour",
-    "description": "los_angeles'de ziyaret edilebilecek popüler bir nokta: The World-Famous Studio Tour.",
-    "image": "https://picsum.photos/800/600?random=7",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 34.1387841,
-      "longitude": -118.352727
-    },
-    "estimatedDuration": 78,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "los_angeles_9",
-    "name": "Los Angeles Sister Cities Monument",
-    "description": "los_angeles'de ziyaret edilebilecek popüler bir nokta: Los Angeles Sister Cities Monument.",
-    "image": "https://picsum.photos/800/600?random=8",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 34.0522841,
-      "longitude": -118.2431278
-    },
-    "estimatedDuration": 50,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "los_angeles_10",
-    "name": "Hollywood Sign",
-    "description": "los_angeles'de ziyaret edilebilecek popüler bir nokta: Hollywood Sign.",
-    "image": "https://picsum.photos/800/600?random=9",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 34.1340991,
-      "longitude": -118.321652
-    },
-    "estimatedDuration": 78,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 126,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "los_angeles_11",
-    "name": "Museum of Death",
-    "description": "los_angeles'de bulunan önemli bir müze.",
-    "image": "https://picsum.photos/800/600?random=10",
-    "category": "Müze",
-    "coordinates": {
-      "latitude": 34.0998785,
-      "longitude": -118.3290098
-    },
-    "estimatedDuration": 76,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Müze"
-    ]
-  },
-  {
-    "id": "los_angeles_12",
-    "name": "LA Plaza De Culturas Y Artes",
-    "description": "los_angeles'de bulunan önemli bir müze.",
-    "image": "https://picsum.photos/800/600?random=11",
-    "category": "Müze",
-    "coordinates": {
-      "latitude": 34.0564211,
-      "longitude": -118.239796
-    },
-    "estimatedDuration": 82,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Müze"
-    ]
-  },
-  {
-    "id": "los_angeles_13",
-    "name": "WaterWorld",
-    "description": "los_angeles'de ziyaret edilebilecek popüler bir nokta: WaterWorld.",
-    "image": "https://picsum.photos/800/600?random=12",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 34.1369219,
-      "longitude": -118.3541946
-    },
-    "estimatedDuration": 31,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "los_angeles_14",
-    "name": "Jurassic World-The Ride",
-    "description": "los_angeles'de ziyaret edilebilecek popüler bir nokta: Jurassic World-The Ride.",
-    "image": "https://picsum.photos/800/600?random=13",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 34.1403771,
-      "longitude": -118.3576195
-    },
-    "estimatedDuration": 56,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "los_angeles_15",
-    "name": "Thien Hau Temple",
-    "description": "los_angeles'in tarihi ibadet yapılarından biri.",
-    "image": "https://picsum.photos/800/600?random=14",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 34.062601,
-      "longitude": -118.240768
-    },
-    "estimatedDuration": 82,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 45,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "los_angeles_16",
-    "name": "Velveteria: The Museum of Velvet Art",
-    "description": "los_angeles'de bulunan önemli bir müze.",
-    "image": "https://picsum.photos/800/600?random=15",
-    "category": "Müze",
-    "coordinates": {
-      "latitude": 34.0603908,
-      "longitude": -118.238693
-    },
-    "estimatedDuration": 54,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 86,
-    "interests": [
-      "Müze"
-    ]
-  },
-  {
-    "id": "los_angeles_17",
-    "name": "Psychiatry: An Industry of Death Museum",
-    "description": "los_angeles'de bulunan önemli bir müze.",
-    "image": "https://picsum.photos/800/600?random=16",
-    "category": "Müze",
-    "coordinates": {
-      "latitude": 34.0978074,
-      "longitude": -118.3339175
-    },
-    "estimatedDuration": 31,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Müze"
-    ]
-  },
-  {
-    "id": "los_angeles_18",
-    "name": "Peace Monument of Glendale",
-    "description": "los_angeles'de ziyaret edilebilecek popüler bir nokta: Peace Monument of Glendale.",
-    "image": "https://picsum.photos/800/600?random=17",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 34.1434639,
-      "longitude": -118.2534759
-    },
-    "estimatedDuration": 53,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "los_angeles_19",
-    "name": "Los Angeles Zoo",
-    "description": "los_angeles'de ziyaret edilebilecek popüler bir nokta: Los Angeles Zoo.",
-    "image": "https://picsum.photos/800/600?random=18",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 34.1483335,
-      "longitude": -118.289411
-    },
-    "estimatedDuration": 37,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "los_angeles_20",
-    "name": "LA Live Steamers",
-    "description": "los_angeles'de bulunan önemli bir müze.",
-    "image": "https://picsum.photos/800/600?random=19",
-    "category": "Müze",
-    "coordinates": {
-      "latitude": 34.1548971,
-      "longitude": -118.3020299
-    },
-    "estimatedDuration": 40,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Müze"
-    ]
-  },
-  {
-    "id": "los_angeles_21",
-    "name": "Mosaic South Pasadena",
-    "description": "los_angeles'in tarihi ibadet yapılarından biri.",
-    "image": "https://picsum.photos/800/600?random=20",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 34.1140064,
-      "longitude": -118.1507832
-    },
-    "estimatedDuration": 59,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "los_angeles_22",
-    "name": "Angelus Temple",
-    "description": "los_angeles'in tarihi ibadet yapılarından biri.",
-    "image": "https://picsum.photos/800/600?random=21",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 34.076271,
-      "longitude": -118.260857
-    },
-    "estimatedDuration": 55,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "los_angeles_23",
-    "name": "Grand Central Airport Terminal",
-    "description": "los_angeles'de bulunan önemli bir müze.",
-    "image": "https://picsum.photos/800/600?random=22",
-    "category": "Müze",
-    "coordinates": {
-      "latitude": 34.1629864,
-      "longitude": -118.2866876
-    },
-    "estimatedDuration": 78,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 129,
-    "interests": [
-      "Müze"
-    ]
-  },
-  {
-    "id": "los_angeles_24",
-    "name": "Museum of Contemporary Art",
-    "description": "los_angeles'de bulunan önemli bir müze.",
-    "image": "https://images.pexels.com/photos/1674049/pexels-photo-1674049.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "category": "Müze",
-    "coordinates": {
-      "latitude": 34.0532901,
-      "longitude": -118.2505295
-    },
-    "estimatedDuration": 40,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Müze"
-    ]
-  },
-  {
-    "id": "los_angeles_25",
-    "name": "Los Angeles California Temple",
-    "description": "los_angeles'in tarihi ibadet yapılarından biri.",
-    "image": "https://picsum.photos/800/600?random=24",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 34.0526136,
-      "longitude": -118.433846
-    },
-    "estimatedDuration": 43,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "los_angeles_26",
-    "name": "Heritage Square",
-    "description": "los_angeles'de bulunan önemli bir müze.",
-    "image": "https://picsum.photos/800/600?random=25",
-    "category": "Müze",
-    "coordinates": {
-      "latitude": 34.087946,
-      "longitude": -118.208567
-    },
-    "estimatedDuration": 70,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Müze"
-    ]
-  },
-  {
-    "id": "los_angeles_27",
-    "name": "Old Pasadena Historic District",
-    "description": "los_angeles'de ziyaret edilebilecek popüler bir nokta: Old Pasadena Historic District.",
-    "image": "https://picsum.photos/800/600?random=26",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 34.1450616,
-      "longitude": -118.1505078
-    },
-    "estimatedDuration": 66,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 26,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "los_angeles_28",
-    "name": "Saint Robert Bellarmine Roman Catholic Church",
-    "description": "los_angeles'in tarihi ibadet yapılarından biri.",
-    "image": "https://picsum.photos/800/600?random=27",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 34.1847268,
-      "longitude": -118.3061306
-    },
-    "estimatedDuration": 76,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 1,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "los_angeles_29",
-    "name": "Friendship Baptist Church",
-    "description": "los_angeles'in tarihi ibadet yapılarından biri.",
-    "image": "https://picsum.photos/800/600?random=28",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 34.1434124,
-      "longitude": -118.1521258
-    },
-    "estimatedDuration": 60,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "los_angeles_30",
-    "name": "Saint Andrew Roman Catholic Church",
-    "description": "los_angeles'in tarihi ibadet yapılarından biri.",
-    "image": "https://picsum.photos/800/600?random=29",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 34.1507317,
-      "longitude": -118.1493561
-    },
-    "estimatedDuration": 86,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 160,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "los_angeles_31",
-    "name": "Angels Flight",
-    "description": "los_angeles'de ziyaret edilebilecek popüler bir nokta: Angels Flight.",
-    "image": "https://picsum.photos/800/600?random=30",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 34.051389,
-      "longitude": -118.2502721
-    },
-    "estimatedDuration": 49,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "los_angeles_32",
-    "name": "Los Angeles County Museum of Art",
-    "description": "los_angeles'de bulunan önemli bir müze.",
-    "image": "https://picsum.photos/800/600?random=31",
-    "category": "Müze",
-    "coordinates": {
-      "latitude": 34.0636978,
-      "longitude": -118.3588316
-    },
-    "estimatedDuration": 62,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Müze"
-    ]
-  },
-  {
-    "id": "los_angeles_33",
-    "name": "Walk of Fame",
-    "description": "los_angeles'de ziyaret edilebilecek popüler bir nokta: Walk of Fame.",
-    "image": "https://picsum.photos/800/600?random=32",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 34.1016763,
-      "longitude": -118.3402721
-    },
-    "estimatedDuration": 33,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 100,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "los_angeles_34",
-    "name": "California African American Museum",
-    "description": "los_angeles'de bulunan önemli bir müze.",
-    "image": "https://picsum.photos/800/600?random=33",
-    "category": "Müze",
-    "coordinates": {
-      "latitude": 34.0159444,
-      "longitude": -118.2836227
-    },
-    "estimatedDuration": 73,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Müze"
-    ]
-  },
-  {
-    "id": "los_angeles_35",
-    "name": "Natural History Museum of Los Angeles County",
-    "description": "los_angeles'de bulunan önemli bir müze.",
-    "image": "https://picsum.photos/800/600?random=34",
-    "category": "Müze",
-    "coordinates": {
-      "latitude": 34.0170844,
-      "longitude": -118.2888227
-    },
-    "estimatedDuration": 62,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 62,
-    "interests": [
-      "Müze"
-    ]
-  },
-  {
-    "id": "los_angeles_36",
-    "name": "Neutra Studio and Residences (VDL Research House)",
-    "description": "los_angeles'de bulunan önemli bir müze.",
-    "image": "https://picsum.photos/800/600?random=35",
-    "category": "Müze",
-    "coordinates": {
-      "latitude": 34.0984408,
-      "longitude": -118.2603974
-    },
-    "estimatedDuration": 50,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 39,
-    "interests": [
-      "Müze"
-    ]
-  },
-  {
-    "id": "los_angeles_37",
-    "name": "Los Angeles Municipal Art Gallery",
-    "description": "los_angeles'de bulunan önemli bir müze.",
-    "image": "https://picsum.photos/800/600?random=36",
-    "category": "Müze",
-    "coordinates": {
-      "latitude": 34.1004021,
-      "longitude": -118.2936452
-    },
-    "estimatedDuration": 36,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Müze"
-    ]
-  },
-  {
-    "id": "los_angeles_38",
-    "name": "Randy’s Donuts",
-    "description": "los_angeles'de ziyaret edilebilecek popüler bir nokta: Randy’s Donuts.",
-    "image": "https://picsum.photos/800/600?random=37",
-    "category": "Alışveriş",
-    "coordinates": {
-      "latitude": 33.9618523,
-      "longitude": -118.3703788
-    },
-    "estimatedDuration": 44,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Alışveriş"
-    ]
-  },
-  {
-    "id": "los_angeles_39",
-    "name": "Autry Museum of the American West",
-    "description": "los_angeles'de bulunan önemli bir müze.",
-    "image": "https://picsum.photos/800/600?random=38",
-    "category": "Müze",
-    "coordinates": {
-      "latitude": 34.1485739,
-      "longitude": -118.281268
-    },
-    "estimatedDuration": 77,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Müze"
-    ]
-  },
-  {
-    "id": "los_angeles_40",
-    "name": "Saint Timothy Catholic Church",
-    "description": "los_angeles'in tarihi ibadet yapılarından biri.",
-    "image": "https://picsum.photos/800/600?random=39",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 34.0463165,
-      "longitude": -118.4178395
-    },
-    "estimatedDuration": 36,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "los_angeles_41",
-    "name": "The Playboy Mansion",
-    "description": "los_angeles'de ziyaret edilebilecek popüler bir nokta: The Playboy Mansion.",
-    "image": "https://picsum.photos/800/600?random=40",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 34.0764577,
-      "longitude": -118.4296733
-    },
-    "estimatedDuration": 55,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "los_angeles_42",
-    "name": "Los Angeles Fire Department Museum and Memorial",
-    "description": "los_angeles'de bulunan önemli bir müze.",
-    "image": "https://picsum.photos/800/600?random=41",
-    "category": "Müze",
-    "coordinates": {
-      "latitude": 34.0959378,
-      "longitude": -118.3300585
-    },
-    "estimatedDuration": 78,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Müze"
-    ]
-  },
-  {
-    "id": "los_angeles_43",
-    "name": "Egyptian Theater",
-    "description": "los_angeles'de ziyaret edilebilecek popüler bir nokta: Egyptian Theater.",
-    "image": "https://picsum.photos/800/600?random=42",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 34.1007914,
-      "longitude": -118.3366539
-    },
-    "estimatedDuration": 47,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "los_angeles_44",
-    "name": "Madame Tussaud's",
-    "description": "los_angeles'de bulunan önemli bir müze.",
-    "image": "https://picsum.photos/800/600?random=43",
-    "category": "Müze",
-    "coordinates": {
-      "latitude": 34.1019411,
-      "longitude": -118.3414286
-    },
-    "estimatedDuration": 36,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Müze"
-    ]
-  },
-  {
-    "id": "los_angeles_45",
-    "name": "Church of Saint Paul the Apostle",
-    "description": "los_angeles'in tarihi ibadet yapılarından biri.",
-    "image": "https://picsum.photos/800/600?random=44",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 34.0558596,
-      "longitude": -118.4370483
-    },
-    "estimatedDuration": 82,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "los_angeles_46",
-    "name": "Church of the Good Shepherd",
-    "description": "los_angeles'in tarihi ibadet yapılarından biri.",
-    "image": "https://picsum.photos/800/600?random=45",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 34.0697281,
-      "longitude": -118.4073554
-    },
-    "estimatedDuration": 50,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "los_angeles_47",
-    "name": "First Church of Christ, Scientist",
-    "description": "los_angeles'in tarihi ibadet yapılarından biri.",
-    "image": "https://picsum.photos/800/600?random=46",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 34.0453012,
-      "longitude": -118.2835824
-    },
-    "estimatedDuration": 30,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "los_angeles_48",
-    "name": "Hollywood Heritage Museum",
-    "description": "los_angeles'de bulunan önemli bir müze.",
-    "image": "https://picsum.photos/800/600?random=47",
-    "category": "Müze",
-    "coordinates": {
-      "latitude": 34.1085321,
-      "longitude": -118.3361185
-    },
-    "estimatedDuration": 34,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 114,
-    "interests": [
-      "Müze"
-    ]
-  },
-  {
-    "id": "los_angeles_49",
-    "name": "Saint James Episcopal Church",
-    "description": "los_angeles'in tarihi ibadet yapılarından biri.",
-    "image": "https://picsum.photos/800/600?random=48",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 34.0620422,
-      "longitude": -118.3119552
-    },
-    "estimatedDuration": 51,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "los_angeles_50",
-    "name": "The Broad Museum",
-    "description": "los_angeles'de bulunan önemli bir müze.",
-    "image": "https://picsum.photos/800/600?random=49",
-    "category": "Müze",
-    "coordinates": {
-      "latitude": 34.0544575,
-      "longitude": -118.2505946
-    },
-    "estimatedDuration": 31,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Müze"
-    ]
-  },
-  {
-    "id": "los_angeles_51",
-    "name": "Koyasan Beikoku Betsuin of Los Angeles",
-    "description": "los_angeles'in tarihi ibadet yapılarından biri.",
-    "image": "https://picsum.photos/800/600?random=50",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 34.0492718,
-      "longitude": -118.2403149
-    },
-    "estimatedDuration": 71,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "los_angeles_52",
-    "name": "African American Firefighter Museum",
-    "description": "los_angeles'de bulunan önemli bir müze.",
-    "image": "https://picsum.photos/800/600?random=51",
-    "category": "Müze",
-    "coordinates": {
-      "latitude": 34.0284646,
-      "longitude": -118.2472636
-    },
-    "estimatedDuration": 54,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Müze"
-    ]
-  },
-  {
-    "id": "los_angeles_53",
-    "name": "Saint Thomas the Apostle Roman Catholic Church",
-    "description": "los_angeles'in tarihi ibadet yapılarından biri.",
-    "image": "https://picsum.photos/800/600?random=52",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 34.0468627,
-      "longitude": -118.2989896
-    },
-    "estimatedDuration": 34,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "los_angeles_54",
-    "name": "Saint Sophia Greek Orthodox Cathedral",
-    "description": "los_angeles'in tarihi ibadet yapılarından biri.",
-    "image": "https://picsum.photos/800/600?random=53",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 34.0457657,
-      "longitude": -118.2995883
-    },
-    "estimatedDuration": 84,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "los_angeles_55",
-    "name": "Lummis Home",
-    "description": "los_angeles'de bulunan önemli bir müze.",
-    "image": "https://picsum.photos/800/600?random=54",
-    "category": "Müze",
-    "coordinates": {
-      "latitude": 34.0931734,
-      "longitude": -118.2069066
-    },
-    "estimatedDuration": 75,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Müze"
-    ]
-  },
-  {
-    "id": "los_angeles_56",
-    "name": "Breed Street Shul",
-    "description": "los_angeles'in tarihi ibadet yapılarından biri.",
-    "image": "https://picsum.photos/800/600?random=55",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 34.0468632,
-      "longitude": -118.2095987
-    },
-    "estimatedDuration": 85,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "los_angeles_57",
-    "name": "Iglesia de Jesucristo Judá",
-    "description": "los_angeles'in tarihi ibadet yapılarından biri.",
-    "image": "https://picsum.photos/800/600?random=56",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 34.02049,
-      "longitude": -118.2537377
+      "latitude": 34.0860805264363,
+      "longitude": -118.20578761012932
     },
     "estimatedDuration": 87,
     "openingTime": "09:00",
@@ -1026,16 +36,34 @@
     ]
   },
   {
-    "id": "los_angeles_58",
-    "name": "St. Leon Armenian Cathedral",
-    "description": "los_angeles'in tarihi ibadet yapılarından biri.",
-    "image": "https://picsum.photos/800/600?random=57",
+    "id": "los_angeles_3",
+    "name": "Hollywood Walk of Fame",
+    "description": "Hollywood Walk of Fame, los_angeles şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=2",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 34.2061545,
-      "longitude": -118.3416477
+      "latitude": 34.04901262477716,
+      "longitude": -118.25780159038872
     },
-    "estimatedDuration": 74,
+    "estimatedDuration": 115,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 131,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "los_angeles_4",
+    "name": "Universal Studios Hollywood",
+    "description": "Universal Studios Hollywood, los_angeles şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=3",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 34.08269427105029,
+      "longitude": -118.25391186837344
+    },
+    "estimatedDuration": 95,
     "openingTime": "09:00",
     "closingTime": "18:00",
     "cost": 0,
@@ -1044,19 +72,829 @@
     ]
   },
   {
-    "id": "los_angeles_59",
-    "name": "St. Gregory Armenian Catholic Church",
-    "description": "los_angeles'in tarihi ibadet yapılarından biri.",
-    "image": "https://picsum.photos/800/600?random=58",
+    "id": "los_angeles_5",
+    "name": "Santa Monica Pier",
+    "description": "Santa Monica Pier, los_angeles şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=4",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 34.1652093,
-      "longitude": -118.2330004
+      "latitude": 34.0288173566318,
+      "longitude": -118.26755296472818
+    },
+    "estimatedDuration": 104,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 70,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "los_angeles_6",
+    "name": "Venice Beach",
+    "description": "Venice Beach, los_angeles şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=5",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 34.091549388959194,
+      "longitude": -118.22681250270603
+    },
+    "estimatedDuration": 134,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "los_angeles_7",
+    "name": "The Getty Center",
+    "description": "The Getty Center, los_angeles şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=6",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 34.088502185413816,
+      "longitude": -118.27060474754373
+    },
+    "estimatedDuration": 134,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "los_angeles_8",
+    "name": "Los Angeles County Museum of Art (LACMA)",
+    "description": "Los Angeles County Museum of Art (LACMA), los_angeles şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=7",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 34.04708571937307,
+      "longitude": -118.2462317558921
+    },
+    "estimatedDuration": 128,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 3,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "los_angeles_9",
+    "name": "The Broad",
+    "description": "The Broad, los_angeles şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=8",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 34.08512336833904,
+      "longitude": -118.24558361579808
+    },
+    "estimatedDuration": 115,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 151,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "los_angeles_10",
+    "name": "Walt Disney Concert Hall",
+    "description": "Walt Disney Concert Hall, los_angeles şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=9",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 34.050691258313925,
+      "longitude": -118.23121618798358
+    },
+    "estimatedDuration": 174,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "los_angeles_11",
+    "name": "Dolby Theatre",
+    "description": "Dolby Theatre, los_angeles şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=10",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 34.083283233346165,
+      "longitude": -118.25862062942277
+    },
+    "estimatedDuration": 62,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "los_angeles_12",
+    "name": "TCL Chinese Theatre",
+    "description": "TCL Chinese Theatre, los_angeles şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=11",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 34.073220840718,
+      "longitude": -118.25186688983024
+    },
+    "estimatedDuration": 141,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "los_angeles_13",
+    "name": "Hollywood Bowl",
+    "description": "Hollywood Bowl, los_angeles şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=12",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 34.07136447032099,
+      "longitude": -118.26665495245587
+    },
+    "estimatedDuration": 75,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 68,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "los_angeles_14",
+    "name": "Sunset Boulevard",
+    "description": "Sunset Boulevard, los_angeles şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=13",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 34.023677203251424,
+      "longitude": -118.27729406398265
+    },
+    "estimatedDuration": 64,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 455,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "los_angeles_15",
+    "name": "Rodeo Drive",
+    "description": "Rodeo Drive, los_angeles şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=14",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 34.01660206786357,
+      "longitude": -118.27290616366746
+    },
+    "estimatedDuration": 167,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 411,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "los_angeles_16",
+    "name": "Beverly Hills",
+    "description": "Beverly Hills, los_angeles şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=15",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 34.0207597724793,
+      "longitude": -118.26335869396794
+    },
+    "estimatedDuration": 167,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "los_angeles_17",
+    "name": "The Grove",
+    "description": "The Grove, los_angeles şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=16",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 34.03851398193755,
+      "longitude": -118.2201569109493
+    },
+    "estimatedDuration": 90,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "los_angeles_18",
+    "name": "Original Farmers Market",
+    "description": "Original Farmers Market, los_angeles şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=17",
+    "category": "Alışveriş",
+    "coordinates": {
+      "latitude": 34.07615389444357,
+      "longitude": -118.2475636891758
+    },
+    "estimatedDuration": 122,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 151,
+    "interests": [
+      "Alışveriş"
+    ]
+  },
+  {
+    "id": "los_angeles_19",
+    "name": "Grand Central Market",
+    "description": "Grand Central Market, los_angeles şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=18",
+    "category": "Alışveriş",
+    "coordinates": {
+      "latitude": 34.03488481203905,
+      "longitude": -118.2166027955474
+    },
+    "estimatedDuration": 140,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Alışveriş"
+    ]
+  },
+  {
+    "id": "los_angeles_20",
+    "name": "Bradbury Building",
+    "description": "Bradbury Building, los_angeles şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=19",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 34.04776990488131,
+      "longitude": -118.21164374854027
+    },
+    "estimatedDuration": 121,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 274,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "los_angeles_21",
+    "name": "The Last Bookstore",
+    "description": "The Last Bookstore, los_angeles şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=20",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 34.016799374693726,
+      "longitude": -118.26947974618686
+    },
+    "estimatedDuration": 108,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "los_angeles_22",
+    "name": "Union Station",
+    "description": "Union Station, los_angeles şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=21",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 34.02176389728051,
+      "longitude": -118.20866658536218
+    },
+    "estimatedDuration": 121,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 38,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "los_angeles_23",
+    "name": "Olvera Street",
+    "description": "Olvera Street, los_angeles şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://images.pexels.com/photos/34930518/pexels-photo-34930518.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 34.088340282854126,
+      "longitude": -118.21575224777828
+    },
+    "estimatedDuration": 89,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "los_angeles_24",
+    "name": "Chinatown",
+    "description": "Chinatown, los_angeles şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=23",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 34.07204370167437,
+      "longitude": -118.25472501345098
+    },
+    "estimatedDuration": 105,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "los_angeles_25",
+    "name": "Little Tokyo",
+    "description": "Little Tokyo, los_angeles şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=24",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 34.04630824127159,
+      "longitude": -118.27608102756852
+    },
+    "estimatedDuration": 93,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 434,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "los_angeles_26",
+    "name": "Arts District",
+    "description": "Arts District, los_angeles şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=25",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 34.01632850736691,
+      "longitude": -118.25872944362688
+    },
+    "estimatedDuration": 140,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 1,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "los_angeles_27",
+    "name": "Downtown LA",
+    "description": "Downtown LA, los_angeles şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=26",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 34.07528597675337,
+      "longitude": -118.21970443818186
+    },
+    "estimatedDuration": 117,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "los_angeles_28",
+    "name": "Staples Center (Crypto.com Arena)",
+    "description": "Staples Center (Crypto.com Arena), los_angeles şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=27",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 34.022562790763885,
+      "longitude": -118.21096955312743
+    },
+    "estimatedDuration": 135,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "los_angeles_29",
+    "name": "Dodger Stadium",
+    "description": "Dodger Stadium, los_angeles şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=28",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 34.02007356092145,
+      "longitude": -118.22454704701819
+    },
+    "estimatedDuration": 127,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 337,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "los_angeles_30",
+    "name": "SoFi Stadium",
+    "description": "SoFi Stadium, los_angeles şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=29",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 34.03948540860726,
+      "longitude": -118.22950567037317
+    },
+    "estimatedDuration": 73,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 204,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "los_angeles_31",
+    "name": "California Science Center",
+    "description": "California Science Center, los_angeles şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=30",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 34.02320631262304,
+      "longitude": -118.27283100803808
+    },
+    "estimatedDuration": 70,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 200,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "los_angeles_32",
+    "name": "Natural History Museum of LA County",
+    "description": "Natural History Museum of LA County, los_angeles şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=31",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 34.05722271095573,
+      "longitude": -118.23747705196119
+    },
+    "estimatedDuration": 125,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "los_angeles_33",
+    "name": "La Brea Tar Pits",
+    "description": "La Brea Tar Pits, los_angeles şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=32",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 34.02027435888142,
+      "longitude": -118.26786482580714
+    },
+    "estimatedDuration": 146,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 202,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "los_angeles_34",
+    "name": "Petersen Automotive Museum",
+    "description": "Petersen Automotive Museum, los_angeles şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=33",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 34.08994950986309,
+      "longitude": -118.25401294101079
+    },
+    "estimatedDuration": 103,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 90,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "los_angeles_35",
+    "name": "Academy Museum of Motion Pictures",
+    "description": "Academy Museum of Motion Pictures, los_angeles şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=34",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 34.03452815627715,
+      "longitude": -118.2431815453588
+    },
+    "estimatedDuration": 119,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 229,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "los_angeles_36",
+    "name": "Grammy Museum",
+    "description": "Grammy Museum, los_angeles şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=35",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 34.09110592895137,
+      "longitude": -118.21196523377108
+    },
+    "estimatedDuration": 124,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 50,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "los_angeles_37",
+    "name": "Battleship USS Iowa",
+    "description": "Battleship USS Iowa, los_angeles şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=36",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 34.02158912210361,
+      "longitude": -118.24583826660123
+    },
+    "estimatedDuration": 147,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "los_angeles_38",
+    "name": "Queen Mary",
+    "description": "Queen Mary, los_angeles şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=37",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 34.036133216443964,
+      "longitude": -118.26246941343139
+    },
+    "estimatedDuration": 126,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "los_angeles_39",
+    "name": "Aquarium of the Pacific",
+    "description": "Aquarium of the Pacific, los_angeles şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=38",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 34.06000143902599,
+      "longitude": -118.22761038829996
+    },
+    "estimatedDuration": 117,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "los_angeles_40",
+    "name": "Long Beach",
+    "description": "Long Beach, los_angeles şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=39",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 34.023848466521684,
+      "longitude": -118.22030263485001
+    },
+    "estimatedDuration": 137,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 195,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "los_angeles_41",
+    "name": "Malibu",
+    "description": "Malibu, los_angeles şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=40",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 34.039261042652846,
+      "longitude": -118.215742914191
+    },
+    "estimatedDuration": 179,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 313,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "los_angeles_42",
+    "name": "Zuma Beach",
+    "description": "Zuma Beach, los_angeles şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=41",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 34.04860888472555,
+      "longitude": -118.2355593854147
+    },
+    "estimatedDuration": 132,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "los_angeles_43",
+    "name": "El Matador Beach",
+    "description": "El Matador Beach, los_angeles şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=42",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 34.01542498049134,
+      "longitude": -118.21819688921357
     },
     "estimatedDuration": 67,
     "openingTime": "09:00",
     "closingTime": "18:00",
     "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "los_angeles_44",
+    "name": "Santa Monica State Beach",
+    "description": "Santa Monica State Beach, los_angeles şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=43",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 34.06777841960248,
+      "longitude": -118.23855236946403
+    },
+    "estimatedDuration": 160,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 258,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "los_angeles_45",
+    "name": "Venice Canals",
+    "description": "Venice Canals, los_angeles şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=44",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 34.06420558574058,
+      "longitude": -118.21214417787927
+    },
+    "estimatedDuration": 108,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "los_angeles_46",
+    "name": "Abbot Kinney Boulevard",
+    "description": "Abbot Kinney Boulevard, los_angeles şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=45",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 34.05878471663691,
+      "longitude": -118.2774742149375
+    },
+    "estimatedDuration": 155,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "los_angeles_47",
+    "name": "Muscle Beach",
+    "description": "Muscle Beach, los_angeles şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=46",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 34.0858648987297,
+      "longitude": -118.23634706462644
+    },
+    "estimatedDuration": 94,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "los_angeles_48",
+    "name": "Runyon Canyon Park",
+    "description": "Runyon Canyon Park, los_angeles şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=47",
+    "category": "Park",
+    "coordinates": {
+      "latitude": 34.07590869387797,
+      "longitude": -118.25693685999498
+    },
+    "estimatedDuration": 161,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Park"
+    ]
+  },
+  {
+    "id": "los_angeles_49",
+    "name": "Echo Park Lake",
+    "description": "Echo Park Lake, los_angeles şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=48",
+    "category": "Park",
+    "coordinates": {
+      "latitude": 34.01955170017922,
+      "longitude": -118.2355283474204
+    },
+    "estimatedDuration": 160,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Park"
+    ]
+  },
+  {
+    "id": "los_angeles_50",
+    "name": "Huntington Library",
+    "description": "Huntington Library, los_angeles şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=49",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 34.032478363385884,
+      "longitude": -118.25016128445122
+    },
+    "estimatedDuration": 105,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 31,
     "interests": [
       "Tarihi"
     ]

@@ -1,15 +1,15 @@
 [
   {
     "id": "venice_1",
-    "name": "Gunther Gebel-Williams",
-    "description": "venice'de ziyaret edilebilecek popüler bir nokta: Gunther Gebel-Williams.",
-    "image": "https://images.pexels.com/photos/34926315/pexels-photo-34926315.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "name": "St. Mark's Basilica",
+    "description": "St. Mark's Basilica, venice şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=0",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 27.1014331,
-      "longitude": -82.440169
+      "latitude": 45.41234251937307,
+      "longitude": 12.345303607343027
     },
-    "estimatedDuration": 33,
+    "estimatedDuration": 172,
     "openingTime": "09:00",
     "closingTime": "18:00",
     "cost": 0,
@@ -19,15 +19,339 @@
   },
   {
     "id": "venice_2",
-    "name": "Venice Museum and Archives",
-    "description": "venice'de bulunan önemli bir müze.",
+    "name": "St. Mark's Square",
+    "description": "St. Mark's Square, venice şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=1",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.477915416484265,
+      "longitude": 12.280687517340475
+    },
+    "estimatedDuration": 62,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 387,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "venice_3",
+    "name": "Doge's Palace",
+    "description": "Doge's Palace, venice şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=2",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.453582104594595,
+      "longitude": 12.30238798160876
+    },
+    "estimatedDuration": 84,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 201,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "venice_4",
+    "name": "Rialto Bridge",
+    "description": "Rialto Bridge, venice şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=3",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.448175616555375,
+      "longitude": 12.310641892460573
+    },
+    "estimatedDuration": 158,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "venice_5",
+    "name": "Grand Canal",
+    "description": "Grand Canal, venice şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=4",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.411398971714625,
+      "longitude": 12.288845463459115
+    },
+    "estimatedDuration": 129,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "venice_6",
+    "name": "Bridge of Sighs",
+    "description": "Bridge of Sighs, venice şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=5",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.402578038766364,
+      "longitude": 12.31508153763611
+    },
+    "estimatedDuration": 93,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 339,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "venice_7",
+    "name": "Campanile di San Marco",
+    "description": "Campanile di San Marco, venice şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=6",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.402362969118535,
+      "longitude": 12.347451811855892
+    },
+    "estimatedDuration": 106,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "venice_8",
+    "name": "Teatro La Fenice",
+    "description": "Teatro La Fenice, venice şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=7",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.43400694029121,
+      "longitude": 12.31837954232674
+    },
+    "estimatedDuration": 164,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "venice_9",
+    "name": "Peggy Guggenheim Collection",
+    "description": "Peggy Guggenheim Collection, venice şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=8",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.421024976756854,
+      "longitude": 12.299746521850787
+    },
+    "estimatedDuration": 83,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "venice_10",
+    "name": "Gallerie dell'Accademia",
+    "description": "Gallerie dell'Accademia, venice şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=9",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.47821793461671,
+      "longitude": 12.290534187549174
+    },
+    "estimatedDuration": 136,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 35,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "venice_11",
+    "name": "Santa Maria della Salute",
+    "description": "Santa Maria della Salute, venice şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=10",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.479160301086125,
+      "longitude": 12.295612349120248
+    },
+    "estimatedDuration": 125,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "venice_12",
+    "name": "San Giorgio Maggiore",
+    "description": "San Giorgio Maggiore, venice şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=11",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.410207899295514,
+      "longitude": 12.326731571012187
+    },
+    "estimatedDuration": 170,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "venice_13",
+    "name": "Basilica di Santa Maria Gloriosa dei Frari",
+    "description": "Basilica di Santa Maria Gloriosa dei Frari, venice şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=12",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.42000755016981,
+      "longitude": 12.296375751564153
+    },
+    "estimatedDuration": 147,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "venice_14",
+    "name": "Scuola Grande di San Rocco",
+    "description": "Scuola Grande di San Rocco, venice şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=13",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.42491848604884,
+      "longitude": 12.308711109706126
+    },
+    "estimatedDuration": 84,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "venice_15",
+    "name": "Ca' d'Oro",
+    "description": "Ca' d'Oro, venice şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=14",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.4435433186817,
+      "longitude": 12.331465722427234
+    },
+    "estimatedDuration": 121,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 422,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "venice_16",
+    "name": "Ca' Rezzonico",
+    "description": "Ca' Rezzonico, venice şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=15",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.454271372987066,
+      "longitude": 12.281847507507074
+    },
+    "estimatedDuration": 71,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 252,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "venice_17",
+    "name": "Palazzo Grassi",
+    "description": "Palazzo Grassi, venice şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=16",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.436448500661825,
+      "longitude": 12.328772344065811
+    },
+    "estimatedDuration": 88,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "venice_18",
+    "name": "Punta della Dogana",
+    "description": "Punta della Dogana, venice şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=17",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.47239837647206,
+      "longitude": 12.276288124401646
+    },
+    "estimatedDuration": 66,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "venice_19",
+    "name": "Arsenal",
+    "description": "Arsenal, venice şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=18",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.43582750778613,
+      "longitude": 12.329843946197595
+    },
+    "estimatedDuration": 163,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "venice_20",
+    "name": "Naval Historical Museum",
+    "description": "Naval Historical Museum, venice şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=19",
     "category": "Müze",
     "coordinates": {
-      "latitude": 27.0953304,
-      "longitude": -82.4475367
+      "latitude": 45.476360145135814,
+      "longitude": 12.28656775768018
     },
-    "estimatedDuration": 55,
+    "estimatedDuration": 175,
     "openingTime": "09:00",
     "closingTime": "18:00",
     "cost": 0,
@@ -36,21 +360,543 @@
     ]
   },
   {
-    "id": "venice_3",
-    "name": "Venice Rail Depot",
-    "description": "venice'de bulunan önemli bir müze.",
-    "image": "https://images.pexels.com/photos/9128474/pexels-photo-9128474.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "id": "venice_21",
+    "name": "Murano",
+    "description": "Murano, venice şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=20",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.46375328420533,
+      "longitude": 12.279945673958458
+    },
+    "estimatedDuration": 84,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "venice_22",
+    "name": "Burano",
+    "description": "Burano, venice şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=21",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.469464747544514,
+      "longitude": 12.293530440095155
+    },
+    "estimatedDuration": 112,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "venice_23",
+    "name": "Torcello",
+    "description": "Torcello, venice şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=22",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.44483298979655,
+      "longitude": 12.319099513566425
+    },
+    "estimatedDuration": 164,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "venice_24",
+    "name": "Lido di Venezia",
+    "description": "Lido di Venezia, venice şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=23",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.43199276843175,
+      "longitude": 12.275955141458645
+    },
+    "estimatedDuration": 132,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "venice_25",
+    "name": "Giudecca",
+    "description": "Giudecca, venice şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=24",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.463554318667484,
+      "longitude": 12.281002183034195
+    },
+    "estimatedDuration": 62,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "venice_26",
+    "name": "San Polo",
+    "description": "San Polo, venice şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=25",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.409332725517885,
+      "longitude": 12.351415125995924
+    },
+    "estimatedDuration": 76,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 470,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "venice_27",
+    "name": "Cannaregio",
+    "description": "Cannaregio, venice şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=26",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.42027747421803,
+      "longitude": 12.283616510760593
+    },
+    "estimatedDuration": 177,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "venice_28",
+    "name": "Dorsoduro",
+    "description": "Dorsoduro, venice şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=27",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.42786635187293,
+      "longitude": 12.290551703274376
+    },
+    "estimatedDuration": 90,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 316,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "venice_29",
+    "name": "Castello",
+    "description": "Castello, venice şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=28",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.43605985057238,
+      "longitude": 12.306231970691021
+    },
+    "estimatedDuration": 129,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 478,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "venice_30",
+    "name": "Santa Croce",
+    "description": "Santa Croce, venice şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=29",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.45971331332172,
+      "longitude": 12.343726209361622
+    },
+    "estimatedDuration": 177,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 21,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "venice_31",
+    "name": "Jewish Ghetto",
+    "description": "Jewish Ghetto, venice şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=30",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.42012316706841,
+      "longitude": 12.323595652430871
+    },
+    "estimatedDuration": 74,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 132,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "venice_32",
+    "name": "Campo Santa Margherita",
+    "description": "Campo Santa Margherita, venice şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=31",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.45254184698357,
+      "longitude": 12.306319356692166
+    },
+    "estimatedDuration": 129,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 38,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "venice_33",
+    "name": "Campo San Polo",
+    "description": "Campo San Polo, venice şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=32",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.410214929843434,
+      "longitude": 12.345714957484192
+    },
+    "estimatedDuration": 111,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 53,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "venice_34",
+    "name": "Rialto Market",
+    "description": "Rialto Market, venice şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=33",
+    "category": "Alışveriş",
+    "coordinates": {
+      "latitude": 45.40823792066123,
+      "longitude": 12.299467907431046
+    },
+    "estimatedDuration": 108,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 153,
+    "interests": [
+      "Alışveriş"
+    ]
+  },
+  {
+    "id": "venice_35",
+    "name": "Fondaco dei Tedeschi",
+    "description": "Fondaco dei Tedeschi, venice şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=34",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.42778104569815,
+      "longitude": 12.344279132546225
+    },
+    "estimatedDuration": 126,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 103,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "venice_36",
+    "name": "Scala Contarini del Bovolo",
+    "description": "Scala Contarini del Bovolo, venice şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=35",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.47310916077558,
+      "longitude": 12.322001896656941
+    },
+    "estimatedDuration": 80,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 23,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "venice_37",
+    "name": "Libreria Acqua Alta",
+    "description": "Libreria Acqua Alta, venice şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=36",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.4599402661426,
+      "longitude": 12.342870084575393
+    },
+    "estimatedDuration": 104,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "venice_38",
+    "name": "Squero di San Trovaso",
+    "description": "Squero di San Trovaso, venice şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=37",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.47783539553342,
+      "longitude": 12.29201557783428
+    },
+    "estimatedDuration": 139,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 313,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "venice_39",
+    "name": "Church of San Zaccaria",
+    "description": "Church of San Zaccaria, venice şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=38",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.427169019659026,
+      "longitude": 12.275841930010735
+    },
+    "estimatedDuration": 66,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 42,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "venice_40",
+    "name": "Church of Santa Maria dei Miracoli",
+    "description": "Church of Santa Maria dei Miracoli, venice şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=39",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.40521447029626,
+      "longitude": 12.307582743536367
+    },
+    "estimatedDuration": 66,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 171,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "venice_41",
+    "name": "Church of San Pantalon",
+    "description": "Church of San Pantalon, venice şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=40",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.47316595544291,
+      "longitude": 12.342269689543045
+    },
+    "estimatedDuration": 103,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 143,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "venice_42",
+    "name": "Church of Madonna dell'Orto",
+    "description": "Church of Madonna dell'Orto, venice şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://images.pexels.com/photos/34928115/pexels-photo-34928115.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.48028888779303,
+      "longitude": 12.303487183881646
+    },
+    "estimatedDuration": 174,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "venice_43",
+    "name": "Church of San Sebastiano",
+    "description": "Church of San Sebastiano, venice şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=42",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.44731084152664,
+      "longitude": 12.29132121796826
+    },
+    "estimatedDuration": 151,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "venice_44",
+    "name": "Correr Museum",
+    "description": "Correr Museum, venice şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=43",
     "category": "Müze",
     "coordinates": {
-      "latitude": 27.1010168,
-      "longitude": -82.440243
+      "latitude": 45.40858844771408,
+      "longitude": 12.345488955978333
     },
-    "estimatedDuration": 43,
+    "estimatedDuration": 89,
     "openingTime": "09:00",
     "closingTime": "18:00",
     "cost": 0,
     "interests": [
       "Müze"
+    ]
+  },
+  {
+    "id": "venice_45",
+    "name": "National Archaeological Museum",
+    "description": "National Archaeological Museum, venice şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=44",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 45.40690722802714,
+      "longitude": 12.317046754733516
+    },
+    "estimatedDuration": 65,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 269,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "venice_46",
+    "name": "Biblioteca Marciana",
+    "description": "Biblioteca Marciana, venice şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=45",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.45274457822606,
+      "longitude": 12.291983269756011
+    },
+    "estimatedDuration": 128,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 295,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "venice_47",
+    "name": "Clock Tower",
+    "description": "Clock Tower, venice şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=46",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.43358636150633,
+      "longitude": 12.296520848625446
+    },
+    "estimatedDuration": 166,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "venice_48",
+    "name": "Bridge of Fists",
+    "description": "Bridge of Fists, venice şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=47",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.44147675838278,
+      "longitude": 12.30610146120437
+    },
+    "estimatedDuration": 110,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "venice_49",
+    "name": "Bridge of Chiodo",
+    "description": "Bridge of Chiodo, venice şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=48",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.41506306954278,
+      "longitude": 12.326139209303678
+    },
+    "estimatedDuration": 172,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 293,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "venice_50",
+    "name": "Venice Biennale",
+    "description": "Venice Biennale, venice şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=49",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.4462176290239,
+      "longitude": 12.294148960464716
+    },
+    "estimatedDuration": 84,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 85,
+    "interests": [
+      "Tarihi"
     ]
   }
 ]

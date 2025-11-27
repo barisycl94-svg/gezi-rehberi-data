@@ -1,0 +1,902 @@
+[
+  {
+    "id": "prague_1",
+    "name": "Prague Castle",
+    "description": "Prague Castle, prague şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=0",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.06484253116687,
+      "longitude": 14.422418468818302
+    },
+    "estimatedDuration": 174,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "prague_2",
+    "name": "Charles Bridge",
+    "description": "Charles Bridge, prague şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=1",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.071061635016775,
+      "longitude": 14.40434715846882
+    },
+    "estimatedDuration": 121,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 194,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "prague_3",
+    "name": "Old Town Square",
+    "description": "Old Town Square, prague şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://images.pexels.com/photos/34867630/pexels-photo-34867630.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.06682713964859,
+      "longitude": 14.410251392433569
+    },
+    "estimatedDuration": 119,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "prague_4",
+    "name": "Astronomical Clock",
+    "description": "Astronomical Clock, prague şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=3",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.07377585535292,
+      "longitude": 14.475897332240978
+    },
+    "estimatedDuration": 96,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "prague_5",
+    "name": "St. Vitus Cathedral",
+    "description": "St. Vitus Cathedral, prague şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=4",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.04837071646996,
+      "longitude": 14.404445032493797
+    },
+    "estimatedDuration": 118,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 42,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "prague_6",
+    "name": "Wenceslas Square",
+    "description": "Wenceslas Square, prague şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=5",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.094422924266986,
+      "longitude": 14.397856254023917
+    },
+    "estimatedDuration": 134,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 72,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "prague_7",
+    "name": "National Museum",
+    "description": "National Museum, prague şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=6",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 50.11064235869867,
+      "longitude": 14.39793366539331
+    },
+    "estimatedDuration": 150,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 462,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "prague_8",
+    "name": "Dancing House",
+    "description": "Dancing House, prague şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=7",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.08564340048199,
+      "longitude": 14.462697322771865
+    },
+    "estimatedDuration": 99,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 222,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "prague_9",
+    "name": "Vysehrad",
+    "description": "Vysehrad, prague şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=8",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.03964345637149,
+      "longitude": 14.438913996482697
+    },
+    "estimatedDuration": 74,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 341,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "prague_10",
+    "name": "Petrin Hill",
+    "description": "Petrin Hill, prague şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=9",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.095932613035366,
+      "longitude": 14.430978615783076
+    },
+    "estimatedDuration": 100,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 383,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "prague_11",
+    "name": "Petrin Tower",
+    "description": "Petrin Tower, prague şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=10",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.07021135327048,
+      "longitude": 14.45783999156246
+    },
+    "estimatedDuration": 79,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 284,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "prague_12",
+    "name": "Lennon Wall",
+    "description": "Lennon Wall, prague şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=11",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.03911303463674,
+      "longitude": 14.424321690441833
+    },
+    "estimatedDuration": 133,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 186,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "prague_13",
+    "name": "Kampa Island",
+    "description": "Kampa Island, prague şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=12",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.03623984141434,
+      "longitude": 14.447514353166168
+    },
+    "estimatedDuration": 139,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "prague_14",
+    "name": "Jewish Quarter (Josefov)",
+    "description": "Jewish Quarter (Josefov), prague şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=13",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.09898064579373,
+      "longitude": 14.406392687670719
+    },
+    "estimatedDuration": 161,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 278,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "prague_15",
+    "name": "Old Jewish Cemetery",
+    "description": "Old Jewish Cemetery, prague şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=14",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.05034517331891,
+      "longitude": 14.429019203578545
+    },
+    "estimatedDuration": 61,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 194,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "prague_16",
+    "name": "Spanish Synagogue",
+    "description": "Spanish Synagogue, prague şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=15",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.09404231017347,
+      "longitude": 14.469273228809412
+    },
+    "estimatedDuration": 68,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "prague_17",
+    "name": "Pinkas Synagogue",
+    "description": "Pinkas Synagogue, prague şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=16",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.06657842687814,
+      "longitude": 14.463031308957069
+    },
+    "estimatedDuration": 73,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 271,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "prague_18",
+    "name": "Maisel Synagogue",
+    "description": "Maisel Synagogue, prague şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=17",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.08017376373232,
+      "longitude": 14.44349468104055
+    },
+    "estimatedDuration": 164,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "prague_19",
+    "name": "Klausen Synagogue",
+    "description": "Klausen Synagogue, prague şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=18",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.093373942248874,
+      "longitude": 14.456602566720246
+    },
+    "estimatedDuration": 128,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "prague_20",
+    "name": "Old-New Synagogue",
+    "description": "Old-New Synagogue, prague şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=19",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.09051284698097,
+      "longitude": 14.413215942440758
+    },
+    "estimatedDuration": 135,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 463,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "prague_21",
+    "name": "Powder Tower",
+    "description": "Powder Tower, prague şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=20",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.07570518131218,
+      "longitude": 14.447680170313939
+    },
+    "estimatedDuration": 61,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 252,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "prague_22",
+    "name": "Municipal House",
+    "description": "Municipal House, prague şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=21",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.083200384459744,
+      "longitude": 14.401417859568562
+    },
+    "estimatedDuration": 83,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 193,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "prague_23",
+    "name": "Estates Theatre",
+    "description": "Estates Theatre, prague şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=22",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.06064058040295,
+      "longitude": 14.427974220347734
+    },
+    "estimatedDuration": 107,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 119,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "prague_24",
+    "name": "National Theatre",
+    "description": "National Theatre, prague şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=23",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.038132683382564,
+      "longitude": 14.469264136302245
+    },
+    "estimatedDuration": 106,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 327,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "prague_25",
+    "name": "Rudolfinum",
+    "description": "Rudolfinum, prague şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=24",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.04931049632641,
+      "longitude": 14.454106335911826
+    },
+    "estimatedDuration": 140,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 93,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "prague_26",
+    "name": "Clementinum",
+    "description": "Clementinum, prague şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=25",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.04951229472907,
+      "longitude": 14.397833407339618
+    },
+    "estimatedDuration": 64,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "prague_27",
+    "name": "Strahov Monastery",
+    "description": "Strahov Monastery, prague şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=26",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.05128267398414,
+      "longitude": 14.42154996253923
+    },
+    "estimatedDuration": 88,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 432,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "prague_28",
+    "name": "Loreta",
+    "description": "Loreta, prague şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=27",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.115394454774496,
+      "longitude": 14.428814854948811
+    },
+    "estimatedDuration": 101,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 329,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "prague_29",
+    "name": "Wallenstein Garden",
+    "description": "Wallenstein Garden, prague şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=28",
+    "category": "Park",
+    "coordinates": {
+      "latitude": 50.11464699354085,
+      "longitude": 14.422347329968558
+    },
+    "estimatedDuration": 171,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 58,
+    "interests": [
+      "Park"
+    ]
+  },
+  {
+    "id": "prague_30",
+    "name": "Vrtba Garden",
+    "description": "Vrtba Garden, prague şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=29",
+    "category": "Park",
+    "coordinates": {
+      "latitude": 50.06748678774751,
+      "longitude": 14.452601157291596
+    },
+    "estimatedDuration": 137,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Park"
+    ]
+  },
+  {
+    "id": "prague_31",
+    "name": "Letna Park",
+    "description": "Letna Park, prague şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=30",
+    "category": "Park",
+    "coordinates": {
+      "latitude": 50.045116612565,
+      "longitude": 14.400175405257183
+    },
+    "estimatedDuration": 120,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 110,
+    "interests": [
+      "Park"
+    ]
+  },
+  {
+    "id": "prague_32",
+    "name": "Riegrovy Sady",
+    "description": "Riegrovy Sady, prague şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=31",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.07823552105083,
+      "longitude": 14.445348240671386
+    },
+    "estimatedDuration": 94,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 256,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "prague_33",
+    "name": "Havlacek Gardens",
+    "description": "Havlacek Gardens, prague şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=32",
+    "category": "Park",
+    "coordinates": {
+      "latitude": 50.046434318235896,
+      "longitude": 14.455066732116036
+    },
+    "estimatedDuration": 60,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Park"
+    ]
+  },
+  {
+    "id": "prague_34",
+    "name": "Stromovka Park",
+    "description": "Stromovka Park, prague şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=33",
+    "category": "Park",
+    "coordinates": {
+      "latitude": 50.0738408776483,
+      "longitude": 14.463962574104627
+    },
+    "estimatedDuration": 93,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 210,
+    "interests": [
+      "Park"
+    ]
+  },
+  {
+    "id": "prague_35",
+    "name": "Prague Zoo",
+    "description": "Prague Zoo, prague şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=34",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.0718789746176,
+      "longitude": 14.449252805817235
+    },
+    "estimatedDuration": 135,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "prague_36",
+    "name": "Botanical Garden",
+    "description": "Botanical Garden, prague şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=35",
+    "category": "Park",
+    "coordinates": {
+      "latitude": 50.06986336347265,
+      "longitude": 14.433905852132177
+    },
+    "estimatedDuration": 116,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 46,
+    "interests": [
+      "Park"
+    ]
+  },
+  {
+    "id": "prague_37",
+    "name": "Troja Palace",
+    "description": "Troja Palace, prague şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=36",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.11268939119497,
+      "longitude": 14.464411082166404
+    },
+    "estimatedDuration": 152,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 107,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "prague_38",
+    "name": "DOX Centre for Contemporary Art",
+    "description": "DOX Centre for Contemporary Art, prague şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=37",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.04024938195824,
+      "longitude": 14.407271408364682
+    },
+    "estimatedDuration": 142,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "prague_39",
+    "name": "Museum of Communism",
+    "description": "Museum of Communism, prague şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=38",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 50.09243097139549,
+      "longitude": 14.465922734427558
+    },
+    "estimatedDuration": 106,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "prague_40",
+    "name": "Kafka Museum",
+    "description": "Kafka Museum, prague şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=39",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 50.081338914994255,
+      "longitude": 14.443820836070792
+    },
+    "estimatedDuration": 177,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "prague_41",
+    "name": "Mucha Museum",
+    "description": "Mucha Museum, prague şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=40",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 50.049558701588445,
+      "longitude": 14.461705787543309
+    },
+    "estimatedDuration": 73,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 82,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "prague_42",
+    "name": "Speculum Alchemiae",
+    "description": "Speculum Alchemiae, prague şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=41",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.07466455056183,
+      "longitude": 14.446947813710496
+    },
+    "estimatedDuration": 156,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 483,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "prague_43",
+    "name": "Apple Museum",
+    "description": "Apple Museum, prague şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=42",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 50.06761069162592,
+      "longitude": 14.422380792183192
+    },
+    "estimatedDuration": 92,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "prague_44",
+    "name": "Beer Museum",
+    "description": "Beer Museum, prague şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=43",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 50.073128997787805,
+      "longitude": 14.437337681295816
+    },
+    "estimatedDuration": 114,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 398,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "prague_45",
+    "name": "Sex Machines Museum",
+    "description": "Sex Machines Museum, prague şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=44",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 50.10476854683508,
+      "longitude": 14.423010163848259
+    },
+    "estimatedDuration": 179,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 438,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "prague_46",
+    "name": "Zizkov Television Tower",
+    "description": "Zizkov Television Tower, prague şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=45",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.04261251548511,
+      "longitude": 14.46839425905237
+    },
+    "estimatedDuration": 100,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "prague_47",
+    "name": "Metronome",
+    "description": "Metronome, prague şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=46",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.04121602940798,
+      "longitude": 14.475125787608054
+    },
+    "estimatedDuration": 175,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "prague_48",
+    "name": "Naplavka",
+    "description": "Naplavka, prague şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=47",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.072978198312136,
+      "longitude": 14.432489793170198
+    },
+    "estimatedDuration": 106,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "prague_49",
+    "name": "Manifesto Market",
+    "description": "Manifesto Market, prague şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://images.pexels.com/photos/34940266/pexels-photo-34940266.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Alışveriş",
+    "coordinates": {
+      "latitude": 50.100684812163735,
+      "longitude": 14.425375176339418
+    },
+    "estimatedDuration": 81,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Alışveriş"
+    ]
+  },
+  {
+    "id": "prague_50",
+    "name": "Palladium Shopping Center",
+    "description": "Palladium Shopping Center, prague şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=49",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.100140682282735,
+      "longitude": 14.418850544999962
+    },
+    "estimatedDuration": 65,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  }
+]

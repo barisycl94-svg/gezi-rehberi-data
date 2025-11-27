@@ -1,285 +1,285 @@
 [
   {
     "id": "bangkok_1",
-    "name": "Barbaros Hayrettin Türbesi",
-    "description": "bangkok'de ziyaret edilebilecek popüler bir nokta: Barbaros Hayrettin Türbesi.",
+    "name": "Grand Palace",
+    "description": "Grand Palace, bangkok şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=0",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 41.0419227,
-      "longitude": 29.0068359
+      "latitude": 13.745954419109996,
+      "longitude": 100.50781212002158
     },
-    "estimatedDuration": 78,
+    "estimatedDuration": 103,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 0,
+    "cost": 208,
     "interests": [
       "Tarihi"
     ]
   },
   {
     "id": "bangkok_2",
-    "name": "Surp Garabed Kilisesi",
-    "description": "bangkok'in tarihi ibadet yapılarından biri.",
+    "name": "Wat Arun",
+    "description": "Wat Arun, bangkok şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=1",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 41.0209212,
-      "longitude": 29.031366
+      "latitude": 13.726526541658222,
+      "longitude": 100.5307937647638
     },
-    "estimatedDuration": 43,
+    "estimatedDuration": 118,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 0,
+    "cost": 310,
     "interests": [
       "Tarihi"
     ]
   },
   {
     "id": "bangkok_3",
-    "name": "Yılanlı Sütun",
-    "description": "bangkok'de ziyaret edilebilecek popüler bir nokta: Yılanlı Sütun.",
+    "name": "Wat Phra Kaew",
+    "description": "Wat Phra Kaew, bangkok şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=2",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 41.0056649,
-      "longitude": 28.9751101
+      "latitude": 13.721781113045868,
+      "longitude": 100.49919791844279
     },
-    "estimatedDuration": 52,
+    "estimatedDuration": 115,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 0,
+    "cost": 214,
     "interests": [
       "Tarihi"
     ]
   },
   {
     "id": "bangkok_4",
-    "name": "Sabancı Üniversitesi Sakıp Sabancı Müzesi",
-    "description": "bangkok'de bulunan önemli bir müze.",
+    "name": "Wat Pho",
+    "description": "Wat Pho, bangkok şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=3",
-    "category": "Müze",
-    "coordinates": {
-      "latitude": 41.106019,
-      "longitude": 29.0556289
-    },
-    "estimatedDuration": 57,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 102,
-    "interests": [
-      "Müze"
-    ]
-  },
-  {
-    "id": "bangkok_5",
-    "name": "Çemberlitaş Hamamı",
-    "description": "bangkok'de ziyaret edilebilecek popüler bir nokta: Çemberlitaş Hamamı.",
-    "image": "https://images.pexels.com/photos/17661486/pexels-photo-17661486.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 41.0085416,
-      "longitude": 28.9716244
+      "latitude": 13.777209265302375,
+      "longitude": 100.50071237093297
     },
-    "estimatedDuration": 45,
+    "estimatedDuration": 66,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 0,
+    "cost": 287,
     "interests": [
       "Tarihi"
     ]
   },
   {
+    "id": "bangkok_5",
+    "name": "Chatuchak Weekend Market",
+    "description": "Chatuchak Weekend Market, bangkok şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=4",
+    "category": "Alışveriş",
+    "coordinates": {
+      "latitude": 13.75955929541872,
+      "longitude": 100.53683747855692
+    },
+    "estimatedDuration": 147,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Alışveriş"
+    ]
+  },
+  {
     "id": "bangkok_6",
-    "name": "Neve Şalom Sinagogu",
-    "description": "bangkok'in tarihi ibadet yapılarından biri.",
+    "name": "Jim Thompson House",
+    "description": "Jim Thompson House, bangkok şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=5",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 41.0266963,
-      "longitude": 28.9724737
+      "latitude": 13.76151194485858,
+      "longitude": 100.53842334714172
     },
-    "estimatedDuration": 71,
+    "estimatedDuration": 97,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 180,
+    "cost": 0,
     "interests": [
       "Tarihi"
     ]
   },
   {
     "id": "bangkok_7",
-    "name": "Fatih Mescidi",
-    "description": "bangkok'in tarihi ibadet yapılarından biri.",
+    "name": "Lumphini Park",
+    "description": "Lumphini Park, bangkok şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=6",
-    "category": "Tarihi",
+    "category": "Park",
     "coordinates": {
-      "latitude": 41.0044905,
-      "longitude": 28.8526953
+      "latitude": 13.75668816038596,
+      "longitude": 100.48572935348376
     },
-    "estimatedDuration": 78,
+    "estimatedDuration": 77,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 0,
+    "cost": 83,
+    "interests": [
+      "Park"
+    ]
+  },
+  {
+    "id": "bangkok_8",
+    "name": "Khaosan Road",
+    "description": "Khaosan Road, bangkok şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=7",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 13.733826364870204,
+      "longitude": 100.46741125160204
+    },
+    "estimatedDuration": 63,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 454,
     "interests": [
       "Tarihi"
     ]
   },
   {
-    "id": "bangkok_8",
-    "name": "Havacılık Müzesi",
-    "description": "bangkok'de bulunan önemli bir müze.",
-    "image": "https://picsum.photos/800/600?random=7",
-    "category": "Müze",
-    "coordinates": {
-      "latitude": 40.9641579,
-      "longitude": 28.8262655
-    },
-    "estimatedDuration": 30,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Müze"
-    ]
-  },
-  {
     "id": "bangkok_9",
-    "name": "Askerî Müze",
-    "description": "bangkok'de bulunan önemli bir müze.",
+    "name": "Asiatique The Riverfront",
+    "description": "Asiatique The Riverfront, bangkok şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=8",
-    "category": "Müze",
+    "category": "Tarihi",
     "coordinates": {
-      "latitude": 41.0488755,
-      "longitude": 28.9882427
+      "latitude": 13.720499697735201,
+      "longitude": 100.53277883248812
     },
-    "estimatedDuration": 76,
+    "estimatedDuration": 161,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 0,
+    "cost": 177,
     "interests": [
-      "Müze"
+      "Tarihi"
     ]
   },
   {
     "id": "bangkok_10",
-    "name": "Miniatürk Açıkhava Müzesi",
-    "description": "bangkok'de bulunan önemli bir müze.",
+    "name": "MBK Center",
+    "description": "MBK Center, bangkok şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=9",
-    "category": "Müze",
+    "category": "Tarihi",
     "coordinates": {
-      "latitude": 41.059005,
-      "longitude": 28.9490675
+      "latitude": 13.72081185009633,
+      "longitude": 100.4644336132397
     },
-    "estimatedDuration": 48,
+    "estimatedDuration": 148,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 0,
+    "cost": 391,
     "interests": [
-      "Müze"
+      "Tarihi"
     ]
   },
   {
     "id": "bangkok_11",
-    "name": "Hatice Turhan Sultan Türbesi",
-    "description": "bangkok'de ziyaret edilebilecek popüler bir nokta: Hatice Turhan Sultan Türbesi.",
+    "name": "Siam Paragon",
+    "description": "Siam Paragon, bangkok şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=10",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 41.0162025,
-      "longitude": 28.9719047
+      "latitude": 13.7379133703786,
+      "longitude": 100.5277573017825
     },
-    "estimatedDuration": 54,
+    "estimatedDuration": 80,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 7,
+    "cost": 0,
     "interests": [
       "Tarihi"
     ]
   },
   {
     "id": "bangkok_12",
-    "name": "Milyon Taşı",
-    "description": "bangkok'de ziyaret edilebilecek popüler bir nokta: Milyon Taşı.",
+    "name": "CentralWorld",
+    "description": "CentralWorld, bangkok şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=11",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 41.0080674,
-      "longitude": 28.9780181
+      "latitude": 13.749788188713072,
+      "longitude": 100.51868024066162
     },
-    "estimatedDuration": 77,
+    "estimatedDuration": 143,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 0,
+    "cost": 374,
     "interests": [
       "Tarihi"
     ]
   },
   {
     "id": "bangkok_13",
-    "name": "Cumhuriyet Anıtı",
-    "description": "bangkok'de ziyaret edilebilecek popüler bir nokta: Cumhuriyet Anıtı.",
+    "name": "Terminal 21",
+    "description": "Terminal 21, bangkok şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=12",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 41.0369723,
-      "longitude": 28.9851248
+      "latitude": 13.744967824802261,
+      "longitude": 100.52134128603957
     },
-    "estimatedDuration": 70,
+    "estimatedDuration": 89,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 0,
+    "cost": 123,
     "interests": [
       "Tarihi"
     ]
   },
   {
     "id": "bangkok_14",
-    "name": "2. Abdülhamit Anıtı",
-    "description": "bangkok'de ziyaret edilebilecek popüler bir nokta: 2. Abdülhamit Anıtı.",
+    "name": "Erawan Shrine",
+    "description": "Erawan Shrine, bangkok şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=13",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 41.0017691,
-      "longitude": 29.0071158
+      "latitude": 13.718867585710498,
+      "longitude": 100.52683649618875
     },
-    "estimatedDuration": 64,
+    "estimatedDuration": 61,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 0,
+    "cost": 165,
     "interests": [
       "Tarihi"
     ]
   },
   {
     "id": "bangkok_15",
-    "name": "Binbirdirek Sarnıcı",
-    "description": "bangkok'de bulunan önemli bir müze.",
+    "name": "Golden Buddha (Wat Traimit)",
+    "description": "Golden Buddha (Wat Traimit), bangkok şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=14",
-    "category": "Müze",
+    "category": "Tarihi",
     "coordinates": {
-      "latitude": 41.007606,
-      "longitude": 28.9744173
+      "latitude": 13.789852951918727,
+      "longitude": 100.48902861203098
     },
-    "estimatedDuration": 58,
+    "estimatedDuration": 104,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 185,
+    "cost": 41,
     "interests": [
-      "Müze"
+      "Tarihi"
     ]
   },
   {
     "id": "bangkok_16",
-    "name": "Boğa Heykeli",
-    "description": "bangkok'de ziyaret edilebilecek popüler bir nokta: Boğa Heykeli.",
+    "name": "Chinatown (Yaowarat)",
+    "description": "Chinatown (Yaowarat), bangkok şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=15",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 40.9904629,
-      "longitude": 29.0291571
+      "latitude": 13.781040937521695,
+      "longitude": 100.46988867230516
     },
-    "estimatedDuration": 30,
+    "estimatedDuration": 128,
     "openingTime": "09:00",
     "closingTime": "18:00",
     "cost": 0,
@@ -289,15 +289,87 @@
   },
   {
     "id": "bangkok_17",
-    "name": "Kıztaşı",
-    "description": "bangkok'de ziyaret edilebilecek popüler bir nokta: Kıztaşı.",
+    "name": "Floating Market",
+    "description": "Floating Market, bangkok şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=16",
+    "category": "Alışveriş",
+    "coordinates": {
+      "latitude": 13.741255744933824,
+      "longitude": 100.51824662511822
+    },
+    "estimatedDuration": 68,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 449,
+    "interests": [
+      "Alışveriş"
+    ]
+  },
+  {
+    "id": "bangkok_18",
+    "name": "Maeklong Railway Market",
+    "description": "Maeklong Railway Market, bangkok şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=17",
+    "category": "Alışveriş",
+    "coordinates": {
+      "latitude": 13.745913688854921,
+      "longitude": 100.48057538222658
+    },
+    "estimatedDuration": 95,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 152,
+    "interests": [
+      "Alışveriş"
+    ]
+  },
+  {
+    "id": "bangkok_19",
+    "name": "Sea Life Bangkok",
+    "description": "Sea Life Bangkok, bangkok şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=18",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 41.0154411,
-      "longitude": 28.9502846
+      "latitude": 13.717441440042116,
+      "longitude": 100.53207796437327
     },
-    "estimatedDuration": 31,
+    "estimatedDuration": 159,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 18,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "bangkok_20",
+    "name": "Safari World",
+    "description": "Safari World, bangkok şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=19",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 13.766851827946859,
+      "longitude": 100.49482659757379
+    },
+    "estimatedDuration": 126,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 330,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "bangkok_21",
+    "name": "Dream World",
+    "description": "Dream World, bangkok şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=20",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 13.76266003351698,
+      "longitude": 100.4813779992579
+    },
+    "estimatedDuration": 65,
     "openingTime": "09:00",
     "closingTime": "18:00",
     "cost": 0,
@@ -306,32 +378,338 @@
     ]
   },
   {
-    "id": "bangkok_18",
-    "name": "Fatih Anıtı",
-    "description": "bangkok'de ziyaret edilebilecek popüler bir nokta: Fatih Anıtı.",
-    "image": "https://picsum.photos/800/600?random=17",
+    "id": "bangkok_22",
+    "name": "Bangkok Art and Culture Centre",
+    "description": "Bangkok Art and Culture Centre, bangkok şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=21",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 41.0155727,
-      "longitude": 28.9542189
+      "latitude": 13.78311972429018,
+      "longitude": 100.49186484514091
     },
-    "estimatedDuration": 71,
+    "estimatedDuration": 153,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 35,
+    "cost": 0,
     "interests": [
       "Tarihi"
     ]
   },
   {
-    "id": "bangkok_19",
-    "name": "Hava Şehitleri Anıtı",
-    "description": "bangkok'de ziyaret edilebilecek popüler bir nokta: Hava Şehitleri Anıtı.",
-    "image": "https://picsum.photos/800/600?random=18",
+    "id": "bangkok_23",
+    "name": "Mahanakhon SkyWalk",
+    "description": "Mahanakhon SkyWalk, bangkok şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=22",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 41.0160748,
-      "longitude": 28.9526349
+      "latitude": 13.757396459350415,
+      "longitude": 100.52808264469392
+    },
+    "estimatedDuration": 175,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "bangkok_24",
+    "name": "Victory Monument",
+    "description": "Victory Monument, bangkok şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=23",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 13.785519831083313,
+      "longitude": 100.51725465567571
+    },
+    "estimatedDuration": 68,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "bangkok_25",
+    "name": "Democracy Monument",
+    "description": "Democracy Monument, bangkok şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=24",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 13.75700156816207,
+      "longitude": 100.53670502590872
+    },
+    "estimatedDuration": 92,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "bangkok_26",
+    "name": "Wat Saket (Golden Mount)",
+    "description": "Wat Saket (Golden Mount), bangkok şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=25",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 13.794833418759708,
+      "longitude": 100.46451959785519
+    },
+    "estimatedDuration": 151,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "bangkok_27",
+    "name": "Wat Suthat",
+    "description": "Wat Suthat, bangkok şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=26",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 13.74202666024469,
+      "longitude": 100.50327498724731
+    },
+    "estimatedDuration": 96,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 197,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "bangkok_28",
+    "name": "Giant Swing",
+    "description": "Giant Swing, bangkok şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=27",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 13.796243583920457,
+      "longitude": 100.52431405072142
+    },
+    "estimatedDuration": 135,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "bangkok_29",
+    "name": "National Museum Bangkok",
+    "description": "National Museum Bangkok, bangkok şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=28",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 13.73194246874033,
+      "longitude": 100.5347190917171
+    },
+    "estimatedDuration": 80,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 221,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "bangkok_30",
+    "name": "Vimanmek Mansion",
+    "description": "Vimanmek Mansion, bangkok şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=29",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 13.787879994837034,
+      "longitude": 100.4956753888097
+    },
+    "estimatedDuration": 100,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 458,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "bangkok_31",
+    "name": "Suan Pakkad Palace",
+    "description": "Suan Pakkad Palace, bangkok şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=30",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 13.761559656673349,
+      "longitude": 100.51801393002519
+    },
+    "estimatedDuration": 143,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "bangkok_32",
+    "name": "Benjakitti Park",
+    "description": "Benjakitti Park, bangkok şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=31",
+    "category": "Park",
+    "coordinates": {
+      "latitude": 13.786615964618637,
+      "longitude": 100.47957955783569
+    },
+    "estimatedDuration": 133,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 25,
+    "interests": [
+      "Park"
+    ]
+  },
+  {
+    "id": "bangkok_33",
+    "name": "Rot Fai Park",
+    "description": "Rot Fai Park, bangkok şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=32",
+    "category": "Park",
+    "coordinates": {
+      "latitude": 13.723957752247847,
+      "longitude": 100.47366746777398
+    },
+    "estimatedDuration": 111,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 284,
+    "interests": [
+      "Park"
+    ]
+  },
+  {
+    "id": "bangkok_34",
+    "name": "Chatuchak Park",
+    "description": "Chatuchak Park, bangkok şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=33",
+    "category": "Park",
+    "coordinates": {
+      "latitude": 13.759222647128716,
+      "longitude": 100.52737171617417
+    },
+    "estimatedDuration": 166,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Park"
+    ]
+  },
+  {
+    "id": "bangkok_35",
+    "name": "Queen Sirikit Park",
+    "description": "Queen Sirikit Park, bangkok şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=34",
+    "category": "Park",
+    "coordinates": {
+      "latitude": 13.73428300466854,
+      "longitude": 100.51522442501381
+    },
+    "estimatedDuration": 135,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Park"
+    ]
+  },
+  {
+    "id": "bangkok_36",
+    "name": "Bangkok National Museum",
+    "description": "Bangkok National Museum, bangkok şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=35",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 13.750394141157518,
+      "longitude": 100.47116261495185
+    },
+    "estimatedDuration": 83,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 49,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "bangkok_37",
+    "name": "Museum of Siam",
+    "description": "Museum of Siam, bangkok şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=36",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 13.755059294842148,
+      "longitude": 100.5308794441264
+    },
+    "estimatedDuration": 135,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 249,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "bangkok_38",
+    "name": "Art in Paradise",
+    "description": "Art in Paradise, bangkok şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=37",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 13.745675514590351,
+      "longitude": 100.54147931624752
+    },
+    "estimatedDuration": 89,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "bangkok_39",
+    "name": "Madame Tussauds Bangkok",
+    "description": "Madame Tussauds Bangkok, bangkok şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=38",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 13.779023596669953,
+      "longitude": 100.4919207119913
+    },
+    "estimatedDuration": 121,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "bangkok_40",
+    "name": "Calypso Cabaret",
+    "description": "Calypso Cabaret, bangkok şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=39",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 13.750832316935703,
+      "longitude": 100.5116633574161
     },
     "estimatedDuration": 81,
     "openingTime": "09:00",
@@ -342,741 +720,183 @@
     ]
   },
   {
-    "id": "bangkok_20",
-    "name": "Adam Mickiewicz Müzesi",
-    "description": "bangkok'de bulunan önemli bir müze.",
-    "image": "https://images.pexels.com/photos/31267595/pexels-photo-31267595.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "category": "Müze",
-    "coordinates": {
-      "latitude": 41.0387821,
-      "longitude": 28.9771474
-    },
-    "estimatedDuration": 85,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 150,
-    "interests": [
-      "Müze"
-    ]
-  },
-  {
-    "id": "bangkok_21",
-    "name": "Masumiyet Müzesi",
-    "description": "bangkok'de bulunan önemli bir müze.",
-    "image": "https://picsum.photos/800/600?random=20",
-    "category": "Müze",
-    "coordinates": {
-      "latitude": 41.0308716,
-      "longitude": 28.9797952
-    },
-    "estimatedDuration": 63,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Müze"
-    ]
-  },
-  {
-    "id": "bangkok_22",
-    "name": "Santa Maria Draperis",
-    "description": "bangkok'in tarihi ibadet yapılarından biri.",
-    "image": "https://picsum.photos/800/600?random=21",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 41.0300987,
-      "longitude": 28.9761517
-    },
-    "estimatedDuration": 72,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 23,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "bangkok_23",
-    "name": "Galatasaray Müzesi",
-    "description": "bangkok'de bulunan önemli bir müze.",
-    "image": "https://picsum.photos/800/600?random=22",
-    "category": "Müze",
-    "coordinates": {
-      "latitude": 41.0334816,
-      "longitude": 28.9769398
-    },
-    "estimatedDuration": 79,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 117,
-    "interests": [
-      "Müze"
-    ]
-  },
-  {
-    "id": "bangkok_24",
-    "name": "Anadolu Hisarı Namazgah",
-    "description": "bangkok'in tarihi ibadet yapılarından biri.",
-    "image": "https://picsum.photos/800/600?random=23",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 41.0818296,
-      "longitude": 29.0667781
-    },
-    "estimatedDuration": 78,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "bangkok_25",
-    "name": "Yıldız Sarayı",
-    "description": "bangkok'de ziyaret edilebilecek popüler bir nokta: Yıldız Sarayı.",
-    "image": "https://picsum.photos/800/600?random=24",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 41.0507108,
-      "longitude": 29.0117042
-    },
-    "estimatedDuration": 33,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "bangkok_26",
-    "name": "Meryem Ana Rum Manastiri",
-    "description": "bangkok'in tarihi ibadet yapılarından biri.",
-    "image": "https://images.pexels.com/photos/7254755/pexels-photo-7254755.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 41.0067555,
-      "longitude": 28.9155212
-    },
-    "estimatedDuration": 89,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 74,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "bangkok_27",
-    "name": "Kanuni Sultan Suleyman 1 Turbesi",
-    "description": "bangkok'de ziyaret edilebilecek popüler bir nokta: Kanuni Sultan Suleyman 1 Turbesi.",
-    "image": "https://picsum.photos/800/600?random=26",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 41.0156999,
-      "longitude": 28.9644663
-    },
-    "estimatedDuration": 55,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "bangkok_28",
-    "name": "Hurrem Haseki (Roksolana) Turbesi",
-    "description": "bangkok'de ziyaret edilebilecek popüler bir nokta: Hurrem Haseki (Roksolana) Turbesi.",
-    "image": "https://picsum.photos/800/600?random=27",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 41.0156683,
-      "longitude": 28.9648085
-    },
-    "estimatedDuration": 84,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 4,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "bangkok_29",
-    "name": "Saat Kulesi",
-    "description": "bangkok'de ziyaret edilebilecek popüler bir nokta: Saat Kulesi.",
-    "image": "https://picsum.photos/800/600?random=28",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 40.8741241,
-      "longitude": 29.1286022
-    },
-    "estimatedDuration": 62,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 126,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "bangkok_30",
-    "name": "Caddebostan Sinagogu",
-    "description": "bangkok'in tarihi ibadet yapılarından biri.",
-    "image": "https://picsum.photos/800/600?random=29",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 40.9724211,
-      "longitude": 29.0676302
-    },
-    "estimatedDuration": 39,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "bangkok_31",
-    "name": "Gotlar Sütunu",
-    "description": "bangkok'de ziyaret edilebilecek popüler bir nokta: Gotlar Sütunu.",
-    "image": "https://picsum.photos/800/600?random=30",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 41.0146409,
-      "longitude": 28.9856774
-    },
-    "estimatedDuration": 88,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 133,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "bangkok_32",
-    "name": "Aziz Meryem",
-    "description": "bangkok'in tarihi ibadet yapılarından biri.",
-    "image": "https://picsum.photos/800/600?random=31",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 41.1603501,
-      "longitude": 29.0417196
-    },
-    "estimatedDuration": 68,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 182,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "bangkok_33",
-    "name": "Dogançay Müzesi",
-    "description": "bangkok'de bulunan önemli bir müze.",
-    "image": "https://picsum.photos/800/600?random=32",
-    "category": "Müze",
-    "coordinates": {
-      "latitude": 41.0357703,
-      "longitude": 28.9783705
-    },
-    "estimatedDuration": 68,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Müze"
-    ]
-  },
-  {
-    "id": "bangkok_34",
-    "name": "Turkuazoo",
-    "description": "bangkok'de ziyaret edilebilecek popüler bir nokta: Turkuazoo.",
-    "image": "https://picsum.photos/800/600?random=33",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 41.0455958,
-      "longitude": 28.896211
-    },
-    "estimatedDuration": 63,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "bangkok_35",
-    "name": "Ayios Polieuktos Kilisesi",
-    "description": "bangkok'de ziyaret edilebilecek popüler bir nokta: Ayios Polieuktos Kilisesi.",
-    "image": "https://picsum.photos/800/600?random=34",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 41.0142319,
-      "longitude": 28.9529591
-    },
-    "estimatedDuration": 43,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "bangkok_36",
-    "name": "Rezan Has Museum",
-    "description": "bangkok'de bulunan önemli bir müze.",
-    "image": "https://picsum.photos/800/600?random=35",
-    "category": "Müze",
-    "coordinates": {
-      "latitude": 41.0252799,
-      "longitude": 28.9584325
-    },
-    "estimatedDuration": 56,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Müze"
-    ]
-  },
-  {
-    "id": "bangkok_37",
-    "name": "Panayia Belgradu Kilisesi",
-    "description": "bangkok'in tarihi ibadet yapılarından biri.",
-    "image": "https://picsum.photos/800/600?random=36",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 41.0001135,
-      "longitude": 28.9219792
-    },
-    "estimatedDuration": 41,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "bangkok_38",
-    "name": "Samatya Aya Analipsiz Kilisesi",
-    "description": "bangkok'in tarihi ibadet yapılarından biri.",
-    "image": "https://picsum.photos/800/600?random=37",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 40.9990416,
-      "longitude": 28.9315881
-    },
-    "estimatedDuration": 67,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "bangkok_39",
-    "name": "İstanbul Demiryolu Müzesi",
-    "description": "bangkok'de bulunan önemli bir müze.",
-    "image": "https://picsum.photos/800/600?random=38",
-    "category": "Müze",
-    "coordinates": {
-      "latitude": 41.0151986,
-      "longitude": 28.9766826
-    },
-    "estimatedDuration": 75,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 172,
-    "interests": [
-      "Müze"
-    ]
-  },
-  {
-    "id": "bangkok_40",
-    "name": "Beyazıt Türk Hamam Kültürü Müzesi",
-    "description": "bangkok'de bulunan önemli bir müze.",
-    "image": "https://picsum.photos/800/600?random=39",
-    "category": "Müze",
-    "coordinates": {
-      "latitude": 41.0099458,
-      "longitude": 28.9615545
-    },
-    "estimatedDuration": 62,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 99,
-    "interests": [
-      "Müze"
-    ]
-  },
-  {
     "id": "bangkok_41",
-    "name": "Kasturya Sinagogu",
-    "description": "bangkok'in tarihi ibadet yapılarından biri.",
+    "name": "Muay Thai Live",
+    "description": "Muay Thai Live, bangkok şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=40",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 41.0342139,
-      "longitude": 28.9414755
+      "latitude": 13.770206344781393,
+      "longitude": 100.53102975544333
     },
-    "estimatedDuration": 44,
+    "estimatedDuration": 106,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 155,
+    "cost": 0,
     "interests": [
       "Tarihi"
     ]
   },
   {
     "id": "bangkok_42",
-    "name": "Türk ve İslam Eserleri Müzesi",
-    "description": "bangkok'de bulunan önemli bir müze.",
-    "image": "https://picsum.photos/800/600?random=41",
-    "category": "Müze",
+    "name": "Siam Niramit",
+    "description": "Siam Niramit, bangkok şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://images.pexels.com/photos/327494/pexels-photo-327494.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
     "coordinates": {
-      "latitude": 41.0062801,
-      "longitude": 28.974915
+      "latitude": 13.721239557432531,
+      "longitude": 100.47505913829725
     },
-    "estimatedDuration": 34,
+    "estimatedDuration": 104,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 0,
+    "cost": 128,
     "interests": [
-      "Müze"
+      "Tarihi"
     ]
   },
   {
     "id": "bangkok_43",
-    "name": "İslam bilim ve teknoloji tarihi müzesi",
-    "description": "bangkok'de bulunan önemli bir müze.",
+    "name": "Baiyoke Tower II",
+    "description": "Baiyoke Tower II, bangkok şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=42",
-    "category": "Müze",
+    "category": "Tarihi",
     "coordinates": {
-      "latitude": 41.0132188,
-      "longitude": 28.9789678
+      "latitude": 13.775955764108287,
+      "longitude": 100.48369793323802
     },
-    "estimatedDuration": 87,
+    "estimatedDuration": 123,
     "openingTime": "09:00",
     "closingTime": "18:00",
     "cost": 0,
     "interests": [
-      "Müze"
+      "Tarihi"
     ]
   },
   {
     "id": "bangkok_44",
-    "name": "Türk Vakıf Hat Sanatları Müzesi",
-    "description": "bangkok'de bulunan önemli bir müze.",
+    "name": "Lebua State Tower",
+    "description": "Lebua State Tower, bangkok şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=43",
-    "category": "Müze",
+    "category": "Tarihi",
     "coordinates": {
-      "latitude": 41.01005,
-      "longitude": 28.9631808
+      "latitude": 13.747623477099031,
+      "longitude": 100.53939368723958
     },
-    "estimatedDuration": 85,
+    "estimatedDuration": 106,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 108,
+    "cost": 292,
     "interests": [
-      "Müze"
+      "Tarihi"
     ]
   },
   {
     "id": "bangkok_45",
-    "name": "Abdulmecit Efendi Köşkü",
-    "description": "bangkok'de bulunan önemli bir müze.",
+    "name": "Vertigo and Moon Bar",
+    "description": "Vertigo and Moon Bar, bangkok şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=44",
-    "category": "Müze",
+    "category": "Tarihi",
     "coordinates": {
-      "latitude": 41.0282408,
-      "longitude": 29.0415462
+      "latitude": 13.751380290448655,
+      "longitude": 100.54138657366181
     },
-    "estimatedDuration": 59,
+    "estimatedDuration": 168,
     "openingTime": "09:00",
     "closingTime": "18:00",
     "cost": 0,
     "interests": [
-      "Müze"
+      "Tarihi"
     ]
   },
   {
     "id": "bangkok_46",
-    "name": "Mehmet Efendi Çeşmesi",
-    "description": "bangkok'de ziyaret edilebilecek popüler bir nokta: Mehmet Efendi Çeşmesi.",
+    "name": "Soi Cowboy",
+    "description": "Soi Cowboy, bangkok şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=45",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 41.0031805,
-      "longitude": 28.9720795
+      "latitude": 13.768834944860632,
+      "longitude": 100.49167532183797
     },
-    "estimatedDuration": 59,
+    "estimatedDuration": 152,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 117,
+    "cost": 372,
     "interests": [
       "Tarihi"
     ]
   },
   {
     "id": "bangkok_47",
-    "name": "Türkiye Gazeteciler Cemiyeti Basın Müzesi",
-    "description": "bangkok'de bulunan önemli bir müze.",
+    "name": "Nana Plaza",
+    "description": "Nana Plaza, bangkok şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=46",
-    "category": "Müze",
+    "category": "Tarihi",
     "coordinates": {
-      "latitude": 41.0085619,
-      "longitude": 28.9722162
+      "latitude": 13.720944938658183,
+      "longitude": 100.53767889920233
     },
-    "estimatedDuration": 32,
+    "estimatedDuration": 124,
     "openingTime": "09:00",
     "closingTime": "18:00",
     "cost": 0,
     "interests": [
-      "Müze"
+      "Tarihi"
     ]
   },
   {
     "id": "bangkok_48",
-    "name": "Sarayburnu Atatürk Anıtı",
-    "description": "bangkok'de ziyaret edilebilecek popüler bir nokta: Sarayburnu Atatürk Anıtı.",
+    "name": "Patpong Night Market",
+    "description": "Patpong Night Market, bangkok şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=47",
-    "category": "Tarihi",
+    "category": "Alışveriş",
     "coordinates": {
-      "latitude": 41.016263,
-      "longitude": 28.9861325
+      "latitude": 13.773688935821404,
+      "longitude": 100.51316617893154
     },
-    "estimatedDuration": 52,
+    "estimatedDuration": 84,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 0,
+    "cost": 210,
     "interests": [
-      "Tarihi"
+      "Alışveriş"
     ]
   },
   {
     "id": "bangkok_49",
-    "name": "500. Yıl Vakfı Türk Musevileri Müzesi",
-    "description": "bangkok'de bulunan önemli bir müze.",
+    "name": "Silom Night Market",
+    "description": "Silom Night Market, bangkok şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=48",
-    "category": "Müze",
+    "category": "Alışveriş",
     "coordinates": {
-      "latitude": 41.0267866,
-      "longitude": 28.9727283
+      "latitude": 13.755400796693698,
+      "longitude": 100.48684139210692
     },
-    "estimatedDuration": 43,
+    "estimatedDuration": 90,
     "openingTime": "09:00",
     "closingTime": "18:00",
     "cost": 0,
     "interests": [
-      "Müze"
+      "Alışveriş"
     ]
   },
   {
     "id": "bangkok_50",
-    "name": "Surp Pırgiç Kilisesi",
-    "description": "bangkok'in tarihi ibadet yapılarından biri.",
+    "name": "Pratunam Market",
+    "description": "Pratunam Market, bangkok şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=49",
-    "category": "Tarihi",
+    "category": "Alışveriş",
     "coordinates": {
-      "latitude": 41.0245024,
-      "longitude": 28.9760077
+      "latitude": 13.774556957631003,
+      "longitude": 100.49434147451788
     },
-    "estimatedDuration": 41,
+    "estimatedDuration": 107,
     "openingTime": "09:00",
     "closingTime": "18:00",
     "cost": 0,
     "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "bangkok_51",
-    "name": "Surp Kevork Kilisesi",
-    "description": "bangkok'in tarihi ibadet yapılarından biri.",
-    "image": "https://picsum.photos/800/600?random=50",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 41.0018646,
-      "longitude": 28.9331468
-    },
-    "estimatedDuration": 63,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "bangkok_52",
-    "name": "Surp Hagop Kilisesi",
-    "description": "bangkok'in tarihi ibadet yapılarından biri.",
-    "image": "https://picsum.photos/800/600?random=51",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 41.0081065,
-      "longitude": 28.9347471
-    },
-    "estimatedDuration": 89,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "bangkok_53",
-    "name": "Surp Yerits Mangants Kilisesi",
-    "description": "bangkok'in tarihi ibadet yapılarından biri.",
-    "image": "https://picsum.photos/800/600?random=52",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 41.1023462,
-      "longitude": 29.051159
-    },
-    "estimatedDuration": 71,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "bangkok_54",
-    "name": "Surp Asdvadzadzin Kilisesi",
-    "description": "bangkok'in tarihi ibadet yapılarından biri.",
-    "image": "https://picsum.photos/800/600?random=53",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 41.0445539,
-      "longitude": 29.0053046
-    },
-    "estimatedDuration": 45,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "bangkok_55",
-    "name": "Çiçek Pasajı",
-    "description": "bangkok'de ziyaret edilebilecek popüler bir nokta: Çiçek Pasajı.",
-    "image": "https://picsum.photos/800/600?random=54",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 41.0340997,
-      "longitude": 28.9779211
-    },
-    "estimatedDuration": 39,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "bangkok_56",
-    "name": "İstanbul Modern Sanat Müzesi",
-    "description": "bangkok'de bulunan önemli bir müze.",
-    "image": "https://picsum.photos/800/600?random=55",
-    "category": "Müze",
-    "coordinates": {
-      "latitude": 41.025911,
-      "longitude": 28.982812
-    },
-    "estimatedDuration": 59,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Müze"
-    ]
-  },
-  {
-    "id": "bangkok_57",
-    "name": "Aziz Yahya Kilisesi",
-    "description": "bangkok'in tarihi ibadet yapılarından biri.",
-    "image": "https://picsum.photos/800/600?random=56",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 41.0252215,
-      "longitude": 28.9781298
-    },
-    "estimatedDuration": 65,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 124,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "bangkok_58",
-    "name": "İtalyan Sinagogu",
-    "description": "bangkok'in tarihi ibadet yapılarından biri.",
-    "image": "https://picsum.photos/800/600?random=57",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 41.025424,
-      "longitude": 28.9725458
-    },
-    "estimatedDuration": 66,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "bangkok_59",
-    "name": "Prison of Anemas",
-    "description": "bangkok'de ziyaret edilebilecek popüler bir nokta: Prison of Anemas.",
-    "image": "https://picsum.photos/800/600?random=58",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 41.038414,
-      "longitude": 28.9407981
-    },
-    "estimatedDuration": 70,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 0,
-    "interests": [
-      "Tarihi"
-    ]
-  },
-  {
-    "id": "bangkok_60",
-    "name": "Surp Vartanans",
-    "description": "bangkok'in tarihi ibadet yapılarından biri.",
-    "image": "https://picsum.photos/800/600?random=59",
-    "category": "Tarihi",
-    "coordinates": {
-      "latitude": 41.0536475,
-      "longitude": 28.981291
-    },
-    "estimatedDuration": 34,
-    "openingTime": "09:00",
-    "closingTime": "18:00",
-    "cost": 148,
-    "interests": [
-      "Tarihi"
+      "Alışveriş"
     ]
   }
 ]

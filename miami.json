@@ -1,33 +1,33 @@
 [
   {
     "id": "miami_1",
-    "name": "Route 66 Vintage Iron",
-    "description": "miami'de bulunan önemli bir müze.",
-    "image": "https://images.pexels.com/photos/258415/pexels-photo-258415.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "category": "Müze",
+    "name": "South Beach",
+    "description": "South Beach, miami şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=0",
+    "category": "Tarihi",
     "coordinates": {
-      "latitude": 36.8722799,
-      "longitude": -94.8776822
+      "latitude": 25.744611190516487,
+      "longitude": -80.17352571109578
     },
-    "estimatedDuration": 83,
+    "estimatedDuration": 68,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 16,
+    "cost": 478,
     "interests": [
-      "Müze"
+      "Tarihi"
     ]
   },
   {
     "id": "miami_2",
-    "name": "Route 66 Arch",
-    "description": "miami'de ziyaret edilebilecek popüler bir nokta: Route 66 Arch.",
+    "name": "Ocean Drive",
+    "description": "Ocean Drive, miami şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=1",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 36.8714819,
-      "longitude": -94.8773934
+      "latitude": 25.775114225902062,
+      "longitude": -80.20848855590286
     },
-    "estimatedDuration": 41,
+    "estimatedDuration": 150,
     "openingTime": "09:00",
     "closingTime": "18:00",
     "cost": 0,
@@ -37,15 +37,321 @@
   },
   {
     "id": "miami_3",
-    "name": "Conoco Hole In The Wall",
-    "description": "miami'de ziyaret edilebilecek popüler bir nokta: Conoco Hole In The Wall.",
+    "name": "Art Deco Historic District",
+    "description": "Art Deco Historic District, miami şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
     "image": "https://picsum.photos/800/600?random=2",
     "category": "Tarihi",
     "coordinates": {
-      "latitude": 36.9332071,
-      "longitude": -94.8776288
+      "latitude": 25.74516928578672,
+      "longitude": -80.1783866797548
     },
-    "estimatedDuration": 60,
+    "estimatedDuration": 64,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "miami_4",
+    "name": "Lincoln Road",
+    "description": "Lincoln Road, miami şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=3",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 25.741555442382253,
+      "longitude": -80.22386222442267
+    },
+    "estimatedDuration": 179,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "miami_5",
+    "name": "Miami Beach",
+    "description": "Miami Beach, miami şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=4",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 25.74711200445631,
+      "longitude": -80.16158315519868
+    },
+    "estimatedDuration": 123,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 444,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "miami_6",
+    "name": "Little Havana",
+    "description": "Little Havana, miami şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=5",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 25.771018452525002,
+      "longitude": -80.20369943166905
+    },
+    "estimatedDuration": 112,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "miami_7",
+    "name": "Calle Ocho",
+    "description": "Calle Ocho, miami şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=6",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 25.78821898233665,
+      "longitude": -80.2024652071017
+    },
+    "estimatedDuration": 160,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "miami_8",
+    "name": "Wynwood Walls",
+    "description": "Wynwood Walls, miami şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=7",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 25.758278445434538,
+      "longitude": -80.16350881329083
+    },
+    "estimatedDuration": 142,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 410,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "miami_9",
+    "name": "Miami Design District",
+    "description": "Miami Design District, miami şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=8",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 25.764498609779046,
+      "longitude": -80.18907204492905
+    },
+    "estimatedDuration": 94,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "miami_10",
+    "name": "Bayside Marketplace",
+    "description": "Bayside Marketplace, miami şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=9",
+    "category": "Alışveriş",
+    "coordinates": {
+      "latitude": 25.73572566104675,
+      "longitude": -80.198342205652
+    },
+    "estimatedDuration": 107,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 441,
+    "interests": [
+      "Alışveriş"
+    ]
+  },
+  {
+    "id": "miami_11",
+    "name": "Bayfront Park",
+    "description": "Bayfront Park, miami şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=10",
+    "category": "Park",
+    "coordinates": {
+      "latitude": 25.76869265124314,
+      "longitude": -80.21534466196614
+    },
+    "estimatedDuration": 133,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 69,
+    "interests": [
+      "Park"
+    ]
+  },
+  {
+    "id": "miami_12",
+    "name": "Vizcaya Museum and Gardens",
+    "description": "Vizcaya Museum and Gardens, miami şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=11",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 25.769423761040205,
+      "longitude": -80.22096148567482
+    },
+    "estimatedDuration": 136,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "miami_13",
+    "name": "Pérez Art Museum Miami",
+    "description": "Pérez Art Museum Miami, miami şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=12",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 25.800617315030628,
+      "longitude": -80.180802664048
+    },
+    "estimatedDuration": 163,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "miami_14",
+    "name": "Phillip and Patricia Frost Museum of Science",
+    "description": "Phillip and Patricia Frost Museum of Science, miami şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=13",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 25.726300436638414,
+      "longitude": -80.22864743579859
+    },
+    "estimatedDuration": 153,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "miami_15",
+    "name": "Jungle Island",
+    "description": "Jungle Island, miami şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://images.pexels.com/photos/19160423/pexels-photo-19160423.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 25.758026472039376,
+      "longitude": -80.16738616002742
+    },
+    "estimatedDuration": 146,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "miami_16",
+    "name": "Miami Seaquarium",
+    "description": "Miami Seaquarium, miami şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=15",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 25.746031641587468,
+      "longitude": -80.20885465810639
+    },
+    "estimatedDuration": 171,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "miami_17",
+    "name": "Zoo Miami",
+    "description": "Zoo Miami, miami şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=16",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 25.795893824206797,
+      "longitude": -80.18788034884271
+    },
+    "estimatedDuration": 67,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 394,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "miami_18",
+    "name": "Fairchild Tropical Botanic Garden",
+    "description": "Fairchild Tropical Botanic Garden, miami şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=17",
+    "category": "Park",
+    "coordinates": {
+      "latitude": 25.726643041589476,
+      "longitude": -80.23158561619712
+    },
+    "estimatedDuration": 90,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 5,
+    "interests": [
+      "Park"
+    ]
+  },
+  {
+    "id": "miami_19",
+    "name": "Venetian Pool",
+    "description": "Venetian Pool, miami şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=18",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 25.79054189052762,
+      "longitude": -80.1590472265526
+    },
+    "estimatedDuration": 124,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "miami_20",
+    "name": "Coral Gables",
+    "description": "Coral Gables, miami şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=19",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 25.77213935261432,
+      "longitude": -80.18831740586711
+    },
+    "estimatedDuration": 124,
     "openingTime": "09:00",
     "closingTime": "18:00",
     "cost": 8,
@@ -54,39 +360,543 @@
     ]
   },
   {
-    "id": "miami_4",
-    "name": "Antique Auto Museum",
-    "description": "miami'de bulunan önemli bir müze.",
-    "image": "https://images.pexels.com/photos/768036/pexels-photo-768036.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "category": "Müze",
+    "id": "miami_21",
+    "name": "Miracle Mile",
+    "description": "Miracle Mile, miami şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=20",
+    "category": "Tarihi",
     "coordinates": {
-      "latitude": 36.9514956,
-      "longitude": -94.78681
+      "latitude": 25.756940884247687,
+      "longitude": -80.18082520328956
     },
-    "estimatedDuration": 87,
+    "estimatedDuration": 152,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 87,
+    "cost": 18,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "miami_22",
+    "name": "Coconut Grove",
+    "description": "Coconut Grove, miami şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=21",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 25.79780749334143,
+      "longitude": -80.15825109111879
+    },
+    "estimatedDuration": 134,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "miami_23",
+    "name": "CocoWalk",
+    "description": "CocoWalk, miami şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=22",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 25.78227166200691,
+      "longitude": -80.17987406294284
+    },
+    "estimatedDuration": 145,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 301,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "miami_24",
+    "name": "Key Biscayne",
+    "description": "Key Biscayne, miami şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=23",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 25.732454710294373,
+      "longitude": -80.20799486850383
+    },
+    "estimatedDuration": 99,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 243,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "miami_25",
+    "name": "Crandon Park",
+    "description": "Crandon Park, miami şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=24",
+    "category": "Park",
+    "coordinates": {
+      "latitude": 25.76992802026623,
+      "longitude": -80.1803345911157
+    },
+    "estimatedDuration": 151,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 90,
+    "interests": [
+      "Park"
+    ]
+  },
+  {
+    "id": "miami_26",
+    "name": "Bill Baggs Cape Florida State Park",
+    "description": "Bill Baggs Cape Florida State Park, miami şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=25",
+    "category": "Park",
+    "coordinates": {
+      "latitude": 25.79597776358632,
+      "longitude": -80.15619284136723
+    },
+    "estimatedDuration": 62,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 406,
+    "interests": [
+      "Park"
+    ]
+  },
+  {
+    "id": "miami_27",
+    "name": "Everglades National Park",
+    "description": "Everglades National Park, miami şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=26",
+    "category": "Park",
+    "coordinates": {
+      "latitude": 25.78479913414024,
+      "longitude": -80.2212942739434
+    },
+    "estimatedDuration": 167,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Park"
+    ]
+  },
+  {
+    "id": "miami_28",
+    "name": "Shark Valley",
+    "description": "Shark Valley, miami şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=27",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 25.75574956090359,
+      "longitude": -80.1559129803306
+    },
+    "estimatedDuration": 156,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 39,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "miami_29",
+    "name": "Biscayne National Park",
+    "description": "Biscayne National Park, miami şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=28",
+    "category": "Park",
+    "coordinates": {
+      "latitude": 25.795526020864397,
+      "longitude": -80.17614272489566
+    },
+    "estimatedDuration": 94,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Park"
+    ]
+  },
+  {
+    "id": "miami_30",
+    "name": "Deering Estate",
+    "description": "Deering Estate, miami şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=29",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 25.785855148719065,
+      "longitude": -80.23013155982838
+    },
+    "estimatedDuration": 95,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 213,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "miami_31",
+    "name": "Ancient Spanish Monastery",
+    "description": "Ancient Spanish Monastery, miami şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=30",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 25.779676991228296,
+      "longitude": -80.16561058665349
+    },
+    "estimatedDuration": 61,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 271,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "miami_32",
+    "name": "Freedom Tower",
+    "description": "Freedom Tower, miami şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=31",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 25.800229153843127,
+      "longitude": -80.21037351104805
+    },
+    "estimatedDuration": 153,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "miami_33",
+    "name": "American Airlines Arena (Kaseya Center)",
+    "description": "American Airlines Arena (Kaseya Center), miami şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=32",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 25.74556550623198,
+      "longitude": -80.19119389280523
+    },
+    "estimatedDuration": 139,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 316,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "miami_34",
+    "name": "Hard Rock Stadium",
+    "description": "Hard Rock Stadium, miami şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=33",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 25.733449804096406,
+      "longitude": -80.2089546477524
+    },
+    "estimatedDuration": 83,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 137,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "miami_35",
+    "name": "LoanDepot Park",
+    "description": "LoanDepot Park, miami şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=34",
+    "category": "Park",
+    "coordinates": {
+      "latitude": 25.75948841844084,
+      "longitude": -80.16112468547485
+    },
+    "estimatedDuration": 179,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 314,
+    "interests": [
+      "Park"
+    ]
+  },
+  {
+    "id": "miami_36",
+    "name": "Brickell City Centre",
+    "description": "Brickell City Centre, miami şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=35",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 25.730368730837043,
+      "longitude": -80.17625867497838
+    },
+    "estimatedDuration": 136,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 291,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "miami_37",
+    "name": "Mary Brickell Village",
+    "description": "Mary Brickell Village, miami şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=36",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 25.731423066459843,
+      "longitude": -80.20907248420386
+    },
+    "estimatedDuration": 177,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "miami_38",
+    "name": "Miami Children's Museum",
+    "description": "Miami Children's Museum, miami şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=37",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 25.75416632383708,
+      "longitude": -80.15729924040629
+    },
+    "estimatedDuration": 168,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 231,
     "interests": [
       "Müze"
     ]
   },
   {
-    "id": "miami_5",
-    "name": "Dobson Museum & Home",
-    "description": "miami'de bulunan önemli bir müze.",
-    "image": "https://picsum.photos/800/600?random=4",
+    "id": "miami_39",
+    "name": "Gold Coast Railroad Museum",
+    "description": "Gold Coast Railroad Museum, miami şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=38",
     "category": "Müze",
     "coordinates": {
-      "latitude": 36.8728682,
-      "longitude": -94.8790071
+      "latitude": 25.770364189614643,
+      "longitude": -80.1893969274789
     },
-    "estimatedDuration": 62,
+    "estimatedDuration": 161,
     "openingTime": "09:00",
     "closingTime": "18:00",
-    "cost": 84,
+    "cost": 20,
     "interests": [
       "Müze"
+    ]
+  },
+  {
+    "id": "miami_40",
+    "name": "Wings Over Miami Air Museum",
+    "description": "Wings Over Miami Air Museum, miami şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=39",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 25.732485729962683,
+      "longitude": -80.17230248539633
+    },
+    "estimatedDuration": 136,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 315,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "miami_41",
+    "name": "HistoryMiami Museum",
+    "description": "HistoryMiami Museum, miami şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=40",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 25.79306436943628,
+      "longitude": -80.21110360046468
+    },
+    "estimatedDuration": 109,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "miami_42",
+    "name": "Jewish Museum of Florida",
+    "description": "Jewish Museum of Florida, miami şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=41",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 25.78609073423188,
+      "longitude": -80.16798483078458
+    },
+    "estimatedDuration": 118,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "miami_43",
+    "name": "Wolfsonian-FIU",
+    "description": "Wolfsonian-FIU, miami şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=42",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 25.728289397775796,
+      "longitude": -80.16082160701104
+    },
+    "estimatedDuration": 111,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "miami_44",
+    "name": "Bass Museum of Art",
+    "description": "Bass Museum of Art, miami şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=43",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 25.73362428793744,
+      "longitude": -80.217067339053
+    },
+    "estimatedDuration": 175,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 131,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "miami_45",
+    "name": "Museum of Contemporary Art",
+    "description": "Museum of Contemporary Art, miami şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=44",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 25.747630981708884,
+      "longitude": -80.19931952683383
+    },
+    "estimatedDuration": 109,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "miami_46",
+    "name": "Oleta River State Park",
+    "description": "Oleta River State Park, miami şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=45",
+    "category": "Park",
+    "coordinates": {
+      "latitude": 25.768186023522365,
+      "longitude": -80.16056651438637
+    },
+    "estimatedDuration": 101,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 141,
+    "interests": [
+      "Park"
+    ]
+  },
+  {
+    "id": "miami_47",
+    "name": "Matheson Hammock Park",
+    "description": "Matheson Hammock Park, miami şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=46",
+    "category": "Park",
+    "coordinates": {
+      "latitude": 25.756953055641105,
+      "longitude": -80.21098655894623
+    },
+    "estimatedDuration": 70,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 163,
+    "interests": [
+      "Park"
+    ]
+  },
+  {
+    "id": "miami_48",
+    "name": "Lummus Park",
+    "description": "Lummus Park, miami şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=47",
+    "category": "Park",
+    "coordinates": {
+      "latitude": 25.76426300997705,
+      "longitude": -80.15803048574722
+    },
+    "estimatedDuration": 126,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 358,
+    "interests": [
+      "Park"
+    ]
+  },
+  {
+    "id": "miami_49",
+    "name": "South Pointe Park",
+    "description": "South Pointe Park, miami şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=48",
+    "category": "Park",
+    "coordinates": {
+      "latitude": 25.794780698052797,
+      "longitude": -80.22027371598176
+    },
+    "estimatedDuration": 66,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Park"
+    ]
+  },
+  {
+    "id": "miami_50",
+    "name": "Española Way",
+    "description": "Española Way, miami şehrinde mutlaka görülmesi gereken popüler bir turistik noktadır.",
+    "image": "https://picsum.photos/800/600?random=49",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 25.731695894250766,
+      "longitude": -80.2221785857417
+    },
+    "estimatedDuration": 162,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
     ]
   }
 ]
