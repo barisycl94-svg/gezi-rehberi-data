@@ -1,0 +1,812 @@
+[
+  {
+    "id": "ankara_1",
+    "name": "Anıtkabir",
+    "description": "ankara'de ziyaret edilebilecek popüler bir nokta: Anıtkabir.",
+    "image": "https://picsum.photos/800/600?random=0",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 39.925011,
+      "longitude": 32.8369019
+    },
+    "estimatedDuration": 32,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "ankara_2",
+    "name": "Feza Gürsey Bilim Merkezi",
+    "description": "ankara'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=1",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 39.9683754,
+      "longitude": 32.8798792
+    },
+    "estimatedDuration": 67,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 141,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "ankara_3",
+    "name": "Ankara Zafer Anıtı",
+    "description": "ankara'de ziyaret edilebilecek popüler bir nokta: Ankara Zafer Anıtı.",
+    "image": "https://picsum.photos/800/600?random=2",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 39.9417664,
+      "longitude": 32.8547784
+    },
+    "estimatedDuration": 57,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "ankara_4",
+    "name": "Julianus Sütunu",
+    "description": "ankara'de ziyaret edilebilecek popüler bir nokta: Julianus Sütunu.",
+    "image": "https://picsum.photos/800/600?random=3",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 39.9433337,
+      "longitude": 32.8559492
+    },
+    "estimatedDuration": 67,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "ankara_5",
+    "name": "Haritacılık Müzesi",
+    "description": "ankara'de bulunan önemli bir müze.",
+    "image": "https://images.pexels.com/photos/34784620/pexels-photo-34784620.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 39.931782,
+      "longitude": 32.8821019
+    },
+    "estimatedDuration": 83,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "ankara_6",
+    "name": "Ankara Kalesi",
+    "description": "ankara'in tarihine tanıklık eden bir kale.",
+    "image": "https://picsum.photos/800/600?random=5",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 39.9414931,
+      "longitude": 32.865427
+    },
+    "estimatedDuration": 66,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 33,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "ankara_7",
+    "name": "Gökyay Vakfı Satranç Müzesi",
+    "description": "ankara'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=6",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 39.9346959,
+      "longitude": 32.8633082
+    },
+    "estimatedDuration": 53,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "ankara_8",
+    "name": "Atatürk Anıtı",
+    "description": "ankara'de ziyaret edilebilecek popüler bir nokta: Atatürk Anıtı.",
+    "image": "https://picsum.photos/800/600?random=7",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 39.8680518,
+      "longitude": 32.7361531
+    },
+    "estimatedDuration": 42,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "ankara_10",
+    "name": "Aziz Klemens Kilisesi",
+    "description": "ankara'de ziyaret edilebilecek popüler bir nokta: Aziz Klemens Kilisesi.",
+    "image": "https://picsum.photos/800/600?random=9",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 39.9390253,
+      "longitude": 32.8596754
+    },
+    "estimatedDuration": 40,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "ankara_11",
+    "name": "Atatürk ve Kurtuluş Savaşı Müzesi",
+    "description": "ankara'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=10",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 39.9249828,
+      "longitude": 32.8376958
+    },
+    "estimatedDuration": 85,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "ankara_12",
+    "name": "Yumurtatepe Tümülüsü",
+    "description": "ankara'de ziyaret edilebilecek popüler bir nokta: Yumurtatepe Tümülüsü.",
+    "image": "https://picsum.photos/800/600?random=11",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 39.9532066,
+      "longitude": 32.7896485
+    },
+    "estimatedDuration": 72,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "ankara_13",
+    "name": "Hacı Bayram Veli Camii",
+    "description": "ankara'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=12",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 39.9443925,
+      "longitude": 32.8579664
+    },
+    "estimatedDuration": 38,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 157,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "ankara_14",
+    "name": "Etnografya Müzesi",
+    "description": "ankara'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=13",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 39.9326719,
+      "longitude": 32.8552989
+    },
+    "estimatedDuration": 66,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "ankara_15",
+    "name": "Cin Ali Müzesi",
+    "description": "ankara'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=14",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 39.9056802,
+      "longitude": 32.8626439
+    },
+    "estimatedDuration": 31,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "ankara_16",
+    "name": "Türkiye İş Bankası İktisadi Bağımsızlık Müzesi",
+    "description": "ankara'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=15",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 39.9427523,
+      "longitude": 32.8549527
+    },
+    "estimatedDuration": 80,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "ankara_17",
+    "name": "Ankara Resim ve Heykel Müzesi",
+    "description": "ankara'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=16",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 39.9333126,
+      "longitude": 32.855749
+    },
+    "estimatedDuration": 77,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "ankara_18",
+    "name": "Cenabi Ahmet Paşa Cami",
+    "description": "ankara'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=17",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 39.9366417,
+      "longitude": 32.870615
+    },
+    "estimatedDuration": 69,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "ankara_19",
+    "name": "Sultan Alaaddin Cami",
+    "description": "ankara'in tarihi ibadet yapılarından biri.",
+    "image": "https://images.pexels.com/photos/13138018/pexels-photo-13138018.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 39.9391618,
+      "longitude": 32.8643326
+    },
+    "estimatedDuration": 81,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 61,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "ankara_20",
+    "name": "Anadolu Medeniyetleri Müzesi",
+    "description": "ankara'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=19",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 39.9379522,
+      "longitude": 32.8617633
+    },
+    "estimatedDuration": 80,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "ankara_21",
+    "name": "Ali Şerafettin Cami",
+    "description": "ankara'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=20",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 39.9366976,
+      "longitude": 32.8652401
+    },
+    "estimatedDuration": 41,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "ankara_22",
+    "name": "Ağaçoğlu Cami",
+    "description": "ankara'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=21",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 39.9356218,
+      "longitude": 32.8664525
+    },
+    "estimatedDuration": 87,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "ankara_23",
+    "name": "Roma Hamamı",
+    "description": "ankara'de ziyaret edilebilecek popüler bir nokta: Roma Hamamı.",
+    "image": "https://picsum.photos/800/600?random=22",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 39.9464382,
+      "longitude": 32.8532669
+    },
+    "estimatedDuration": 84,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "ankara_24",
+    "name": "Pembe Köşk",
+    "description": "ankara'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=23",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 39.8948867,
+      "longitude": 32.8609122
+    },
+    "estimatedDuration": 74,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "ankara_25",
+    "name": "Maltepe Camii",
+    "description": "ankara'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=24",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 39.9247839,
+      "longitude": 32.8471451
+    },
+    "estimatedDuration": 31,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "ankara_26",
+    "name": "Türk Hava Kurumu Müzesi",
+    "description": "ankara'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=25",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 39.9384236,
+      "longitude": 32.8423751
+    },
+    "estimatedDuration": 60,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "ankara_27",
+    "name": "Estergon Kalesi Türk Kültür Merkezi",
+    "description": "ankara'in tarihine tanıklık eden bir kale.",
+    "image": "https://picsum.photos/800/600?random=26",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 39.9807659,
+      "longitude": 32.8664634
+    },
+    "estimatedDuration": 42,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "ankara_28",
+    "name": "Beştepe Millet Camii",
+    "description": "ankara'in tarihi ibadet yapılarından biri.",
+    "image": "https://images.pexels.com/photos/3737648/pexels-photo-3737648.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 39.9275762,
+      "longitude": 32.8022577
+    },
+    "estimatedDuration": 61,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "ankara_29",
+    "name": "Cumhuriyet Müzesi",
+    "description": "ankara'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=28",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 39.9413794,
+      "longitude": 32.8516313
+    },
+    "estimatedDuration": 57,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 51,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "ankara_30",
+    "name": "Kurtuluş Savaşı Müzesi",
+    "description": "ankara'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=29",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 39.9419036,
+      "longitude": 32.8536796
+    },
+    "estimatedDuration": 48,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 86,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "ankara_31",
+    "name": "Ahmet Hamdi Akseki Camii",
+    "description": "ankara'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=30",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 39.9064808,
+      "longitude": 32.7629487
+    },
+    "estimatedDuration": 57,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "ankara_32",
+    "name": "Ulucanlar Cezaevi Müzesi",
+    "description": "ankara'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=31",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 39.9381626,
+      "longitude": 32.8732684
+    },
+    "estimatedDuration": 83,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "ankara_33",
+    "name": "Karacabey Camii",
+    "description": "ankara'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=32",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 39.9312511,
+      "longitude": 32.8654892
+    },
+    "estimatedDuration": 50,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 40,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "ankara_34",
+    "name": "Mehmet Akif Ersoy Evi ve Müzesi",
+    "description": "ankara'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=33",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 39.93264,
+      "longitude": 32.8648692
+    },
+    "estimatedDuration": 89,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "ankara_35",
+    "name": "ODTÜ Bilim ve Teknoloji Müzesi",
+    "description": "ankara'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=34",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 39.9013748,
+      "longitude": 32.7715328
+    },
+    "estimatedDuration": 68,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 155,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "ankara_36",
+    "name": "Ankara Vakıf Eserleri Müzesi",
+    "description": "ankara'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=35",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 39.9356365,
+      "longitude": 32.8549852
+    },
+    "estimatedDuration": 70,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "ankara_37",
+    "name": "Zincirli Camii",
+    "description": "ankara'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=36",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 39.9420442,
+      "longitude": 32.8563681
+    },
+    "estimatedDuration": 61,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "ankara_38",
+    "name": "Abdülkadir İsfahani Mescidi",
+    "description": "ankara'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=37",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 39.9425035,
+      "longitude": 32.8603261
+    },
+    "estimatedDuration": 38,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "ankara_39",
+    "name": "Augustus Tapınağı",
+    "description": "ankara'de ziyaret edilebilecek popüler bir nokta: Augustus Tapınağı.",
+    "image": "https://picsum.photos/800/600?random=38",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 39.9442054,
+      "longitude": 32.8583139
+    },
+    "estimatedDuration": 67,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "ankara_40",
+    "name": "Melike Hatun Camii",
+    "description": "ankara'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=39",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 39.9363459,
+      "longitude": 32.8555662
+    },
+    "estimatedDuration": 54,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 146,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "ankara_41",
+    "name": "Güven Abidesi",
+    "description": "ankara'de ziyaret edilebilecek popüler bir nokta: Güven Abidesi.",
+    "image": "https://picsum.photos/800/600?random=40",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 39.9200397,
+      "longitude": 32.8534073
+    },
+    "estimatedDuration": 53,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "ankara_42",
+    "name": "Ziraat Bankası Müzesi",
+    "description": "ankara'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=41",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 39.939235,
+      "longitude": 32.8537919
+    },
+    "estimatedDuration": 71,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 84,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "ankara_43",
+    "name": "Akkale",
+    "description": "ankara'in tarihine tanıklık eden bir kale.",
+    "image": "https://picsum.photos/800/600?random=42",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 39.941634,
+      "longitude": 32.8656519
+    },
+    "estimatedDuration": 70,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "ankara_44",
+    "name": "THK Havacılık Müzesi ve Paraşüt Kulesi",
+    "description": "ankara'de ziyaret edilebilecek popüler bir nokta: THK Havacılık Müzesi ve Paraşüt Kulesi.",
+    "image": "https://picsum.photos/800/600?random=43",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 39.938226,
+      "longitude": 32.8425051
+    },
+    "estimatedDuration": 81,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "ankara_45",
+    "name": "Kocatepe Camii",
+    "description": "ankara'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=44",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 39.9167335,
+      "longitude": 32.8606925
+    },
+    "estimatedDuration": 50,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "ankara_46",
+    "name": "Doğramacızade Ali Sami Paşa Camii",
+    "description": "ankara'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=45",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 39.8854726,
+      "longitude": 32.7610833
+    },
+    "estimatedDuration": 59,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  }
+]

@@ -1,0 +1,200 @@
+[
+  {
+    "id": "mersin_1",
+    "name": "Kent Tarihi Müzesi",
+    "description": "mersin'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=0",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 36.8001247,
+      "longitude": 34.6282126
+    },
+    "estimatedDuration": 84,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 132,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "mersin_2",
+    "name": "Tece Kalesi",
+    "description": "mersin'in tarihine tanıklık eden bir kale.",
+    "image": "https://images.pexels.com/photos/34784620/pexels-photo-34784620.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 36.7196739,
+      "longitude": 34.450385
+    },
+    "estimatedDuration": 75,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 117,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "mersin_3",
+    "name": "Kuzucubelen Kalesi",
+    "description": "mersin'in tarihine tanıklık eden bir kale.",
+    "image": "https://picsum.photos/800/600?random=2",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 36.8418549,
+      "longitude": 34.4326812
+    },
+    "estimatedDuration": 83,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 179,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "mersin_4",
+    "name": "Yumuktepe",
+    "description": "mersin'de ziyaret edilebilecek popüler bir nokta: Yumuktepe.",
+    "image": "https://picsum.photos/800/600?random=3",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 36.8012108,
+      "longitude": 34.6041493
+    },
+    "estimatedDuration": 75,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 113,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "mersin_5",
+    "name": "Tırmıl Tepe Höyüğü",
+    "description": "mersin'de ziyaret edilebilecek popüler bir nokta: Tırmıl Tepe Höyüğü.",
+    "image": "https://images.pexels.com/photos/28899225/pexels-photo-28899225.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 36.8259211,
+      "longitude": 34.6621811
+    },
+    "estimatedDuration": 66,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 198,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "mersin_6",
+    "name": "Eski Camii",
+    "description": "mersin'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=5",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 36.7983796,
+      "longitude": 34.6302171
+    },
+    "estimatedDuration": 31,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "mersin_7",
+    "name": "Müftü Camii",
+    "description": "mersin'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=6",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 36.788586,
+      "longitude": 34.6159584
+    },
+    "estimatedDuration": 69,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "mersin_8",
+    "name": "Mersin Arkeoloji Müzesi",
+    "description": "mersin'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=7",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 36.7814697,
+      "longitude": 34.6012681
+    },
+    "estimatedDuration": 43,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 2,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "mersin_9",
+    "name": "Mersin Deniz Müzesi",
+    "description": "mersin'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=8",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 36.7813452,
+      "longitude": 34.6001058
+    },
+    "estimatedDuration": 66,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "mersin_10",
+    "name": "Yaka Kalesi",
+    "description": "mersin'de ziyaret edilebilecek popüler bir nokta: Yaka Kalesi.",
+    "image": "https://picsum.photos/800/600?random=9",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 36.8611114,
+      "longitude": 34.734309
+    },
+    "estimatedDuration": 47,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 121,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "mersin_11",
+    "name": "Muğdat Camisi",
+    "description": "mersin'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=10",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 36.7826219,
+      "longitude": 34.6013033
+    },
+    "estimatedDuration": 63,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  }
+]

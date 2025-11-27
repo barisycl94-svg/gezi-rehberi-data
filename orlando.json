@@ -1,0 +1,470 @@
+[
+  {
+    "id": "orlando_1",
+    "name": "Charles Hosmer Morse Museum of American Art",
+    "description": "orlando'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=0",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 28.6008106,
+      "longitude": -81.351298
+    },
+    "estimatedDuration": 55,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 34,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "orlando_2",
+    "name": "Skull Island: Reign of Kong",
+    "description": "orlando'de ziyaret edilebilecek popüler bir nokta: Skull Island: Reign of Kong.",
+    "image": "https://picsum.photos/800/600?random=1",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 28.469061,
+      "longitude": -81.4730493
+    },
+    "estimatedDuration": 83,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "orlando_3",
+    "name": "Krakatau",
+    "description": "orlando'de ziyaret edilebilecek popüler bir nokta: Krakatau.",
+    "image": "https://picsum.photos/800/600?random=2",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 28.4614471,
+      "longitude": -81.4730255
+    },
+    "estimatedDuration": 40,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 147,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "orlando_4",
+    "name": "The Incredible Hulk Coaster",
+    "description": "orlando'de ziyaret edilebilecek popüler bir nokta: The Incredible Hulk Coaster.",
+    "image": "https://images.pexels.com/photos/34809752/pexels-photo-34809752.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 28.4715017,
+      "longitude": -81.4687757
+    },
+    "estimatedDuration": 45,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 159,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "orlando_5",
+    "name": "Hagrid’s Magical Creatures Motorbike Adventure",
+    "description": "orlando'de ziyaret edilebilecek popüler bir nokta: Hagrid’s Magical Creatures Motorbike Adventure.",
+    "image": "https://picsum.photos/800/600?random=4",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 28.4734362,
+      "longitude": -81.4735089
+    },
+    "estimatedDuration": 81,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "orlando_6",
+    "name": "Jurassic Park River Adventure",
+    "description": "orlando'de ziyaret edilebilecek popüler bir nokta: Jurassic Park River Adventure.",
+    "image": "https://images.pexels.com/photos/19013057/pexels-photo-19013057.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 28.4702522,
+      "longitude": -81.4737818
+    },
+    "estimatedDuration": 44,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "orlando_7",
+    "name": "Flight of the Hippogriff",
+    "description": "orlando'de ziyaret edilebilecek popüler bir nokta: Flight of the Hippogriff.",
+    "image": "https://picsum.photos/800/600?random=6",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 28.472447,
+      "longitude": -81.4738336
+    },
+    "estimatedDuration": 30,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "orlando_8",
+    "name": "Cathedral Church Of Saint Luke",
+    "description": "orlando'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=7",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 28.544412,
+      "longitude": -81.3778884
+    },
+    "estimatedDuration": 36,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 129,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "orlando_9",
+    "name": "Orlando Florida Temple",
+    "description": "orlando'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=8",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 28.5073653,
+      "longitude": -81.5094924
+    },
+    "estimatedDuration": 71,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "orlando_10",
+    "name": "Discovery Cove",
+    "description": "orlando'de ziyaret edilebilecek popüler bir nokta: Discovery Cove.",
+    "image": "https://picsum.photos/800/600?random=9",
+    "category": "Eğlence",
+    "coordinates": {
+      "latitude": 28.4051609,
+      "longitude": -81.4641244
+    },
+    "estimatedDuration": 39,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 175,
+    "interests": [
+      "Eğlence"
+    ]
+  },
+  {
+    "id": "orlando_11",
+    "name": "Orlando Museum of Art",
+    "description": "orlando'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=10",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 28.5727975,
+      "longitude": -81.365173
+    },
+    "estimatedDuration": 85,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "orlando_12",
+    "name": "Universal Volcano Bay",
+    "description": "orlando'de ziyaret edilebilecek popüler bir nokta: Universal Volcano Bay.",
+    "image": "https://picsum.photos/800/600?random=11",
+    "category": "Eğlence",
+    "coordinates": {
+      "latitude": 28.461398,
+      "longitude": -81.472718
+    },
+    "estimatedDuration": 88,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Eğlence"
+    ]
+  },
+  {
+    "id": "orlando_13",
+    "name": "Universal CityWalk Orlando",
+    "description": "orlando'de ziyaret edilebilecek popüler bir nokta: Universal CityWalk Orlando.",
+    "image": "https://picsum.photos/800/600?random=12",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 28.4733808,
+      "longitude": -81.4665592
+    },
+    "estimatedDuration": 72,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "orlando_14",
+    "name": "Stardust Racers",
+    "description": "orlando'de ziyaret edilebilecek popüler bir nokta: Stardust Racers.",
+    "image": "https://picsum.photos/800/600?random=13",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 28.4415551,
+      "longitude": -81.4465421
+    },
+    "estimatedDuration": 32,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 118,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "orlando_15",
+    "name": "Universal Epic Universe",
+    "description": "orlando'de ziyaret edilebilecek popüler bir nokta: Universal Epic Universe.",
+    "image": "https://picsum.photos/800/600?random=14",
+    "category": "Eğlence",
+    "coordinates": {
+      "latitude": 28.4435028,
+      "longitude": -81.447741
+    },
+    "estimatedDuration": 31,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Eğlence"
+    ]
+  },
+  {
+    "id": "orlando_16",
+    "name": "All Saints Episcopal Church",
+    "description": "orlando'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=15",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 28.5947864,
+      "longitude": -81.3482771
+    },
+    "estimatedDuration": 37,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "orlando_17",
+    "name": "First United Methodist Church of Orlando",
+    "description": "orlando'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=16",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 28.5387638,
+      "longitude": -81.3769791
+    },
+    "estimatedDuration": 79,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "orlando_18",
+    "name": "Storm Force Accelatron",
+    "description": "orlando'de ziyaret edilebilecek popüler bir nokta: Storm Force Accelatron.",
+    "image": "https://picsum.photos/800/600?random=17",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 28.47093,
+      "longitude": -81.4687744
+    },
+    "estimatedDuration": 58,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "orlando_19",
+    "name": "Universal's Islands of Adventure",
+    "description": "orlando'de ziyaret edilebilecek popüler bir nokta: Universal's Islands of Adventure.",
+    "image": "https://picsum.photos/800/600?random=18",
+    "category": "Eğlence",
+    "coordinates": {
+      "latitude": 28.4718744,
+      "longitude": -81.4709461
+    },
+    "estimatedDuration": 70,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Eğlence"
+    ]
+  },
+  {
+    "id": "orlando_20",
+    "name": "Doctor Doom's Fearfall",
+    "description": "orlando'de ziyaret edilebilecek popüler bir nokta: Doctor Doom's Fearfall.",
+    "image": "https://picsum.photos/800/600?random=19",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 28.4705237,
+      "longitude": -81.469297
+    },
+    "estimatedDuration": 37,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 3,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "orlando_21",
+    "name": "The Amazing Adventures of Spider-Man",
+    "description": "orlando'de ziyaret edilebilecek popüler bir nokta: The Amazing Adventures of Spider-Man.",
+    "image": "https://picsum.photos/800/600?random=20",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 28.4700548,
+      "longitude": -81.4696594
+    },
+    "estimatedDuration": 59,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "orlando_22",
+    "name": "Popeye & Bluto's Bilge-Rat Barges",
+    "description": "orlando'de ziyaret edilebilecek popüler bir nokta: Popeye & Bluto's Bilge-Rat Barges.",
+    "image": "https://picsum.photos/800/600?random=21",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 28.4706075,
+      "longitude": -81.4716921
+    },
+    "estimatedDuration": 57,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "orlando_23",
+    "name": "Harry Potter and the Forbidden Journey",
+    "description": "orlando'de ziyaret edilebilecek popüler bir nokta: Harry Potter and the Forbidden Journey.",
+    "image": "https://picsum.photos/800/600?random=22",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 28.4717484,
+      "longitude": -81.4739547
+    },
+    "estimatedDuration": 71,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "orlando_25",
+    "name": "Dudley Doo-Right's Ripsaw Falls",
+    "description": "orlando'de ziyaret edilebilecek popüler bir nokta: Dudley Doo-Right's Ripsaw Falls.",
+    "image": "https://picsum.photos/800/600?random=24",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 28.4692144,
+      "longitude": -81.4718298
+    },
+    "estimatedDuration": 75,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "orlando_26",
+    "name": "Jurassic World VelociCoaster",
+    "description": "orlando'de ziyaret edilebilecek popüler bir nokta: Jurassic World VelociCoaster.",
+    "image": "https://picsum.photos/800/600?random=25",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 28.471099,
+      "longitude": -81.4724911
+    },
+    "estimatedDuration": 58,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "orlando_28",
+    "name": "Universal Orlando Resort",
+    "description": "orlando'de ziyaret edilebilecek popüler bir nokta: Universal Orlando Resort.",
+    "image": "https://picsum.photos/800/600?random=27",
+    "category": "Eğlence",
+    "coordinates": {
+      "latitude": 28.4571143,
+      "longitude": -81.4552939
+    },
+    "estimatedDuration": 83,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Eğlence"
+    ]
+  }
+]

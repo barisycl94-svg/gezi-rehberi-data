@@ -1,0 +1,182 @@
+[
+  {
+    "id": "zanzibar_1",
+    "name": "Christ Church",
+    "description": "zanzibar'in tarihi ibadet yapılarından biri.",
+    "image": "https://images.pexels.com/photos/267559/pexels-photo-267559.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -6.1629183,
+      "longitude": 39.1925727
+    },
+    "estimatedDuration": 89,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 102,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "zanzibar_2",
+    "name": "House of Wonders",
+    "description": "zanzibar'de bulunan önemli bir müze.",
+    "image": "https://images.pexels.com/photos/5425008/pexels-photo-5425008.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": -6.1609105,
+      "longitude": 39.1896278
+    },
+    "estimatedDuration": 73,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "zanzibar_3",
+    "name": "Ijumaa Mosque",
+    "description": "zanzibar'in tarihi ibadet yapılarından biri.",
+    "image": "https://images.pexels.com/photos/34945441/pexels-photo-34945441.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -6.1591459,
+      "longitude": 39.1923652
+    },
+    "estimatedDuration": 42,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "zanzibar_4",
+    "name": "St. Joseph's Cathedral",
+    "description": "zanzibar'in tarihi ibadet yapılarından biri.",
+    "image": "https://images.pexels.com/photos/30795513/pexels-photo-30795513.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -6.1627608,
+      "longitude": 39.1888297
+    },
+    "estimatedDuration": 71,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "zanzibar_5",
+    "name": "Old Slave Market",
+    "description": "zanzibar'de bulunan önemli bir müze.",
+    "image": "https://images.pexels.com/photos/4906448/pexels-photo-4906448.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": -6.1633684,
+      "longitude": 39.1924975
+    },
+    "estimatedDuration": 73,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "zanzibar_6",
+    "name": "Old Dispensary",
+    "description": "zanzibar'de ziyaret edilebilecek popüler bir nokta: Old Dispensary.",
+    "image": "https://images.pexels.com/photos/29195168/pexels-photo-29195168.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -6.1582912,
+      "longitude": 39.1926335
+    },
+    "estimatedDuration": 55,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "zanzibar_7",
+    "name": "Tippu Tip's House",
+    "description": "zanzibar'de ziyaret edilebilecek popüler bir nokta: Tippu Tip's House.",
+    "image": "https://images.pexels.com/photos/4569893/pexels-photo-4569893.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -6.164018,
+      "longitude": 39.1870361
+    },
+    "estimatedDuration": 85,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "zanzibar_8",
+    "name": "Hamamni Persian Baths",
+    "description": "zanzibar'de ziyaret edilebilecek popüler bir nokta: Hamamni Persian Baths.",
+    "image": "https://images.pexels.com/photos/7445034/pexels-photo-7445034.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -6.162563,
+      "longitude": 39.1909105
+    },
+    "estimatedDuration": 59,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 35,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "zanzibar_9",
+    "name": "Old Fort",
+    "description": "zanzibar'de bulunan önemli bir müze.",
+    "image": "https://images.pexels.com/photos/6149530/pexels-photo-6149530.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": -6.1613613,
+      "longitude": 39.1890504
+    },
+    "estimatedDuration": 51,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "zanzibar_10",
+    "name": "Sultan's Palace",
+    "description": "zanzibar'de bulunan önemli bir müze.",
+    "image": "https://images.pexels.com/photos/10543024/pexels-photo-10543024.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": -6.1599654,
+      "longitude": 39.1904502
+    },
+    "estimatedDuration": 52,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  }
+]

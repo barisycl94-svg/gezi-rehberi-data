@@ -1,0 +1,380 @@
+[
+  {
+    "id": "lagos_1",
+    "name": "Algar Seco",
+    "description": "lagos'de ziyaret edilebilecek popüler bir nokta: Algar Seco.",
+    "image": "https://picsum.photos/800/600?random=0",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 37.0928108,
+      "longitude": -8.4655175
+    },
+    "estimatedDuration": 36,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 27,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "lagos_2",
+    "name": "Igreja de Santo António",
+    "description": "lagos'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=1",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 37.0995878,
+      "longitude": -8.6713272
+    },
+    "estimatedDuration": 31,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "lagos_3",
+    "name": "Pelourinho de Lagos",
+    "description": "lagos'de ziyaret edilebilecek popüler bir nokta: Pelourinho de Lagos.",
+    "image": "https://picsum.photos/800/600?random=2",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 37.098839,
+      "longitude": -8.670995
+    },
+    "estimatedDuration": 58,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 139,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "lagos_4",
+    "name": "Menires do Padrão",
+    "description": "lagos'de ziyaret edilebilecek popüler bir nokta: Menires do Padrão.",
+    "image": "https://picsum.photos/800/600?random=3",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 37.0626692,
+      "longitude": -8.8883512
+    },
+    "estimatedDuration": 45,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 98,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "lagos_5",
+    "name": "Menir de Aspradantes",
+    "description": "lagos'de ziyaret edilebilecek popüler bir nokta: Menir de Aspradantes.",
+    "image": "https://picsum.photos/800/600?random=4",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 37.0725186,
+      "longitude": -8.8653068
+    },
+    "estimatedDuration": 83,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "lagos_6",
+    "name": "Igreja Matriz de Budens",
+    "description": "lagos'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=5",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 37.0864367,
+      "longitude": -8.829529
+    },
+    "estimatedDuration": 80,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "lagos_7",
+    "name": "Ruínas Lusitano-Romanas da Boca do Rio",
+    "description": "lagos'de ziyaret edilebilecek popüler bir nokta: Ruínas Lusitano-Romanas da Boca do Rio.",
+    "image": "https://picsum.photos/800/600?random=6",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 37.0664324,
+      "longitude": -8.8105436
+    },
+    "estimatedDuration": 45,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "lagos_8",
+    "name": "Necrópole romana de Fonte Velha",
+    "description": "lagos'de ziyaret edilebilecek popüler bir nokta: Necrópole romana de Fonte Velha.",
+    "image": "https://picsum.photos/800/600?random=7",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 37.1593111,
+      "longitude": -8.7497639
+    },
+    "estimatedDuration": 47,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "lagos_9",
+    "name": "Forte de Vera Cruz da Figueira",
+    "description": "lagos'de ziyaret edilebilecek popüler bir nokta: Forte de Vera Cruz da Figueira.",
+    "image": "https://picsum.photos/800/600?random=8",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 37.0611239,
+      "longitude": -8.8387223
+    },
+    "estimatedDuration": 72,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "lagos_10",
+    "name": "Monumentos Megalíticos de Alcalar",
+    "description": "lagos şehrinde doğa ile iç içe bir park.",
+    "image": "https://picsum.photos/800/600?random=9",
+    "category": "Park",
+    "coordinates": {
+      "latitude": 37.1988153,
+      "longitude": -8.5881007
+    },
+    "estimatedDuration": 66,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Park"
+    ]
+  },
+  {
+    "id": "lagos_11",
+    "name": "Forte de Almádena",
+    "description": "lagos'de ziyaret edilebilecek popüler bir nokta: Forte de Almádena.",
+    "image": "https://picsum.photos/800/600?random=10",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 37.0666978,
+      "longitude": -8.8043983
+    },
+    "estimatedDuration": 64,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 10,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "lagos_12",
+    "name": "Igreja de São Sebastião",
+    "description": "lagos'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=11",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 37.1039454,
+      "longitude": -8.6737355
+    },
+    "estimatedDuration": 48,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "lagos_13",
+    "name": "Capela de São João Baptista",
+    "description": "lagos'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=12",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 37.1116474,
+      "longitude": -8.6807965
+    },
+    "estimatedDuration": 32,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "lagos_14",
+    "name": "Forte da Meia Praia",
+    "description": "lagos'de ziyaret edilebilecek popüler bir nokta: Forte da Meia Praia.",
+    "image": "https://picsum.photos/800/600?random=13",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 37.1174693,
+      "longitude": -8.6473467
+    },
+    "estimatedDuration": 40,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "lagos_15",
+    "name": "Castelo de São João de Arade",
+    "description": "lagos'in tarihine tanıklık eden bir kale.",
+    "image": "https://picsum.photos/800/600?random=14",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 37.1195991,
+      "longitude": -8.5224702
+    },
+    "estimatedDuration": 59,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "lagos_16",
+    "name": "Parque Zoológico de Lagos",
+    "description": "lagos şehrinde doğa ile iç içe bir park.",
+    "image": "https://picsum.photos/800/600?random=15",
+    "category": "Park",
+    "coordinates": {
+      "latitude": 37.1446442,
+      "longitude": -8.765481
+    },
+    "estimatedDuration": 57,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 60,
+    "interests": [
+      "Park"
+    ]
+  },
+  {
+    "id": "lagos_17",
+    "name": "Estação Romana da Quinta da Abicada",
+    "description": "lagos'de ziyaret edilebilecek popüler bir nokta: Estação Romana da Quinta da Abicada.",
+    "image": "https://picsum.photos/800/600?random=16",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 37.1514441,
+      "longitude": -8.5967769
+    },
+    "estimatedDuration": 48,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 10,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "lagos_18",
+    "name": "Estação Arqueológica Romana da Praia da Luz",
+    "description": "lagos'de ziyaret edilebilecek popüler bir nokta: Estação Arqueológica Romana da Praia da Luz.",
+    "image": "https://picsum.photos/800/600?random=17",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 37.0860636,
+      "longitude": -8.7288174
+    },
+    "estimatedDuration": 37,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "lagos_19",
+    "name": "Forte do Zavial",
+    "description": "lagos'de ziyaret edilebilecek popüler bir nokta: Forte do Zavial.",
+    "image": "https://picsum.photos/800/600?random=18",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 37.0446599,
+      "longitude": -8.8758264
+    },
+    "estimatedDuration": 85,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "lagos_20",
+    "name": "Forte da Bandeira",
+    "description": "lagos'in tarihine tanıklık eden bir kale.",
+    "image": "https://picsum.photos/800/600?random=19",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 37.0990228,
+      "longitude": -8.6682566
+    },
+    "estimatedDuration": 42,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "lagos_21",
+    "name": "Estação Arqueológica de Monte Molião",
+    "description": "lagos'de ziyaret edilebilecek popüler bir nokta: Estação Arqueológica de Monte Molião.",
+    "image": "https://picsum.photos/800/600?random=20",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 37.1147046,
+      "longitude": -8.6745925
+    },
+    "estimatedDuration": 49,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  }
+]

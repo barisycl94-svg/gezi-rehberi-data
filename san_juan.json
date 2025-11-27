@@ -1,0 +1,308 @@
+[
+  {
+    "id": "san_juan_1",
+    "name": "Museo de las Américas",
+    "description": "san_juan'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=0",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 18.4677678,
+      "longitude": -66.1200757
+    },
+    "estimatedDuration": 51,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 111,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "san_juan_2",
+    "name": "Fortín San Antonio",
+    "description": "san_juan'de ziyaret edilebilecek popüler bir nokta: Fortín San Antonio.",
+    "image": "https://picsum.photos/800/600?random=1",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 18.4598177,
+      "longitude": -66.0862238
+    },
+    "estimatedDuration": 34,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "san_juan_3",
+    "name": "Castillo San Cristóbal",
+    "description": "san_juan'in tarihine tanıklık eden bir kale.",
+    "image": "https://picsum.photos/800/600?random=2",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 18.4673516,
+      "longitude": -66.1107281
+    },
+    "estimatedDuration": 65,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 174,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "san_juan_4",
+    "name": "Museo de Arte de Puerto Rico",
+    "description": "san_juan'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=3",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 18.448441,
+      "longitude": -66.0661819
+    },
+    "estimatedDuration": 42,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 1,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "san_juan_5",
+    "name": "Fortín San Juan de la Cruz",
+    "description": "san_juan'in tarihine tanıklık eden bir kale.",
+    "image": "https://picsum.photos/800/600?random=4",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 18.4663572,
+      "longitude": -66.1364079
+    },
+    "estimatedDuration": 48,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 143,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "san_juan_6",
+    "name": "Fortín de San Gerónimo",
+    "description": "san_juan'in tarihine tanıklık eden bir kale.",
+    "image": "https://picsum.photos/800/600?random=5",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 18.462834,
+      "longitude": -66.0843564
+    },
+    "estimatedDuration": 82,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "san_juan_7",
+    "name": "Catedral de San Juan Bautista",
+    "description": "san_juan'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=6",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 18.4657307,
+      "longitude": -66.1176997
+    },
+    "estimatedDuration": 64,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "san_juan_8",
+    "name": "Iglesia de San José",
+    "description": "san_juan'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=7",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 18.467612,
+      "longitude": -66.1182575
+    },
+    "estimatedDuration": 52,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "san_juan_9",
+    "name": "Capilla Nuestra Señora de Lourdes",
+    "description": "san_juan'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=8",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 18.4564175,
+      "longitude": -66.085145
+    },
+    "estimatedDuration": 73,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 3,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "san_juan_10",
+    "name": "Coliseo de Puerto Rico José Miguel Agrelot",
+    "description": "san_juan'de ziyaret edilebilecek popüler bir nokta: Coliseo de Puerto Rico José Miguel Agrelot.",
+    "image": "https://picsum.photos/800/600?random=9",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 18.4277971,
+      "longitude": -66.0613361
+    },
+    "estimatedDuration": 66,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 35,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "san_juan_11",
+    "name": "Puente Histórico de Trujillo Alto (Nº 427)",
+    "description": "san_juan'de ziyaret edilebilecek popüler bir nokta: Puente Histórico de Trujillo Alto (Nº 427).",
+    "image": "https://picsum.photos/800/600?random=10",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 18.35752,
+      "longitude": -66.0037016
+    },
+    "estimatedDuration": 80,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "san_juan_12",
+    "name": "Puente Atirantado Jesús Izcoa Moure",
+    "description": "san_juan'de ziyaret edilebilecek popüler bir nokta: Puente Atirantado Jesús Izcoa Moure.",
+    "image": "https://picsum.photos/800/600?random=11",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 18.3236717,
+      "longitude": -66.208573
+    },
+    "estimatedDuration": 83,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "san_juan_13",
+    "name": "Ruinas de Caparra",
+    "description": "san_juan'de ziyaret edilebilecek popüler bir nokta: Ruinas de Caparra.",
+    "image": "https://picsum.photos/800/600?random=12",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 18.405187,
+      "longitude": -66.1136498
+    },
+    "estimatedDuration": 36,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 83,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "san_juan_15",
+    "name": "La Garita del Diablo",
+    "description": "san_juan'in tarihine tanıklık eden bir kale.",
+    "image": "https://picsum.photos/800/600?random=14",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 18.4684023,
+      "longitude": -66.1104343
+    },
+    "estimatedDuration": 33,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "san_juan_16",
+    "name": "Castillo San Felipe del Morro",
+    "description": "san_juan'in tarihine tanıklık eden bir kale.",
+    "image": "https://picsum.photos/800/600?random=15",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 18.4708386,
+      "longitude": -66.1240617
+    },
+    "estimatedDuration": 61,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "san_juan_17",
+    "name": "San Juan Puerto Rico Temple",
+    "description": "san_juan'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=16",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 18.385733,
+      "longitude": -66.0292851
+    },
+    "estimatedDuration": 31,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 191,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "san_juan_18",
+    "name": "Cuartel de Ballajá",
+    "description": "san_juan'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=17",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 18.4678018,
+      "longitude": -66.1197743
+    },
+    "estimatedDuration": 37,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  }
+]

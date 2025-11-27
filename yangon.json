@@ -1,0 +1,434 @@
+[
+  {
+    "id": "yangon_1",
+    "name": "Myanmar Gems Museum",
+    "description": "yangon'de bulunan önemli bir müze.",
+    "image": "https://images.pexels.com/photos/32551472/pexels-photo-32551472.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 16.8551522,
+      "longitude": 96.1565044
+    },
+    "estimatedDuration": 41,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "yangon_2",
+    "name": "ဗိုလ်ချုပ်အောင်ဆန်း ပြတိုက် Bogyoke Aung San Museum",
+    "description": "yangon'de bulunan önemli bir müze.",
+    "image": "https://images.pexels.com/photos/5074444/pexels-photo-5074444.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 16.8038331,
+      "longitude": 96.163353
+    },
+    "estimatedDuration": 46,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "yangon_3",
+    "name": "Fokker F27",
+    "description": "yangon'de ziyaret edilebilecek popüler bir nokta: Fokker F27.",
+    "image": "https://images.pexels.com/photos/27016009/pexels-photo-27016009.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 16.7946406,
+      "longitude": 96.1443736
+    },
+    "estimatedDuration": 41,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "yangon_4",
+    "name": "ကျိုက်ခေါက်ဘုရား",
+    "description": "yangon'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=3",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 16.7302756,
+      "longitude": 96.2708212
+    },
+    "estimatedDuration": 77,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "yangon_5",
+    "name": "ရွှေတိဂုံစေတီ",
+    "description": "yangon'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=4",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 16.7983396,
+      "longitude": 96.1496057
+    },
+    "estimatedDuration": 61,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "yangon_6",
+    "name": "Karaweik Palace Restaurant",
+    "description": "yangon'de ziyaret edilebilecek popüler bir nokta: Karaweik Palace Restaurant.",
+    "image": "https://images.pexels.com/photos/15190885/pexels-photo-15190885.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Yeme-İçme",
+    "coordinates": {
+      "latitude": 16.7952271,
+      "longitude": 96.1679835
+    },
+    "estimatedDuration": 77,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Yeme-İçme"
+    ]
+  },
+  {
+    "id": "yangon_7",
+    "name": "ခြောက်ထပ်ကြီး စေတီ",
+    "description": "yangon'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=6",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 16.8116647,
+      "longitude": 96.1638856
+    },
+    "estimatedDuration": 80,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "yangon_8",
+    "name": "Shwedagon Pagoda",
+    "description": "yangon'in tarihi ibadet yapılarından biri.",
+    "image": "https://images.pexels.com/photos/7466536/pexels-photo-7466536.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 16.7986297,
+      "longitude": 96.1495522
+    },
+    "estimatedDuration": 85,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "yangon_9",
+    "name": "ဆူးလေဘုရား",
+    "description": "yangon'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=8",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 16.7744082,
+      "longitude": 96.158766
+    },
+    "estimatedDuration": 79,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "yangon_10",
+    "name": "ဗိုလ်တစ်ထောင်စေတီတော်",
+    "description": "yangon'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=9",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 16.7684597,
+      "longitude": 96.1719994
+    },
+    "estimatedDuration": 36,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "yangon_11",
+    "name": "Kaba Aye Pagoda",
+    "description": "yangon'in tarihi ibadet yapılarından biri.",
+    "image": "https://images.pexels.com/photos/34918499/pexels-photo-34918499.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 16.8568295,
+      "longitude": 96.1544967
+    },
+    "estimatedDuration": 35,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "yangon_12",
+    "name": "သန့်ရှင်းသော တြိနတိ ကသီဒြယ်",
+    "description": "yangon'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=11",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 16.7800828,
+      "longitude": 96.1540547
+    },
+    "estimatedDuration": 36,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "yangon_13",
+    "name": "မဟာပါသာနလှိုင်ဂူတော်",
+    "description": "yangon'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=12",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 16.8590808,
+      "longitude": 96.1536811
+    },
+    "estimatedDuration": 32,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "yangon_14",
+    "name": "ငါးထပ်ကြီးဘုရား",
+    "description": "yangon'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=13",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 16.8084475,
+      "longitude": 96.1625601
+    },
+    "estimatedDuration": 87,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "yangon_15",
+    "name": "เจดีย์โบตะตอง",
+    "description": "yangon'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=14",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 16.7681094,
+      "longitude": 96.1718723
+    },
+    "estimatedDuration": 31,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "yangon_16",
+    "name": "ရန်ကုန်တိရိစ္ဆာန်ဥယျာဉ်",
+    "description": "yangon'de ziyaret edilebilecek popüler bir nokta: ရန်ကုန်တိရိစ္ဆာန်ဥယျာဉ်.",
+    "image": "https://picsum.photos/800/600?random=15",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 16.7917184,
+      "longitude": 96.1594425
+    },
+    "estimatedDuration": 69,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "yangon_17",
+    "name": "စိန့်မေရီကာသီဒြယ်",
+    "description": "yangon'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=16",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 16.778477,
+      "longitude": 96.1655377
+    },
+    "estimatedDuration": 34,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "yangon_18",
+    "name": "Musmeah Yeshua Synagoge",
+    "description": "yangon'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=17",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 16.7742438,
+      "longitude": 96.153847
+    },
+    "estimatedDuration": 76,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "yangon_19",
+    "name": "ရန်ကုန်အမျိုးသားပြတိုက်",
+    "description": "yangon'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=18",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 16.7886053,
+      "longitude": 96.1422999
+    },
+    "estimatedDuration": 55,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "yangon_20",
+    "name": "Kheng Hock Keong",
+    "description": "yangon'in tarihi ibadet yapılarından biri.",
+    "image": "https://images.pexels.com/photos/34217399/pexels-photo-34217399.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 16.7725884,
+      "longitude": 96.1486789
+    },
+    "estimatedDuration": 59,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "yangon_21",
+    "name": "ကွမ်ရင်ဗုဒ္ဓဘာသာဘုရားကျောင်း",
+    "description": "yangon'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=20",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 16.7749479,
+      "longitude": 96.1500827
+    },
+    "estimatedDuration": 56,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "yangon_22",
+    "name": "Pegu Club",
+    "description": "yangon'de ziyaret edilebilecek popüler bir nokta: Bilinmeyen Yer.",
+    "image": "https://images.pexels.com/photos/3419727/pexels-photo-3419727.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 16.7870021,
+      "longitude": 96.1429656
+    },
+    "estimatedDuration": 72,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "yangon_23",
+    "name": "龍山堂",
+    "description": "yangon'in tarihi ibadet yapılarından biri.",
+    "image": "https://images.pexels.com/photos/9548501/pexels-photo-9548501.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 16.7767611,
+      "longitude": 96.1511821
+    },
+    "estimatedDuration": 83,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 37,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "yangon_24",
+    "name": "မဟာဝိဇယ စေတီတော်",
+    "description": "yangon'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=23",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 16.7949183,
+      "longitude": 96.1522057
+    },
+    "estimatedDuration": 85,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  }
+]

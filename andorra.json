@@ -1,0 +1,290 @@
+[
+  {
+    "id": "andorra_1",
+    "name": "Parque Tecnológico Minero (MWINAS)",
+    "description": "andorra'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=0",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 40.9825958,
+      "longitude": -0.4618895
+    },
+    "estimatedDuration": 68,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "andorra_2",
+    "name": "Mirador de Alloza",
+    "description": "andorra'de ziyaret edilebilecek popüler bir nokta: Mirador de Alloza.",
+    "image": "https://picsum.photos/800/600?random=1",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 40.9633954,
+      "longitude": -0.4863333
+    },
+    "estimatedDuration": 38,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "andorra_3",
+    "name": "Nevera o pozo de nieve",
+    "description": "andorra'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=2",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 40.8636873,
+      "longitude": -0.5217075
+    },
+    "estimatedDuration": 71,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 21,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "andorra_4",
+    "name": "Mirador de los Chaparros",
+    "description": "andorra'de ziyaret edilebilecek popüler bir nokta: Mirador de los Chaparros.",
+    "image": "https://picsum.photos/800/600?random=3",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.0779791,
+      "longitude": -0.5550628
+    },
+    "estimatedDuration": 81,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "andorra_5",
+    "name": "Mirador de los Estrechos",
+    "description": "andorra'de ziyaret edilebilecek popüler bir nokta: Mirador de los Estrechos.",
+    "image": "https://picsum.photos/800/600?random=4",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.0845556,
+      "longitude": -0.5441314
+    },
+    "estimatedDuration": 49,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 123,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "andorra_7",
+    "name": "Mirador de los Baños",
+    "description": "andorra'de ziyaret edilebilecek popüler bir nokta: Mirador de los Baños.",
+    "image": "https://picsum.photos/800/600?random=6",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.0446155,
+      "longitude": -0.5872621
+    },
+    "estimatedDuration": 49,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "andorra_8",
+    "name": "Mirador de la Silleta",
+    "description": "andorra'de ziyaret edilebilecek popüler bir nokta: Mirador de la Silleta.",
+    "image": "https://picsum.photos/800/600?random=7",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.0516443,
+      "longitude": -0.5039364
+    },
+    "estimatedDuration": 82,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 34,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "andorra_9",
+    "name": "Mirador Sierra de Arcos",
+    "description": "andorra'de ziyaret edilebilecek popüler bir nokta: Mirador Sierra de Arcos.",
+    "image": "https://picsum.photos/800/600?random=8",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.0543495,
+      "longitude": -0.5533892
+    },
+    "estimatedDuration": 50,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 161,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "andorra_10",
+    "name": "Centro de Interpretación El Castelillo",
+    "description": "andorra'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=9",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 40.9708101,
+      "longitude": -0.530078
+    },
+    "estimatedDuration": 73,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "andorra_11",
+    "name": "Mirador Virgen de Arcos",
+    "description": "andorra'de ziyaret edilebilecek popüler bir nokta: Mirador Virgen de Arcos.",
+    "image": "https://picsum.photos/800/600?random=10",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.0588409,
+      "longitude": -0.5744332
+    },
+    "estimatedDuration": 55,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 186,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "andorra_12",
+    "name": "IFA",
+    "description": "andorra'de ziyaret edilebilecek popüler bir nokta: IFA.",
+    "image": "https://picsum.photos/800/600?random=11",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.0298338,
+      "longitude": -0.5966294
+    },
+    "estimatedDuration": 83,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "andorra_13",
+    "name": "La Pirámide",
+    "description": "andorra'de ziyaret edilebilecek popüler bir nokta: La Pirámide.",
+    "image": "https://picsum.photos/800/600?random=12",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.0324384,
+      "longitude": -0.5972032
+    },
+    "estimatedDuration": 56,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "andorra_14",
+    "name": "Museo Minero Pozo Corral Negro",
+    "description": "andorra'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=13",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 41.0296815,
+      "longitude": -0.5966436
+    },
+    "estimatedDuration": 49,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "andorra_15",
+    "name": "Mirador del Pilar",
+    "description": "andorra'de ziyaret edilebilecek popüler bir nokta: Mirador del Pilar.",
+    "image": "https://picsum.photos/800/600?random=14",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.0303772,
+      "longitude": -0.5945179
+    },
+    "estimatedDuration": 59,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "andorra_16",
+    "name": "Centro de Interpretación del Arte Rupestre",
+    "description": "andorra'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=15",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 41.0271501,
+      "longitude": -0.589022
+    },
+    "estimatedDuration": 36,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 152,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "andorra_17",
+    "name": "Valcaria",
+    "description": "andorra'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=16",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 41.0268346,
+      "longitude": -0.5888789
+    },
+    "estimatedDuration": 86,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  }
+]

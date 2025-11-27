@@ -1,0 +1,380 @@
+[
+  {
+    "id": "konya_1",
+    "name": "Hagios Khariton Manastırı",
+    "description": "konya'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=0",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 37.9104295,
+      "longitude": 32.4327839
+    },
+    "estimatedDuration": 33,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 65,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "konya_2",
+    "name": "Atatürk Anıtı",
+    "description": "konya'de ziyaret edilebilecek popüler bir nokta: Atatürk Anıtı.",
+    "image": "https://picsum.photos/800/600?random=1",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 37.8676007,
+      "longitude": 32.4853283
+    },
+    "estimatedDuration": 70,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 98,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "konya_3",
+    "name": "Sultan Selim Camii",
+    "description": "konya'in tarihi ibadet yapılarından biri.",
+    "image": "https://images.pexels.com/photos/32218824/pexels-photo-32218824.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 37.8704143,
+      "longitude": 32.5041222
+    },
+    "estimatedDuration": 32,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "konya_4",
+    "name": "Alaeddin Keykubad Camii",
+    "description": "konya'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=3",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 37.8733567,
+      "longitude": 32.4927438
+    },
+    "estimatedDuration": 72,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "konya_5",
+    "name": "Aya Eleni Kilisesi",
+    "description": "konya'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=4",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 37.9256522,
+      "longitude": 32.4137935
+    },
+    "estimatedDuration": 39,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "konya_6",
+    "name": "Aziz Pavlus Katolik Kilisesi",
+    "description": "konya'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=5",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 37.8709125,
+      "longitude": 32.4932638
+    },
+    "estimatedDuration": 86,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 149,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "konya_7",
+    "name": "Aziziye Camii",
+    "description": "konya'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=6",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 37.8699608,
+      "longitude": 32.5008244
+    },
+    "estimatedDuration": 68,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "konya_8",
+    "name": "İnce Minare Müzesi",
+    "description": "konya'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=7",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 37.8728882,
+      "longitude": 32.4900076
+    },
+    "estimatedDuration": 72,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "konya_9",
+    "name": "Şerafeddin Camii",
+    "description": "konya'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=8",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 37.8724234,
+      "longitude": 32.4986532
+    },
+    "estimatedDuration": 43,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "konya_10",
+    "name": "İplikçi Cami",
+    "description": "konya'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=9",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 37.8719169,
+      "longitude": 32.4967045
+    },
+    "estimatedDuration": 86,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 69,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "konya_11",
+    "name": "Şeyh Sadrettin Konevi Camii",
+    "description": "konya'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=10",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 37.8692048,
+      "longitude": 32.4826103
+    },
+    "estimatedDuration": 81,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 114,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "konya_12",
+    "name": "İzzet Koyunoğlu Şehir Müzesi",
+    "description": "konya'de bulunan önemli bir müze.",
+    "image": "https://images.pexels.com/photos/33637573/pexels-photo-33637573.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 37.8664519,
+      "longitude": 32.5108455
+    },
+    "estimatedDuration": 56,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "konya_13",
+    "name": "Etnografya Müzesi",
+    "description": "konya'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=12",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 37.866698,
+      "longitude": 32.4916795
+    },
+    "estimatedDuration": 34,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "konya_14",
+    "name": "Hoca Ahmet Fakih Camii",
+    "description": "konya'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=13",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 37.871967,
+      "longitude": 32.4665356
+    },
+    "estimatedDuration": 50,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 63,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "konya_15",
+    "name": "Atatürk Evi Müzesi",
+    "description": "konya'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=14",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 37.8702122,
+      "longitude": 32.4877042
+    },
+    "estimatedDuration": 65,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "konya_16",
+    "name": "Konya Arkeoloji Müzesi",
+    "description": "konya'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=15",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 37.867928,
+      "longitude": 32.4935124
+    },
+    "estimatedDuration": 68,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "konya_17",
+    "name": "Mevlâna Müzesi",
+    "description": "konya'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=16",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 37.8706981,
+      "longitude": 32.5049853
+    },
+    "estimatedDuration": 64,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "konya_18",
+    "name": "Konya Tropikal Kelebek Bahçesi",
+    "description": "konya'de ziyaret edilebilecek popüler bir nokta: Konya Tropikal Kelebek Bahçesi.",
+    "image": "https://picsum.photos/800/600?random=17",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 37.9485845,
+      "longitude": 32.4618719
+    },
+    "estimatedDuration": 60,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "konya_19",
+    "name": "Sultan Selim Câmii",
+    "description": "konya'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=18",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 37.8704143,
+      "longitude": 32.5041222
+    },
+    "estimatedDuration": 63,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 189,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "konya_20",
+    "name": "Şeyh Ebul Vefa Camii",
+    "description": "konya'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=19",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 37.8551176,
+      "longitude": 32.4209124
+    },
+    "estimatedDuration": 79,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "konya_21",
+    "name": "Sırçalı Medrese Mezar Anıtları Müzesi",
+    "description": "konya'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=20",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 37.870008,
+      "longitude": 32.4939933
+    },
+    "estimatedDuration": 73,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  }
+]

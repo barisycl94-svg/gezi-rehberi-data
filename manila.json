@@ -1,0 +1,74 @@
+[
+  {
+    "id": "manila_1",
+    "name": "Lookout Sheep Creek",
+    "description": "manila'de ziyaret edilebilecek popüler bir nokta: Lookout Sheep Creek.",
+    "image": "https://picsum.photos/800/600?random=0",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 40.91647,
+      "longitude": -109.68792
+    },
+    "estimatedDuration": 48,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 79,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "manila_2",
+    "name": "Sheep Creek Overlook",
+    "description": "manila'de ziyaret edilebilecek popüler bir nokta: Sheep Creek Overlook.",
+    "image": "https://picsum.photos/800/600?random=1",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 40.908361,
+      "longitude": -109.6980347
+    },
+    "estimatedDuration": 61,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "manila_3",
+    "name": "Sheep Creek Canyon Geological Area",
+    "description": "manila'de ziyaret edilebilecek popüler bir nokta: Sheep Creek Canyon Geological Area.",
+    "image": "https://images.pexels.com/photos/4992629/pexels-photo-4992629.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 40.9306281,
+      "longitude": -109.7757079
+    },
+    "estimatedDuration": 46,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "manila_4",
+    "name": "Dowd Mountain Overlook",
+    "description": "manila'de ziyaret edilebilecek popüler bir nokta: Dowd Mountain Overlook.",
+    "image": "https://images.pexels.com/photos/305086/pexels-photo-305086.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 40.8971246,
+      "longitude": -109.6256528
+    },
+    "estimatedDuration": 73,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 57,
+    "interests": [
+      "Tarihi"
+    ]
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "id": "lisbon_1",
+    "name": "King Chapel",
+    "description": "lisbon'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=0",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.9252115,
+      "longitude": -91.4239632
+    },
+    "estimatedDuration": 46,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "lisbon_2",
+    "name": "Abbe Creek School Museum",
+    "description": "lisbon'de bulunan önemli bir müze.",
+    "image": "https://images.pexels.com/photos/143970/pexels-photo-143970.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 41.9421435,
+      "longitude": -91.4513154
+    },
+    "estimatedDuration": 30,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "lisbon_3",
+    "name": "Norton Geology Center and Anderson Museum",
+    "description": "lisbon'de bulunan önemli bir müze.",
+    "image": "https://images.pexels.com/photos/6944191/pexels-photo-6944191.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 41.9241638,
+      "longitude": -91.4219447
+    },
+    "estimatedDuration": 68,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 132,
+    "interests": [
+      "Müze"
+    ]
+  }
+]

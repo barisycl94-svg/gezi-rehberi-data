@@ -1,0 +1,1082 @@
+[
+  {
+    "id": "barcelona_1",
+    "name": "Barcelona a Prim",
+    "description": "barcelona'de ziyaret edilebilecek popüler bir nokta: Barcelona a Prim.",
+    "image": "https://picsum.photos/800/600?random=0",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.3863896,
+      "longitude": 2.1867952
+    },
+    "estimatedDuration": 87,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 81,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "barcelona_2",
+    "name": "Bassa de Sant Oleguer",
+    "description": "barcelona'de ziyaret edilebilecek popüler bir nokta: Bassa de Sant Oleguer.",
+    "image": "https://picsum.photos/800/600?random=1",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.5374581,
+      "longitude": 2.1257322
+    },
+    "estimatedDuration": 39,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "barcelona_3",
+    "name": "Museu Municipal de Molins de Rei",
+    "description": "barcelona'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=2",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 41.4147488,
+      "longitude": 2.0172314
+    },
+    "estimatedDuration": 73,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 56,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "barcelona_4",
+    "name": "Homenatge als castellers",
+    "description": "barcelona'de ziyaret edilebilecek popüler bir nokta: Homenatge als castellers.",
+    "image": "https://picsum.photos/800/600?random=3",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.3820329,
+      "longitude": 2.177009
+    },
+    "estimatedDuration": 76,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 13,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "barcelona_5",
+    "name": "Farmàcia Hereus Torras Surroca",
+    "description": "barcelona'de ziyaret edilebilecek popüler bir nokta: Farmàcia Hereus Torras Surroca.",
+    "image": "https://picsum.photos/800/600?random=4",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.4485396,
+      "longitude": 2.2488028
+    },
+    "estimatedDuration": 56,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "barcelona_6",
+    "name": "Elogi de l'aigua",
+    "description": "barcelona'de ziyaret edilebilecek popüler bir nokta: Elogi de l'aigua.",
+    "image": "https://picsum.photos/800/600?random=5",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.4182192,
+      "longitude": 2.145737
+    },
+    "estimatedDuration": 84,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 105,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "barcelona_7",
+    "name": "Museu de la Música",
+    "description": "barcelona'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=6",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 41.3988917,
+      "longitude": 2.1855755
+    },
+    "estimatedDuration": 46,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "barcelona_8",
+    "name": "Esglesia de Santa Coloma",
+    "description": "barcelona'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=7",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.3665764,
+      "longitude": 2.014952
+    },
+    "estimatedDuration": 39,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "barcelona_9",
+    "name": "Dolmen de Castellruf",
+    "description": "barcelona'de ziyaret edilebilecek popüler bir nokta: Dolmen de Castellruf.",
+    "image": "https://picsum.photos/800/600?random=8",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.5131305,
+      "longitude": 2.2669575
+    },
+    "estimatedDuration": 66,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "barcelona_10",
+    "name": "Pont de Can Vernet",
+    "description": "barcelona'de ziyaret edilebilecek popüler bir nokta: Pont de Can Vernet.",
+    "image": "https://picsum.photos/800/600?random=9",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.4781485,
+      "longitude": 2.0767112
+    },
+    "estimatedDuration": 62,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "barcelona_11",
+    "name": "Mirador de la Cornisa",
+    "description": "barcelona'de ziyaret edilebilecek popüler bir nokta: Mirador de la Cornisa.",
+    "image": "https://picsum.photos/800/600?random=10",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.5121672,
+      "longitude": 2.3240111
+    },
+    "estimatedDuration": 65,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "barcelona_12",
+    "name": "Font d'Hèrcules",
+    "description": "barcelona'de ziyaret edilebilecek popüler bir nokta: Font d'Hèrcules.",
+    "image": "https://picsum.photos/800/600?random=11",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.3878225,
+      "longitude": 2.1168281
+    },
+    "estimatedDuration": 32,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 10,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "barcelona_13",
+    "name": "Museu d'Història de la Ciutat",
+    "description": "barcelona'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=12",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 41.383921,
+      "longitude": 2.1776778
+    },
+    "estimatedDuration": 69,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "barcelona_14",
+    "name": "Museu de la Moto",
+    "description": "barcelona'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=13",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 41.3833403,
+      "longitude": 2.17453
+    },
+    "estimatedDuration": 43,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "barcelona_15",
+    "name": "Ermita de Sant Vicenç Ferrer",
+    "description": "barcelona'de ziyaret edilebilecek popüler bir nokta: Ermita de Sant Vicenç Ferrer.",
+    "image": "https://picsum.photos/800/600?random=14",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.4132743,
+      "longitude": 1.9779333
+    },
+    "estimatedDuration": 74,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "barcelona_16",
+    "name": "Museu del Modernisme Català",
+    "description": "barcelona'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=15",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 41.3888541,
+      "longitude": 2.1633974
+    },
+    "estimatedDuration": 69,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "barcelona_17",
+    "name": "Museu Tàpies",
+    "description": "barcelona'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=16",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 41.3916216,
+      "longitude": 2.1636636
+    },
+    "estimatedDuration": 33,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "barcelona_18",
+    "name": "Torre Vella",
+    "description": "barcelona'de ziyaret edilebilecek popüler bir nokta: Torre Vella.",
+    "image": "https://picsum.photos/800/600?random=17",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.4525049,
+      "longitude": 2.2467065
+    },
+    "estimatedDuration": 45,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "barcelona_19",
+    "name": "Museu de la Pagesia",
+    "description": "barcelona'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=18",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 41.4742611,
+      "longitude": 1.9799281
+    },
+    "estimatedDuration": 38,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "barcelona_20",
+    "name": "Baetulo",
+    "description": "barcelona'de ziyaret edilebilecek popüler bir nokta: Baetulo.",
+    "image": "https://picsum.photos/800/600?random=19",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.4524836,
+      "longitude": 2.2475448
+    },
+    "estimatedDuration": 86,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "barcelona_21",
+    "name": "Jardi de Quint Licini",
+    "description": "barcelona'de ziyaret edilebilecek popüler bir nokta: Jardi de Quint Licini.",
+    "image": "https://picsum.photos/800/600?random=20",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.4524547,
+      "longitude": 2.2480985
+    },
+    "estimatedDuration": 52,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "barcelona_22",
+    "name": "Museu de la Marihuana",
+    "description": "barcelona'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=21",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 41.3808075,
+      "longitude": 2.180124
+    },
+    "estimatedDuration": 47,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "barcelona_23",
+    "name": "Xemeneia de l'antiga fàbrica C.E.L.O.",
+    "description": "barcelona'de ziyaret edilebilecek popüler bir nokta: Xemeneia de l'antiga fàbrica C.E.L.O..",
+    "image": "https://picsum.photos/800/600?random=22",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.4279764,
+      "longitude": 2.2274839
+    },
+    "estimatedDuration": 41,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "barcelona_24",
+    "name": "Castell de Rubí",
+    "description": "barcelona'in tarihine tanıklık eden bir kale.",
+    "image": "https://picsum.photos/800/600?random=23",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.4945678,
+      "longitude": 2.0263856
+    },
+    "estimatedDuration": 77,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "barcelona_25",
+    "name": "Monument a Bartomeu Robert",
+    "description": "barcelona'de ziyaret edilebilecek popüler bir nokta: Monument a Bartomeu Robert.",
+    "image": "https://picsum.photos/800/600?random=24",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.3948867,
+      "longitude": 2.1755625
+    },
+    "estimatedDuration": 86,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "barcelona_26",
+    "name": "Museu Isern",
+    "description": "barcelona'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=25",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 41.5484756,
+      "longitude": 2.2208467
+    },
+    "estimatedDuration": 46,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "barcelona_27",
+    "name": "Creu de Pedralbes",
+    "description": "barcelona'de ziyaret edilebilecek popüler bir nokta: Creu de Pedralbes.",
+    "image": "https://picsum.photos/800/600?random=26",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.3946792,
+      "longitude": 2.1130153
+    },
+    "estimatedDuration": 59,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "barcelona_28",
+    "name": "Pi d'en Xandri",
+    "description": "barcelona'de ziyaret edilebilecek popüler bir nokta: Pi d'en Xandri.",
+    "image": "https://picsum.photos/800/600?random=27",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.4673877,
+      "longitude": 2.1005414
+    },
+    "estimatedDuration": 70,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "barcelona_29",
+    "name": "Forn ibèric",
+    "description": "barcelona'de ziyaret edilebilecek popüler bir nokta: Forn ibèric.",
+    "image": "https://picsum.photos/800/600?random=28",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.4562837,
+      "longitude": 2.1145233
+    },
+    "estimatedDuration": 78,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "barcelona_30",
+    "name": "Temple d'August",
+    "description": "barcelona'de ziyaret edilebilecek popüler bir nokta: Temple d'August.",
+    "image": "https://picsum.photos/800/600?random=29",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.3833749,
+      "longitude": 2.1772306
+    },
+    "estimatedDuration": 84,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "barcelona_31",
+    "name": "Monument a la sardana",
+    "description": "barcelona'de ziyaret edilebilecek popüler bir nokta: Monument a la sardana.",
+    "image": "https://picsum.photos/800/600?random=30",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.3679677,
+      "longitude": 2.1686962
+    },
+    "estimatedDuration": 37,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "barcelona_32",
+    "name": "Museu del Calçat",
+    "description": "barcelona'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=31",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 41.3834643,
+      "longitude": 2.1752683
+    },
+    "estimatedDuration": 38,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "barcelona_33",
+    "name": "Monument als Herois de 1809",
+    "description": "barcelona'de ziyaret edilebilecek popüler bir nokta: Monument als Herois de 1809.",
+    "image": "https://picsum.photos/800/600?random=32",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.3835761,
+      "longitude": 2.1757849
+    },
+    "estimatedDuration": 40,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "barcelona_34",
+    "name": "Creu de Coll Favà",
+    "description": "barcelona'de ziyaret edilebilecek popüler bir nokta: Creu de Coll Favà.",
+    "image": "https://picsum.photos/800/600?random=33",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.4817569,
+      "longitude": 2.0839193
+    },
+    "estimatedDuration": 68,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "barcelona_35",
+    "name": "Poblat ibèric de Castellruf",
+    "description": "barcelona'de ziyaret edilebilecek popüler bir nokta: Poblat ibèric de Castellruf.",
+    "image": "https://picsum.photos/800/600?random=34",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.5147866,
+      "longitude": 2.2661852
+    },
+    "estimatedDuration": 55,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "barcelona_36",
+    "name": "Font del Geni català",
+    "description": "barcelona'de ziyaret edilebilecek popüler bir nokta: Font del Geni català.",
+    "image": "https://picsum.photos/800/600?random=35",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.3828109,
+      "longitude": 2.183495
+    },
+    "estimatedDuration": 37,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "barcelona_37",
+    "name": "A Joan Güell i Ferrer",
+    "description": "barcelona'de ziyaret edilebilecek popüler bir nokta: A Joan Güell i Ferrer.",
+    "image": "https://picsum.photos/800/600?random=36",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.3886726,
+      "longitude": 2.1672797
+    },
+    "estimatedDuration": 33,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 113,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "barcelona_38",
+    "name": "Triangle rosa",
+    "description": "barcelona'de ziyaret edilebilecek popüler bir nokta: Triangle rosa.",
+    "image": "https://picsum.photos/800/600?random=37",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.3861476,
+      "longitude": 2.1862733
+    },
+    "estimatedDuration": 52,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "barcelona_39",
+    "name": "Font de Sant Ramon",
+    "description": "barcelona'de ziyaret edilebilecek popüler bir nokta: Font de Sant Ramon.",
+    "image": "https://picsum.photos/800/600?random=38",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.4159893,
+      "longitude": 2.1028059
+    },
+    "estimatedDuration": 50,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "barcelona_40",
+    "name": "Crescendo appare",
+    "description": "barcelona'de ziyaret edilebilecek popüler bir nokta: Crescendo appare.",
+    "image": "https://picsum.photos/800/600?random=39",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.3763684,
+      "longitude": 2.1875561
+    },
+    "estimatedDuration": 58,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "barcelona_41",
+    "name": "Església Parroquial de la Concepció",
+    "description": "barcelona'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=40",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.394667,
+      "longitude": 2.1676856
+    },
+    "estimatedDuration": 49,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "barcelona_42",
+    "name": "Creu de Can Cartró",
+    "description": "barcelona'de ziyaret edilebilecek popüler bir nokta: Creu de Can Cartró.",
+    "image": "https://picsum.photos/800/600?random=41",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.3562772,
+      "longitude": 1.9984639
+    },
+    "estimatedDuration": 33,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 167,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "barcelona_43",
+    "name": "Mare de Déu del Coll",
+    "description": "barcelona'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=42",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.4200988,
+      "longitude": 2.151613
+    },
+    "estimatedDuration": 38,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "barcelona_44",
+    "name": "Menhir de la Pedra del Diable",
+    "description": "barcelona'de ziyaret edilebilecek popüler bir nokta: Menhir de la Pedra del Diable.",
+    "image": "https://picsum.photos/800/600?random=43",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.5250314,
+      "longitude": 2.3297511
+    },
+    "estimatedDuration": 45,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "barcelona_45",
+    "name": "Museu Europeu d'Art Modern",
+    "description": "barcelona'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=44",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 41.3850115,
+      "longitude": 2.1804656
+    },
+    "estimatedDuration": 69,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "barcelona_46",
+    "name": "Refugi 307",
+    "description": "barcelona'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=45",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 41.3714368,
+      "longitude": 2.1666274
+    },
+    "estimatedDuration": 74,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "barcelona_47",
+    "name": "MUHBA Oliva Artés",
+    "description": "barcelona'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=46",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 41.4083519,
+      "longitude": 2.2015252
+    },
+    "estimatedDuration": 55,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "barcelona_48",
+    "name": "Monument a Anselm Clavé",
+    "description": "barcelona'de ziyaret edilebilecek popüler bir nokta: Monument a Anselm Clavé.",
+    "image": "https://picsum.photos/800/600?random=47",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.4039835,
+      "longitude": 2.16352
+    },
+    "estimatedDuration": 30,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 41,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "barcelona_49",
+    "name": "Cau d'en Genís",
+    "description": "barcelona'de ziyaret edilebilecek popüler bir nokta: Cau d'en Genís.",
+    "image": "https://picsum.photos/800/600?random=48",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.4695308,
+      "longitude": 2.2122531
+    },
+    "estimatedDuration": 51,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 106,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "barcelona_50",
+    "name": "Castell de Port",
+    "description": "barcelona'in tarihine tanıklık eden bir kale.",
+    "image": "https://picsum.photos/800/600?random=49",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.3561687,
+      "longitude": 2.14785
+    },
+    "estimatedDuration": 72,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "barcelona_51",
+    "name": "Dolmen de Can Gurri",
+    "description": "barcelona'de ziyaret edilebilecek popüler bir nokta: Dolmen de Can Gurri.",
+    "image": "https://picsum.photos/800/600?random=50",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.5165776,
+      "longitude": 2.2806507
+    },
+    "estimatedDuration": 62,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 133,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "barcelona_52",
+    "name": "Museu d'Història de Sabadell",
+    "description": "barcelona'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=51",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 41.548137,
+      "longitude": 2.1077978
+    },
+    "estimatedDuration": 85,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "barcelona_53",
+    "name": "Monument a Rafael Casanova",
+    "description": "barcelona'de ziyaret edilebilecek popüler bir nokta: Monument a Rafael Casanova.",
+    "image": "https://picsum.photos/800/600?random=52",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.3909199,
+      "longitude": 2.1775198
+    },
+    "estimatedDuration": 82,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "barcelona_54",
+    "name": "Museu del Perfum",
+    "description": "barcelona'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=53",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 41.3913658,
+      "longitude": 2.1653221
+    },
+    "estimatedDuration": 80,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "barcelona_55",
+    "name": "Monument a les Brigades Internacionals",
+    "description": "barcelona'de ziyaret edilebilecek popüler bir nokta: Monument a les Brigades Internacionals.",
+    "image": "https://picsum.photos/800/600?random=54",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.4244044,
+      "longitude": 2.1582356
+    },
+    "estimatedDuration": 81,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "barcelona_56",
+    "name": "Al·legoria a l'escut de l'Hospitalet",
+    "description": "barcelona'de ziyaret edilebilecek popüler bir nokta: Al·legoria a l'escut de l'Hospitalet.",
+    "image": "https://picsum.photos/800/600?random=55",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.368256,
+      "longitude": 2.1313109
+    },
+    "estimatedDuration": 34,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "barcelona_57",
+    "name": "Monument a Lluís Companys",
+    "description": "barcelona'de ziyaret edilebilecek popüler bir nokta: Monument a Lluís Companys.",
+    "image": "https://picsum.photos/800/600?random=56",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.4280237,
+      "longitude": 2.2245682
+    },
+    "estimatedDuration": 60,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "barcelona_58",
+    "name": "A Narcís Monturiol",
+    "description": "barcelona'de ziyaret edilebilecek popüler bir nokta: A Narcís Monturiol.",
+    "image": "https://picsum.photos/800/600?random=57",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.3985855,
+      "longitude": 2.1667997
+    },
+    "estimatedDuration": 52,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "barcelona_59",
+    "name": "Can Vasconcel",
+    "description": "barcelona'de ziyaret edilebilecek popüler bir nokta: Can Vasconcel.",
+    "image": "https://picsum.photos/800/600?random=58",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.456277,
+      "longitude": 2.0880976
+    },
+    "estimatedDuration": 62,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 141,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "barcelona_60",
+    "name": "El bes de la mort",
+    "description": "barcelona'de ziyaret edilebilecek popüler bir nokta: El bes de la mort.",
+    "image": "https://picsum.photos/800/600?random=59",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.3962196,
+      "longitude": 2.2041979
+    },
+    "estimatedDuration": 63,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  }
+]

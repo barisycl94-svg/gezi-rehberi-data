@@ -1,0 +1,1082 @@
+[
+  {
+    "id": "diyarbakir_1",
+    "name": "Barbaros Hayrettin Türbesi",
+    "description": "diyarbakir'de ziyaret edilebilecek popüler bir nokta: Barbaros Hayrettin Türbesi.",
+    "image": "https://picsum.photos/800/600?random=0",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.0419227,
+      "longitude": 29.0068359
+    },
+    "estimatedDuration": 43,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "diyarbakir_2",
+    "name": "Surp Garabed Kilisesi",
+    "description": "diyarbakir'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=1",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.0209212,
+      "longitude": 29.031366
+    },
+    "estimatedDuration": 64,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "diyarbakir_3",
+    "name": "Yılanlı Sütun",
+    "description": "diyarbakir'de ziyaret edilebilecek popüler bir nokta: Yılanlı Sütun.",
+    "image": "https://picsum.photos/800/600?random=2",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.0056649,
+      "longitude": 28.9751101
+    },
+    "estimatedDuration": 43,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 194,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "diyarbakir_4",
+    "name": "Sabancı Üniversitesi Sakıp Sabancı Müzesi",
+    "description": "diyarbakir'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=3",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 41.106019,
+      "longitude": 29.0556289
+    },
+    "estimatedDuration": 64,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "diyarbakir_5",
+    "name": "Çemberlitaş Hamamı",
+    "description": "diyarbakir'de ziyaret edilebilecek popüler bir nokta: Çemberlitaş Hamamı.",
+    "image": "https://picsum.photos/800/600?random=4",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.0085416,
+      "longitude": 28.9716244
+    },
+    "estimatedDuration": 69,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "diyarbakir_6",
+    "name": "Neve Şalom Sinagogu",
+    "description": "diyarbakir'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=5",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.0266963,
+      "longitude": 28.9724737
+    },
+    "estimatedDuration": 32,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 64,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "diyarbakir_7",
+    "name": "Fatih Mescidi",
+    "description": "diyarbakir'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=6",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.0044905,
+      "longitude": 28.8526953
+    },
+    "estimatedDuration": 34,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "diyarbakir_8",
+    "name": "Havacılık Müzesi",
+    "description": "diyarbakir'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=7",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 40.9641579,
+      "longitude": 28.8262655
+    },
+    "estimatedDuration": 58,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 16,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "diyarbakir_9",
+    "name": "Askerî Müze",
+    "description": "diyarbakir'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=8",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 41.0488755,
+      "longitude": 28.9882427
+    },
+    "estimatedDuration": 60,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "diyarbakir_10",
+    "name": "Miniatürk Açıkhava Müzesi",
+    "description": "diyarbakir'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=9",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 41.059005,
+      "longitude": 28.9490675
+    },
+    "estimatedDuration": 47,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "diyarbakir_11",
+    "name": "Hatice Turhan Sultan Türbesi",
+    "description": "diyarbakir'de ziyaret edilebilecek popüler bir nokta: Hatice Turhan Sultan Türbesi.",
+    "image": "https://picsum.photos/800/600?random=10",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.0162025,
+      "longitude": 28.9719047
+    },
+    "estimatedDuration": 87,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 35,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "diyarbakir_12",
+    "name": "Milyon Taşı",
+    "description": "diyarbakir'de ziyaret edilebilecek popüler bir nokta: Milyon Taşı.",
+    "image": "https://picsum.photos/800/600?random=11",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.0080674,
+      "longitude": 28.9780181
+    },
+    "estimatedDuration": 61,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 124,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "diyarbakir_13",
+    "name": "Cumhuriyet Anıtı",
+    "description": "diyarbakir'de ziyaret edilebilecek popüler bir nokta: Cumhuriyet Anıtı.",
+    "image": "https://picsum.photos/800/600?random=12",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.0369723,
+      "longitude": 28.9851248
+    },
+    "estimatedDuration": 53,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 11,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "diyarbakir_14",
+    "name": "2. Abdülhamit Anıtı",
+    "description": "diyarbakir'de ziyaret edilebilecek popüler bir nokta: 2. Abdülhamit Anıtı.",
+    "image": "https://picsum.photos/800/600?random=13",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.0017691,
+      "longitude": 29.0071158
+    },
+    "estimatedDuration": 50,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 2,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "diyarbakir_15",
+    "name": "Binbirdirek Sarnıcı",
+    "description": "diyarbakir'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=14",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 41.007606,
+      "longitude": 28.9744173
+    },
+    "estimatedDuration": 59,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 20,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "diyarbakir_16",
+    "name": "Boğa Heykeli",
+    "description": "diyarbakir'de ziyaret edilebilecek popüler bir nokta: Boğa Heykeli.",
+    "image": "https://picsum.photos/800/600?random=15",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 40.9904629,
+      "longitude": 29.0291571
+    },
+    "estimatedDuration": 63,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "diyarbakir_17",
+    "name": "Kıztaşı",
+    "description": "diyarbakir'de ziyaret edilebilecek popüler bir nokta: Kıztaşı.",
+    "image": "https://picsum.photos/800/600?random=16",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.0154411,
+      "longitude": 28.9502846
+    },
+    "estimatedDuration": 52,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "diyarbakir_18",
+    "name": "Fatih Anıtı",
+    "description": "diyarbakir'de ziyaret edilebilecek popüler bir nokta: Fatih Anıtı.",
+    "image": "https://picsum.photos/800/600?random=17",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.0155727,
+      "longitude": 28.9542189
+    },
+    "estimatedDuration": 35,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "diyarbakir_19",
+    "name": "Hava Şehitleri Anıtı",
+    "description": "diyarbakir'de ziyaret edilebilecek popüler bir nokta: Hava Şehitleri Anıtı.",
+    "image": "https://images.pexels.com/photos/31573930/pexels-photo-31573930.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.0160748,
+      "longitude": 28.9526349
+    },
+    "estimatedDuration": 36,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 25,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "diyarbakir_20",
+    "name": "Adam Mickiewicz Müzesi",
+    "description": "diyarbakir'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=19",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 41.0387821,
+      "longitude": 28.9771474
+    },
+    "estimatedDuration": 50,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "diyarbakir_21",
+    "name": "Masumiyet Müzesi",
+    "description": "diyarbakir'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=20",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 41.0308716,
+      "longitude": 28.9797952
+    },
+    "estimatedDuration": 77,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "diyarbakir_22",
+    "name": "Santa Maria Draperis",
+    "description": "diyarbakir'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=21",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.0300987,
+      "longitude": 28.9761517
+    },
+    "estimatedDuration": 33,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 102,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "diyarbakir_23",
+    "name": "Galatasaray Müzesi",
+    "description": "diyarbakir'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=22",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 41.0334816,
+      "longitude": 28.9769398
+    },
+    "estimatedDuration": 41,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "diyarbakir_24",
+    "name": "Anadolu Hisarı Namazgah",
+    "description": "diyarbakir'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=23",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.0818296,
+      "longitude": 29.0667781
+    },
+    "estimatedDuration": 40,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "diyarbakir_25",
+    "name": "Yıldız Sarayı",
+    "description": "diyarbakir'de ziyaret edilebilecek popüler bir nokta: Yıldız Sarayı.",
+    "image": "https://picsum.photos/800/600?random=24",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.0507108,
+      "longitude": 29.0117042
+    },
+    "estimatedDuration": 49,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "diyarbakir_26",
+    "name": "Meryem Ana Rum Manastiri",
+    "description": "diyarbakir'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=25",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.0067555,
+      "longitude": 28.9155212
+    },
+    "estimatedDuration": 53,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 178,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "diyarbakir_27",
+    "name": "Kanuni Sultan Suleyman 1 Turbesi",
+    "description": "diyarbakir'de ziyaret edilebilecek popüler bir nokta: Kanuni Sultan Suleyman 1 Turbesi.",
+    "image": "https://picsum.photos/800/600?random=26",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.0156999,
+      "longitude": 28.9644663
+    },
+    "estimatedDuration": 46,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 137,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "diyarbakir_28",
+    "name": "Hurrem Haseki (Roksolana) Turbesi",
+    "description": "diyarbakir'de ziyaret edilebilecek popüler bir nokta: Hurrem Haseki (Roksolana) Turbesi.",
+    "image": "https://picsum.photos/800/600?random=27",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.0156683,
+      "longitude": 28.9648085
+    },
+    "estimatedDuration": 51,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "diyarbakir_29",
+    "name": "Saat Kulesi",
+    "description": "diyarbakir'de ziyaret edilebilecek popüler bir nokta: Saat Kulesi.",
+    "image": "https://picsum.photos/800/600?random=28",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 40.8741241,
+      "longitude": 29.1286022
+    },
+    "estimatedDuration": 44,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "diyarbakir_30",
+    "name": "Caddebostan Sinagogu",
+    "description": "diyarbakir'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=29",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 40.9724211,
+      "longitude": 29.0676302
+    },
+    "estimatedDuration": 86,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "diyarbakir_31",
+    "name": "Gotlar Sütunu",
+    "description": "diyarbakir'de ziyaret edilebilecek popüler bir nokta: Gotlar Sütunu.",
+    "image": "https://picsum.photos/800/600?random=30",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.0146409,
+      "longitude": 28.9856774
+    },
+    "estimatedDuration": 83,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 119,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "diyarbakir_32",
+    "name": "Aziz Meryem",
+    "description": "diyarbakir'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=31",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.1603501,
+      "longitude": 29.0417196
+    },
+    "estimatedDuration": 70,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "diyarbakir_33",
+    "name": "Dogançay Müzesi",
+    "description": "diyarbakir'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=32",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 41.0357703,
+      "longitude": 28.9783705
+    },
+    "estimatedDuration": 65,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "diyarbakir_34",
+    "name": "Turkuazoo",
+    "description": "diyarbakir'de ziyaret edilebilecek popüler bir nokta: Turkuazoo.",
+    "image": "https://picsum.photos/800/600?random=33",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.0455958,
+      "longitude": 28.896211
+    },
+    "estimatedDuration": 75,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "diyarbakir_35",
+    "name": "Ayios Polieuktos Kilisesi",
+    "description": "diyarbakir'de ziyaret edilebilecek popüler bir nokta: Ayios Polieuktos Kilisesi.",
+    "image": "https://picsum.photos/800/600?random=34",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.0142319,
+      "longitude": 28.9529591
+    },
+    "estimatedDuration": 70,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 15,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "diyarbakir_36",
+    "name": "Rezan Has Museum",
+    "description": "diyarbakir'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=35",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 41.0252799,
+      "longitude": 28.9584325
+    },
+    "estimatedDuration": 40,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 90,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "diyarbakir_37",
+    "name": "Panayia Belgradu Kilisesi",
+    "description": "diyarbakir'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=36",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.0001135,
+      "longitude": 28.9219792
+    },
+    "estimatedDuration": 55,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 15,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "diyarbakir_38",
+    "name": "Samatya Aya Analipsiz Kilisesi",
+    "description": "diyarbakir'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=37",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 40.9990416,
+      "longitude": 28.9315881
+    },
+    "estimatedDuration": 56,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "diyarbakir_39",
+    "name": "İstanbul Demiryolu Müzesi",
+    "description": "diyarbakir'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=38",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 41.0151986,
+      "longitude": 28.9766826
+    },
+    "estimatedDuration": 79,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "diyarbakir_40",
+    "name": "Beyazıt Türk Hamam Kültürü Müzesi",
+    "description": "diyarbakir'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=39",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 41.0099458,
+      "longitude": 28.9615545
+    },
+    "estimatedDuration": 37,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "diyarbakir_41",
+    "name": "Kasturya Sinagogu",
+    "description": "diyarbakir'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=40",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.0342139,
+      "longitude": 28.9414755
+    },
+    "estimatedDuration": 30,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 128,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "diyarbakir_42",
+    "name": "Türk ve İslam Eserleri Müzesi",
+    "description": "diyarbakir'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=41",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 41.0062801,
+      "longitude": 28.974915
+    },
+    "estimatedDuration": 82,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "diyarbakir_43",
+    "name": "İslam bilim ve teknoloji tarihi müzesi",
+    "description": "diyarbakir'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=42",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 41.0132188,
+      "longitude": 28.9789678
+    },
+    "estimatedDuration": 64,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 56,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "diyarbakir_44",
+    "name": "Türk Vakıf Hat Sanatları Müzesi",
+    "description": "diyarbakir'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=43",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 41.01005,
+      "longitude": 28.9631808
+    },
+    "estimatedDuration": 50,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 64,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "diyarbakir_45",
+    "name": "Abdulmecit Efendi Köşkü",
+    "description": "diyarbakir'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=44",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 41.0282408,
+      "longitude": 29.0415462
+    },
+    "estimatedDuration": 38,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "diyarbakir_46",
+    "name": "Mehmet Efendi Çeşmesi",
+    "description": "diyarbakir'de ziyaret edilebilecek popüler bir nokta: Mehmet Efendi Çeşmesi.",
+    "image": "https://picsum.photos/800/600?random=45",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.0031805,
+      "longitude": 28.9720795
+    },
+    "estimatedDuration": 49,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "diyarbakir_47",
+    "name": "Türkiye Gazeteciler Cemiyeti Basın Müzesi",
+    "description": "diyarbakir'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=46",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 41.0085619,
+      "longitude": 28.9722162
+    },
+    "estimatedDuration": 41,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "diyarbakir_48",
+    "name": "Sarayburnu Atatürk Anıtı",
+    "description": "diyarbakir'de ziyaret edilebilecek popüler bir nokta: Sarayburnu Atatürk Anıtı.",
+    "image": "https://picsum.photos/800/600?random=47",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.016263,
+      "longitude": 28.9861325
+    },
+    "estimatedDuration": 58,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "diyarbakir_49",
+    "name": "500. Yıl Vakfı Türk Musevileri Müzesi",
+    "description": "diyarbakir'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=48",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 41.0267866,
+      "longitude": 28.9727283
+    },
+    "estimatedDuration": 76,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "diyarbakir_50",
+    "name": "Surp Pırgiç Kilisesi",
+    "description": "diyarbakir'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=49",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.0245024,
+      "longitude": 28.9760077
+    },
+    "estimatedDuration": 75,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "diyarbakir_51",
+    "name": "Surp Kevork Kilisesi",
+    "description": "diyarbakir'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=50",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.0018646,
+      "longitude": 28.9331468
+    },
+    "estimatedDuration": 66,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "diyarbakir_52",
+    "name": "Surp Hagop Kilisesi",
+    "description": "diyarbakir'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=51",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.0081065,
+      "longitude": 28.9347471
+    },
+    "estimatedDuration": 37,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "diyarbakir_53",
+    "name": "Surp Yerits Mangants Kilisesi",
+    "description": "diyarbakir'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=52",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.1023462,
+      "longitude": 29.051159
+    },
+    "estimatedDuration": 36,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "diyarbakir_54",
+    "name": "Surp Asdvadzadzin Kilisesi",
+    "description": "diyarbakir'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=53",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.0445539,
+      "longitude": 29.0053046
+    },
+    "estimatedDuration": 45,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "diyarbakir_55",
+    "name": "Çiçek Pasajı",
+    "description": "diyarbakir'de ziyaret edilebilecek popüler bir nokta: Çiçek Pasajı.",
+    "image": "https://picsum.photos/800/600?random=54",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.0340997,
+      "longitude": 28.9779211
+    },
+    "estimatedDuration": 82,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "diyarbakir_56",
+    "name": "İstanbul Modern Sanat Müzesi",
+    "description": "diyarbakir'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=55",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 41.025911,
+      "longitude": 28.982812
+    },
+    "estimatedDuration": 77,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 59,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "diyarbakir_57",
+    "name": "Aziz Yahya Kilisesi",
+    "description": "diyarbakir'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=56",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.0252215,
+      "longitude": 28.9781298
+    },
+    "estimatedDuration": 66,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "diyarbakir_58",
+    "name": "İtalyan Sinagogu",
+    "description": "diyarbakir'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=57",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.025424,
+      "longitude": 28.9725458
+    },
+    "estimatedDuration": 55,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "diyarbakir_59",
+    "name": "Prison of Anemas",
+    "description": "diyarbakir'de ziyaret edilebilecek popüler bir nokta: Prison of Anemas.",
+    "image": "https://picsum.photos/800/600?random=58",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.038414,
+      "longitude": 28.9407981
+    },
+    "estimatedDuration": 81,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 25,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "diyarbakir_60",
+    "name": "Surp Vartanans",
+    "description": "diyarbakir'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=59",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.0536475,
+      "longitude": 28.981291
+    },
+    "estimatedDuration": 46,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  }
+]

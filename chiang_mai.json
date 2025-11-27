@@ -1,0 +1,164 @@
+[
+  {
+    "id": "chiang_mai_1",
+    "name": "มัสยิดอัตตักวา",
+    "description": "chiang_mai'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=0",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 18.7920734,
+      "longitude": 99.0070317
+    },
+    "estimatedDuration": 68,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "chiang_mai_2",
+    "name": "Chiang Mai Night Bazaar",
+    "description": "chiang_mai'de ziyaret edilebilecek popüler bir nokta: Bilinmeyen Yer.",
+    "image": "https://picsum.photos/800/600?random=1",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 18.7847788,
+      "longitude": 99.0004409
+    },
+    "estimatedDuration": 36,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "chiang_mai_3",
+    "name": "วัดพระธาตุดอยสุเทพ",
+    "description": "chiang_mai'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=2",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 18.8049204,
+      "longitude": 98.9221455
+    },
+    "estimatedDuration": 31,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 125,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "chiang_mai_4",
+    "name": "มัสยิดบ้านฮ่อ",
+    "description": "chiang_mai'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=3",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 18.7867367,
+      "longitude": 99.0014758
+    },
+    "estimatedDuration": 66,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "chiang_mai_5",
+    "name": "วัดเจดีย์หลวงวรวิหาร",
+    "description": "chiang_mai'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=4",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 18.7869726,
+      "longitude": 98.9868572
+    },
+    "estimatedDuration": 74,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "chiang_mai_6",
+    "name": "พิพิธภัณฑ์เรียนรู้ราษฎรบนพื้นที่สูง",
+    "description": "chiang_mai'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=5",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 18.8214405,
+      "longitude": 98.9747148
+    },
+    "estimatedDuration": 36,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "chiang_mai_7",
+    "name": "เชีงใหม่ไนท์ซาฟารี",
+    "description": "chiang_mai'de ziyaret edilebilecek popüler bir nokta: เชีงใหม่ไนท์ซาฟารี.",
+    "image": "https://picsum.photos/800/600?random=6",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 18.7383465,
+      "longitude": 98.9187534
+    },
+    "estimatedDuration": 74,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "chiang_mai_8",
+    "name": "วัดเจดีย์เหลี่ยม",
+    "description": "chiang_mai'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=7",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 18.7537478,
+      "longitude": 98.9957332
+    },
+    "estimatedDuration": 87,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 122,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "chiang_mai_9",
+    "name": "วัดโลกโมฬี",
+    "description": "chiang_mai'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=8",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 18.7964151,
+      "longitude": 98.9825691
+    },
+    "estimatedDuration": 41,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  }
+]

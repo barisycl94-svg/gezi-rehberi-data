@@ -1,0 +1,434 @@
+[
+  {
+    "id": "johannesburg_1",
+    "name": "Great-Park Synagogue",
+    "description": "johannesburg'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=0",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -26.1463937,
+      "longitude": 28.0610489
+    },
+    "estimatedDuration": 67,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "johannesburg_2",
+    "name": "Nasrec",
+    "description": "johannesburg'de ziyaret edilebilecek popüler bir nokta: Nasrec.",
+    "image": "https://picsum.photos/800/600?random=1",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -26.2428482,
+      "longitude": 27.9803213
+    },
+    "estimatedDuration": 54,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 192,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "johannesburg_3",
+    "name": "Liliesleaf Farm",
+    "description": "johannesburg'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=2",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": -26.0436958,
+      "longitude": 28.0537342
+    },
+    "estimatedDuration": 35,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 74,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "johannesburg_4",
+    "name": "Hector Pieterson Museum",
+    "description": "johannesburg'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=3",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": -26.234796,
+      "longitude": 27.9086376
+    },
+    "estimatedDuration": 46,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "johannesburg_5",
+    "name": "Scottish Horse War Memorial",
+    "description": "johannesburg'de ziyaret edilebilecek popüler bir nokta: Scottish Horse War Memorial.",
+    "image": "https://picsum.photos/800/600?random=4",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -26.2003972,
+      "longitude": 28.0848703
+    },
+    "estimatedDuration": 30,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 104,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "johannesburg_6",
+    "name": "Nelson Mandela",
+    "description": "johannesburg'de ziyaret edilebilecek popüler bir nokta: Nelson Mandela.",
+    "image": "https://picsum.photos/800/600?random=5",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -26.1072949,
+      "longitude": 28.0545561
+    },
+    "estimatedDuration": 65,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 19,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "johannesburg_7",
+    "name": "Gold Reef City",
+    "description": "johannesburg'de ziyaret edilebilecek popüler bir nokta: Gold Reef City.",
+    "image": "https://picsum.photos/800/600?random=6",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -26.2370567,
+      "longitude": 28.0100093
+    },
+    "estimatedDuration": 81,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "johannesburg_8",
+    "name": "Satyagraha House",
+    "description": "johannesburg'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=7",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": -26.1555009,
+      "longitude": 28.0836436
+    },
+    "estimatedDuration": 56,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "johannesburg_9",
+    "name": "Walter Sisulu Square of Dedication",
+    "description": "johannesburg'de ziyaret edilebilecek popüler bir nokta: Walter Sisulu Square of Dedication.",
+    "image": "https://picsum.photos/800/600?random=8",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -26.2780691,
+      "longitude": 27.8898139
+    },
+    "estimatedDuration": 84,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 181,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "johannesburg_10",
+    "name": "Museum Africa",
+    "description": "johannesburg'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=9",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": -26.2019048,
+      "longitude": 28.0312414
+    },
+    "estimatedDuration": 79,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "johannesburg_11",
+    "name": "Mahatma Gandhi",
+    "description": "johannesburg'de ziyaret edilebilecek popüler bir nokta: Mahatma Gandhi.",
+    "image": "https://picsum.photos/800/600?random=10",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -26.2064606,
+      "longitude": 28.0431487
+    },
+    "estimatedDuration": 66,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "johannesburg_12",
+    "name": "Johannesburg Zoo",
+    "description": "johannesburg'de ziyaret edilebilecek popüler bir nokta: Johannesburg Zoo.",
+    "image": "https://picsum.photos/800/600?random=11",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -26.1662598,
+      "longitude": 28.0381142
+    },
+    "estimatedDuration": 48,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "johannesburg_13",
+    "name": "National Museum of Military History",
+    "description": "johannesburg'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=12",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": -26.163156,
+      "longitude": 28.0420563
+    },
+    "estimatedDuration": 76,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "johannesburg_14",
+    "name": "Constitution Hill",
+    "description": "johannesburg'de ziyaret edilebilecek popüler bir nokta: Constitution Hill.",
+    "image": "https://picsum.photos/800/600?random=13",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -26.1887143,
+      "longitude": 28.0425859
+    },
+    "estimatedDuration": 63,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "johannesburg_15",
+    "name": "Apartheid Museum",
+    "description": "johannesburg'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=14",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": -26.23773,
+      "longitude": 28.0085968
+    },
+    "estimatedDuration": 56,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "johannesburg_16",
+    "name": "James Hall Museum of Transport",
+    "description": "johannesburg'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=15",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": -26.2339303,
+      "longitude": 28.0535123
+    },
+    "estimatedDuration": 71,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "johannesburg_18",
+    "name": "Holy Trinity Church",
+    "description": "johannesburg'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=17",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -26.1925303,
+      "longitude": 28.0329996
+    },
+    "estimatedDuration": 38,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "johannesburg_19",
+    "name": "Regina Mundi Roman Catholic Church",
+    "description": "johannesburg'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=18",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -26.2620114,
+      "longitude": 27.8829139
+    },
+    "estimatedDuration": 83,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "johannesburg_20",
+    "name": "Johannesburg South Africa Temple",
+    "description": "johannesburg'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=19",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -26.1780878,
+      "longitude": 28.0392259
+    },
+    "estimatedDuration": 71,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "johannesburg_21",
+    "name": "Johannesburg Art Gallery",
+    "description": "johannesburg'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=20",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": -26.1969657,
+      "longitude": 28.0470487
+    },
+    "estimatedDuration": 30,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "johannesburg_22",
+    "name": "Mondeor",
+    "description": "johannesburg'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=21",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -26.2743176,
+      "longitude": 27.9951996
+    },
+    "estimatedDuration": 49,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "johannesburg_23",
+    "name": "Friedenskirche",
+    "description": "johannesburg'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=22",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -26.1924845,
+      "longitude": 28.0473331
+    },
+    "estimatedDuration": 39,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 69,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "johannesburg_24",
+    "name": "Mandela House",
+    "description": "johannesburg'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=23",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": -26.2385115,
+      "longitude": 27.9088036
+    },
+    "estimatedDuration": 63,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "johannesburg_25",
+    "name": "Fietas Museum",
+    "description": "johannesburg'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=24",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": -26.1966855,
+      "longitude": 28.0173664
+    },
+    "estimatedDuration": 62,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "id": "miami_1",
+    "name": "Route 66 Vintage Iron",
+    "description": "miami'de bulunan önemli bir müze.",
+    "image": "https://images.pexels.com/photos/258415/pexels-photo-258415.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 36.8722799,
+      "longitude": -94.8776822
+    },
+    "estimatedDuration": 83,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 16,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "miami_2",
+    "name": "Route 66 Arch",
+    "description": "miami'de ziyaret edilebilecek popüler bir nokta: Route 66 Arch.",
+    "image": "https://picsum.photos/800/600?random=1",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 36.8714819,
+      "longitude": -94.8773934
+    },
+    "estimatedDuration": 41,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "miami_3",
+    "name": "Conoco Hole In The Wall",
+    "description": "miami'de ziyaret edilebilecek popüler bir nokta: Conoco Hole In The Wall.",
+    "image": "https://picsum.photos/800/600?random=2",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 36.9332071,
+      "longitude": -94.8776288
+    },
+    "estimatedDuration": 60,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 8,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "miami_4",
+    "name": "Antique Auto Museum",
+    "description": "miami'de bulunan önemli bir müze.",
+    "image": "https://images.pexels.com/photos/768036/pexels-photo-768036.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 36.9514956,
+      "longitude": -94.78681
+    },
+    "estimatedDuration": 87,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 87,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "miami_5",
+    "name": "Dobson Museum & Home",
+    "description": "miami'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=4",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 36.8728682,
+      "longitude": -94.8790071
+    },
+    "estimatedDuration": 62,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 84,
+    "interests": [
+      "Müze"
+    ]
+  }
+]

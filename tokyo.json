@@ -1,0 +1,1064 @@
+[
+  {
+    "id": "tokyo_1",
+    "name": "アーティゾン美術館",
+    "description": "tokyo'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=0",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 35.678749,
+      "longitude": 139.7721285
+    },
+    "estimatedDuration": 35,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "tokyo_2",
+    "name": "東京都写真美術館",
+    "description": "tokyo'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=1",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 35.641543,
+      "longitude": 139.7133962
+    },
+    "estimatedDuration": 76,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "tokyo_3",
+    "name": "烏森神社",
+    "description": "tokyo'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=2",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 35.6667952,
+      "longitude": 139.7568175
+    },
+    "estimatedDuration": 80,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 108,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "tokyo_4",
+    "name": "妙福寺",
+    "description": "tokyo'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=3",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 35.6011445,
+      "longitude": 139.6920211
+    },
+    "estimatedDuration": 42,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "tokyo_5",
+    "name": "天照皇大神",
+    "description": "tokyo'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=4",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 35.5504333,
+      "longitude": 139.663706
+    },
+    "estimatedDuration": 58,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 23,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "tokyo_6",
+    "name": "恵比寿神社",
+    "description": "tokyo'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=5",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 35.6472232,
+      "longitude": 139.7077849
+    },
+    "estimatedDuration": 87,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "tokyo_7",
+    "name": "妙像寺",
+    "description": "tokyo'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=6",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 35.6657457,
+      "longitude": 139.7354859
+    },
+    "estimatedDuration": 73,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 61,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "tokyo_8",
+    "name": "日本サッカーミュージアム",
+    "description": "tokyo'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=7",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 35.7042546,
+      "longitude": 139.7639427
+    },
+    "estimatedDuration": 76,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "tokyo_9",
+    "name": "中近東文化セ���ター",
+    "description": "tokyo'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=8",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 35.688788,
+      "longitude": 139.5345824
+    },
+    "estimatedDuration": 86,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "tokyo_10",
+    "name": "神楽坂若宮八幡宮",
+    "description": "tokyo'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=9",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 35.6997288,
+      "longitude": 139.7401145
+    },
+    "estimatedDuration": 61,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 124,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "tokyo_11",
+    "name": "芝東照宮",
+    "description": "tokyo'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=10",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 35.6550961,
+      "longitude": 139.7486263
+    },
+    "estimatedDuration": 66,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "tokyo_12",
+    "name": "白山神社",
+    "description": "tokyo'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=11",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 35.6869591,
+      "longitude": 139.6371745
+    },
+    "estimatedDuration": 43,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "tokyo_13",
+    "name": "永福寺",
+    "description": "tokyo'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=12",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 35.6722482,
+      "longitude": 139.6441076
+    },
+    "estimatedDuration": 69,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "tokyo_14",
+    "name": "八幡神社",
+    "description": "tokyo'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=13",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 35.6752302,
+      "longitude": 139.6304234
+    },
+    "estimatedDuration": 67,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "tokyo_15",
+    "name": "松林寺",
+    "description": "tokyo'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=14",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 35.6863829,
+      "longitude": 139.6208533
+    },
+    "estimatedDuration": 54,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "tokyo_16",
+    "name": "勝林寺",
+    "description": "tokyo'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=15",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 35.6639113,
+      "longitude": 139.6518863
+    },
+    "estimatedDuration": 80,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "tokyo_17",
+    "name": "浄徳寺",
+    "description": "tokyo'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=16",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 35.6632582,
+      "longitude": 139.6518698
+    },
+    "estimatedDuration": 86,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 119,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "tokyo_18",
+    "name": "延重寺",
+    "description": "tokyo'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=17",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 35.6637858,
+      "longitude": 139.6521181
+    },
+    "estimatedDuration": 36,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "tokyo_19",
+    "name": "妙正寺",
+    "description": "tokyo'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=18",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 35.7159485,
+      "longitude": 139.617619
+    },
+    "estimatedDuration": 81,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 6,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "tokyo_20",
+    "name": "松庵稲荷神社 (Shoan-Inarijinja)",
+    "description": "tokyo'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=19",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 35.6994917,
+      "longitude": 139.5958193
+    },
+    "estimatedDuration": 78,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 3,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "tokyo_21",
+    "name": "願行寺",
+    "description": "tokyo'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=20",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 35.7181766,
+      "longitude": 139.7588188
+    },
+    "estimatedDuration": 48,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "tokyo_22",
+    "name": "西教寺",
+    "description": "tokyo'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=21",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 35.7172124,
+      "longitude": 139.7590029
+    },
+    "estimatedDuration": 38,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "tokyo_23",
+    "name": "三輪里稲荷神社 （こんにゃく稲荷）",
+    "description": "tokyo'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=22",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 35.7204468,
+      "longitude": 139.8263812
+    },
+    "estimatedDuration": 32,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "tokyo_24",
+    "name": "多田神社",
+    "description": "tokyo'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=23",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 35.6832633,
+      "longitude": 139.6637755
+    },
+    "estimatedDuration": 84,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 83,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "tokyo_25",
+    "name": "寳福寺",
+    "description": "tokyo'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=24",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 35.6835944,
+      "longitude": 139.663754
+    },
+    "estimatedDuration": 87,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "tokyo_26",
+    "name": "福昌寺",
+    "description": "tokyo'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=25",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 35.6505183,
+      "longitude": 139.6362377
+    },
+    "estimatedDuration": 53,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "tokyo_27",
+    "name": "池上本門寺",
+    "description": "tokyo'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=26",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 35.5789017,
+      "longitude": 139.7051955
+    },
+    "estimatedDuration": 38,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "tokyo_28",
+    "name": "宗延寺",
+    "description": "tokyo'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=27",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 35.6940103,
+      "longitude": 139.6538479
+    },
+    "estimatedDuration": 77,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "tokyo_29",
+    "name": "本仏寺",
+    "description": "tokyo'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=28",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 35.6949208,
+      "longitude": 139.6523459
+    },
+    "estimatedDuration": 31,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "tokyo_30",
+    "name": "修行寺",
+    "description": "tokyo'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=29",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 35.6947565,
+      "longitude": 139.6513585
+    },
+    "estimatedDuration": 79,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "tokyo_31",
+    "name": "文殊院",
+    "description": "tokyo'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=30",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 35.7559487,
+      "longitude": 139.7096385
+    },
+    "estimatedDuration": 70,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "tokyo_32",
+    "name": "観音寺",
+    "description": "tokyo'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=31",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 35.6236207,
+      "longitude": 139.6016303
+    },
+    "estimatedDuration": 81,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "tokyo_33",
+    "name": "医王寺",
+    "description": "tokyo'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=32",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 35.6740277,
+      "longitude": 139.6119292
+    },
+    "estimatedDuration": 32,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "tokyo_34",
+    "name": "東京バプテスト教会",
+    "description": "tokyo'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=33",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 35.6504242,
+      "longitude": 139.6975546
+    },
+    "estimatedDuration": 77,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "tokyo_35",
+    "name": "打越天神北野神社",
+    "description": "tokyo'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=34",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 35.7072241,
+      "longitude": 139.6719239
+    },
+    "estimatedDuration": 50,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "tokyo_36",
+    "name": "延浄寺",
+    "description": "tokyo'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=35",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 35.6634218,
+      "longitude": 139.5705916
+    },
+    "estimatedDuration": 70,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "tokyo_37",
+    "name": "昌翁寺",
+    "description": "tokyo'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=36",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 35.664072,
+      "longitude": 139.5849535
+    },
+    "estimatedDuration": 43,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "tokyo_38",
+    "name": "氷川神社",
+    "description": "tokyo'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=37",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 35.6187792,
+      "longitude": 139.6710749
+    },
+    "estimatedDuration": 69,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 106,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "tokyo_39",
+    "name": "圓福寺",
+    "description": "tokyo'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=38",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 35.7021478,
+      "longitude": 139.735085
+    },
+    "estimatedDuration": 67,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "tokyo_40",
+    "name": "法正寺",
+    "description": "tokyo'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=39",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 35.7018353,
+      "longitude": 139.7362866
+    },
+    "estimatedDuration": 55,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "tokyo_41",
+    "name": "市谷亀岡八幡宮",
+    "description": "tokyo'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=40",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 35.6927381,
+      "longitude": 139.733724
+    },
+    "estimatedDuration": 37,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "tokyo_42",
+    "name": "荻窪八幡神社",
+    "description": "tokyo'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=41",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 35.7106212,
+      "longitude": 139.6063292
+    },
+    "estimatedDuration": 76,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 67,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "tokyo_43",
+    "name": "伏見三宝稲荷神社",
+    "description": "tokyo'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=42",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 35.6542344,
+      "longitude": 139.7453916
+    },
+    "estimatedDuration": 70,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 171,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "tokyo_44",
+    "name": "願泉寺",
+    "description": "tokyo'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=43",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 35.7039724,
+      "longitude": 139.6122215
+    },
+    "estimatedDuration": 31,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "tokyo_45",
+    "name": "三界寺",
+    "description": "tokyo'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=44",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 35.6586271,
+      "longitude": 139.6438024
+    },
+    "estimatedDuration": 48,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "tokyo_46",
+    "name": "安養寺",
+    "description": "tokyo'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=45",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 35.7125103,
+      "longitude": 139.8426167
+    },
+    "estimatedDuration": 67,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "tokyo_47",
+    "name": "杉山神社",
+    "description": "tokyo'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=46",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 35.5486891,
+      "longitude": 139.5730156
+    },
+    "estimatedDuration": 43,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "tokyo_48",
+    "name": "白髭神社",
+    "description": "tokyo'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=47",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 35.7328433,
+      "longitude": 139.8403003
+    },
+    "estimatedDuration": 61,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "tokyo_49",
+    "name": "光照寺",
+    "description": "tokyo'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=48",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 35.6561752,
+      "longitude": 139.561738
+    },
+    "estimatedDuration": 43,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "tokyo_50",
+    "name": "慈眼院",
+    "description": "tokyo'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=49",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 35.7399006,
+      "longitude": 139.8337185
+    },
+    "estimatedDuration": 89,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "tokyo_51",
+    "name": "春日神社",
+    "description": "tokyo'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=50",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 35.5859717,
+      "longitude": 139.6453398
+    },
+    "estimatedDuration": 35,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "tokyo_52",
+    "name": "五反田神社",
+    "description": "tokyo'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=51",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 35.6144369,
+      "longitude": 139.5437319
+    },
+    "estimatedDuration": 71,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "tokyo_53",
+    "name": "興安寺",
+    "description": "tokyo'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=52",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 35.703775,
+      "longitude": 139.7579874
+    },
+    "estimatedDuration": 47,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "tokyo_54",
+    "name": "蓮光寺",
+    "description": "tokyo'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=53",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 35.6956549,
+      "longitude": 139.65491
+    },
+    "estimatedDuration": 44,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "tokyo_55",
+    "name": "西藏院",
+    "description": "tokyo'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=54",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 35.6472336,
+      "longitude": 139.740909
+    },
+    "estimatedDuration": 47,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "tokyo_56",
+    "name": "禅林寺",
+    "description": "tokyo'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=55",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 35.6943549,
+      "longitude": 139.5599009
+    },
+    "estimatedDuration": 36,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 39,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "tokyo_57",
+    "name": "居木神社",
+    "description": "tokyo'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=56",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 35.6198531,
+      "longitude": 139.7252578
+    },
+    "estimatedDuration": 54,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "tokyo_58",
+    "name": "六所神社",
+    "description": "tokyo'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=57",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 35.6585234,
+      "longitude": 139.6432292
+    },
+    "estimatedDuration": 86,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 32,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "tokyo_59",
+    "name": "大安楽寺",
+    "description": "tokyo'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=58",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 35.6908528,
+      "longitude": 139.7780335
+    },
+    "estimatedDuration": 72,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  }
+]

@@ -1,0 +1,398 @@
+[
+  {
+    "id": "varanasi_1",
+    "name": "रामनगर किला",
+    "description": "varanasi'in tarihine tanıklık eden bir kale.",
+    "image": "https://picsum.photos/800/600?random=0",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 25.2697098,
+      "longitude": 83.0245479
+    },
+    "estimatedDuration": 84,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 155,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "varanasi_2",
+    "name": "Nepali Mandir",
+    "description": "varanasi'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=1",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 25.3099545,
+      "longitude": 83.0130602
+    },
+    "estimatedDuration": 67,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "varanasi_3",
+    "name": "Hanuman Ghat",
+    "description": "varanasi'de ziyaret edilebilecek popüler bir nokta: Hanuman Ghat.",
+    "image": "https://images.pexels.com/photos/31072582/pexels-photo-31072582.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 25.2972001,
+      "longitude": 83.0073734
+    },
+    "estimatedDuration": 62,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 186,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "varanasi_4",
+    "name": "Ahilyabai Ghat",
+    "description": "varanasi'de ziyaret edilebilecek popüler bir nokta: Ahilyabai Ghat.",
+    "image": "https://picsum.photos/800/600?random=3",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 25.3057223,
+      "longitude": 83.0099782
+    },
+    "estimatedDuration": 78,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "varanasi_5",
+    "name": "Raja Ghat",
+    "description": "varanasi'de ziyaret edilebilecek popüler bir nokta: Raja Ghat.",
+    "image": "https://picsum.photos/800/600?random=4",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 25.30225,
+      "longitude": 83.0076942
+    },
+    "estimatedDuration": 84,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "varanasi_6",
+    "name": "Ranamahal Ghat",
+    "description": "varanasi'de ziyaret edilebilecek popüler bir nokta: Ranamahal Ghat.",
+    "image": "https://picsum.photos/800/600?random=5",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 25.3048094,
+      "longitude": 83.0090711
+    },
+    "estimatedDuration": 46,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 104,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "varanasi_7",
+    "name": "Manasarowa Ghat",
+    "description": "varanasi'de ziyaret edilebilecek popüler bir nokta: Manasarowa Ghat.",
+    "image": "https://picsum.photos/800/600?random=6",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 25.3015103,
+      "longitude": 83.0074949
+    },
+    "estimatedDuration": 78,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 83,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "varanasi_8",
+    "name": "Manmandir Ghat",
+    "description": "varanasi'de ziyaret edilebilecek popüler bir nokta: Manmandir Ghat.",
+    "image": "https://picsum.photos/800/600?random=7",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 25.3076571,
+      "longitude": 83.0109847
+    },
+    "estimatedDuration": 73,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 95,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "varanasi_9",
+    "name": "Kedar Ghat",
+    "description": "varanasi'de ziyaret edilebilecek popüler bir nokta: Kedar Ghat.",
+    "image": "https://picsum.photos/800/600?random=8",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 25.2990503,
+      "longitude": 83.0072819
+    },
+    "estimatedDuration": 65,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 42,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "varanasi_10",
+    "name": "Badhaini Ghat",
+    "description": "varanasi'de ziyaret edilebilecek popüler bir nokta: Badhaini Ghat.",
+    "image": "https://picsum.photos/800/600?random=9",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 25.2915331,
+      "longitude": 83.0066896
+    },
+    "estimatedDuration": 43,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "varanasi_11",
+    "name": "Ganga Mahal Ghat",
+    "description": "varanasi'de ziyaret edilebilecek popüler bir nokta: Ganga Mahal Ghat.",
+    "image": "https://picsum.photos/800/600?random=10",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 25.3126169,
+      "longitude": 83.0159097
+    },
+    "estimatedDuration": 85,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 186,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "varanasi_12",
+    "name": "Lali Ghat",
+    "description": "varanasi'de ziyaret edilebilecek popüler bir nokta: Lali Ghat.",
+    "image": "https://picsum.photos/800/600?random=11",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 25.2986004,
+      "longitude": 83.0071507
+    },
+    "estimatedDuration": 41,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 171,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "varanasi_13",
+    "name": "Babua Pandey Ghat",
+    "description": "varanasi'de ziyaret edilebilecek popüler bir nokta: Babua Pandey Ghat.",
+    "image": "https://picsum.photos/800/600?random=12",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 25.3031486,
+      "longitude": 83.0081833
+    },
+    "estimatedDuration": 48,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 7,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "varanasi_14",
+    "name": "Munshi Ghat",
+    "description": "varanasi'de ziyaret edilebilecek popüler bir nokta: Munshi Ghat.",
+    "image": "https://picsum.photos/800/600?random=13",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 25.3054507,
+      "longitude": 83.0097583
+    },
+    "estimatedDuration": 66,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "varanasi_15",
+    "name": "Karnataka Ghat",
+    "description": "varanasi'de ziyaret edilebilecek popüler bir nokta: Karnataka Ghat.",
+    "image": "https://picsum.photos/800/600?random=14",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 25.2977445,
+      "longitude": 83.0072745
+    },
+    "estimatedDuration": 53,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "varanasi_16",
+    "name": "Narad Ghat",
+    "description": "varanasi'de ziyaret edilebilecek popüler bir nokta: Narad Ghat.",
+    "image": "https://picsum.photos/800/600?random=15",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 25.3017722,
+      "longitude": 83.0075307
+    },
+    "estimatedDuration": 44,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 180,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "varanasi_17",
+    "name": "Chousatti Ghat",
+    "description": "varanasi'de ziyaret edilebilecek popüler bir nokta: Chousatti Ghat.",
+    "image": "https://picsum.photos/800/600?random=16",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 25.3043415,
+      "longitude": 83.0088352
+    },
+    "estimatedDuration": 76,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "varanasi_18",
+    "name": "Ganesh Ghat",
+    "description": "varanasi'de ziyaret edilebilecek popüler bir nokta: Ganesh Ghat.",
+    "image": "https://picsum.photos/800/600?random=17",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 25.3099798,
+      "longitude": 83.0120709
+    },
+    "estimatedDuration": 57,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 25,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "varanasi_19",
+    "name": "Dr. Rajendra Prasad Ghat",
+    "description": "varanasi'de ziyaret edilebilecek popüler bir nokta: Dr. Rajendra Prasad Ghat.",
+    "image": "https://picsum.photos/800/600?random=18",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 25.3071569,
+      "longitude": 83.0106859
+    },
+    "estimatedDuration": 50,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "varanasi_20",
+    "name": "Tulsi Ghat",
+    "description": "varanasi'de ziyaret edilebilecek popüler bir nokta: Tulsi Ghat.",
+    "image": "https://picsum.photos/800/600?random=19",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 25.29024,
+      "longitude": 83.0063426
+    },
+    "estimatedDuration": 71,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 140,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "varanasi_21",
+    "name": "Sankatha Ghat",
+    "description": "varanasi'de ziyaret edilebilecek popüler bir nokta: Sankatha Ghat.",
+    "image": "https://picsum.photos/800/600?random=20",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 25.3123497,
+      "longitude": 83.0156683
+    },
+    "estimatedDuration": 48,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 65,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "varanasi_22",
+    "name": "Zoo Ticket Office",
+    "description": "varanasi'de ziyaret edilebilecek popüler bir nokta: Zoo Ticket Office.",
+    "image": "https://picsum.photos/800/600?random=21",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 25.3813264,
+      "longitude": 83.0266699
+    },
+    "estimatedDuration": 68,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 57,
+    "interests": [
+      "Tarihi"
+    ]
+  }
+]

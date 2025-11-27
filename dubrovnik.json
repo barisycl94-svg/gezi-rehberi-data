@@ -1,0 +1,290 @@
+[
+  {
+    "id": "dubrovnik_1",
+    "name": "Križ na Srđu",
+    "description": "dubrovnik'de ziyaret edilebilecek popüler bir nokta: Križ na Srđu.",
+    "image": "https://picsum.photos/800/600?random=0",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 42.6487793,
+      "longitude": 18.1121709
+    },
+    "estimatedDuration": 72,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "dubrovnik_2",
+    "name": "Pomorski muzej",
+    "description": "dubrovnik'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=1",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 42.6398468,
+      "longitude": 18.112383
+    },
+    "estimatedDuration": 81,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "dubrovnik_3",
+    "name": "Muzej domovinskog rata",
+    "description": "dubrovnik'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=2",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 42.6499358,
+      "longitude": 18.1106082
+    },
+    "estimatedDuration": 32,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 27,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "dubrovnik_4",
+    "name": "Dolap",
+    "description": "dubrovnik'de ziyaret edilebilecek popüler bir nokta: Dolap.",
+    "image": "https://images.pexels.com/photos/8441865/pexels-photo-8441865.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 42.7072723,
+      "longitude": 18.3127106
+    },
+    "estimatedDuration": 68,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "dubrovnik_16",
+    "name": "Lovrijenac",
+    "description": "dubrovnik'de ziyaret edilebilecek popüler bir nokta: Lovrijenac.",
+    "image": "https://picsum.photos/800/600?random=15",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 42.6408561,
+      "longitude": 18.1043873
+    },
+    "estimatedDuration": 72,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "dubrovnik_17",
+    "name": "Fort Royal",
+    "description": "dubrovnik'in tarihine tanıklık eden bir kale.",
+    "image": "https://picsum.photos/800/600?random=16",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 42.6299691,
+      "longitude": 18.1167408
+    },
+    "estimatedDuration": 32,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 184,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "dubrovnik_18",
+    "name": "Crkva sv. Blagovještenja",
+    "description": "dubrovnik'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=17",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 42.6409261,
+      "longitude": 18.1088189
+    },
+    "estimatedDuration": 47,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "dubrovnik_19",
+    "name": "Sv. Spas",
+    "description": "dubrovnik'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=18",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 42.6417349,
+      "longitude": 18.1073687
+    },
+    "estimatedDuration": 45,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 90,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "dubrovnik_20",
+    "name": "Domino",
+    "description": "dubrovnik'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=19",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 42.6407245,
+      "longitude": 18.1080319
+    },
+    "estimatedDuration": 48,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "dubrovnik_21",
+    "name": "katedrala Uznesenja Blažene Djevice Marije",
+    "description": "dubrovnik'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=20",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 42.639911,
+      "longitude": 18.1104234
+    },
+    "estimatedDuration": 63,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 88,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "dubrovnik_22",
+    "name": "Tvrđava Imperial",
+    "description": "dubrovnik'in tarihine tanıklık eden bir kale.",
+    "image": "https://images.pexels.com/photos/10210660/pexels-photo-10210660.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 42.649927,
+      "longitude": 18.110679
+    },
+    "estimatedDuration": 34,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 7,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "dubrovnik_23",
+    "name": "Sv. Franjo",
+    "description": "dubrovnik'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=22",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 42.6416748,
+      "longitude": 18.1077252
+    },
+    "estimatedDuration": 53,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 149,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "dubrovnik_24",
+    "name": "Utvrda Strinčjera",
+    "description": "dubrovnik'in tarihine tanıklık eden bir kale.",
+    "image": "https://picsum.photos/800/600?random=23",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 42.6598659,
+      "longitude": 18.1042003
+    },
+    "estimatedDuration": 40,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "dubrovnik_25",
+    "name": "Crkva sv. Ignacija",
+    "description": "dubrovnik'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=24",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 42.6396398,
+      "longitude": 18.1090802
+    },
+    "estimatedDuration": 52,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "dubrovnik_26",
+    "name": "Crkva sv. Vlaha",
+    "description": "dubrovnik'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=25",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 42.6406983,
+      "longitude": 18.1102757
+    },
+    "estimatedDuration": 89,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 92,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "dubrovnik_27",
+    "name": "Dubrovačke gradske zidine",
+    "description": "dubrovnik'de ziyaret edilebilecek popüler bir nokta: Dubrovačke gradske zidine.",
+    "image": "https://picsum.photos/800/600?random=26",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 42.6409562,
+      "longitude": 18.1087856
+    },
+    "estimatedDuration": 65,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  }
+]

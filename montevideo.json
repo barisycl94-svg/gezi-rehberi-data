@@ -1,0 +1,20 @@
+[
+  {
+    "id": "montevideo_1",
+    "name": "Swensson Farm Museum",
+    "description": "montevideo'de bulunan önemli bir müze.",
+    "image": "https://images.pexels.com/photos/2980872/pexels-photo-2980872.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 44.8787263,
+      "longitude": -95.5922645
+    },
+    "estimatedDuration": 83,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  }
+]

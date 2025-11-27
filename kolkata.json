@@ -1,0 +1,380 @@
+[
+  {
+    "id": "kolkata_1",
+    "name": "Holy Rosary's Catholic Cathedral",
+    "description": "kolkata'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=0",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 22.5786417,
+      "longitude": 88.3527555
+    },
+    "estimatedDuration": 68,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "kolkata_2",
+    "name": "Old Mission Church",
+    "description": "kolkata'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=1",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 22.5717194,
+      "longitude": 88.3514707
+    },
+    "estimatedDuration": 42,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 166,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "kolkata_3",
+    "name": "Tipu Sultan Mosque",
+    "description": "kolkata'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=2",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 22.5655026,
+      "longitude": 88.3520876
+    },
+    "estimatedDuration": 38,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "kolkata_4",
+    "name": "Jorasanko Thakur Bari",
+    "description": "kolkata'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=3",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 22.5850026,
+      "longitude": 88.3590491
+    },
+    "estimatedDuration": 77,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "kolkata_5",
+    "name": "BAPS Shri Swaminarayan Mandir Kolkata",
+    "description": "kolkata'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=4",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 22.4145089,
+      "longitude": 88.2839351
+    },
+    "estimatedDuration": 39,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 52,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "kolkata_6",
+    "name": "Mother's Wax Museum",
+    "description": "kolkata'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=5",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 22.5994556,
+      "longitude": 88.4722454
+    },
+    "estimatedDuration": 67,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 121,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "kolkata_7",
+    "name": "ভিক্টোরিয়া মেমোরিয়াল হল",
+    "description": "kolkata'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=6",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 22.5449596,
+      "longitude": 88.3425529
+    },
+    "estimatedDuration": 61,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "kolkata_8",
+    "name": "Birla Industrial & Technological Museum",
+    "description": "kolkata'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=7",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 22.534711,
+      "longitude": 88.3637555
+    },
+    "estimatedDuration": 52,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "kolkata_9",
+    "name": "Kalighat Kali Temple",
+    "description": "kolkata'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=8",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 22.5202778,
+      "longitude": 88.3420307
+    },
+    "estimatedDuration": 89,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 184,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "kolkata_10",
+    "name": "Birla Mandir",
+    "description": "kolkata'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=9",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 22.5304956,
+      "longitude": 88.3649497
+    },
+    "estimatedDuration": 77,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "kolkata_11",
+    "name": "Saint Thomas' Catholic Church",
+    "description": "kolkata'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=10",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 22.5502044,
+      "longitude": 88.3522103
+    },
+    "estimatedDuration": 61,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "kolkata_12",
+    "name": "Science City",
+    "description": "kolkata'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=11",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 22.5400437,
+      "longitude": 88.3960089
+    },
+    "estimatedDuration": 77,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "kolkata_13",
+    "name": "The Great Banyan Tree",
+    "description": "kolkata'de ziyaret edilebilecek popüler bir nokta: The Great Banyan Tree.",
+    "image": "https://picsum.photos/800/600?random=12",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 22.5608677,
+      "longitude": 88.2866635
+    },
+    "estimatedDuration": 45,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "kolkata_14",
+    "name": "Dakshineswar Kali Hindu Temple",
+    "description": "kolkata'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=13",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 22.6548547,
+      "longitude": 88.357541
+    },
+    "estimatedDuration": 33,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "kolkata_15",
+    "name": "Annapurna Mandir",
+    "description": "kolkata'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=14",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 22.7492102,
+      "longitude": 88.3661049
+    },
+    "estimatedDuration": 65,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 38,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "kolkata_16",
+    "name": "Howrah Bridge",
+    "description": "kolkata'de ziyaret edilebilecek popüler bir nokta: Howrah Bridge.",
+    "image": "https://picsum.photos/800/600?random=15",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 22.5850914,
+      "longitude": 88.3467999
+    },
+    "estimatedDuration": 42,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "kolkata_17",
+    "name": "Nakhoda Mosque",
+    "description": "kolkata'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=16",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 22.5776086,
+      "longitude": 88.3561022
+    },
+    "estimatedDuration": 39,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "kolkata_18",
+    "name": "Netaji Bhavan",
+    "description": "kolkata'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=17",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 22.5375253,
+      "longitude": 88.3510122
+    },
+    "estimatedDuration": 85,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "kolkata_19",
+    "name": "Lascar War Memorial",
+    "description": "kolkata'de ziyaret edilebilecek popüler bir nokta: Lascar War Memorial.",
+    "image": "https://picsum.photos/800/600?random=18",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 22.553012,
+      "longitude": 88.3287987
+    },
+    "estimatedDuration": 53,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "kolkata_20",
+    "name": "Shaheed Minar",
+    "description": "kolkata'de ziyaret edilebilecek popüler bir nokta: Shaheed Minar.",
+    "image": "https://picsum.photos/800/600?random=19",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 22.5628771,
+      "longitude": 88.3492614
+    },
+    "estimatedDuration": 76,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "kolkata_21",
+    "name": "Indian Museum",
+    "description": "kolkata'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=20",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 22.5576312,
+      "longitude": 88.351005
+    },
+    "estimatedDuration": 71,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  }
+]

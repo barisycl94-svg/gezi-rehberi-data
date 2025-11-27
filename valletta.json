@@ -1,0 +1,1046 @@
+[
+  {
+    "id": "valletta_1",
+    "name": "Clapham Junction",
+    "description": "valletta'de ziyaret edilebilecek popüler bir nokta: Clapham Junction.",
+    "image": "https://picsum.photos/800/600?random=0",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 35.8526818,
+      "longitude": 14.397128
+    },
+    "estimatedDuration": 48,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "valletta_2",
+    "name": "Fort Campbell",
+    "description": "valletta'de ziyaret edilebilecek popüler bir nokta: Fort Campbell.",
+    "image": "https://picsum.photos/800/600?random=1",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 35.9632564,
+      "longitude": 14.3909148
+    },
+    "estimatedDuration": 49,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "valletta_3",
+    "name": "War Memorial",
+    "description": "valletta'de ziyaret edilebilecek popüler bir nokta: War Memorial.",
+    "image": "https://picsum.photos/800/600?random=2",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 35.8935965,
+      "longitude": 14.5081883
+    },
+    "estimatedDuration": 80,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "valletta_4",
+    "name": "Is-Salib tal-Għolja",
+    "description": "valletta'de ziyaret edilebilecek popüler bir nokta: Is-Salib tal-Għolja.",
+    "image": "https://picsum.photos/800/600?random=3",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 35.8502537,
+      "longitude": 14.4166561
+    },
+    "estimatedDuration": 60,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 82,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "valletta_5",
+    "name": "Inquisitor's Palace",
+    "description": "valletta'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=4",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 35.8871922,
+      "longitude": 14.5224794
+    },
+    "estimatedDuration": 31,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 93,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "valletta_6",
+    "name": "Taħt il-Ħnejja",
+    "description": "valletta'de ziyaret edilebilecek popüler bir nokta: Taħt il-Ħnejja.",
+    "image": "https://picsum.photos/800/600?random=5",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 35.8212727,
+      "longitude": 14.456547
+    },
+    "estimatedDuration": 79,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "valletta_7",
+    "name": "National Museum of Natural History",
+    "description": "valletta'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=6",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 35.8848166,
+      "longitude": 14.4038738
+    },
+    "estimatedDuration": 52,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "valletta_8",
+    "name": "Katakombi ta' San Pawl",
+    "description": "valletta'de ziyaret edilebilecek popüler bir nokta: Katakombi ta' San Pawl.",
+    "image": "https://picsum.photos/800/600?random=7",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 35.8810967,
+      "longitude": 14.3978715
+    },
+    "estimatedDuration": 40,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 80,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "valletta_9",
+    "name": "Monument ta' Ħal Luqa",
+    "description": "valletta'de ziyaret edilebilecek popüler bir nokta: Monument ta' Ħal Luqa.",
+    "image": "https://picsum.photos/800/600?random=8",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 35.8605122,
+      "longitude": 14.4840581
+    },
+    "estimatedDuration": 74,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 49,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "valletta_10",
+    "name": "Holy Trinity Church",
+    "description": "valletta'in tarihi ibadet yapılarından biri.",
+    "image": "https://images.pexels.com/photos/8261905/pexels-photo-8261905.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 35.9097509,
+      "longitude": 14.4955373
+    },
+    "estimatedDuration": 88,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "valletta_11",
+    "name": "Il-Monument ta' Spencer",
+    "description": "valletta'de ziyaret edilebilecek popüler bir nokta: Il-Monument ta' Spencer.",
+    "image": "https://picsum.photos/800/600?random=10",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 35.8874531,
+      "longitude": 14.4976544
+    },
+    "estimatedDuration": 84,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 198,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "valletta_12",
+    "name": "Saluting Battery",
+    "description": "valletta'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=11",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 35.8946023,
+      "longitude": 14.5125464
+    },
+    "estimatedDuration": 69,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "valletta_13",
+    "name": "Lascaris War Rooms",
+    "description": "valletta'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=12",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 35.8948844,
+      "longitude": 14.5127824
+    },
+    "estimatedDuration": 46,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "valletta_14",
+    "name": "Fort Rinella",
+    "description": "valletta'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=13",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 35.8937862,
+      "longitude": 14.5314719
+    },
+    "estimatedDuration": 57,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "valletta_15",
+    "name": "Malta at War Museum",
+    "description": "valletta'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=14",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 35.8854187,
+      "longitude": 14.5223718
+    },
+    "estimatedDuration": 89,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "valletta_16",
+    "name": "Bieb is-Sultan",
+    "description": "valletta'de ziyaret edilebilecek popüler bir nokta: Bieb is-Sultan.",
+    "image": "https://picsum.photos/800/600?random=15",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 35.8803689,
+      "longitude": 14.5293246
+    },
+    "estimatedDuration": 67,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "valletta_17",
+    "name": "Malta Memorial",
+    "description": "valletta'de ziyaret edilebilecek popüler bir nokta: Malta Memorial.",
+    "image": "https://picsum.photos/800/600?random=16",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 35.8945586,
+      "longitude": 14.5078185
+    },
+    "estimatedDuration": 72,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "valletta_18",
+    "name": "Il-Lift tal-Barrakka",
+    "description": "valletta'de ziyaret edilebilecek popüler bir nokta: Il-Lift tal-Barrakka.",
+    "image": "https://picsum.photos/800/600?random=17",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 35.8943192,
+      "longitude": 14.5119773
+    },
+    "estimatedDuration": 76,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "valletta_19",
+    "name": "Playmobil Fun Park",
+    "description": "valletta'de ziyaret edilebilecek popüler bir nokta: Playmobil Fun Park.",
+    "image": "https://picsum.photos/800/600?random=18",
+    "category": "Eğlence",
+    "coordinates": {
+      "latitude": 35.8129853,
+      "longitude": 14.5051442
+    },
+    "estimatedDuration": 79,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Eğlence"
+    ]
+  },
+  {
+    "id": "valletta_20",
+    "name": "Palace Armoury",
+    "description": "valletta'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=19",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 35.8985146,
+      "longitude": 14.5143414
+    },
+    "estimatedDuration": 32,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 47,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "valletta_21",
+    "name": "Hompesch",
+    "description": "valletta'de ziyaret edilebilecek popüler bir nokta: Hompesch.",
+    "image": "https://picsum.photos/800/600?random=20",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 35.8720643,
+      "longitude": 14.5271255
+    },
+    "estimatedDuration": 67,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "valletta_22",
+    "name": "Il-Monument tal-Assedju l-Kbir",
+    "description": "valletta'de ziyaret edilebilecek popüler bir nokta: Il-Monument tal-Assedju l-Kbir.",
+    "image": "https://picsum.photos/800/600?random=21",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 35.8980322,
+      "longitude": 14.5125265
+    },
+    "estimatedDuration": 61,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "valletta_23",
+    "name": "Tempju Megalitiku ta' Ħal Ġinwi",
+    "description": "valletta'de ziyaret edilebilecek popüler bir nokta: Tempju Megalitiku ta' Ħal Ġinwi.",
+    "image": "https://picsum.photos/800/600?random=22",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 35.848369,
+      "longitude": 14.5472666
+    },
+    "estimatedDuration": 64,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "valletta_24",
+    "name": "Wreck of P29 Patrol Boat",
+    "description": "valletta'de ziyaret edilebilecek popüler bir nokta: Wreck of P29 Patrol Boat.",
+    "image": "https://picsum.photos/800/600?random=23",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 35.988472,
+      "longitude": 14.3260851
+    },
+    "estimatedDuration": 58,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "valletta_25",
+    "name": "Wreck of Rożi Tug",
+    "description": "valletta'de ziyaret edilebilecek popüler bir nokta: Wreck of Rożi Tug.",
+    "image": "https://picsum.photos/800/600?random=24",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 35.9898261,
+      "longitude": 14.3266379
+    },
+    "estimatedDuration": 67,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 29,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "valletta_26",
+    "name": "Ir-Reġina Viktorja",
+    "description": "valletta'de ziyaret edilebilecek popüler bir nokta: Ir-Reġina Viktorja.",
+    "image": "https://picsum.photos/800/600?random=25",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 35.8984215,
+      "longitude": 14.5133248
+    },
+    "estimatedDuration": 44,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "valletta_27",
+    "name": "Ġebel ġol-Baħar",
+    "description": "valletta'de ziyaret edilebilecek popüler bir nokta: Ġebel ġol-Baħar.",
+    "image": "https://picsum.photos/800/600?random=26",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 35.932556,
+      "longitude": 14.495639
+    },
+    "estimatedDuration": 87,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 36,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "valletta_28",
+    "name": "Tal-Qadi Temple",
+    "description": "valletta'de ziyaret edilebilecek popüler bir nokta: Tal-Qadi Temple.",
+    "image": "https://picsum.photos/800/600?random=27",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 35.9366556,
+      "longitude": 14.4204833
+    },
+    "estimatedDuration": 63,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "valletta_29",
+    "name": "Xrobb l-Għaġin Temple",
+    "description": "valletta'de ziyaret edilebilecek popüler bir nokta: Xrobb l-Għaġin Temple.",
+    "image": "https://picsum.photos/800/600?random=28",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 35.843806,
+      "longitude": 14.568528
+    },
+    "estimatedDuration": 59,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "valletta_30",
+    "name": "Il-Bidni Dolmen",
+    "description": "valletta'de ziyaret edilebilecek popüler bir nokta: Il-Bidni Dolmen.",
+    "image": "https://picsum.photos/800/600?random=29",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 35.86773,
+      "longitude": 14.55475
+    },
+    "estimatedDuration": 59,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "valletta_31",
+    "name": "Ta’ Ħammud Dolmen",
+    "description": "valletta'de ziyaret edilebilecek popüler bir nokta: Ta’ Ħammud Dolmen.",
+    "image": "https://picsum.photos/800/600?random=30",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 35.941954,
+      "longitude": 14.447228
+    },
+    "estimatedDuration": 31,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "valletta_32",
+    "name": "Wied Filep Dolmen",
+    "description": "valletta'de ziyaret edilebilecek popüler bir nokta: Wied Filep Dolmen.",
+    "image": "https://picsum.photos/800/600?random=31",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 35.9195204,
+      "longitude": 14.4315608
+    },
+    "estimatedDuration": 89,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "valletta_33",
+    "name": "Wied Żnuber Dolmen",
+    "description": "valletta'de ziyaret edilebilecek popüler bir nokta: Wied Żnuber Dolmen.",
+    "image": "https://picsum.photos/800/600?random=32",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 35.81129,
+      "longitude": 14.510714
+    },
+    "estimatedDuration": 85,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "valletta_34",
+    "name": "Batterija tat-Tarġa",
+    "description": "valletta'de ziyaret edilebilecek popüler bir nokta: Batterija tat-Tarġa.",
+    "image": "https://picsum.photos/800/600?random=33",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 35.9165494,
+      "longitude": 14.4093401
+    },
+    "estimatedDuration": 62,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 120,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "valletta_35",
+    "name": "National War Museum",
+    "description": "valletta'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=34",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 35.9019705,
+      "longitude": 14.5187411
+    },
+    "estimatedDuration": 60,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "valletta_36",
+    "name": "Wolseley Battery",
+    "description": "valletta'in tarihine tanıklık eden bir kale.",
+    "image": "https://picsum.photos/800/600?random=35",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 35.8357348,
+      "longitude": 14.5579375
+    },
+    "estimatedDuration": 64,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "valletta_37",
+    "name": "Il-Kappella ta' San Pawl Eremita",
+    "description": "valletta'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=36",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 35.9210297,
+      "longitude": 14.4288908
+    },
+    "estimatedDuration": 51,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "valletta_38",
+    "name": "Fort Binġemma",
+    "description": "valletta'de ziyaret edilebilecek popüler bir nokta: Fort Binġemma.",
+    "image": "https://picsum.photos/800/600?random=37",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 35.9034646,
+      "longitude": 14.3622708
+    },
+    "estimatedDuration": 83,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 199,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "valletta_39",
+    "name": "Auberge d’Auvergne et de Provence",
+    "description": "valletta'de ziyaret edilebilecek popüler bir nokta: Auberge d’Auvergne et de Provence.",
+    "image": "https://picsum.photos/800/600?random=38",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 35.8884627,
+      "longitude": 14.5225803
+    },
+    "estimatedDuration": 37,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "valletta_40",
+    "name": "Auberge de Castille et Portugal",
+    "description": "valletta'de ziyaret edilebilecek popüler bir nokta: Auberge de Castille et Portugal.",
+    "image": "https://picsum.photos/800/600?random=39",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 35.8883986,
+      "longitude": 14.5234559
+    },
+    "estimatedDuration": 59,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "valletta_41",
+    "name": "Il-Knisja ta' Santa Luċija",
+    "description": "valletta'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=40",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 35.8965857,
+      "longitude": 14.5141847
+    },
+    "estimatedDuration": 84,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 165,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "valletta_42",
+    "name": "Dar il-Mediterran għall-Konferenzi",
+    "description": "valletta'de ziyaret edilebilecek popüler bir nokta: Dar il-Mediterran għall-Konferenzi.",
+    "image": "https://picsum.photos/800/600?random=41",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 35.8991017,
+      "longitude": 14.5180132
+    },
+    "estimatedDuration": 65,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 23,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "valletta_43",
+    "name": "Mdina",
+    "description": "valletta'de ziyaret edilebilecek popüler bir nokta: Mdina.",
+    "image": "https://picsum.photos/800/600?random=42",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 35.8858561,
+      "longitude": 14.4028644
+    },
+    "estimatedDuration": 67,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "valletta_44",
+    "name": "Saint John's Co-Cathedral",
+    "description": "valletta'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=43",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 35.8976972,
+      "longitude": 14.5126231
+    },
+    "estimatedDuration": 66,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "valletta_45",
+    "name": "Il-Palazz Verdala",
+    "description": "valletta'in tarihine tanıklık eden bir kale.",
+    "image": "https://picsum.photos/800/600?random=44",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 35.8615018,
+      "longitude": 14.400633
+    },
+    "estimatedDuration": 35,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "valletta_46",
+    "name": "It-Tempji tal-Imnajdra",
+    "description": "valletta'de ziyaret edilebilecek popüler bir nokta: It-Tempji tal-Imnajdra.",
+    "image": "https://picsum.photos/800/600?random=45",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 35.8267022,
+      "longitude": 14.4363006
+    },
+    "estimatedDuration": 54,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "valletta_47",
+    "name": "It-Tempji ta' Ħaġar Qim",
+    "description": "valletta'de ziyaret edilebilecek popüler bir nokta: It-Tempji ta' Ħaġar Qim.",
+    "image": "https://picsum.photos/800/600?random=46",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 35.8276332,
+      "longitude": 14.4422199
+    },
+    "estimatedDuration": 50,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "valletta_48",
+    "name": "Parish Church of Saint Catherine of Alexandria",
+    "description": "valletta'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=47",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 35.8305343,
+      "longitude": 14.4751928
+    },
+    "estimatedDuration": 85,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "valletta_49",
+    "name": "It-Tempji ta' Ħal Tarxien",
+    "description": "valletta'de ziyaret edilebilecek popüler bir nokta: It-Tempji ta' Ħal Tarxien.",
+    "image": "https://picsum.photos/800/600?random=48",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 35.8691454,
+      "longitude": 14.5118965
+    },
+    "estimatedDuration": 78,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "valletta_50",
+    "name": "Il-Knisja ta' San Filep t'Agira, Iż-Żebbuġ",
+    "description": "valletta'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=49",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 35.8712416,
+      "longitude": 14.4421698
+    },
+    "estimatedDuration": 63,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "valletta_51",
+    "name": "Katidral ta’ San Pawl",
+    "description": "valletta'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=50",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 35.8864165,
+      "longitude": 14.4041114
+    },
+    "estimatedDuration": 33,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "valletta_52",
+    "name": "Popeye Village",
+    "description": "valletta'de ziyaret edilebilecek popüler bir nokta: Popeye Village.",
+    "image": "https://picsum.photos/800/600?random=51",
+    "category": "Eğlence",
+    "coordinates": {
+      "latitude": 35.9608443,
+      "longitude": 14.3407209
+    },
+    "estimatedDuration": 34,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Eğlence"
+    ]
+  },
+  {
+    "id": "valletta_53",
+    "name": "Knisja Kolleġġjata ta' San Pawl",
+    "description": "valletta'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=52",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 35.8817408,
+      "longitude": 14.399375
+    },
+    "estimatedDuration": 54,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "valletta_54",
+    "name": "National Museum of Archaeology",
+    "description": "valletta'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=53",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 35.8975132,
+      "longitude": 14.511157
+    },
+    "estimatedDuration": 80,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "valletta_55",
+    "name": "Il-Katidral Anglikan ta' San Pawl",
+    "description": "valletta'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=54",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 35.9006961,
+      "longitude": 14.5120125
+    },
+    "estimatedDuration": 49,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 12,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "valletta_56",
+    "name": "Stella Maris Sliema Parish Church",
+    "description": "valletta'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=55",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 35.9119833,
+      "longitude": 14.50416
+    },
+    "estimatedDuration": 68,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "valletta_57",
+    "name": "Il-Knisja ta' San Pawl Nawfraġju",
+    "description": "valletta'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=56",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 35.8973973,
+      "longitude": 14.5138551
+    },
+    "estimatedDuration": 57,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "valletta_58",
+    "name": "Knisja tal-Vittorja",
+    "description": "valletta'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=57",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 35.8960067,
+      "longitude": 14.510669
+    },
+    "estimatedDuration": 43,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  }
+]

@@ -1,0 +1,524 @@
+[
+  {
+    "id": "new_orleans_1",
+    "name": "French Quarter",
+    "description": "new_orleans'de ziyaret edilebilecek popüler bir nokta: French Quarter.",
+    "image": "https://picsum.photos/800/600?random=0",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 29.9594926,
+      "longitude": -90.0655403
+    },
+    "estimatedDuration": 52,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "new_orleans_2",
+    "name": "Andrew Jackson",
+    "description": "new_orleans'de ziyaret edilebilecek popüler bir nokta: Andrew Jackson.",
+    "image": "https://picsum.photos/800/600?random=1",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 29.9574641,
+      "longitude": -90.0629497
+    },
+    "estimatedDuration": 89,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "new_orleans_3",
+    "name": "Congo Square",
+    "description": "new_orleans şehrinde doğa ile iç içe bir park.",
+    "image": "https://picsum.photos/800/600?random=2",
+    "category": "Park",
+    "coordinates": {
+      "latitude": 29.9612536,
+      "longitude": -90.0686153
+    },
+    "estimatedDuration": 75,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 1,
+    "interests": [
+      "Park"
+    ]
+  },
+  {
+    "id": "new_orleans_4",
+    "name": "New Orleans Jazz National Historical Park",
+    "description": "new_orleans'de ziyaret edilebilecek popüler bir nokta: New Orleans Jazz National Historical Park.",
+    "image": "https://picsum.photos/800/600?random=3",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 29.9614693,
+      "longitude": -90.057711
+    },
+    "estimatedDuration": 35,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "new_orleans_5",
+    "name": "Immaculate Conception Catholic Church",
+    "description": "new_orleans'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=4",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 29.9535515,
+      "longitude": -90.0715753
+    },
+    "estimatedDuration": 41,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "new_orleans_6",
+    "name": "Confederate Memorial Hall;Confederate Memorial Hall Museum",
+    "description": "new_orleans'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=5",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 29.9434299,
+      "longitude": -90.0713042
+    },
+    "estimatedDuration": 40,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "new_orleans_7",
+    "name": "Steamboat Natchez",
+    "description": "new_orleans'de ziyaret edilebilecek popüler bir nokta: Steamboat Natchez.",
+    "image": "https://picsum.photos/800/600?random=6",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 29.9549273,
+      "longitude": -90.0623927
+    },
+    "estimatedDuration": 33,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 190,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "new_orleans_8",
+    "name": "Ogden Museum of Southern Art",
+    "description": "new_orleans'de bulunan önemli bir müze.",
+    "image": "https://images.pexels.com/photos/34939806/pexels-photo-34939806.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 29.9435723,
+      "longitude": -90.0713431
+    },
+    "estimatedDuration": 46,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "new_orleans_9",
+    "name": "Joan of Arc",
+    "description": "new_orleans'de ziyaret edilebilecek popüler bir nokta: Joan of Arc.",
+    "image": "https://picsum.photos/800/600?random=8",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 29.9589765,
+      "longitude": -90.0606998
+    },
+    "estimatedDuration": 44,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 193,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "new_orleans_10",
+    "name": "New Orleans Jazz Museum",
+    "description": "new_orleans'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=9",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 29.9614302,
+      "longitude": -90.0577754
+    },
+    "estimatedDuration": 37,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "new_orleans_11",
+    "name": "Audubon Insectarium",
+    "description": "new_orleans'de ziyaret edilebilecek popüler bir nokta: Audubon Insectarium.",
+    "image": "https://picsum.photos/800/600?random=10",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 29.9513592,
+      "longitude": -90.0633176
+    },
+    "estimatedDuration": 80,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "new_orleans_12",
+    "name": "Bourbon Street",
+    "description": "new_orleans'de ziyaret edilebilecek popüler bir nokta: Bourbon Street.",
+    "image": "https://picsum.photos/800/600?random=11",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 29.9537913,
+      "longitude": -90.0699868
+    },
+    "estimatedDuration": 52,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "new_orleans_13",
+    "name": "Jackson Square",
+    "description": "new_orleans şehrinde doğa ile iç içe bir park.",
+    "image": "https://picsum.photos/800/600?random=12",
+    "category": "Park",
+    "coordinates": {
+      "latitude": 29.957475,
+      "longitude": -90.06295
+    },
+    "estimatedDuration": 36,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 59,
+    "interests": [
+      "Park"
+    ]
+  },
+  {
+    "id": "new_orleans_14",
+    "name": "New Orleans Museum of Art",
+    "description": "new_orleans'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=13",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 29.9864532,
+      "longitude": -90.0933693
+    },
+    "estimatedDuration": 38,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "new_orleans_15",
+    "name": "Anshe Sfard Synagogue",
+    "description": "new_orleans'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=14",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 29.9343112,
+      "longitude": -90.081839
+    },
+    "estimatedDuration": 38,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "new_orleans_16",
+    "name": "The Cabildo",
+    "description": "new_orleans'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=15",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 29.9576622,
+      "longitude": -90.0638894
+    },
+    "estimatedDuration": 31,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "new_orleans_17",
+    "name": "Cathedral-Basilica of Saint Louis King of France",
+    "description": "new_orleans'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=16",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 29.9579983,
+      "longitude": -90.0637517
+    },
+    "estimatedDuration": 86,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 10,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "new_orleans_18",
+    "name": "New Orleans Mint",
+    "description": "new_orleans'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=17",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 29.9613899,
+      "longitude": -90.0578139
+    },
+    "estimatedDuration": 34,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 45,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "new_orleans_19",
+    "name": "New Orleans African American Museum",
+    "description": "new_orleans'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=18",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 29.9665108,
+      "longitude": -90.0679482
+    },
+    "estimatedDuration": 84,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 47,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "new_orleans_20",
+    "name": "Hermann-Grima House",
+    "description": "new_orleans'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=19",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 29.9572177,
+      "longitude": -90.0676199
+    },
+    "estimatedDuration": 85,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "new_orleans_21",
+    "name": "Carousel Gardens Amusement Park",
+    "description": "new_orleans'de ziyaret edilebilecek popüler bir nokta: Carousel Gardens Amusement Park.",
+    "image": "https://picsum.photos/800/600?random=20",
+    "category": "Eğlence",
+    "coordinates": {
+      "latitude": 29.9875434,
+      "longitude": -90.0984045
+    },
+    "estimatedDuration": 77,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 187,
+    "interests": [
+      "Eğlence"
+    ]
+  },
+  {
+    "id": "new_orleans_22",
+    "name": "New Orleans Botanical Gardens",
+    "description": "new_orleans'de ziyaret edilebilecek popüler bir nokta: New Orleans Botanical Gardens.",
+    "image": "https://picsum.photos/800/600?random=21",
+    "category": "Park",
+    "coordinates": {
+      "latitude": 29.9875877,
+      "longitude": -90.0960857
+    },
+    "estimatedDuration": 53,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Park"
+    ]
+  },
+  {
+    "id": "new_orleans_23",
+    "name": "Eagle Saloon",
+    "description": "new_orleans'de ziyaret edilebilecek popüler bir nokta: Eagle Saloon.",
+    "image": "https://picsum.photos/800/600?random=22",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 29.9517274,
+      "longitude": -90.0748313
+    },
+    "estimatedDuration": 43,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "new_orleans_24",
+    "name": "Saint Joseph Catholic Church",
+    "description": "new_orleans'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=23",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 29.9148014,
+      "longitude": -90.0616098
+    },
+    "estimatedDuration": 82,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "new_orleans_26",
+    "name": "Mardi Gras World",
+    "description": "new_orleans'de ziyaret edilebilecek popüler bir nokta: Mardi Gras World.",
+    "image": "https://picsum.photos/800/600?random=25",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 29.9346399,
+      "longitude": -90.0615617
+    },
+    "estimatedDuration": 89,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 112,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "new_orleans_35",
+    "name": "Touro Synagogue",
+    "description": "new_orleans'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=34",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 29.9261505,
+      "longitude": -90.1003793
+    },
+    "estimatedDuration": 51,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 106,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "new_orleans_36",
+    "name": "The Presbytère",
+    "description": "new_orleans'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=35",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 29.9582229,
+      "longitude": -90.0634436
+    },
+    "estimatedDuration": 42,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "new_orleans_37",
+    "name": "The National World War II Museum",
+    "description": "new_orleans'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=36",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 29.9424166,
+      "longitude": -90.0706287
+    },
+    "estimatedDuration": 32,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 145,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "new_orleans_38",
+    "name": "Audubon Zoo",
+    "description": "new_orleans'de ziyaret edilebilecek popüler bir nokta: Audubon Zoo.",
+    "image": "https://picsum.photos/800/600?random=37",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 29.9222208,
+      "longitude": -90.1304003
+    },
+    "estimatedDuration": 63,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  }
+]

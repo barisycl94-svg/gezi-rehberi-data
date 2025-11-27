@@ -1,0 +1,128 @@
+[
+  {
+    "id": "medina_1",
+    "name": "Chippewa Lake Park",
+    "description": "medina'de ziyaret edilebilecek popüler bir nokta: Chippewa Lake Park.",
+    "image": "https://picsum.photos/800/600?random=0",
+    "category": "Eğlence",
+    "coordinates": {
+      "latitude": 41.0623051,
+      "longitude": -81.9026868
+    },
+    "estimatedDuration": 41,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 173,
+    "interests": [
+      "Eğlence"
+    ]
+  },
+  {
+    "id": "medina_2",
+    "name": "Dedication Overlook",
+    "description": "medina'de ziyaret edilebilecek popüler bir nokta: Dedication Overlook.",
+    "image": "https://images.pexels.com/photos/34938289/pexels-photo-34938289.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.1917846,
+      "longitude": -81.7024706
+    },
+    "estimatedDuration": 53,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "medina_3",
+    "name": "Waymouth school museum",
+    "description": "medina'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=2",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 41.1852476,
+      "longitude": -81.7966491
+    },
+    "estimatedDuration": 69,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 35,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "medina_4",
+    "name": "Rinky Dink",
+    "description": "medina'de ziyaret edilebilecek popüler bir nokta: Rinky Dink.",
+    "image": "https://picsum.photos/800/600?random=3",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.1355779,
+      "longitude": -81.7744547
+    },
+    "estimatedDuration": 59,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "medina_5",
+    "name": "Mapleside Farms",
+    "description": "medina'de ziyaret edilebilecek popüler bir nokta: Mapleside Farms.",
+    "image": "https://picsum.photos/800/600?random=4",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.2697173,
+      "longitude": -81.8425663
+    },
+    "estimatedDuration": 81,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "medina_6",
+    "name": "Westfield Historical Society",
+    "description": "medina'de bulunan önemli bir müze.",
+    "image": "https://images.pexels.com/photos/25677022/pexels-photo-25677022.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 41.0275468,
+      "longitude": -81.9331618
+    },
+    "estimatedDuration": 74,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "medina_7",
+    "name": "Northern Ohio Railway Museum",
+    "description": "medina'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=6",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 41.0464925,
+      "longitude": -81.8863142
+    },
+    "estimatedDuration": 47,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 3,
+    "interests": [
+      "Müze"
+    ]
+  }
+]

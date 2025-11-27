@@ -1,0 +1,272 @@
+[
+  {
+    "id": "las_vegas_1",
+    "name": "Big Shot",
+    "description": "las_vegas'de ziyaret edilebilecek popüler bir nokta: Big Shot.",
+    "image": "https://picsum.photos/800/600?random=0",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 36.1474091,
+      "longitude": -115.1555276
+    },
+    "estimatedDuration": 38,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "las_vegas_2",
+    "name": "X-Scream",
+    "description": "las_vegas'de ziyaret edilebilecek popüler bir nokta: X-Scream.",
+    "image": "https://picsum.photos/800/600?random=1",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 36.1476086,
+      "longitude": -115.155601
+    },
+    "estimatedDuration": 74,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "las_vegas_3",
+    "name": "Fountains of Bellagio",
+    "description": "las_vegas'de ziyaret edilebilecek popüler bir nokta: Fountains of Bellagio.",
+    "image": "https://picsum.photos/800/600?random=2",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 36.1128057,
+      "longitude": -115.1741094
+    },
+    "estimatedDuration": 70,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "las_vegas_4",
+    "name": "Ethel M. Chocolate Factory",
+    "description": "las_vegas'de ziyaret edilebilecek popüler bir nokta: Ethel M. Chocolate Factory.",
+    "image": "https://picsum.photos/800/600?random=3",
+    "category": "Alışveriş",
+    "coordinates": {
+      "latitude": 36.0739344,
+      "longitude": -115.072082
+    },
+    "estimatedDuration": 32,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Alışveriş"
+    ]
+  },
+  {
+    "id": "las_vegas_5",
+    "name": "The Adventuredome",
+    "description": "las_vegas'de ziyaret edilebilecek popüler bir nokta: The Adventuredome.",
+    "image": "https://picsum.photos/800/600?random=4",
+    "category": "Eğlence",
+    "coordinates": {
+      "latitude": 36.137938,
+      "longitude": -115.1663902
+    },
+    "estimatedDuration": 75,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Eğlence"
+    ]
+  },
+  {
+    "id": "las_vegas_6",
+    "name": "Erotic Heritage Museum",
+    "description": "las_vegas'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=5",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 36.1300818,
+      "longitude": -115.1746873
+    },
+    "estimatedDuration": 67,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "las_vegas_7",
+    "name": "Atomic Museum Vegas",
+    "description": "las_vegas'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=6",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 36.1140195,
+      "longitude": -115.1483633
+    },
+    "estimatedDuration": 63,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "las_vegas_8",
+    "name": "Little White Chapel",
+    "description": "las_vegas'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=7",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 36.1551775,
+      "longitude": -115.1492504
+    },
+    "estimatedDuration": 65,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "las_vegas_9",
+    "name": "High Roller",
+    "description": "las_vegas'de ziyaret edilebilecek popüler bir nokta: High Roller.",
+    "image": "https://picsum.photos/800/600?random=8",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 36.1175589,
+      "longitude": -115.1681609
+    },
+    "estimatedDuration": 46,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "las_vegas_10",
+    "name": "Cowabunga Bay Las Vegas",
+    "description": "las_vegas'de ziyaret edilebilecek popüler bir nokta: Cowabunga Bay Las Vegas.",
+    "image": "https://picsum.photos/800/600?random=9",
+    "category": "Eğlence",
+    "coordinates": {
+      "latitude": 36.0721196,
+      "longitude": -115.0246102
+    },
+    "estimatedDuration": 87,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 199,
+    "interests": [
+      "Eğlence"
+    ]
+  },
+  {
+    "id": "las_vegas_11",
+    "name": "Guardian Angel Cathedral",
+    "description": "las_vegas'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=10",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 36.1305225,
+      "longitude": -115.1634659
+    },
+    "estimatedDuration": 70,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "las_vegas_12",
+    "name": "Las Vegas Strip",
+    "description": "las_vegas'de ziyaret edilebilecek popüler bir nokta: Las Vegas Strip.",
+    "image": "https://picsum.photos/800/600?random=11",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 36.1193649,
+      "longitude": -115.1741363
+    },
+    "estimatedDuration": 40,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 190,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "las_vegas_13",
+    "name": "Burlesque Hall of Fame",
+    "description": "las_vegas'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=12",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 36.160158,
+      "longitude": -115.1528682
+    },
+    "estimatedDuration": 63,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "las_vegas_14",
+    "name": "Punk Rock Museum",
+    "description": "las_vegas'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=13",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 36.154343,
+      "longitude": -115.1606387
+    },
+    "estimatedDuration": 37,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "las_vegas_15",
+    "name": "Fremont Street Experience",
+    "description": "las_vegas'de ziyaret edilebilecek popüler bir nokta: Fremont Street Experience.",
+    "image": "https://picsum.photos/800/600?random=14",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 36.1704582,
+      "longitude": -115.1435489
+    },
+    "estimatedDuration": 87,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  }
+]

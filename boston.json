@@ -1,0 +1,614 @@
+[
+  {
+    "id": "boston_1",
+    "name": "Museo Iglesia Santa Clara",
+    "description": "boston'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=0",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 4.5968372,
+      "longitude": -74.0774643
+    },
+    "estimatedDuration": 71,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "boston_2",
+    "name": "Monumento Ángeles Agustinianos",
+    "description": "boston'de ziyaret edilebilecek popüler bir nokta: Monumento Ángeles Agustinianos.",
+    "image": "https://images.pexels.com/photos/30327870/pexels-photo-30327870.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 4.732818,
+      "longitude": -74.0750843
+    },
+    "estimatedDuration": 64,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "boston_3",
+    "name": "Museo del Oro",
+    "description": "boston'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=2",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 4.6018403,
+      "longitude": -74.0718526
+    },
+    "estimatedDuration": 57,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 123,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "boston_4",
+    "name": "Cerro de Monserrate",
+    "description": "boston'de ziyaret edilebilecek popüler bir nokta: Cerro de Monserrate.",
+    "image": "https://picsum.photos/800/600?random=3",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 4.6052221,
+      "longitude": -74.0554677
+    },
+    "estimatedDuration": 51,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 144,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "boston_5",
+    "name": "Catedral Primada de Bogotá",
+    "description": "boston'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=4",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 4.5978003,
+      "longitude": -74.0750738
+    },
+    "estimatedDuration": 81,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 64,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "boston_6",
+    "name": "Planetario de Bogotá",
+    "description": "boston'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=5",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 4.6120661,
+      "longitude": -74.0688228
+    },
+    "estimatedDuration": 37,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 32,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "boston_7",
+    "name": "Museo de Arte de la Universidad Nacional de Colombia",
+    "description": "boston'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=6",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 4.6345781,
+      "longitude": -74.0808648
+    },
+    "estimatedDuration": 85,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 103,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "boston_8",
+    "name": "Museo de Arte Moderno de Bogotá",
+    "description": "boston'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=7",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 4.610069,
+      "longitude": -74.0692989
+    },
+    "estimatedDuration": 86,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "boston_9",
+    "name": "Iglesia de la Candelaria",
+    "description": "boston'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=8",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 4.5967838,
+      "longitude": -74.072457
+    },
+    "estimatedDuration": 56,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "boston_10",
+    "name": "Iglesia de San Ignacio",
+    "description": "boston'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=9",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 4.5967493,
+      "longitude": -74.0756114
+    },
+    "estimatedDuration": 71,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "boston_11",
+    "name": "Iglesia de Santa Barbara",
+    "description": "boston'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=10",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 4.5920629,
+      "longitude": -74.0785146
+    },
+    "estimatedDuration": 71,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "boston_12",
+    "name": "Museo Nacional de Colombia",
+    "description": "boston'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=11",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 4.6155119,
+      "longitude": -74.0682795
+    },
+    "estimatedDuration": 53,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "boston_13",
+    "name": "Iglesia del Voto Nacional",
+    "description": "boston'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=12",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 4.6023343,
+      "longitude": -74.0824119
+    },
+    "estimatedDuration": 71,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "boston_14",
+    "name": "Jardin Botanico José Celestino Mutis",
+    "description": "boston'de ziyaret edilebilecek popüler bir nokta: Jardin Botanico José Celestino Mutis.",
+    "image": "https://picsum.photos/800/600?random=13",
+    "category": "Park",
+    "coordinates": {
+      "latitude": 4.6679044,
+      "longitude": -74.1003656
+    },
+    "estimatedDuration": 44,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Park"
+    ]
+  },
+  {
+    "id": "boston_15",
+    "name": "Mundo Aventura",
+    "description": "boston'de ziyaret edilebilecek popüler bir nokta: Mundo Aventura.",
+    "image": "https://picsum.photos/800/600?random=14",
+    "category": "Eğlence",
+    "coordinates": {
+      "latitude": 4.6228389,
+      "longitude": -74.1353117
+    },
+    "estimatedDuration": 47,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Eğlence"
+    ]
+  },
+  {
+    "id": "boston_16",
+    "name": "Casa de la Moneda",
+    "description": "boston'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=15",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 4.5969338,
+      "longitude": -74.0734873
+    },
+    "estimatedDuration": 56,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 29,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "boston_17",
+    "name": "Iglesia de la concepcion",
+    "description": "boston'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=16",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 4.5986584,
+      "longitude": -74.0777178
+    },
+    "estimatedDuration": 30,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "boston_18",
+    "name": "Museo Casa 20 de Julio",
+    "description": "boston'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=17",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 4.5983343,
+      "longitude": -74.0751043
+    },
+    "estimatedDuration": 50,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "boston_19",
+    "name": "Iglesia de Nuestra",
+    "description": "boston'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=18",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 4.593537,
+      "longitude": -74.0689092
+    },
+    "estimatedDuration": 58,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 65,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "boston_20",
+    "name": "Iglesia de Las Aguas",
+    "description": "boston'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=19",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 4.6022295,
+      "longitude": -74.0666601
+    },
+    "estimatedDuration": 33,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "boston_21",
+    "name": "Las Nieves",
+    "description": "boston'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=20",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 4.606118,
+      "longitude": -74.0709199
+    },
+    "estimatedDuration": 76,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "boston_22",
+    "name": "Basílica del Señor de Monserrate",
+    "description": "boston'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=21",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 4.6056292,
+      "longitude": -74.055424
+    },
+    "estimatedDuration": 54,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "boston_23",
+    "name": "Maloka",
+    "description": "boston'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=22",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 4.655432,
+      "longitude": -74.1094916
+    },
+    "estimatedDuration": 81,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 6,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "boston_24",
+    "name": "Iglesia Santiago Apóstol",
+    "description": "boston'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=23",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 4.6729595,
+      "longitude": -74.1439016
+    },
+    "estimatedDuration": 50,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 77,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "boston_25",
+    "name": "Abou Bakr Al-Siddiq Mosque",
+    "description": "boston'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=24",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 4.6745288,
+      "longitude": -74.0673829
+    },
+    "estimatedDuration": 67,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "boston_26",
+    "name": "La Porciúncula",
+    "description": "boston'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=25",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 4.6573106,
+      "longitude": -74.0582597
+    },
+    "estimatedDuration": 51,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "boston_27",
+    "name": "Nuestra Señora de Lourdes",
+    "description": "boston'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=26",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 4.6495024,
+      "longitude": -74.0624295
+    },
+    "estimatedDuration": 43,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "boston_28",
+    "name": "Casa Museo Jorge Eliécer Gaitán",
+    "description": "boston'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=27",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 4.6308151,
+      "longitude": -74.069536
+    },
+    "estimatedDuration": 39,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 96,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "boston_29",
+    "name": "Museo Geológico Nacional José Royo y Gómez",
+    "description": "boston'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=28",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 4.64094,
+      "longitude": -74.0801994
+    },
+    "estimatedDuration": 48,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 9,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "boston_30",
+    "name": "Museo del Chicó",
+    "description": "boston'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=29",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 4.6739743,
+      "longitude": -74.0439653
+    },
+    "estimatedDuration": 50,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 100,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "boston_31",
+    "name": "Museo de Arte Colonial",
+    "description": "boston'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=30",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 4.5965918,
+      "longitude": -74.0752994
+    },
+    "estimatedDuration": 54,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "boston_32",
+    "name": "Museo Botero",
+    "description": "boston'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=31",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 4.5966814,
+      "longitude": -74.0732204
+    },
+    "estimatedDuration": 33,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "boston_33",
+    "name": "Casa de Poesia Silva",
+    "description": "boston'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=32",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 4.5986463,
+      "longitude": -74.0706364
+    },
+    "estimatedDuration": 89,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 145,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "boston_34",
+    "name": "Plaza de Bolívar",
+    "description": "boston'de ziyaret edilebilecek popüler bir nokta: Plaza de Bolívar.",
+    "image": "https://picsum.photos/800/600?random=33",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 4.5980985,
+      "longitude": -74.0760508
+    },
+    "estimatedDuration": 67,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  }
+]

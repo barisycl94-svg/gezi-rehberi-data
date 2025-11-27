@@ -1,0 +1,1064 @@
+[
+  {
+    "id": "split_1",
+    "name": "špilja Vranjača",
+    "description": "split'de ziyaret edilebilecek popüler bir nokta: špilja Vranjača.",
+    "image": "https://picsum.photos/800/600?random=0",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.5622373,
+      "longitude": 16.6487095
+    },
+    "estimatedDuration": 49,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "split_2",
+    "name": "Velika Papalićeva palača",
+    "description": "split'de ziyaret edilebilecek popüler bir nokta: Velika Papalićeva palača.",
+    "image": "https://picsum.photos/800/600?random=1",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.5086977,
+      "longitude": 16.4408684
+    },
+    "estimatedDuration": 48,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 92,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "split_3",
+    "name": "Labirint",
+    "description": "split'de ziyaret edilebilecek popüler bir nokta: Labirint.",
+    "image": "https://picsum.photos/800/600?random=2",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.5114421,
+      "longitude": 16.4126975
+    },
+    "estimatedDuration": 60,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 66,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "split_4",
+    "name": "Stara gradska vijećnica",
+    "description": "split'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=3",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 43.5089759,
+      "longitude": 16.4389973
+    },
+    "estimatedDuration": 78,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 146,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "split_5",
+    "name": "crkva Gospe od Dobrića",
+    "description": "split'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=4",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.5084916,
+      "longitude": 16.4380182
+    },
+    "estimatedDuration": 71,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "split_6",
+    "name": "Luko",
+    "description": "split'de ziyaret edilebilecek popüler bir nokta: Luko.",
+    "image": "https://picsum.photos/800/600?random=5",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.5637565,
+      "longitude": 16.4079093
+    },
+    "estimatedDuration": 34,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 189,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "split_7",
+    "name": "Biranj",
+    "description": "split'de ziyaret edilebilecek popüler bir nokta: Biranj.",
+    "image": "https://picsum.photos/800/600?random=6",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.5788562,
+      "longitude": 16.3514687
+    },
+    "estimatedDuration": 48,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 132,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "split_8",
+    "name": "Muzej Grada Trogira",
+    "description": "split'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=7",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 43.5173297,
+      "longitude": 16.2506656
+    },
+    "estimatedDuration": 66,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "split_9",
+    "name": "Kaštilac",
+    "description": "split'in tarihine tanıklık eden bir kale.",
+    "image": "https://picsum.photos/800/600?random=8",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.5474277,
+      "longitude": 16.3954767
+    },
+    "estimatedDuration": 57,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "split_10",
+    "name": "Podrumi Dioklecijanove palače",
+    "description": "split'de ziyaret edilebilecek popüler bir nokta: Podrumi Dioklecijanove palače.",
+    "image": "https://picsum.photos/800/600?random=9",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.5075787,
+      "longitude": 16.439785
+    },
+    "estimatedDuration": 41,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "split_11",
+    "name": "Ad basilicas pictas",
+    "description": "split'de ziyaret edilebilecek popüler bir nokta: Ad basilicas pictas.",
+    "image": "https://picsum.photos/800/600?random=10",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.5131102,
+      "longitude": 16.4420494
+    },
+    "estimatedDuration": 85,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 28,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "split_12",
+    "name": "Antički ribnjak",
+    "description": "split'de ziyaret edilebilecek popüler bir nokta: Antički ribnjak.",
+    "image": "https://picsum.photos/800/600?random=11",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.3804611,
+      "longitude": 16.3130116
+    },
+    "estimatedDuration": 55,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "split_13",
+    "name": "Muzej Iluzija",
+    "description": "split'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=12",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 43.5109097,
+      "longitude": 16.4392668
+    },
+    "estimatedDuration": 52,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "split_14",
+    "name": "Kaštel Dragač",
+    "description": "split'de ziyaret edilebilecek popüler bir nokta: Kaštel Dragač.",
+    "image": "https://picsum.photos/800/600?random=13",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.5419174,
+      "longitude": 16.3209585
+    },
+    "estimatedDuration": 40,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "split_15",
+    "name": "Kaštel Quarko",
+    "description": "split'de ziyaret edilebilecek popüler bir nokta: Kaštel Quarko.",
+    "image": "https://picsum.photos/800/600?random=14",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.5440104,
+      "longitude": 16.3242494
+    },
+    "estimatedDuration": 65,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "split_16",
+    "name": "Kaštel Kuparić",
+    "description": "split'de ziyaret edilebilecek popüler bir nokta: Kaštel Kuparić.",
+    "image": "https://picsum.photos/800/600?random=15",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.536125,
+      "longitude": 16.4461338
+    },
+    "estimatedDuration": 83,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "split_17",
+    "name": "Kaštel Andreis",
+    "description": "split'de ziyaret edilebilecek popüler bir nokta: Kaštel Andreis.",
+    "image": "https://picsum.photos/800/600?random=16",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.5494374,
+      "longitude": 16.3426777
+    },
+    "estimatedDuration": 42,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "split_18",
+    "name": "Splitska sinagoga",
+    "description": "split'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=17",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.5090525,
+      "longitude": 16.4394433
+    },
+    "estimatedDuration": 77,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 121,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "split_19",
+    "name": "Gospe od Prizidnice",
+    "description": "split'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=18",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.4841332,
+      "longitude": 16.3656827
+    },
+    "estimatedDuration": 87,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "split_20",
+    "name": "crkva Gospe od Ružarija",
+    "description": "split'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=19",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.5514589,
+      "longitude": 16.3428761
+    },
+    "estimatedDuration": 77,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 8,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "split_21",
+    "name": "Kaštel Celio Cega",
+    "description": "split'in tarihine tanıklık eden bir kale.",
+    "image": "https://picsum.photos/800/600?random=20",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.549639,
+      "longitude": 16.3432533
+    },
+    "estimatedDuration": 53,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "split_22",
+    "name": "crkva svetog Petra apostola",
+    "description": "split'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=21",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.5484459,
+      "longitude": 16.3382595
+    },
+    "estimatedDuration": 56,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "split_23",
+    "name": "Crkva sv. Marka",
+    "description": "split'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=22",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.4540013,
+      "longitude": 16.6436868
+    },
+    "estimatedDuration": 54,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 135,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "split_24",
+    "name": "Amfiteatar",
+    "description": "split'de ziyaret edilebilecek popüler bir nokta: Amfiteatar.",
+    "image": "https://picsum.photos/800/600?random=23",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.5384911,
+      "longitude": 16.474347
+    },
+    "estimatedDuration": 87,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "split_25",
+    "name": "Sv. Ivana Krstitelja",
+    "description": "split'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=24",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.5516187,
+      "longitude": 16.3593367
+    },
+    "estimatedDuration": 34,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "split_26",
+    "name": "crkva Gospe od Otoka",
+    "description": "split'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=25",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.5352408,
+      "longitude": 16.4905563
+    },
+    "estimatedDuration": 37,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "split_27",
+    "name": "Crkva svetog Stjepana",
+    "description": "split'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=26",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.5010666,
+      "longitude": 16.4251952
+    },
+    "estimatedDuration": 66,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "split_28",
+    "name": "Galerija Meštrović",
+    "description": "split'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=27",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 43.5048993,
+      "longitude": 16.4179409
+    },
+    "estimatedDuration": 39,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "split_29",
+    "name": "Arheološki muzej",
+    "description": "split'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=28",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 43.5158699,
+      "longitude": 16.4348605
+    },
+    "estimatedDuration": 35,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "split_30",
+    "name": "Sv. Roka",
+    "description": "split'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=29",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.384039,
+      "longitude": 16.4758475
+    },
+    "estimatedDuration": 64,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "split_31",
+    "name": "Kaštil Marijanović",
+    "description": "split'de ziyaret edilebilecek popüler bir nokta: Kaštil Marijanović.",
+    "image": "https://picsum.photos/800/600?random=30",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.3857792,
+      "longitude": 16.4795131
+    },
+    "estimatedDuration": 48,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "split_32",
+    "name": "crkva Uznesenja Blažene Djevice Marije",
+    "description": "split'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=31",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.3860758,
+      "longitude": 16.4775633
+    },
+    "estimatedDuration": 64,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "split_33",
+    "name": "Muzej vode u Splitu",
+    "description": "split'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=32",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 43.5131535,
+      "longitude": 16.4424864
+    },
+    "estimatedDuration": 51,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "split_34",
+    "name": "crkva Gospe od Zdravlja",
+    "description": "split'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=33",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.511286,
+      "longitude": 16.4378595
+    },
+    "estimatedDuration": 79,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "split_35",
+    "name": "Crkva sv. Jure",
+    "description": "split'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=34",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.5084645,
+      "longitude": 16.389114
+    },
+    "estimatedDuration": 41,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "split_36",
+    "name": "crkva svetog Lovre od Pazdigrada",
+    "description": "split'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=35",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.5084898,
+      "longitude": 16.4879652
+    },
+    "estimatedDuration": 73,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "split_37",
+    "name": "Gospe Od Betlema",
+    "description": "split'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=36",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.5090516,
+      "longitude": 16.4045017
+    },
+    "estimatedDuration": 89,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "split_38",
+    "name": "Palača Cindro",
+    "description": "split'in tarihine tanıklık eden bir kale.",
+    "image": "https://picsum.photos/800/600?random=37",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.5086014,
+      "longitude": 16.4399344
+    },
+    "estimatedDuration": 67,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "split_39",
+    "name": "Dioklecijanova palača",
+    "description": "split'de ziyaret edilebilecek popüler bir nokta: Dioklecijanova palača.",
+    "image": "https://picsum.photos/800/600?random=38",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.5083414,
+      "longitude": 16.440238
+    },
+    "estimatedDuration": 34,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "split_40",
+    "name": "Nadbiskupska palača",
+    "description": "split'in tarihine tanıklık eden bir kale.",
+    "image": "https://picsum.photos/800/600?random=39",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.5066963,
+      "longitude": 16.442602
+    },
+    "estimatedDuration": 62,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 9,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "split_41",
+    "name": "Dominikanska crkva sv. Katarine Aleksandrijske",
+    "description": "split'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=40",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.5078939,
+      "longitude": 16.4414864
+    },
+    "estimatedDuration": 78,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "split_42",
+    "name": "crkva Svete Trojice",
+    "description": "split'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=41",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.5209105,
+      "longitude": 16.435799
+    },
+    "estimatedDuration": 60,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "split_43",
+    "name": "Tvrđava Klis",
+    "description": "split'in tarihine tanıklık eden bir kale.",
+    "image": "https://picsum.photos/800/600?random=42",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.5600391,
+      "longitude": 16.5241526
+    },
+    "estimatedDuration": 45,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "split_44",
+    "name": "Sv. Ivan",
+    "description": "split'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=43",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.3846121,
+      "longitude": 16.482543
+    },
+    "estimatedDuration": 76,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "split_45",
+    "name": "Tvrđava Gripe",
+    "description": "split'in tarihine tanıklık eden bir kale.",
+    "image": "https://picsum.photos/800/600?random=44",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.5086575,
+      "longitude": 16.4474083
+    },
+    "estimatedDuration": 41,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "split_46",
+    "name": "Sv. Mikule",
+    "description": "split'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=45",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.5092166,
+      "longitude": 16.4343479
+    },
+    "estimatedDuration": 60,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "split_47",
+    "name": "Sv. Jure",
+    "description": "split'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=46",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.5690979,
+      "longitude": 16.3481286
+    },
+    "estimatedDuration": 35,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "split_48",
+    "name": "Crkva Sv. Nikole Putnika",
+    "description": "split'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=47",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.5073723,
+      "longitude": 16.4271075
+    },
+    "estimatedDuration": 74,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "split_49",
+    "name": "crkva svetog Jurja",
+    "description": "split'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=48",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.3458877,
+      "longitude": 16.4738022
+    },
+    "estimatedDuration": 41,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "split_50",
+    "name": "Crkva sv. Petra i Mojsija",
+    "description": "split'de ziyaret edilebilecek popüler bir nokta: Crkva sv. Petra i Mojsija.",
+    "image": "https://picsum.photos/800/600?random=49",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.5402239,
+      "longitude": 16.4968913
+    },
+    "estimatedDuration": 45,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "split_51",
+    "name": "Sv. Dujam",
+    "description": "split'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=50",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.526303,
+      "longitude": 16.4806708
+    },
+    "estimatedDuration": 64,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "split_52",
+    "name": "Crkva Sv. Martina",
+    "description": "split'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=51",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.3383367,
+      "longitude": 16.4682558
+    },
+    "estimatedDuration": 48,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 2,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "split_53",
+    "name": "Crkva svetog Benedikta",
+    "description": "split'de ziyaret edilebilecek popüler bir nokta: Crkva svetog Benedikta.",
+    "image": "https://picsum.photos/800/600?random=52",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.5139879,
+      "longitude": 16.402789
+    },
+    "estimatedDuration": 56,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "split_54",
+    "name": "Crkva Sv. Marije (Stomorica)",
+    "description": "split'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=53",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.3562673,
+      "longitude": 16.5032505
+    },
+    "estimatedDuration": 42,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "split_55",
+    "name": "Crkva sv. Arnir",
+    "description": "split'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=54",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.490492,
+      "longitude": 16.6534024
+    },
+    "estimatedDuration": 52,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "split_56",
+    "name": "Crkva Gospe od Sedam žalosti",
+    "description": "split'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=55",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.5077443,
+      "longitude": 16.4026413
+    },
+    "estimatedDuration": 41,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "split_57",
+    "name": "katedrala svetog Duje",
+    "description": "split'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=56",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.5080322,
+      "longitude": 16.4404549
+    },
+    "estimatedDuration": 66,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 67,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "split_58",
+    "name": "Gradska loža",
+    "description": "split'de ziyaret edilebilecek popüler bir nokta: Gradska loža.",
+    "image": "https://picsum.photos/800/600?random=57",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.5166877,
+      "longitude": 16.2511352
+    },
+    "estimatedDuration": 63,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "split_59",
+    "name": "Mala palača Ćipiko",
+    "description": "split'in tarihine tanıklık eden bir kale.",
+    "image": "https://picsum.photos/800/600?random=58",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.516691,
+      "longitude": 16.2509326
+    },
+    "estimatedDuration": 66,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  }
+]

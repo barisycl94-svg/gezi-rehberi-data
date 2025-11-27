@@ -1,0 +1,1082 @@
+[
+  {
+    "id": "vilnius_1",
+    "name": "Trys kryžiai",
+    "description": "vilnius'de ziyaret edilebilecek popüler bir nokta: Trys kryžiai.",
+    "image": "https://picsum.photos/800/600?random=0",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 54.6867363,
+      "longitude": 25.2975462
+    },
+    "estimatedDuration": 70,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "vilnius_2",
+    "name": "Adomas Mickevičius",
+    "description": "vilnius'de ziyaret edilebilecek popüler bir nokta: Adomas Mickevičius.",
+    "image": "https://picsum.photos/800/600?random=1",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 54.6827578,
+      "longitude": 25.2932121
+    },
+    "estimatedDuration": 34,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 49,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "vilnius_3",
+    "name": "Vilniaus aukštutinė pilis",
+    "description": "vilnius'in tarihine tanıklık eden bir kale.",
+    "image": "https://picsum.photos/800/600?random=2",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 54.6868801,
+      "longitude": 25.2910206
+    },
+    "estimatedDuration": 65,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "vilnius_4",
+    "name": "Adomo Mickevičiaus memorialinis muziejus",
+    "description": "vilnius'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=3",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 54.6833738,
+      "longitude": 25.2916966
+    },
+    "estimatedDuration": 55,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "vilnius_5",
+    "name": "Okupacijų ir laisvės kovų muziejus",
+    "description": "vilnius'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=4",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 54.688023,
+      "longitude": 25.2706894
+    },
+    "estimatedDuration": 48,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "vilnius_6",
+    "name": "Struvės geodezinis punktas",
+    "description": "vilnius'de ziyaret edilebilecek popüler bir nokta: Struvės geodezinis punktas.",
+    "image": "https://picsum.photos/800/600?random=5",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 54.6344281,
+      "longitude": 25.4290661
+    },
+    "estimatedDuration": 59,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "vilnius_7",
+    "name": "Pūčkorių atodanga",
+    "description": "vilnius'de ziyaret edilebilecek popüler bir nokta: Pūčkorių atodanga.",
+    "image": "https://picsum.photos/800/600?random=6",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 54.692175,
+      "longitude": 25.3528246
+    },
+    "estimatedDuration": 63,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "vilnius_8",
+    "name": "Bažnytinio paveldo muziejus",
+    "description": "vilnius'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=7",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 54.6828102,
+      "longitude": 25.2922394
+    },
+    "estimatedDuration": 87,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "vilnius_9",
+    "name": "Neravų piliakalnis",
+    "description": "vilnius'de ziyaret edilebilecek popüler bir nokta: Neravų piliakalnis.",
+    "image": "https://picsum.photos/800/600?random=8",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 54.6773611,
+      "longitude": 25.1308056
+    },
+    "estimatedDuration": 64,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "vilnius_10",
+    "name": "Plikasis (Kreivasis) kalnas",
+    "description": "vilnius'de ziyaret edilebilecek popüler bir nokta: Plikasis (Kreivasis) kalnas.",
+    "image": "https://picsum.photos/800/600?random=9",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 54.6870585,
+      "longitude": 25.2975189
+    },
+    "estimatedDuration": 84,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "vilnius_11",
+    "name": "Stalo kalnas",
+    "description": "vilnius'de ziyaret edilebilecek popüler bir nokta: Stalo kalnas.",
+    "image": "https://picsum.photos/800/600?random=10",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 54.6871944,
+      "longitude": 25.3013056
+    },
+    "estimatedDuration": 61,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 121,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "vilnius_12",
+    "name": "Pūčkorių piliakalnis",
+    "description": "vilnius'de ziyaret edilebilecek popüler bir nokta: Pūčkorių piliakalnis.",
+    "image": "https://picsum.photos/800/600?random=11",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 54.6892222,
+      "longitude": 25.3694722
+    },
+    "estimatedDuration": 37,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "vilnius_13",
+    "name": "Naujosios Rėvos piliakalnis",
+    "description": "vilnius'de ziyaret edilebilecek popüler bir nokta: Naujosios Rėvos piliakalnis.",
+    "image": "https://picsum.photos/800/600?random=12",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 54.7396667,
+      "longitude": 25.02275
+    },
+    "estimatedDuration": 75,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "vilnius_14",
+    "name": "Rokantiškių piliavietė",
+    "description": "vilnius'de ziyaret edilebilecek popüler bir nokta: Rokantiškių piliavietė.",
+    "image": "https://picsum.photos/800/600?random=13",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 54.6899136,
+      "longitude": 25.3911534
+    },
+    "estimatedDuration": 85,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "vilnius_15",
+    "name": "Papiškių piliakalnis",
+    "description": "vilnius'de ziyaret edilebilecek popüler bir nokta: Papiškių piliakalnis.",
+    "image": "https://picsum.photos/800/600?random=14",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 54.5975833,
+      "longitude": 25.3942778
+    },
+    "estimatedDuration": 74,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "vilnius_16",
+    "name": "Rokantiškių piliakalnis",
+    "description": "vilnius'de ziyaret edilebilecek popüler bir nokta: Rokantiškių piliakalnis.",
+    "image": "https://picsum.photos/800/600?random=15",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 54.6847725,
+      "longitude": 25.40591
+    },
+    "estimatedDuration": 47,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 187,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "vilnius_17",
+    "name": "Vilkeliškių piliakalnis",
+    "description": "vilnius'de ziyaret edilebilecek popüler bir nokta: Vilkeliškių piliakalnis.",
+    "image": "https://picsum.photos/800/600?random=16",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 54.7005632,
+      "longitude": 25.1582575
+    },
+    "estimatedDuration": 83,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "vilnius_18",
+    "name": "Staviškių piliakalnis",
+    "description": "vilnius'de ziyaret edilebilecek popüler bir nokta: Staviškių piliakalnis.",
+    "image": "https://picsum.photos/800/600?random=17",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 54.7614831,
+      "longitude": 25.3467284
+    },
+    "estimatedDuration": 76,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 96,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "vilnius_19",
+    "name": "Mažosios Riešės piliakalnis",
+    "description": "vilnius'de ziyaret edilebilecek popüler bir nokta: Mažosios Riešės piliakalnis.",
+    "image": "https://picsum.photos/800/600?random=18",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 54.8083056,
+      "longitude": 25.2020278
+    },
+    "estimatedDuration": 57,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "vilnius_20",
+    "name": "Lietuvos banko Pinigų muziejus",
+    "description": "vilnius'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=19",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 54.6865081,
+      "longitude": 25.2824605
+    },
+    "estimatedDuration": 88,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "vilnius_21",
+    "name": "Antakalnio bunkeriai",
+    "description": "vilnius'de ziyaret edilebilecek popüler bir nokta: Antakalnio bunkeriai.",
+    "image": "https://picsum.photos/800/600?random=20",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 54.7007261,
+      "longitude": 25.3323503
+    },
+    "estimatedDuration": 41,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 6,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "vilnius_22",
+    "name": "Stirnių piliakalnis",
+    "description": "vilnius'de ziyaret edilebilecek popüler bir nokta: Stirnių piliakalnis.",
+    "image": "https://picsum.photos/800/600?random=21",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 54.7191389,
+      "longitude": 25.0465858
+    },
+    "estimatedDuration": 67,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 196,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "vilnius_23",
+    "name": "Pilaitės piliavietė",
+    "description": "vilnius'de ziyaret edilebilecek popüler bir nokta: Pilaitės piliavietė.",
+    "image": "https://picsum.photos/800/600?random=22",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 54.7038078,
+      "longitude": 25.1939343
+    },
+    "estimatedDuration": 85,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "vilnius_24",
+    "name": "Tuputiškių serpantinas",
+    "description": "vilnius'de ziyaret edilebilecek popüler bir nokta: Tuputiškių serpantinas.",
+    "image": "https://picsum.photos/800/600?random=23",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 54.6736565,
+      "longitude": 25.3571771
+    },
+    "estimatedDuration": 44,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "vilnius_25",
+    "name": "Tuskulėnų dvaras",
+    "description": "vilnius'de ziyaret edilebilecek popüler bir nokta: Tuskulėnų dvaras.",
+    "image": "https://picsum.photos/800/600?random=24",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 54.6989976,
+      "longitude": 25.3027362
+    },
+    "estimatedDuration": 83,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "vilnius_26",
+    "name": "Baltosios Vokės buv. dvaro sodybos fragmentai",
+    "description": "vilnius'de ziyaret edilebilecek popüler bir nokta: Baltosios Vokės buv. dvaro sodybos fragmentai.",
+    "image": "https://picsum.photos/800/600?random=25",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 54.5980046,
+      "longitude": 25.1899624
+    },
+    "estimatedDuration": 88,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 63,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "vilnius_27",
+    "name": "Buivydiškių dvaro sodyba",
+    "description": "vilnius'de ziyaret edilebilecek popüler bir nokta: Buivydiškių dvaro sodyba.",
+    "image": "https://picsum.photos/800/600?random=26",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 54.7204067,
+      "longitude": 25.1968546
+    },
+    "estimatedDuration": 64,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "vilnius_28",
+    "name": "Petešos dvaro sodyba",
+    "description": "vilnius'de ziyaret edilebilecek popüler bir nokta: Petešos dvaro sodyba.",
+    "image": "https://picsum.photos/800/600?random=27",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 54.5658331,
+      "longitude": 25.347824
+    },
+    "estimatedDuration": 54,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 180,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "vilnius_29",
+    "name": "Liubavo dvaras",
+    "description": "vilnius'de ziyaret edilebilecek popüler bir nokta: Liubavo dvaras.",
+    "image": "https://picsum.photos/800/600?random=28",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 54.85185,
+      "longitude": 25.34087
+    },
+    "estimatedDuration": 33,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 164,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "vilnius_30",
+    "name": "Kučkuriškių piliakalnis",
+    "description": "vilnius'de ziyaret edilebilecek popüler bir nokta: Kučkuriškių piliakalnis.",
+    "image": "https://picsum.photos/800/600?random=29",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 54.6993703,
+      "longitude": 25.3672858
+    },
+    "estimatedDuration": 43,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "vilnius_31",
+    "name": "Signatarų namai",
+    "description": "vilnius'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=30",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 54.682321,
+      "longitude": 25.289265
+    },
+    "estimatedDuration": 30,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "vilnius_32",
+    "name": "Gariūnų piliakalnis",
+    "description": "vilnius'de ziyaret edilebilecek popüler bir nokta: Gariūnų piliakalnis.",
+    "image": "https://picsum.photos/800/600?random=31",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 54.6563095,
+      "longitude": 25.1757687
+    },
+    "estimatedDuration": 45,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "vilnius_33",
+    "name": "Vilniaus dailės akademijos muziejus",
+    "description": "vilnius'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=32",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 54.6834335,
+      "longitude": 25.2940182
+    },
+    "estimatedDuration": 88,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "vilnius_34",
+    "name": "Europos centro muziejus Europos parkas",
+    "description": "vilnius'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=33",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 54.8308756,
+      "longitude": 25.3516217
+    },
+    "estimatedDuration": 73,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "vilnius_35",
+    "name": "Modernaus meno centras",
+    "description": "vilnius'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=34",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 54.682318,
+      "longitude": 25.290634
+    },
+    "estimatedDuration": 66,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "vilnius_36",
+    "name": "Geležinkelių muziejus",
+    "description": "vilnius'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=35",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 54.670257,
+      "longitude": 25.284226
+    },
+    "estimatedDuration": 55,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 69,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "vilnius_37",
+    "name": "Avižienių piliakalnis",
+    "description": "vilnius'de ziyaret edilebilecek popüler bir nokta: Avižienių piliakalnis.",
+    "image": "https://picsum.photos/800/600?random=36",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 54.7618611,
+      "longitude": 25.1725556
+    },
+    "estimatedDuration": 34,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "vilnius_38",
+    "name": "Gudelių piliakalnis",
+    "description": "vilnius'de ziyaret edilebilecek popüler bir nokta: Gudelių piliakalnis.",
+    "image": "https://picsum.photos/800/600?random=37",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 54.6893333,
+      "longitude": 25.1888889
+    },
+    "estimatedDuration": 31,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 133,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "vilnius_39",
+    "name": "Plikakalnio atodanga",
+    "description": "vilnius'de ziyaret edilebilecek popüler bir nokta: Plikakalnio atodanga.",
+    "image": "https://picsum.photos/800/600?random=38",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 54.6846192,
+      "longitude": 25.2237842
+    },
+    "estimatedDuration": 75,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "vilnius_40",
+    "name": "Naujosios Vilnios pilkapynas",
+    "description": "vilnius'de ziyaret edilebilecek popüler bir nokta: Naujosios Vilnios pilkapynas.",
+    "image": "https://picsum.photos/800/600?random=39",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 54.6984576,
+      "longitude": 25.3802746
+    },
+    "estimatedDuration": 46,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "vilnius_41",
+    "name": "Rykantų ąžuolas",
+    "description": "vilnius'de ziyaret edilebilecek popüler bir nokta: Rykantų ąžuolas.",
+    "image": "https://picsum.photos/800/600?random=40",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 54.7002806,
+      "longitude": 25.0109278
+    },
+    "estimatedDuration": 33,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "vilnius_42",
+    "name": "TV bokštas",
+    "description": "vilnius'de ziyaret edilebilecek popüler bir nokta: TV bokštas.",
+    "image": "https://picsum.photos/800/600?random=41",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 54.6871468,
+      "longitude": 25.214721
+    },
+    "estimatedDuration": 69,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "vilnius_43",
+    "name": "Saidės akmuo",
+    "description": "vilnius'de ziyaret edilebilecek popüler bir nokta: Saidės akmuo.",
+    "image": "https://picsum.photos/800/600?random=42",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 54.7212213,
+      "longitude": 25.0441229
+    },
+    "estimatedDuration": 52,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 15,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "vilnius_44",
+    "name": "Kairėnų dvaras",
+    "description": "vilnius'de ziyaret edilebilecek popüler bir nokta: Kairėnų dvaras.",
+    "image": "https://picsum.photos/800/600?random=43",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 54.7352852,
+      "longitude": 25.402987
+    },
+    "estimatedDuration": 44,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "vilnius_45",
+    "name": "Aštuonių klevų ratas Vileišių sodyboje",
+    "description": "vilnius'de ziyaret edilebilecek popüler bir nokta: Aštuonių klevų ratas Vileišių sodyboje.",
+    "image": "https://picsum.photos/800/600?random=44",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 54.6949027,
+      "longitude": 25.3053358
+    },
+    "estimatedDuration": 71,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "vilnius_46",
+    "name": "Radvilų rūmai",
+    "description": "vilnius'de ziyaret edilebilecek popüler bir nokta: Radvilų rūmai.",
+    "image": "https://picsum.photos/800/600?random=45",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 54.6838395,
+      "longitude": 25.279887
+    },
+    "estimatedDuration": 35,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 73,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "vilnius_47",
+    "name": "Baniškių pilkapynas",
+    "description": "vilnius'de ziyaret edilebilecek popüler bir nokta: Baniškių pilkapynas.",
+    "image": "https://picsum.photos/800/600?random=46",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 54.7486111,
+      "longitude": 25.3758333
+    },
+    "estimatedDuration": 46,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 187,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "vilnius_48",
+    "name": "Šnipiškių bunkeriai",
+    "description": "vilnius'de ziyaret edilebilecek popüler bir nokta: Šnipiškių bunkeriai.",
+    "image": "https://picsum.photos/800/600?random=47",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 54.7052253,
+      "longitude": 25.2657705
+    },
+    "estimatedDuration": 82,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 77,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "vilnius_49",
+    "name": "Valakampių atodanga",
+    "description": "vilnius'de ziyaret edilebilecek popüler bir nokta: Valakampių atodanga.",
+    "image": "https://picsum.photos/800/600?random=48",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 54.729903,
+      "longitude": 25.305467
+    },
+    "estimatedDuration": 46,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "vilnius_50",
+    "name": "Lentvario dvaro sodyba",
+    "description": "vilnius'de ziyaret edilebilecek popüler bir nokta: Lentvario dvaro sodyba.",
+    "image": "https://picsum.photos/800/600?random=49",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 54.6588663,
+      "longitude": 25.0381449
+    },
+    "estimatedDuration": 48,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 103,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "vilnius_51",
+    "name": "Automuziejus Vilnius",
+    "description": "vilnius'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=50",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 54.6650587,
+      "longitude": 25.2738168
+    },
+    "estimatedDuration": 37,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "vilnius_52",
+    "name": "Vilniaus Ivano Lukievičiaus baltarusių muziejus",
+    "description": "vilnius'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=51",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 54.6846331,
+      "longitude": 25.279831
+    },
+    "estimatedDuration": 36,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "vilnius_53",
+    "name": "Vilniaus Šv. Stanislovo ir Šv. Vladislovo arkikatedra bazilika",
+    "description": "vilnius'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=52",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 54.6858898,
+      "longitude": 25.2877952
+    },
+    "estimatedDuration": 50,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 84,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "vilnius_54",
+    "name": "Gedimino pilis",
+    "description": "vilnius'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=53",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 54.6867592,
+      "longitude": 25.2906848
+    },
+    "estimatedDuration": 39,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "vilnius_55",
+    "name": "Lietuvos Respublikos prezidentūra",
+    "description": "vilnius'de ziyaret edilebilecek popüler bir nokta: Lietuvos Respublikos prezidentūra.",
+    "image": "https://picsum.photos/800/600?random=54",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 54.6829597,
+      "longitude": 25.2859308
+    },
+    "estimatedDuration": 66,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 41,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "vilnius_56",
+    "name": "Šv. Jonų bažnyčia",
+    "description": "vilnius'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=55",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 54.6826859,
+      "longitude": 25.2885541
+    },
+    "estimatedDuration": 61,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 25,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "vilnius_57",
+    "name": "Šiuolaikinio meno centras",
+    "description": "vilnius'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=56",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 54.6780159,
+      "longitude": 25.2857526
+    },
+    "estimatedDuration": 34,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "vilnius_58",
+    "name": "Lietuvos nacionalinis muziejus",
+    "description": "vilnius'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=57",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 54.6873636,
+      "longitude": 25.2891535
+    },
+    "estimatedDuration": 70,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "vilnius_59",
+    "name": "Vilniaus Švč. Trejybės bažnyčia",
+    "description": "vilnius'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=58",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 54.7310918,
+      "longitude": 25.2911128
+    },
+    "estimatedDuration": 43,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 171,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "vilnius_60",
+    "name": "MO muziejus",
+    "description": "vilnius'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=59",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 54.6793497,
+      "longitude": 25.2774967
+    },
+    "estimatedDuration": 30,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  }
+]

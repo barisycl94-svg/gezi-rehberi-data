@@ -1,0 +1,524 @@
+[
+  {
+    "id": "canberra_1",
+    "name": "Australian Hellenic Memorial",
+    "description": "canberra'de ziyaret edilebilecek popüler bir nokta: Australian Hellenic Memorial.",
+    "image": "https://picsum.photos/800/600?random=0",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -35.2820935,
+      "longitude": 149.1466318
+    },
+    "estimatedDuration": 36,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 186,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "canberra_2",
+    "name": "Kemal Atatürk Memorial",
+    "description": "canberra'de ziyaret edilebilecek popüler bir nokta: Kemal Atatürk Memorial.",
+    "image": "https://picsum.photos/800/600?random=1",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -35.2828808,
+      "longitude": 149.1479127
+    },
+    "estimatedDuration": 47,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "canberra_3",
+    "name": "Australian Army National Memorial",
+    "description": "canberra'de ziyaret edilebilecek popüler bir nokta: Australian Army National Memorial.",
+    "image": "https://picsum.photos/800/600?random=2",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -35.2838529,
+      "longitude": 149.1454343
+    },
+    "estimatedDuration": 39,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 70,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "canberra_4",
+    "name": "Royal Australian Navy Memorial",
+    "description": "canberra'de ziyaret edilebilecek popüler bir nokta: Royal Australian Navy Memorial.",
+    "image": "https://images.pexels.com/photos/29850345/pexels-photo-29850345.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -35.2843959,
+      "longitude": 149.146303
+    },
+    "estimatedDuration": 83,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 37,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "canberra_5",
+    "name": "Australian Service Nurses National Memorial",
+    "description": "canberra'de ziyaret edilebilecek popüler bir nokta: Australian Service Nurses National Memorial.",
+    "image": "https://picsum.photos/800/600?random=4",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -35.2862,
+      "longitude": 149.144694
+    },
+    "estimatedDuration": 71,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 149,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "canberra_6",
+    "name": "Australian Vietnam Forces National Memorial",
+    "description": "canberra'de ziyaret edilebilecek popüler bir nokta: Australian Vietnam Forces National Memorial.",
+    "image": "https://picsum.photos/800/600?random=5",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -35.2865153,
+      "longitude": 149.1429881
+    },
+    "estimatedDuration": 65,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "canberra_7",
+    "name": "Royal Australian Air Force Memorial",
+    "description": "canberra'de ziyaret edilebilecek popüler bir nokta: Royal Australian Air Force Memorial.",
+    "image": "https://picsum.photos/800/600?random=6",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -35.2870854,
+      "longitude": 149.1439549
+    },
+    "estimatedDuration": 51,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "canberra_8",
+    "name": "Desert Mounted Corps Memorial",
+    "description": "canberra'de ziyaret edilebilecek popüler bir nokta: Desert Mounted Corps Memorial.",
+    "image": "https://picsum.photos/800/600?random=7",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -35.287391,
+      "longitude": 149.1422264
+    },
+    "estimatedDuration": 34,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 177,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "canberra_9",
+    "name": "Rats of Tobruk Memorial",
+    "description": "canberra'de ziyaret edilebilecek popüler bir nokta: Rats of Tobruk Memorial.",
+    "image": "https://picsum.photos/800/600?random=8",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -35.2879603,
+      "longitude": 149.1431813
+    },
+    "estimatedDuration": 40,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 182,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "canberra_10",
+    "name": "New Zealand Memorial",
+    "description": "canberra'de ziyaret edilebilecek popüler bir nokta: New Zealand Memorial.",
+    "image": "https://picsum.photos/800/600?random=9",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -35.288836,
+      "longitude": 149.1409282
+    },
+    "estimatedDuration": 64,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 5,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "canberra_11",
+    "name": "Australian–American Memorial",
+    "description": "canberra'de ziyaret edilebilecek popüler bir nokta: Australian–American Memorial.",
+    "image": "https://picsum.photos/800/600?random=10",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -35.2975684,
+      "longitude": 149.1516924
+    },
+    "estimatedDuration": 74,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 69,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "canberra_12",
+    "name": "Captain Cook Memorial Globe",
+    "description": "canberra'de ziyaret edilebilecek popüler bir nokta: Captain Cook Memorial Globe.",
+    "image": "https://picsum.photos/800/600?random=11",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -35.2904364,
+      "longitude": 149.1296004
+    },
+    "estimatedDuration": 40,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "canberra_13",
+    "name": "National Emergency Services Memorial",
+    "description": "canberra'de ziyaret edilebilecek popüler bir nokta: National Emergency Services Memorial.",
+    "image": "https://images.pexels.com/photos/6406920/pexels-photo-6406920.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -35.2920022,
+      "longitude": 149.1407162
+    },
+    "estimatedDuration": 69,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "canberra_14",
+    "name": "Aboriginal Tent Embassy",
+    "description": "canberra'de ziyaret edilebilecek popüler bir nokta: Aboriginal Tent Embassy.",
+    "image": "https://picsum.photos/800/600?random=13",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -35.301185,
+      "longitude": 149.130382
+    },
+    "estimatedDuration": 62,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "canberra_15",
+    "name": "Mount Pleasant Lookout",
+    "description": "canberra'de ziyaret edilebilecek popüler bir nokta: Mount Pleasant Lookout.",
+    "image": "https://picsum.photos/800/600?random=14",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -35.2986755,
+      "longitude": 149.1580455
+    },
+    "estimatedDuration": 50,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 4,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "canberra_16",
+    "name": "National Library of Australia",
+    "description": "canberra'de ziyaret edilebilecek popüler bir nokta: National Library of Australia.",
+    "image": "https://picsum.photos/800/600?random=15",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -35.2964864,
+      "longitude": 149.1295113
+    },
+    "estimatedDuration": 80,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "canberra_17",
+    "name": "High Court of Australia",
+    "description": "canberra'de ziyaret edilebilecek popüler bir nokta: High Court of Australia.",
+    "image": "https://picsum.photos/800/600?random=16",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -35.2989867,
+      "longitude": 149.1357249
+    },
+    "estimatedDuration": 58,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 93,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "canberra_18",
+    "name": "Questacon",
+    "description": "canberra'de ziyaret edilebilecek popüler bir nokta: Questacon.",
+    "image": "https://picsum.photos/800/600?random=17",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -35.2985049,
+      "longitude": 149.1313942
+    },
+    "estimatedDuration": 41,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "canberra_19",
+    "name": "National Portrait Gallery",
+    "description": "canberra'de ziyaret edilebilecek popüler bir nokta: National Portrait Gallery.",
+    "image": "https://picsum.photos/800/600?random=18",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": -35.2998238,
+      "longitude": 149.1338823
+    },
+    "estimatedDuration": 64,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "canberra_20",
+    "name": "Cockington Green Gardens",
+    "description": "canberra'de ziyaret edilebilecek popüler bir nokta: Cockington Green Gardens.",
+    "image": "https://picsum.photos/800/600?random=19",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -35.191565,
+      "longitude": 149.0866559
+    },
+    "estimatedDuration": 33,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 141,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "canberra_21",
+    "name": "National Gallery of Australia",
+    "description": "canberra'de ziyaret edilebilecek popüler bir nokta: National Gallery of Australia.",
+    "image": "https://picsum.photos/800/600?random=20",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": -35.3008191,
+      "longitude": 149.1366839
+    },
+    "estimatedDuration": 67,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "canberra_22",
+    "name": "King George V memorial",
+    "description": "canberra'de ziyaret edilebilecek popüler bir nokta: King George V memorial.",
+    "image": "https://picsum.photos/800/600?random=21",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -35.3010846,
+      "longitude": 149.1297543
+    },
+    "estimatedDuration": 35,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 59,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "canberra_23",
+    "name": "Boer War Memorial",
+    "description": "canberra'de ziyaret edilebilecek popüler bir nokta: Boer War Memorial.",
+    "image": "https://picsum.photos/800/600?random=22",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -35.2883028,
+      "longitude": 149.1414173
+    },
+    "estimatedDuration": 77,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "canberra_24",
+    "name": "National Dinosaur Museum",
+    "description": "canberra'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=23",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": -35.1943045,
+      "longitude": 149.0880659
+    },
+    "estimatedDuration": 49,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 74,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "canberra_25",
+    "name": "Commonwealth Place",
+    "description": "canberra şehrinde doğa ile iç içe bir park.",
+    "image": "https://picsum.photos/800/600?random=24",
+    "category": "Park",
+    "coordinates": {
+      "latitude": -35.2972948,
+      "longitude": 149.1340876
+    },
+    "estimatedDuration": 43,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 84,
+    "interests": [
+      "Park"
+    ]
+  },
+  {
+    "id": "canberra_26",
+    "name": "National Arboretum Canberra",
+    "description": "canberra'de ziyaret edilebilecek popüler bir nokta: National Arboretum Canberra.",
+    "image": "https://picsum.photos/800/600?random=25",
+    "category": "Park",
+    "coordinates": {
+      "latitude": -35.2930029,
+      "longitude": 149.0700819
+    },
+    "estimatedDuration": 38,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Park"
+    ]
+  },
+  {
+    "id": "canberra_27",
+    "name": "Gold Creek Homestead",
+    "description": "canberra'de ziyaret edilebilecek popüler bir nokta: Gold Creek Homestead.",
+    "image": "https://picsum.photos/800/600?random=26",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -35.1753298,
+      "longitude": 149.1041393
+    },
+    "estimatedDuration": 40,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 184,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "canberra_28",
+    "name": "Australian War Memorial",
+    "description": "canberra'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=27",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": -35.2805923,
+      "longitude": 149.1490152
+    },
+    "estimatedDuration": 58,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "canberra_29",
+    "name": "Canberra Railway Museum",
+    "description": "canberra'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=28",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": -35.3185944,
+      "longitude": 149.1553173
+    },
+    "estimatedDuration": 35,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  }
+]

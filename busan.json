@@ -1,0 +1,290 @@
+[
+  {
+    "id": "busan_1",
+    "name": "위안부 평화비",
+    "description": "busan'de ziyaret edilebilecek popüler bir nokta: 위안부 평화비.",
+    "image": "https://picsum.photos/800/600?random=0",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 35.1211081,
+      "longitude": 129.0428001
+    },
+    "estimatedDuration": 49,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 156,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "busan_2",
+    "name": "부산항대교",
+    "description": "busan'de ziyaret edilebilecek popüler bir nokta: 부산항대교.",
+    "image": "https://picsum.photos/800/600?random=1",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 35.1050889,
+      "longitude": 129.0639918
+    },
+    "estimatedDuration": 86,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "busan_3",
+    "name": "기장산성",
+    "description": "busan'de ziyaret edilebilecek popüler bir nokta: 기장산성.",
+    "image": "https://picsum.photos/800/600?random=2",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 35.2418753,
+      "longitude": 129.1936696
+    },
+    "estimatedDuration": 72,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "busan_4",
+    "name": "좌수영성지 곰솔",
+    "description": "busan'de ziyaret edilebilecek popüler bir nokta: 좌수영성지 곰솔.",
+    "image": "https://picsum.photos/800/600?random=3",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 35.1702765,
+      "longitude": 129.1146954
+    },
+    "estimatedDuration": 45,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "busan_5",
+    "name": "해운대 해수욕장",
+    "description": "busan'de ziyaret edilebilecek popüler bir nokta: 해운대 해수욕장.",
+    "image": "https://picsum.photos/800/600?random=4",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 35.1576473,
+      "longitude": 129.1621473
+    },
+    "estimatedDuration": 44,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "busan_6",
+    "name": "범어사",
+    "description": "busan'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=5",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 35.283984,
+      "longitude": 129.068642
+    },
+    "estimatedDuration": 62,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 163,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "busan_7",
+    "name": "국립해양박물관",
+    "description": "busan'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=6",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 35.0785635,
+      "longitude": 129.0803222
+    },
+    "estimatedDuration": 83,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "busan_8",
+    "name": "한국 이슬람교 부산성원",
+    "description": "busan'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=7",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 35.2599833,
+      "longitude": 129.0922301
+    },
+    "estimatedDuration": 34,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "busan_9",
+    "name": "감천문화마을",
+    "description": "busan'de ziyaret edilebilecek popüler bir nokta: 감천문화마을.",
+    "image": "https://picsum.photos/800/600?random=8",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 35.0962903,
+      "longitude": 129.0087976
+    },
+    "estimatedDuration": 42,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "busan_10",
+    "name": "해동용궁사",
+    "description": "busan'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=9",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 35.188401,
+      "longitude": 129.223074
+    },
+    "estimatedDuration": 86,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "busan_11",
+    "name": "광안대교",
+    "description": "busan'de ziyaret edilebilecek popüler bir nokta: 광안대교.",
+    "image": "https://picsum.photos/800/600?random=10",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 35.1456826,
+      "longitude": 129.12838
+    },
+    "estimatedDuration": 31,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "busan_12",
+    "name": "일제강제동원역사관",
+    "description": "busan'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=11",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 35.1246234,
+      "longitude": 129.0920738
+    },
+    "estimatedDuration": 79,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "busan_13",
+    "name": "국립부산과학관",
+    "description": "busan'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=12",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 35.2044274,
+      "longitude": 129.2127964
+    },
+    "estimatedDuration": 58,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "busan_14",
+    "name": "부산박물관",
+    "description": "busan'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=13",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 35.1293905,
+      "longitude": 129.094342
+    },
+    "estimatedDuration": 46,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "busan_15",
+    "name": "부산타워",
+    "description": "busan'de ziyaret edilebilecek popüler bir nokta: 부산타워.",
+    "image": "https://picsum.photos/800/600?random=14",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 35.1012937,
+      "longitude": 129.0322296
+    },
+    "estimatedDuration": 71,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 127,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "busan_16",
+    "name": "유엔평화기념관",
+    "description": "busan'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=15",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 35.1246522,
+      "longitude": 129.0933066
+    },
+    "estimatedDuration": 79,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  }
+]

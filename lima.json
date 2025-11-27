@@ -1,0 +1,74 @@
+[
+  {
+    "id": "lima_1",
+    "name": "Nickel Plate 779",
+    "description": "lima'de ziyaret edilebilecek popüler bir nokta: Nickel Plate 779.",
+    "image": "https://images.pexels.com/photos/15059762/pexels-photo-15059762.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 40.7385019,
+      "longitude": -84.0892141
+    },
+    "estimatedDuration": 30,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "lima_2",
+    "name": "Allen County Museum",
+    "description": "lima'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=1",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 40.740568,
+      "longitude": -84.1138161
+    },
+    "estimatedDuration": 73,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 158,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "lima_3",
+    "name": "Haunted Town Hall",
+    "description": "lima'de ziyaret edilebilecek popüler bir nokta: Haunted Town Hall.",
+    "image": "https://images.pexels.com/photos/31283302/pexels-photo-31283302.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 40.7591246,
+      "longitude": -83.948266
+    },
+    "estimatedDuration": 72,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "lima_4",
+    "name": "Lafayette-Jackson Historical Society",
+    "description": "lima'de bulunan önemli bir müze.",
+    "image": "https://images.pexels.com/photos/22678127/pexels-photo-22678127.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 40.7600683,
+      "longitude": -83.9487913
+    },
+    "estimatedDuration": 81,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  }
+]

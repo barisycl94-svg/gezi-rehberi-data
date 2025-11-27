@@ -1,0 +1,884 @@
+[
+  {
+    "id": "seattle_1",
+    "name": "Dai Bai Zan Cho Bo Zen Ji",
+    "description": "seattle'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=0",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 47.5739087,
+      "longitude": -122.309763
+    },
+    "estimatedDuration": 68,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 130,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "seattle_2",
+    "name": "Seattle Great Wheel",
+    "description": "seattle'de ziyaret edilebilecek popüler bir nokta: Seattle Great Wheel.",
+    "image": "https://picsum.photos/800/600?random=1",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 47.6061669,
+      "longitude": -122.3424999
+    },
+    "estimatedDuration": 55,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 159,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "seattle_3",
+    "name": "Seattle Art Museum",
+    "description": "seattle'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=2",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 47.6077008,
+      "longitude": -122.3385575
+    },
+    "estimatedDuration": 51,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "seattle_4",
+    "name": "Seattle Children's Museum",
+    "description": "seattle'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=3",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 47.621462,
+      "longitude": -122.3509886
+    },
+    "estimatedDuration": 87,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 173,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "seattle_5",
+    "name": "The Electric Lady Studio Guitar",
+    "description": "seattle'de ziyaret edilebilecek popüler bir nokta: The Electric Lady Studio Guitar.",
+    "image": "https://picsum.photos/800/600?random=4",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 47.6155091,
+      "longitude": -122.3206816
+    },
+    "estimatedDuration": 69,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "seattle_6",
+    "name": "Seattle Fallen Fire Fighters' Memorial",
+    "description": "seattle'de ziyaret edilebilecek popüler bir nokta: Seattle Fallen Fire Fighters' Memorial.",
+    "image": "https://picsum.photos/800/600?random=5",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 47.6002023,
+      "longitude": -122.3330105
+    },
+    "estimatedDuration": 54,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 83,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "seattle_7",
+    "name": "Dr. Mark A. Matthews",
+    "description": "seattle'de ziyaret edilebilecek popüler bir nokta: Dr. Mark A. Matthews.",
+    "image": "https://picsum.photos/800/600?random=6",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 47.6187111,
+      "longitude": -122.3411082
+    },
+    "estimatedDuration": 75,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "seattle_8",
+    "name": "Bruce and Brandon Lee Graves",
+    "description": "seattle'de ziyaret edilebilecek popüler bir nokta: Bruce and Brandon Lee Graves.",
+    "image": "https://picsum.photos/800/600?random=7",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 47.6337709,
+      "longitude": -122.3158824
+    },
+    "estimatedDuration": 88,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "seattle_9",
+    "name": "Grand Pacific Hotel plaque",
+    "description": "seattle'de ziyaret edilebilecek popüler bir nokta: Grand Pacific Hotel plaque.",
+    "image": "https://picsum.photos/800/600?random=8",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 47.6057537,
+      "longitude": -122.3374495
+    },
+    "estimatedDuration": 84,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "seattle_10",
+    "name": "Museum of History and Industry",
+    "description": "seattle'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=9",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 47.6275114,
+      "longitude": -122.3367506
+    },
+    "estimatedDuration": 86,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "seattle_11",
+    "name": "Seattle Ice Arena Memorial",
+    "description": "seattle'de ziyaret edilebilecek popüler bir nokta: Seattle Ice Arena Memorial.",
+    "image": "https://picsum.photos/800/600?random=10",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 47.6087034,
+      "longitude": -122.3334556
+    },
+    "estimatedDuration": 77,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 88,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "seattle_12",
+    "name": "Connections Musuem",
+    "description": "seattle'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=11",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 47.5407112,
+      "longitude": -122.32325
+    },
+    "estimatedDuration": 78,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "seattle_13",
+    "name": "Haleets",
+    "description": "seattle'de ziyaret edilebilecek popüler bir nokta: Haleets.",
+    "image": "https://picsum.photos/800/600?random=12",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 47.7186226,
+      "longitude": -122.5444853
+    },
+    "estimatedDuration": 64,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 114,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "seattle_14",
+    "name": "Seattle Center",
+    "description": "seattle şehrinde doğa ile iç içe bir park.",
+    "image": "https://picsum.photos/800/600?random=13",
+    "category": "Park",
+    "coordinates": {
+      "latitude": 47.6220035,
+      "longitude": -122.3515445
+    },
+    "estimatedDuration": 57,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Park"
+    ]
+  },
+  {
+    "id": "seattle_15",
+    "name": "Woodland Park Zoo",
+    "description": "seattle'de ziyaret edilebilecek popüler bir nokta: Woodland Park Zoo.",
+    "image": "https://picsum.photos/800/600?random=14",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 47.6684421,
+      "longitude": -122.3509009
+    },
+    "estimatedDuration": 60,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "seattle_16",
+    "name": "Space Needle",
+    "description": "seattle'de ziyaret edilebilecek popüler bir nokta: Space Needle.",
+    "image": "https://picsum.photos/800/600?random=15",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 47.6205062,
+      "longitude": -122.3493037
+    },
+    "estimatedDuration": 76,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "seattle_17",
+    "name": "Seattle Asian Art Museum",
+    "description": "seattle'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=16",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 47.6302816,
+      "longitude": -122.3141762
+    },
+    "estimatedDuration": 44,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "seattle_18",
+    "name": "The Seattle Public Library - Central Library",
+    "description": "seattle'de ziyaret edilebilecek popüler bir nokta: The Seattle Public Library - Central Library.",
+    "image": "https://picsum.photos/800/600?random=17",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 47.6066916,
+      "longitude": -122.3326524
+    },
+    "estimatedDuration": 56,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "seattle_19",
+    "name": "Center for Wooden Boats",
+    "description": "seattle'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=18",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 47.6271962,
+      "longitude": -122.3359006
+    },
+    "estimatedDuration": 49,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "seattle_20",
+    "name": "University Presbyterian Church",
+    "description": "seattle'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=19",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 47.6625854,
+      "longitude": -122.3114319
+    },
+    "estimatedDuration": 75,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "seattle_21",
+    "name": "Henry Art Gallery",
+    "description": "seattle'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=20",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 47.6565186,
+      "longitude": -122.3117369
+    },
+    "estimatedDuration": 53,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "seattle_22",
+    "name": "Japanese Garden",
+    "description": "seattle'de ziyaret edilebilecek popüler bir nokta: Japanese Garden.",
+    "image": "https://picsum.photos/800/600?random=21",
+    "category": "Park",
+    "coordinates": {
+      "latitude": 47.6298357,
+      "longitude": -122.2971121
+    },
+    "estimatedDuration": 50,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 97,
+    "interests": [
+      "Park"
+    ]
+  },
+  {
+    "id": "seattle_23",
+    "name": "Seattle Washington Temple",
+    "description": "seattle'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=22",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 47.5840676,
+      "longitude": -122.1409609
+    },
+    "estimatedDuration": 30,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "seattle_24",
+    "name": "Saint James Cathedral",
+    "description": "seattle'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=23",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 47.6076675,
+      "longitude": -122.3258735
+    },
+    "estimatedDuration": 77,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "seattle_25",
+    "name": "Chapel of Saint Ignatius",
+    "description": "seattle'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=24",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 47.611337,
+      "longitude": -122.317955
+    },
+    "estimatedDuration": 46,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "seattle_26",
+    "name": "Plymouth Congregational Church",
+    "description": "seattle'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=25",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 47.6086624,
+      "longitude": -122.3326577
+    },
+    "estimatedDuration": 46,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 3,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "seattle_27",
+    "name": "Tillicum Village",
+    "description": "seattle'de ziyaret edilebilecek popüler bir nokta: Tillicum Village.",
+    "image": "https://picsum.photos/800/600?random=26",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 47.5421222,
+      "longitude": -122.4836897
+    },
+    "estimatedDuration": 55,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "seattle_28",
+    "name": "Burke Museum of Natural History and Culture",
+    "description": "seattle'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=27",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 47.6604219,
+      "longitude": -122.3115327
+    },
+    "estimatedDuration": 62,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 145,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "seattle_29",
+    "name": "Chihuly Garden and Glass",
+    "description": "seattle'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=28",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 47.6205353,
+      "longitude": -122.3501816
+    },
+    "estimatedDuration": 89,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 29,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "seattle_30",
+    "name": "MoPOP: Museum of Pop Culture",
+    "description": "seattle'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=29",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 47.6214966,
+      "longitude": -122.3482383
+    },
+    "estimatedDuration": 55,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "seattle_31",
+    "name": "Swiftsure (LV-83)",
+    "description": "seattle'de ziyaret edilebilecek popüler bir nokta: Swiftsure (LV-83).",
+    "image": "https://picsum.photos/800/600?random=30",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 47.6281654,
+      "longitude": -122.3366777
+    },
+    "estimatedDuration": 57,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "seattle_32",
+    "name": "Arthur Foss",
+    "description": "seattle'de ziyaret edilebilecek popüler bir nokta: Arthur Foss.",
+    "image": "https://picsum.photos/800/600?random=31",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 47.6281755,
+      "longitude": -122.3368578
+    },
+    "estimatedDuration": 52,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 177,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "seattle_33",
+    "name": "Virginia V",
+    "description": "seattle'de ziyaret edilebilecek popüler bir nokta: Virginia V.",
+    "image": "https://picsum.photos/800/600?random=32",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 47.6281738,
+      "longitude": -122.3370281
+    },
+    "estimatedDuration": 33,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "seattle_34",
+    "name": "Blessed Sacrament Church",
+    "description": "seattle'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=33",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 47.6664156,
+      "longitude": -122.319032
+    },
+    "estimatedDuration": 49,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "seattle_35",
+    "name": "University Unitarian Church",
+    "description": "seattle'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=34",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 47.6772172,
+      "longitude": -122.2899807
+    },
+    "estimatedDuration": 30,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 24,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "seattle_36",
+    "name": "Seattle Church of Christ",
+    "description": "seattle'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=35",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 47.6422957,
+      "longitude": -122.3679793
+    },
+    "estimatedDuration": 82,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "seattle_37",
+    "name": "Congregation Ezra Bessaroth",
+    "description": "seattle'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=36",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 47.5528954,
+      "longitude": -122.2670084
+    },
+    "estimatedDuration": 89,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "seattle_38",
+    "name": "Seattle Buddhist Church",
+    "description": "seattle'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=37",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 47.5997688,
+      "longitude": -122.3129675
+    },
+    "estimatedDuration": 53,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "seattle_39",
+    "name": "Duwamish",
+    "description": "seattle'de ziyaret edilebilecek popüler bir nokta: Duwamish.",
+    "image": "https://picsum.photos/800/600?random=38",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 47.6281823,
+      "longitude": -122.3365287
+    },
+    "estimatedDuration": 86,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "seattle_40",
+    "name": "Pike Place Market",
+    "description": "seattle'de ziyaret edilebilecek popüler bir nokta: Pike Place Market.",
+    "image": "https://picsum.photos/800/600?random=39",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 47.6094862,
+      "longitude": -122.3416735
+    },
+    "estimatedDuration": 76,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "seattle_41",
+    "name": "The Red Barn",
+    "description": "seattle'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=40",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 47.5185369,
+      "longitude": -122.2971137
+    },
+    "estimatedDuration": 59,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "seattle_42",
+    "name": "Pacific Science Center",
+    "description": "seattle'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=41",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 47.6194208,
+      "longitude": -122.3513857
+    },
+    "estimatedDuration": 66,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "seattle_43",
+    "name": "Northwest Seaport",
+    "description": "seattle'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=42",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 47.628166,
+      "longitude": -122.3366463
+    },
+    "estimatedDuration": 69,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "seattle_44",
+    "name": "National Nordic Museum",
+    "description": "seattle'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=43",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 47.6682608,
+      "longitude": -122.3917764
+    },
+    "estimatedDuration": 88,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 77,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "seattle_45",
+    "name": "Chateau Ste. Michelle Winery",
+    "description": "seattle'de ziyaret edilebilecek popüler bir nokta: Chateau Ste. Michelle Winery.",
+    "image": "https://picsum.photos/800/600?random=44",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 47.7292556,
+      "longitude": -122.1496884
+    },
+    "estimatedDuration": 37,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 3,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "seattle_46",
+    "name": "Georgetown Steam Plant",
+    "description": "seattle'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=45",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 47.5428383,
+      "longitude": -122.316298
+    },
+    "estimatedDuration": 32,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "seattle_47",
+    "name": "North American Martyrs Catholic Church",
+    "description": "seattle'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=46",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 47.7883542,
+      "longitude": -122.3661957
+    },
+    "estimatedDuration": 46,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 113,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "seattle_48",
+    "name": "Museum of Flight",
+    "description": "seattle'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=47",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 47.5187586,
+      "longitude": -122.2977044
+    },
+    "estimatedDuration": 45,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 31,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "seattle_49",
+    "name": "Bellevue Botanical Garden",
+    "description": "seattle'de ziyaret edilebilecek popüler bir nokta: Bellevue Botanical Garden.",
+    "image": "https://picsum.photos/800/600?random=48",
+    "category": "Park",
+    "coordinates": {
+      "latitude": 47.6066337,
+      "longitude": -122.1787546
+    },
+    "estimatedDuration": 66,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Park"
+    ]
+  }
+]

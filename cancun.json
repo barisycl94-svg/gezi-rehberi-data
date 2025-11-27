@@ -1,0 +1,524 @@
+[
+  {
+    "id": "cancun_1",
+    "name": "Australian Hellenic Memorial",
+    "description": "cancun'de ziyaret edilebilecek popüler bir nokta: Australian Hellenic Memorial.",
+    "image": "https://picsum.photos/800/600?random=0",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -35.2820935,
+      "longitude": 149.1466318
+    },
+    "estimatedDuration": 32,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 119,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cancun_2",
+    "name": "Kemal Atatürk Memorial",
+    "description": "cancun'de ziyaret edilebilecek popüler bir nokta: Kemal Atatürk Memorial.",
+    "image": "https://picsum.photos/800/600?random=1",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -35.2828808,
+      "longitude": 149.1479127
+    },
+    "estimatedDuration": 61,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cancun_3",
+    "name": "Australian Army National Memorial",
+    "description": "cancun'de ziyaret edilebilecek popüler bir nokta: Australian Army National Memorial.",
+    "image": "https://picsum.photos/800/600?random=2",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -35.2838529,
+      "longitude": 149.1454343
+    },
+    "estimatedDuration": 57,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cancun_4",
+    "name": "Royal Australian Navy Memorial",
+    "description": "cancun'de ziyaret edilebilecek popüler bir nokta: Royal Australian Navy Memorial.",
+    "image": "https://picsum.photos/800/600?random=3",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -35.2843959,
+      "longitude": 149.146303
+    },
+    "estimatedDuration": 57,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cancun_5",
+    "name": "Australian Service Nurses National Memorial",
+    "description": "cancun'de ziyaret edilebilecek popüler bir nokta: Australian Service Nurses National Memorial.",
+    "image": "https://picsum.photos/800/600?random=4",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -35.2862,
+      "longitude": 149.144694
+    },
+    "estimatedDuration": 65,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cancun_6",
+    "name": "Australian Vietnam Forces National Memorial",
+    "description": "cancun'de ziyaret edilebilecek popüler bir nokta: Australian Vietnam Forces National Memorial.",
+    "image": "https://picsum.photos/800/600?random=5",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -35.2865153,
+      "longitude": 149.1429881
+    },
+    "estimatedDuration": 61,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cancun_7",
+    "name": "Royal Australian Air Force Memorial",
+    "description": "cancun'de ziyaret edilebilecek popüler bir nokta: Royal Australian Air Force Memorial.",
+    "image": "https://picsum.photos/800/600?random=6",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -35.2870854,
+      "longitude": 149.1439549
+    },
+    "estimatedDuration": 38,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 26,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cancun_8",
+    "name": "Desert Mounted Corps Memorial",
+    "description": "cancun'de ziyaret edilebilecek popüler bir nokta: Desert Mounted Corps Memorial.",
+    "image": "https://picsum.photos/800/600?random=7",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -35.287391,
+      "longitude": 149.1422264
+    },
+    "estimatedDuration": 87,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 105,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cancun_9",
+    "name": "Rats of Tobruk Memorial",
+    "description": "cancun'de ziyaret edilebilecek popüler bir nokta: Rats of Tobruk Memorial.",
+    "image": "https://picsum.photos/800/600?random=8",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -35.2879603,
+      "longitude": 149.1431813
+    },
+    "estimatedDuration": 50,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 65,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cancun_10",
+    "name": "New Zealand Memorial",
+    "description": "cancun'de ziyaret edilebilecek popüler bir nokta: New Zealand Memorial.",
+    "image": "https://picsum.photos/800/600?random=9",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -35.288836,
+      "longitude": 149.1409282
+    },
+    "estimatedDuration": 81,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cancun_11",
+    "name": "Australian–American Memorial",
+    "description": "cancun'de ziyaret edilebilecek popüler bir nokta: Australian–American Memorial.",
+    "image": "https://picsum.photos/800/600?random=10",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -35.2975684,
+      "longitude": 149.1516924
+    },
+    "estimatedDuration": 81,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cancun_12",
+    "name": "Captain Cook Memorial Globe",
+    "description": "cancun'de ziyaret edilebilecek popüler bir nokta: Captain Cook Memorial Globe.",
+    "image": "https://picsum.photos/800/600?random=11",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -35.2904364,
+      "longitude": 149.1296004
+    },
+    "estimatedDuration": 67,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cancun_13",
+    "name": "National Emergency Services Memorial",
+    "description": "cancun'de ziyaret edilebilecek popüler bir nokta: National Emergency Services Memorial.",
+    "image": "https://picsum.photos/800/600?random=12",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -35.2920022,
+      "longitude": 149.1407162
+    },
+    "estimatedDuration": 65,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cancun_14",
+    "name": "Aboriginal Tent Embassy",
+    "description": "cancun'de ziyaret edilebilecek popüler bir nokta: Aboriginal Tent Embassy.",
+    "image": "https://picsum.photos/800/600?random=13",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -35.301185,
+      "longitude": 149.130382
+    },
+    "estimatedDuration": 37,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cancun_15",
+    "name": "Mount Pleasant Lookout",
+    "description": "cancun'de ziyaret edilebilecek popüler bir nokta: Mount Pleasant Lookout.",
+    "image": "https://picsum.photos/800/600?random=14",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -35.2986755,
+      "longitude": 149.1580455
+    },
+    "estimatedDuration": 48,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cancun_16",
+    "name": "National Library of Australia",
+    "description": "cancun'de ziyaret edilebilecek popüler bir nokta: National Library of Australia.",
+    "image": "https://picsum.photos/800/600?random=15",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -35.2964864,
+      "longitude": 149.1295113
+    },
+    "estimatedDuration": 32,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 27,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cancun_17",
+    "name": "High Court of Australia",
+    "description": "cancun'de ziyaret edilebilecek popüler bir nokta: High Court of Australia.",
+    "image": "https://picsum.photos/800/600?random=16",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -35.2989867,
+      "longitude": 149.1357249
+    },
+    "estimatedDuration": 34,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 3,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cancun_18",
+    "name": "Questacon",
+    "description": "cancun'de ziyaret edilebilecek popüler bir nokta: Questacon.",
+    "image": "https://picsum.photos/800/600?random=17",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -35.2985049,
+      "longitude": 149.1313942
+    },
+    "estimatedDuration": 44,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 133,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cancun_19",
+    "name": "National Portrait Gallery",
+    "description": "cancun'de ziyaret edilebilecek popüler bir nokta: National Portrait Gallery.",
+    "image": "https://picsum.photos/800/600?random=18",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": -35.2998238,
+      "longitude": 149.1338823
+    },
+    "estimatedDuration": 40,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "cancun_20",
+    "name": "Cockington Green Gardens",
+    "description": "cancun'de ziyaret edilebilecek popüler bir nokta: Cockington Green Gardens.",
+    "image": "https://picsum.photos/800/600?random=19",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -35.191565,
+      "longitude": 149.0866559
+    },
+    "estimatedDuration": 88,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cancun_21",
+    "name": "National Gallery of Australia",
+    "description": "cancun'de ziyaret edilebilecek popüler bir nokta: National Gallery of Australia.",
+    "image": "https://picsum.photos/800/600?random=20",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": -35.3008191,
+      "longitude": 149.1366839
+    },
+    "estimatedDuration": 70,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "cancun_22",
+    "name": "King George V memorial",
+    "description": "cancun'de ziyaret edilebilecek popüler bir nokta: King George V memorial.",
+    "image": "https://picsum.photos/800/600?random=21",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -35.3010846,
+      "longitude": 149.1297543
+    },
+    "estimatedDuration": 63,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 31,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cancun_23",
+    "name": "Boer War Memorial",
+    "description": "cancun'de ziyaret edilebilecek popüler bir nokta: Boer War Memorial.",
+    "image": "https://picsum.photos/800/600?random=22",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -35.2883028,
+      "longitude": 149.1414173
+    },
+    "estimatedDuration": 57,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cancun_24",
+    "name": "National Dinosaur Museum",
+    "description": "cancun'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=23",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": -35.1943045,
+      "longitude": 149.0880659
+    },
+    "estimatedDuration": 79,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "cancun_25",
+    "name": "Commonwealth Place",
+    "description": "cancun şehrinde doğa ile iç içe bir park.",
+    "image": "https://picsum.photos/800/600?random=24",
+    "category": "Park",
+    "coordinates": {
+      "latitude": -35.2972948,
+      "longitude": 149.1340876
+    },
+    "estimatedDuration": 40,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Park"
+    ]
+  },
+  {
+    "id": "cancun_26",
+    "name": "National Arboretum Canberra",
+    "description": "cancun'de ziyaret edilebilecek popüler bir nokta: National Arboretum Canberra.",
+    "image": "https://picsum.photos/800/600?random=25",
+    "category": "Park",
+    "coordinates": {
+      "latitude": -35.2930029,
+      "longitude": 149.0700819
+    },
+    "estimatedDuration": 89,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Park"
+    ]
+  },
+  {
+    "id": "cancun_27",
+    "name": "Gold Creek Homestead",
+    "description": "cancun'de ziyaret edilebilecek popüler bir nokta: Gold Creek Homestead.",
+    "image": "https://picsum.photos/800/600?random=26",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -35.1753298,
+      "longitude": 149.1041393
+    },
+    "estimatedDuration": 38,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 73,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cancun_28",
+    "name": "Australian War Memorial",
+    "description": "cancun'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=27",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": -35.2805923,
+      "longitude": 149.1490152
+    },
+    "estimatedDuration": 89,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 77,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "cancun_29",
+    "name": "Canberra Railway Museum",
+    "description": "cancun'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=28",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": -35.3185944,
+      "longitude": 149.1553173
+    },
+    "estimatedDuration": 39,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  }
+]

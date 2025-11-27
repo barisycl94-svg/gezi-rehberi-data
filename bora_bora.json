@@ -1,0 +1,614 @@
+[
+  {
+    "id": "bora_bora_1",
+    "name": "Museo Iglesia Santa Clara",
+    "description": "bora_bora'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=0",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 4.5968372,
+      "longitude": -74.0774643
+    },
+    "estimatedDuration": 77,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "bora_bora_2",
+    "name": "Monumento Ángeles Agustinianos",
+    "description": "bora_bora'de ziyaret edilebilecek popüler bir nokta: Monumento Ángeles Agustinianos.",
+    "image": "https://picsum.photos/800/600?random=1",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 4.732818,
+      "longitude": -74.0750843
+    },
+    "estimatedDuration": 35,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "bora_bora_3",
+    "name": "Museo del Oro",
+    "description": "bora_bora'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=2",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 4.6018403,
+      "longitude": -74.0718526
+    },
+    "estimatedDuration": 59,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "bora_bora_4",
+    "name": "Cerro de Monserrate",
+    "description": "bora_bora'de ziyaret edilebilecek popüler bir nokta: Cerro de Monserrate.",
+    "image": "https://picsum.photos/800/600?random=3",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 4.6052221,
+      "longitude": -74.0554677
+    },
+    "estimatedDuration": 46,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 59,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "bora_bora_5",
+    "name": "Catedral Primada de Bogotá",
+    "description": "bora_bora'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=4",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 4.5978003,
+      "longitude": -74.0750738
+    },
+    "estimatedDuration": 56,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 56,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "bora_bora_6",
+    "name": "Planetario de Bogotá",
+    "description": "bora_bora'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=5",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 4.6120661,
+      "longitude": -74.0688228
+    },
+    "estimatedDuration": 71,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "bora_bora_7",
+    "name": "Museo de Arte de la Universidad Nacional de Colombia",
+    "description": "bora_bora'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=6",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 4.6345781,
+      "longitude": -74.0808648
+    },
+    "estimatedDuration": 88,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "bora_bora_8",
+    "name": "Museo de Arte Moderno de Bogotá",
+    "description": "bora_bora'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=7",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 4.610069,
+      "longitude": -74.0692989
+    },
+    "estimatedDuration": 81,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "bora_bora_9",
+    "name": "Iglesia de la Candelaria",
+    "description": "bora_bora'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=8",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 4.5967838,
+      "longitude": -74.072457
+    },
+    "estimatedDuration": 63,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "bora_bora_10",
+    "name": "Iglesia de San Ignacio",
+    "description": "bora_bora'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=9",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 4.5967493,
+      "longitude": -74.0756114
+    },
+    "estimatedDuration": 59,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "bora_bora_11",
+    "name": "Iglesia de Santa Barbara",
+    "description": "bora_bora'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=10",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 4.5920629,
+      "longitude": -74.0785146
+    },
+    "estimatedDuration": 80,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "bora_bora_12",
+    "name": "Museo Nacional de Colombia",
+    "description": "bora_bora'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=11",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 4.6155119,
+      "longitude": -74.0682795
+    },
+    "estimatedDuration": 48,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 189,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "bora_bora_13",
+    "name": "Iglesia del Voto Nacional",
+    "description": "bora_bora'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=12",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 4.6023343,
+      "longitude": -74.0824119
+    },
+    "estimatedDuration": 87,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 188,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "bora_bora_14",
+    "name": "Jardin Botanico José Celestino Mutis",
+    "description": "bora_bora'de ziyaret edilebilecek popüler bir nokta: Jardin Botanico José Celestino Mutis.",
+    "image": "https://picsum.photos/800/600?random=13",
+    "category": "Park",
+    "coordinates": {
+      "latitude": 4.6679044,
+      "longitude": -74.1003656
+    },
+    "estimatedDuration": 66,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 133,
+    "interests": [
+      "Park"
+    ]
+  },
+  {
+    "id": "bora_bora_15",
+    "name": "Mundo Aventura",
+    "description": "bora_bora'de ziyaret edilebilecek popüler bir nokta: Mundo Aventura.",
+    "image": "https://picsum.photos/800/600?random=14",
+    "category": "Eğlence",
+    "coordinates": {
+      "latitude": 4.6228389,
+      "longitude": -74.1353117
+    },
+    "estimatedDuration": 65,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Eğlence"
+    ]
+  },
+  {
+    "id": "bora_bora_16",
+    "name": "Casa de la Moneda",
+    "description": "bora_bora'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=15",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 4.5969338,
+      "longitude": -74.0734873
+    },
+    "estimatedDuration": 71,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 189,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "bora_bora_17",
+    "name": "Iglesia de la concepcion",
+    "description": "bora_bora'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=16",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 4.5986584,
+      "longitude": -74.0777178
+    },
+    "estimatedDuration": 73,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "bora_bora_18",
+    "name": "Museo Casa 20 de Julio",
+    "description": "bora_bora'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=17",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 4.5983343,
+      "longitude": -74.0751043
+    },
+    "estimatedDuration": 57,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "bora_bora_19",
+    "name": "Iglesia de Nuestra",
+    "description": "bora_bora'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=18",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 4.593537,
+      "longitude": -74.0689092
+    },
+    "estimatedDuration": 88,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "bora_bora_20",
+    "name": "Iglesia de Las Aguas",
+    "description": "bora_bora'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=19",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 4.6022295,
+      "longitude": -74.0666601
+    },
+    "estimatedDuration": 45,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "bora_bora_21",
+    "name": "Las Nieves",
+    "description": "bora_bora'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=20",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 4.606118,
+      "longitude": -74.0709199
+    },
+    "estimatedDuration": 47,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 107,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "bora_bora_22",
+    "name": "Basílica del Señor de Monserrate",
+    "description": "bora_bora'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=21",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 4.6056292,
+      "longitude": -74.055424
+    },
+    "estimatedDuration": 75,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 182,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "bora_bora_23",
+    "name": "Maloka",
+    "description": "bora_bora'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=22",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 4.655432,
+      "longitude": -74.1094916
+    },
+    "estimatedDuration": 36,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "bora_bora_24",
+    "name": "Iglesia Santiago Apóstol",
+    "description": "bora_bora'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=23",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 4.6729595,
+      "longitude": -74.1439016
+    },
+    "estimatedDuration": 67,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 30,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "bora_bora_25",
+    "name": "Abou Bakr Al-Siddiq Mosque",
+    "description": "bora_bora'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=24",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 4.6745288,
+      "longitude": -74.0673829
+    },
+    "estimatedDuration": 59,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 131,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "bora_bora_26",
+    "name": "La Porciúncula",
+    "description": "bora_bora'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=25",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 4.6573106,
+      "longitude": -74.0582597
+    },
+    "estimatedDuration": 44,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "bora_bora_27",
+    "name": "Nuestra Señora de Lourdes",
+    "description": "bora_bora'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=26",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 4.6495024,
+      "longitude": -74.0624295
+    },
+    "estimatedDuration": 54,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 141,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "bora_bora_28",
+    "name": "Casa Museo Jorge Eliécer Gaitán",
+    "description": "bora_bora'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=27",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 4.6308151,
+      "longitude": -74.069536
+    },
+    "estimatedDuration": 74,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "bora_bora_29",
+    "name": "Museo Geológico Nacional José Royo y Gómez",
+    "description": "bora_bora'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=28",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 4.64094,
+      "longitude": -74.0801994
+    },
+    "estimatedDuration": 58,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 96,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "bora_bora_30",
+    "name": "Museo del Chicó",
+    "description": "bora_bora'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=29",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 4.6739743,
+      "longitude": -74.0439653
+    },
+    "estimatedDuration": 55,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 140,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "bora_bora_31",
+    "name": "Museo de Arte Colonial",
+    "description": "bora_bora'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=30",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 4.5965918,
+      "longitude": -74.0752994
+    },
+    "estimatedDuration": 30,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 64,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "bora_bora_32",
+    "name": "Museo Botero",
+    "description": "bora_bora'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=31",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 4.5966814,
+      "longitude": -74.0732204
+    },
+    "estimatedDuration": 45,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 127,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "bora_bora_33",
+    "name": "Casa de Poesia Silva",
+    "description": "bora_bora'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=32",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 4.5986463,
+      "longitude": -74.0706364
+    },
+    "estimatedDuration": 74,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "bora_bora_34",
+    "name": "Plaza de Bolívar",
+    "description": "bora_bora'de ziyaret edilebilecek popüler bir nokta: Plaza de Bolívar.",
+    "image": "https://picsum.photos/800/600?random=33",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 4.5980985,
+      "longitude": -74.0760508
+    },
+    "estimatedDuration": 68,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 22,
+    "interests": [
+      "Tarihi"
+    ]
+  }
+]

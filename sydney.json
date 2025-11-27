@@ -1,0 +1,1064 @@
+[
+  {
+    "id": "sydney_1",
+    "name": "Mrs Macquarie's Chair",
+    "description": "sydney'de ziyaret edilebilecek popüler bir nokta: Mrs Macquarie's Chair.",
+    "image": "https://picsum.photos/800/600?random=0",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -33.8597064,
+      "longitude": 151.222565
+    },
+    "estimatedDuration": 73,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "sydney_2",
+    "name": "Justice & Police Museum",
+    "description": "sydney'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=1",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": -33.8620845,
+      "longitude": 151.2122831
+    },
+    "estimatedDuration": 67,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "sydney_3",
+    "name": "Coca-Cola Billboard",
+    "description": "sydney'de ziyaret edilebilecek popüler bir nokta: Coca-Cola Billboard.",
+    "image": "https://picsum.photos/800/600?random=2",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -33.8753099,
+      "longitude": 151.2222336
+    },
+    "estimatedDuration": 61,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "sydney_4",
+    "name": "Darling Harbour",
+    "description": "sydney'de ziyaret edilebilecek popüler bir nokta: Darling Harbour.",
+    "image": "https://picsum.photos/800/600?random=3",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -33.8675516,
+      "longitude": 151.1995619
+    },
+    "estimatedDuration": 46,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 167,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "sydney_5",
+    "name": "Mary McKillop Museum",
+    "description": "sydney'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=4",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": -33.8386591,
+      "longitude": 151.2047692
+    },
+    "estimatedDuration": 89,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "sydney_6",
+    "name": "Cemetery Station No. 1",
+    "description": "sydney'de ziyaret edilebilecek popüler bir nokta: Cemetery Station No. 1.",
+    "image": "https://picsum.photos/800/600?random=5",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -33.8696825,
+      "longitude": 151.0512559
+    },
+    "estimatedDuration": 39,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "sydney_7",
+    "name": "Experiment Farm Cottage",
+    "description": "sydney'de bulunan önemli bir müze.",
+    "image": "https://images.pexels.com/photos/2968720/pexels-photo-2968720.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": -33.8201436,
+      "longitude": 151.012641
+    },
+    "estimatedDuration": 76,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "sydney_8",
+    "name": "Sydney Jewish Museum",
+    "description": "sydney'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=7",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": -33.8790054,
+      "longitude": 151.2202516
+    },
+    "estimatedDuration": 67,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "sydney_9",
+    "name": "Steele Point Gun Emplacement",
+    "description": "sydney'de ziyaret edilebilecek popüler bir nokta: Steele Point Gun Emplacement.",
+    "image": "https://picsum.photos/800/600?random=8",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -33.8510538,
+      "longitude": 151.2649032
+    },
+    "estimatedDuration": 38,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "sydney_10",
+    "name": "Man O' War Steps",
+    "description": "sydney'de ziyaret edilebilecek popüler bir nokta: Man O' War Steps.",
+    "image": "https://picsum.photos/800/600?random=9",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -33.8578003,
+      "longitude": 151.2159364
+    },
+    "estimatedDuration": 57,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "sydney_11",
+    "name": "Yininmadyemi - Thou didst let fall",
+    "description": "sydney'de ziyaret edilebilecek popüler bir nokta: Yininmadyemi - Thou didst let fall.",
+    "image": "https://picsum.photos/800/600?random=10",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -33.8752461,
+      "longitude": 151.2100507
+    },
+    "estimatedDuration": 85,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 107,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "sydney_12",
+    "name": "Sydney Gay and Lesbian Holocaust Memorial",
+    "description": "sydney'de ziyaret edilebilecek popüler bir nokta: Sydney Gay and Lesbian Holocaust Memorial.",
+    "image": "https://picsum.photos/800/600?random=11",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -33.8794031,
+      "longitude": 151.2200163
+    },
+    "estimatedDuration": 40,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "sydney_13",
+    "name": "NSW Schoolhouse Museum",
+    "description": "sydney'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=12",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": -33.7946815,
+      "longitude": 151.1212494
+    },
+    "estimatedDuration": 56,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 151,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "sydney_14",
+    "name": "Taronga Zoo",
+    "description": "sydney'de ziyaret edilebilecek popüler bir nokta: Taronga Zoo.",
+    "image": "https://picsum.photos/800/600?random=13",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -33.8437833,
+      "longitude": 151.2417036
+    },
+    "estimatedDuration": 30,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "sydney_15",
+    "name": "Elizabeth Bay House",
+    "description": "sydney'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=14",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": -33.8701101,
+      "longitude": 151.2264389
+    },
+    "estimatedDuration": 71,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "sydney_16",
+    "name": "The Star",
+    "description": "sydney'de ziyaret edilebilecek popüler bir nokta: The Star.",
+    "image": "https://picsum.photos/800/600?random=15",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -33.8679303,
+      "longitude": 151.1951818
+    },
+    "estimatedDuration": 74,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "sydney_17",
+    "name": "Australian National Maritime Museum",
+    "description": "sydney'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=16",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": -33.8693751,
+      "longitude": 151.1987411
+    },
+    "estimatedDuration": 87,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "sydney_18",
+    "name": "Australian Museum",
+    "description": "sydney'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=17",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": -33.8743465,
+      "longitude": 151.2132545
+    },
+    "estimatedDuration": 45,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "sydney_19",
+    "name": "St Mary's Cathedral",
+    "description": "sydney'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=18",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -33.8712496,
+      "longitude": 151.2134164
+    },
+    "estimatedDuration": 49,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 66,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "sydney_20",
+    "name": "Hyde Park Barracks",
+    "description": "sydney'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=19",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": -33.8695991,
+      "longitude": 151.2128014
+    },
+    "estimatedDuration": 35,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "sydney_21",
+    "name": "The Mint",
+    "description": "sydney'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=20",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": -33.8689428,
+      "longitude": 151.2124305
+    },
+    "estimatedDuration": 38,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "sydney_22",
+    "name": "Powerhouse Museum",
+    "description": "sydney'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=21",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": -33.8783509,
+      "longitude": 151.1995566
+    },
+    "estimatedDuration": 86,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "sydney_23",
+    "name": "Queen Victoria Building",
+    "description": "sydney'de ziyaret edilebilecek popüler bir nokta: Queen Victoria Building.",
+    "image": "https://picsum.photos/800/600?random=22",
+    "category": "Alışveriş",
+    "coordinates": {
+      "latitude": -33.87177,
+      "longitude": 151.2066855
+    },
+    "estimatedDuration": 80,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Alışveriş"
+    ]
+  },
+  {
+    "id": "sydney_24",
+    "name": "Sydney Observatory",
+    "description": "sydney'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=23",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": -33.8595564,
+      "longitude": 151.2045683
+    },
+    "estimatedDuration": 35,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 130,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "sydney_25",
+    "name": "St Andrews Cathedral",
+    "description": "sydney'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=24",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -33.873985,
+      "longitude": 151.2062571
+    },
+    "estimatedDuration": 58,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "sydney_26",
+    "name": "New Apostolic Church Sydney",
+    "description": "sydney'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=25",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -33.9413487,
+      "longitude": 151.0728391
+    },
+    "estimatedDuration": 32,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "sydney_27",
+    "name": "Christ Church St Laurence",
+    "description": "sydney'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=26",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -33.8820443,
+      "longitude": 151.2048866
+    },
+    "estimatedDuration": 45,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "sydney_28",
+    "name": "St Brigid's Church",
+    "description": "sydney'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=27",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -33.8586652,
+      "longitude": 151.203751
+    },
+    "estimatedDuration": 80,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "sydney_29",
+    "name": "Government House",
+    "description": "sydney'de ziyaret edilebilecek popüler bir nokta: Government House.",
+    "image": "https://picsum.photos/800/600?random=28",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -33.85992,
+      "longitude": 151.2150004
+    },
+    "estimatedDuration": 57,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "sydney_30",
+    "name": "HMAS Onslow",
+    "description": "sydney'de ziyaret edilebilecek popüler bir nokta: HMAS Onslow.",
+    "image": "https://picsum.photos/800/600?random=29",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -33.8689816,
+      "longitude": 151.199642
+    },
+    "estimatedDuration": 76,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "sydney_31",
+    "name": "HMAS Vampire",
+    "description": "sydney'de ziyaret edilebilecek popüler bir nokta: HMAS Vampire.",
+    "image": "https://picsum.photos/800/600?random=30",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -33.8691793,
+      "longitude": 151.1998216
+    },
+    "estimatedDuration": 54,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "sydney_32",
+    "name": "Bondi Beach",
+    "description": "sydney'de ziyaret edilebilecek popüler bir nokta: Bondi Beach.",
+    "image": "https://picsum.photos/800/600?random=31",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -33.8923802,
+      "longitude": 151.2780861
+    },
+    "estimatedDuration": 68,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 139,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "sydney_33",
+    "name": "HMAS Advance",
+    "description": "sydney'de ziyaret edilebilecek popüler bir nokta: HMAS Advance.",
+    "image": "https://picsum.photos/800/600?random=32",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -33.868632,
+      "longitude": 151.2001357
+    },
+    "estimatedDuration": 37,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "sydney_35",
+    "name": "Yaralla Estate",
+    "description": "sydney şehrinde doğa ile iç içe bir park.",
+    "image": "https://picsum.photos/800/600?random=34",
+    "category": "Park",
+    "coordinates": {
+      "latitude": -33.8414549,
+      "longitude": 151.097245
+    },
+    "estimatedDuration": 76,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Park"
+    ]
+  },
+  {
+    "id": "sydney_36",
+    "name": "Sydney Tower",
+    "description": "sydney'de ziyaret edilebilecek popüler bir nokta: Sydney Tower.",
+    "image": "https://picsum.photos/800/600?random=35",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -33.8704955,
+      "longitude": 151.2089476
+    },
+    "estimatedDuration": 68,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 87,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "sydney_37",
+    "name": "Manly Beach",
+    "description": "sydney'de ziyaret edilebilecek popüler bir nokta: Manly Beach.",
+    "image": "https://picsum.photos/800/600?random=36",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -33.7976829,
+      "longitude": 151.2894717
+    },
+    "estimatedDuration": 34,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "sydney_38",
+    "name": "Cadman's Cottage",
+    "description": "sydney'de ziyaret edilebilecek popüler bir nokta: Cadman's Cottage.",
+    "image": "https://picsum.photos/800/600?random=37",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -33.8588939,
+      "longitude": 151.2091949
+    },
+    "estimatedDuration": 48,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "sydney_39",
+    "name": "Brickpit Ring Walk",
+    "description": "sydney'de ziyaret edilebilecek popüler bir nokta: Brickpit Ring Walk.",
+    "image": "https://picsum.photos/800/600?random=38",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -33.8406664,
+      "longitude": 151.0716061
+    },
+    "estimatedDuration": 65,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "sydney_40",
+    "name": "St James Church",
+    "description": "sydney'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=39",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -33.8694488,
+      "longitude": 151.2111784
+    },
+    "estimatedDuration": 89,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 116,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "sydney_41",
+    "name": "Anzac Bridge",
+    "description": "sydney'de ziyaret edilebilecek popüler bir nokta: Anzac Bridge.",
+    "image": "https://picsum.photos/800/600?random=40",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -33.8692092,
+      "longitude": 151.1856446
+    },
+    "estimatedDuration": 45,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "sydney_42",
+    "name": "Sydney Bus Museum",
+    "description": "sydney'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=41",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": -33.8761398,
+      "longitude": 151.1586032
+    },
+    "estimatedDuration": 53,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 177,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "sydney_43",
+    "name": "Museum of Sydney",
+    "description": "sydney'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=42",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": -33.8637531,
+      "longitude": 151.2114804
+    },
+    "estimatedDuration": 34,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "sydney_44",
+    "name": "HMB Endeavour",
+    "description": "sydney'de ziyaret edilebilecek popüler bir nokta: HMB Endeavour.",
+    "image": "https://picsum.photos/800/600?random=43",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -33.8683625,
+      "longitude": 151.1995456
+    },
+    "estimatedDuration": 43,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "sydney_45",
+    "name": "Newtown Mission",
+    "description": "sydney'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=44",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -33.8964166,
+      "longitude": 151.1806282
+    },
+    "estimatedDuration": 81,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "sydney_46",
+    "name": "Great Synagogue",
+    "description": "sydney'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=45",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -33.8725812,
+      "longitude": 151.2095989
+    },
+    "estimatedDuration": 72,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "sydney_47",
+    "name": "Christ Church Lavender Bay",
+    "description": "sydney'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=46",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -33.8425998,
+      "longitude": 151.2075074
+    },
+    "estimatedDuration": 64,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "sydney_48",
+    "name": "Tempe House",
+    "description": "sydney'de ziyaret edilebilecek popüler bir nokta: Tempe House.",
+    "image": "https://picsum.photos/800/600?random=47",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -33.9296466,
+      "longitude": 151.1551522
+    },
+    "estimatedDuration": 36,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 126,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "sydney_49",
+    "name": "Shrine of Saint Anne Catholic Church",
+    "description": "sydney'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=48",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -33.8851164,
+      "longitude": 151.2757647
+    },
+    "estimatedDuration": 78,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "sydney_50",
+    "name": "New South Wales Lancers Memorial Museum",
+    "description": "sydney'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=49",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": -33.8172689,
+      "longitude": 151.0067784
+    },
+    "estimatedDuration": 71,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "sydney_51",
+    "name": "St Peter",
+    "description": "sydney'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=50",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -33.9136786,
+      "longitude": 151.176929
+    },
+    "estimatedDuration": 38,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "sydney_52",
+    "name": "Lakemba Mosque",
+    "description": "sydney'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=51",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -33.9124713,
+      "longitude": 151.0741041
+    },
+    "estimatedDuration": 46,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 114,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "sydney_53",
+    "name": "Queen Victoria Monument",
+    "description": "sydney'de ziyaret edilebilecek popüler bir nokta: Queen Victoria Monument.",
+    "image": "https://picsum.photos/800/600?random=52",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -33.8727308,
+      "longitude": 151.2068193
+    },
+    "estimatedDuration": 57,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "sydney_54",
+    "name": "Darling Harbour Carousel",
+    "description": "sydney'de ziyaret edilebilecek popüler bir nokta: Darling Harbour Carousel.",
+    "image": "https://picsum.photos/800/600?random=53",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -33.8742266,
+      "longitude": 151.2010401
+    },
+    "estimatedDuration": 83,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "sydney_55",
+    "name": "Argyle Cut",
+    "description": "sydney'de ziyaret edilebilecek popüler bir nokta: Argyle Cut.",
+    "image": "https://picsum.photos/800/600?random=54",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -33.8588066,
+      "longitude": 151.2065812
+    },
+    "estimatedDuration": 89,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 124,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "sydney_56",
+    "name": "Underground grain silos",
+    "description": "sydney'de ziyaret edilebilecek popüler bir nokta: Underground grain silos.",
+    "image": "https://picsum.photos/800/600?random=55",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -33.847795,
+      "longitude": 151.1730179
+    },
+    "estimatedDuration": 35,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "sydney_57",
+    "name": "WILD LIFE Sydney Zoo",
+    "description": "sydney'de ziyaret edilebilecek popüler bir nokta: WILD LIFE Sydney Zoo.",
+    "image": "https://picsum.photos/800/600?random=56",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -33.8692994,
+      "longitude": 151.2019209
+    },
+    "estimatedDuration": 32,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "sydney_58",
+    "name": "Sub Base Platypus",
+    "description": "sydney'de ziyaret edilebilecek popüler bir nokta: Sub Base Platypus.",
+    "image": "https://picsum.photos/800/600?random=57",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -33.8432115,
+      "longitude": 151.2170307
+    },
+    "estimatedDuration": 87,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "sydney_59",
+    "name": "Luna Park",
+    "description": "sydney'de ziyaret edilebilecek popüler bir nokta: Luna Park.",
+    "image": "https://picsum.photos/800/600?random=58",
+    "category": "Eğlence",
+    "coordinates": {
+      "latitude": -33.8473003,
+      "longitude": 151.2101646
+    },
+    "estimatedDuration": 31,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 102,
+    "interests": [
+      "Eğlence"
+    ]
+  },
+  {
+    "id": "sydney_60",
+    "name": "Sydney Harbour Bridge",
+    "description": "sydney'de ziyaret edilebilecek popüler bir nokta: Sydney Harbour Bridge.",
+    "image": "https://picsum.photos/800/600?random=59",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -33.8528915,
+      "longitude": 151.2094742
+    },
+    "estimatedDuration": 39,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 135,
+    "interests": [
+      "Tarihi"
+    ]
+  }
+]

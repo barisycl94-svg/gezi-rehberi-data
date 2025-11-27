@@ -1,0 +1,722 @@
+[
+  {
+    "id": "cape_town_1",
+    "name": "Rhodes Memorial",
+    "description": "cape_town'de ziyaret edilebilecek popüler bir nokta: Rhodes Memorial.",
+    "image": "https://images.pexels.com/photos/3820317/pexels-photo-3820317.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -33.9523507,
+      "longitude": 18.4589221
+    },
+    "estimatedDuration": 67,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cape_town_2",
+    "name": "Hout Bay Museum",
+    "description": "cape_town'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=1",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": -34.0402442,
+      "longitude": 18.3600148
+    },
+    "estimatedDuration": 58,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "cape_town_3",
+    "name": "BOS 400 Shipwreck",
+    "description": "cape_town'de ziyaret edilebilecek popüler bir nokta: BOS 400 Shipwreck.",
+    "image": "https://picsum.photos/800/600?random=2",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -34.03702,
+      "longitude": 18.3084054
+    },
+    "estimatedDuration": 32,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cape_town_4",
+    "name": "Bartolomeu Dias",
+    "description": "cape_town'de ziyaret edilebilecek popüler bir nokta: Bartolomeu Dias.",
+    "image": "https://picsum.photos/800/600?random=3",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -33.9175244,
+      "longitude": 18.4279952
+    },
+    "estimatedDuration": 41,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cape_town_5",
+    "name": "Artillerymen's Memorial",
+    "description": "cape_town'de ziyaret edilebilecek popüler bir nokta: Artillerymen's Memorial.",
+    "image": "https://picsum.photos/800/600?random=4",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -33.9283021,
+      "longitude": 18.4162446
+    },
+    "estimatedDuration": 88,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cape_town_6",
+    "name": "Chavonnes Battery Museum",
+    "description": "cape_town'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=5",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": -33.9071143,
+      "longitude": 18.421602
+    },
+    "estimatedDuration": 47,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "cape_town_7",
+    "name": "Cape Medical Museum",
+    "description": "cape_town'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=6",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": -33.9071848,
+      "longitude": 18.4147656
+    },
+    "estimatedDuration": 41,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 64,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "cape_town_8",
+    "name": "Statue of Jan Hendrik Hofmeyr",
+    "description": "cape_town'de ziyaret edilebilecek popüler bir nokta: Statue of Jan Hendrik Hofmeyr.",
+    "image": "https://picsum.photos/800/600?random=7",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -33.9251017,
+      "longitude": 18.4213896
+    },
+    "estimatedDuration": 52,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cape_town_9",
+    "name": "Heart of Cape Town Museum",
+    "description": "cape_town'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=8",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": -33.9411108,
+      "longitude": 18.461395
+    },
+    "estimatedDuration": 73,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "cape_town_10",
+    "name": "Statue of Nelson Mandela",
+    "description": "cape_town'de ziyaret edilebilecek popüler bir nokta: Statue of Nelson Mandela.",
+    "image": "https://picsum.photos/800/600?random=9",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -33.9252611,
+      "longitude": 18.4238848
+    },
+    "estimatedDuration": 66,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 70,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cape_town_11",
+    "name": "Noon Gun",
+    "description": "cape_town'de ziyaret edilebilecek popüler bir nokta: Noon Gun.",
+    "image": "https://picsum.photos/800/600?random=10",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -33.9151188,
+      "longitude": 18.4115429
+    },
+    "estimatedDuration": 74,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cape_town_12",
+    "name": "Greenmarket Square",
+    "description": "cape_town'de ziyaret edilebilecek popüler bir nokta: Greenmarket Square.",
+    "image": "https://picsum.photos/800/600?random=11",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -33.9227067,
+      "longitude": 18.4200839
+    },
+    "estimatedDuration": 60,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cape_town_13",
+    "name": "Iziko South African Museum",
+    "description": "cape_town'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=12",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": -33.928907,
+      "longitude": 18.4149534
+    },
+    "estimatedDuration": 72,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "cape_town_14",
+    "name": "Waterworks Museum",
+    "description": "cape_town'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=13",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": -33.9748842,
+      "longitude": 18.407557
+    },
+    "estimatedDuration": 55,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 34,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "cape_town_15",
+    "name": "Zeitz Museum of Contemporary Art Africa (MOCAA)",
+    "description": "cape_town'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=14",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": -33.908416,
+      "longitude": 18.4230011
+    },
+    "estimatedDuration": 69,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "cape_town_16",
+    "name": "Iziko Slave Lodge",
+    "description": "cape_town'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=15",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": -33.9251532,
+      "longitude": 18.4205689
+    },
+    "estimatedDuration": 88,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "cape_town_17",
+    "name": "Groote Kerk",
+    "description": "cape_town'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=16",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -33.9247712,
+      "longitude": 18.420922
+    },
+    "estimatedDuration": 37,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cape_town_18",
+    "name": "Groote Schuur",
+    "description": "cape_town'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=17",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": -33.9637257,
+      "longitude": 18.4639911
+    },
+    "estimatedDuration": 35,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "cape_town_19",
+    "name": "Jameah Masjid",
+    "description": "cape_town'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=18",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -33.9182599,
+      "longitude": 18.4167513
+    },
+    "estimatedDuration": 68,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cape_town_20",
+    "name": "St. George's Cathedral",
+    "description": "cape_town'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=19",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -33.9248781,
+      "longitude": 18.4194119
+    },
+    "estimatedDuration": 41,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cape_town_21",
+    "name": "Cape Town Holocaust Centre",
+    "description": "cape_town'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=20",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": -33.9302827,
+      "longitude": 18.4166236
+    },
+    "estimatedDuration": 88,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 75,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "cape_town_22",
+    "name": "St Mary's Cathedral",
+    "description": "cape_town'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=21",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -33.92832,
+      "longitude": 18.4194413
+    },
+    "estimatedDuration": 50,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cape_town_23",
+    "name": "District Six Museum",
+    "description": "cape_town'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=22",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": -33.9278109,
+      "longitude": 18.4237456
+    },
+    "estimatedDuration": 56,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 143,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "cape_town_24",
+    "name": "Muizenberg Hebrew Congregation",
+    "description": "cape_town'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=23",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -34.1066602,
+      "longitude": 18.4672223
+    },
+    "estimatedDuration": 81,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 125,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cape_town_25",
+    "name": "Castle Lichtenstein",
+    "description": "cape_town'in tarihine tanıklık eden bir kale.",
+    "image": "https://picsum.photos/800/600?random=24",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -34.0422169,
+      "longitude": 18.3416577
+    },
+    "estimatedDuration": 83,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cape_town_26",
+    "name": "World of Birds",
+    "description": "cape_town'de ziyaret edilebilecek popüler bir nokta: World of Birds.",
+    "image": "https://picsum.photos/800/600?random=25",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -34.0170301,
+      "longitude": 18.3622462
+    },
+    "estimatedDuration": 39,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cape_town_27",
+    "name": "Evangelical Lutheran Church Strand Street",
+    "description": "cape_town'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=26",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -33.918969,
+      "longitude": 18.4195682
+    },
+    "estimatedDuration": 85,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cape_town_28",
+    "name": "Robben Island Prison",
+    "description": "cape_town'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=27",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": -33.8002531,
+      "longitude": 18.3712742
+    },
+    "estimatedDuration": 34,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 20,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "cape_town_29",
+    "name": "Central Methodist Church",
+    "description": "cape_town'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=28",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -33.9228808,
+      "longitude": 18.4195357
+    },
+    "estimatedDuration": 68,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cape_town_30",
+    "name": "Old Town House Museum",
+    "description": "cape_town'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=29",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": -33.9231199,
+      "longitude": 18.4198815
+    },
+    "estimatedDuration": 74,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "cape_town_31",
+    "name": "South African Sendinggestig Museum",
+    "description": "cape_town'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=30",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": -33.9211187,
+      "longitude": 18.4202831
+    },
+    "estimatedDuration": 74,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 61,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "cape_town_32",
+    "name": "Koopmans-de Wet House",
+    "description": "cape_town'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=31",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": -33.9209527,
+      "longitude": 18.4212671
+    },
+    "estimatedDuration": 73,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "cape_town_33",
+    "name": "Auwal Masjid",
+    "description": "cape_town'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=32",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -33.9223312,
+      "longitude": 18.4149536
+    },
+    "estimatedDuration": 68,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cape_town_34",
+    "name": "Greek Orthodox Cathedral of St George",
+    "description": "cape_town'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=33",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -33.9323198,
+      "longitude": 18.4498775
+    },
+    "estimatedDuration": 43,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cape_town_35",
+    "name": "Nurul Islam Mosque",
+    "description": "cape_town'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=34",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -33.9218962,
+      "longitude": 18.4153469
+    },
+    "estimatedDuration": 43,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 57,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cape_town_36",
+    "name": "Palm Tree Mosque",
+    "description": "cape_town'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=35",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -33.9248013,
+      "longitude": 18.4168327
+    },
+    "estimatedDuration": 55,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cape_town_37",
+    "name": "Rust en Vreugd",
+    "description": "cape_town'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=36",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": -33.9301926,
+      "longitude": 18.4202625
+    },
+    "estimatedDuration": 83,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 96,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "cape_town_38",
+    "name": "The Cenotaph",
+    "description": "cape_town'de ziyaret edilebilecek popüler bir nokta: The Cenotaph.",
+    "image": "https://picsum.photos/800/600?random=37",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -33.9186817,
+      "longitude": 18.4267957
+    },
+    "estimatedDuration": 88,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cape_town_39",
+    "name": "Castle of Good Hope",
+    "description": "cape_town'in tarihine tanıklık eden bir kale.",
+    "image": "https://picsum.photos/800/600?random=38",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -33.9258507,
+      "longitude": 18.4276163
+    },
+    "estimatedDuration": 84,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cape_town_40",
+    "name": "Kirstenbosch Botanical Gardens",
+    "description": "cape_town'de ziyaret edilebilecek popüler bir nokta: Kirstenbosch Botanical Gardens.",
+    "image": "https://picsum.photos/800/600?random=39",
+    "category": "Park",
+    "coordinates": {
+      "latitude": -33.9856281,
+      "longitude": 18.4303765
+    },
+    "estimatedDuration": 73,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Park"
+    ]
+  }
+]

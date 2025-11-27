@@ -1,0 +1,902 @@
+[
+  {
+    "id": "chennai_1",
+    "name": "Kapaleeswarar Temple",
+    "description": "chennai'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=0",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 13.0337415,
+      "longitude": 80.2698427
+    },
+    "estimatedDuration": 40,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 9,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "chennai_2",
+    "name": "Ambedkar Memorial",
+    "description": "chennai'de ziyaret edilebilecek popüler bir nokta: Ambedkar Memorial.",
+    "image": "https://picsum.photos/800/600?random=1",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 13.0193208,
+      "longitude": 80.266984
+    },
+    "estimatedDuration": 53,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "chennai_3",
+    "name": "Triumph of Labour",
+    "description": "chennai'de ziyaret edilebilecek popüler bir nokta: Triumph of Labour.",
+    "image": "https://picsum.photos/800/600?random=2",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 13.0641119,
+      "longitude": 80.2837484
+    },
+    "estimatedDuration": 83,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "chennai_4",
+    "name": "Snake Park",
+    "description": "chennai'de ziyaret edilebilecek popüler bir nokta: Snake Park.",
+    "image": "https://picsum.photos/800/600?random=3",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 13.0032701,
+      "longitude": 80.2384929
+    },
+    "estimatedDuration": 63,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 174,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "chennai_5",
+    "name": "Brodie Castle",
+    "description": "chennai'de ziyaret edilebilecek popüler bir nokta: Brodie Castle.",
+    "image": "https://picsum.photos/800/600?random=4",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 13.0158394,
+      "longitude": 80.2628474
+    },
+    "estimatedDuration": 50,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "chennai_6",
+    "name": "Birla Planetarium",
+    "description": "chennai'de ziyaret edilebilecek popüler bir nokta: Birla Planetarium.",
+    "image": "https://picsum.photos/800/600?random=5",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 13.0119591,
+      "longitude": 80.2440161
+    },
+    "estimatedDuration": 65,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "chennai_7",
+    "name": "Cholamandal Artists' Village",
+    "description": "chennai'de ziyaret edilebilecek popüler bir nokta: Cholamandal Artists' Village.",
+    "image": "https://picsum.photos/800/600?random=6",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 12.9229059,
+      "longitude": 80.2517281
+    },
+    "estimatedDuration": 49,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "chennai_8",
+    "name": "Sri Kalyana Varadaraja Perumal Temple",
+    "description": "chennai'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=7",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 13.1534886,
+      "longitude": 80.2964812
+    },
+    "estimatedDuration": 45,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "chennai_9",
+    "name": "Chennai Railway Museum",
+    "description": "chennai'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=8",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 13.1004324,
+      "longitude": 80.2087325
+    },
+    "estimatedDuration": 33,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 134,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "chennai_10",
+    "name": "எம் ஜி ஆர் நினைவுப்பூங்கா",
+    "description": "chennai'de ziyaret edilebilecek popüler bir nokta: எம் ஜி ஆர் நினைவுப்பூங்கா.",
+    "image": "https://picsum.photos/800/600?random=9",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 13.0642744,
+      "longitude": 80.2853155
+    },
+    "estimatedDuration": 70,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "chennai_11",
+    "name": "Perarignar Anna Memorial",
+    "description": "chennai'de ziyaret edilebilecek popüler bir nokta: Perarignar Anna Memorial.",
+    "image": "https://picsum.photos/800/600?random=10",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 13.065471,
+      "longitude": 80.2855855
+    },
+    "estimatedDuration": 49,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "chennai_12",
+    "name": "MGR Film City",
+    "description": "chennai'de ziyaret edilebilecek popüler bir nokta: Bilinmeyen Yer.",
+    "image": "https://picsum.photos/800/600?random=11",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 12.9935576,
+      "longitude": 80.2470596
+    },
+    "estimatedDuration": 74,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "chennai_13",
+    "name": "Sivaji Ganesan Memorial",
+    "description": "chennai'de ziyaret edilebilecek popüler bir nokta: Sivaji Ganesan Memorial.",
+    "image": "https://images.pexels.com/photos/34891582/pexels-photo-34891582.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 13.0160705,
+      "longitude": 80.2592477
+    },
+    "estimatedDuration": 37,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 155,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "chennai_14",
+    "name": "Arulmigu Santana Srinivasa Perumal Temple",
+    "description": "chennai'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=13",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 13.0860491,
+      "longitude": 80.1718666
+    },
+    "estimatedDuration": 73,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "chennai_15",
+    "name": "Guindy National Park",
+    "description": "chennai'de ziyaret edilebilecek popüler bir nokta: Guindy National Park.",
+    "image": "https://picsum.photos/800/600?random=14",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 12.9992197,
+      "longitude": 80.2280289
+    },
+    "estimatedDuration": 57,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "chennai_16",
+    "name": "Senmozhi Poonga",
+    "description": "chennai şehrinde doğa ile iç içe bir park.",
+    "image": "https://picsum.photos/800/600?random=15",
+    "category": "Park",
+    "coordinates": {
+      "latitude": 13.050644,
+      "longitude": 80.2515356
+    },
+    "estimatedDuration": 38,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 104,
+    "interests": [
+      "Park"
+    ]
+  },
+  {
+    "id": "chennai_17",
+    "name": "St. Andrew's Church",
+    "description": "chennai'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=16",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 13.0795606,
+      "longitude": 80.2640677
+    },
+    "estimatedDuration": 66,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "chennai_18",
+    "name": "Vadapalani Andavar Temple",
+    "description": "chennai'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=17",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 13.0529619,
+      "longitude": 80.2135899
+    },
+    "estimatedDuration": 49,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "chennai_19",
+    "name": "புனித ஜார்ஜ் கத்தீட்ரல்",
+    "description": "chennai'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=18",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 13.0518528,
+      "longitude": 80.253072
+    },
+    "estimatedDuration": 55,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "chennai_20",
+    "name": "Chennai Trade Center",
+    "description": "chennai'de ziyaret edilebilecek popüler bir nokta: Chennai Trade Center.",
+    "image": "https://picsum.photos/800/600?random=19",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 13.0135764,
+      "longitude": 80.190172
+    },
+    "estimatedDuration": 63,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "chennai_21",
+    "name": "Children's Park, Guindy",
+    "description": "chennai'de ziyaret edilebilecek popüler bir nokta: Children's Park, Guindy.",
+    "image": "https://picsum.photos/800/600?random=20",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 13.0043849,
+      "longitude": 80.2368641
+    },
+    "estimatedDuration": 79,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "chennai_22",
+    "name": "Ashtalakshmi Temple",
+    "description": "chennai'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=21",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 12.9925312,
+      "longitude": 80.2703577
+    },
+    "estimatedDuration": 80,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "chennai_23",
+    "name": "VGP Universal Kingdom",
+    "description": "chennai'de ziyaret edilebilecek popüler bir nokta: VGP Universal Kingdom.",
+    "image": "https://picsum.photos/800/600?random=22",
+    "category": "Eğlence",
+    "coordinates": {
+      "latitude": 12.9138751,
+      "longitude": 80.2532322
+    },
+    "estimatedDuration": 48,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Eğlence"
+    ]
+  },
+  {
+    "id": "chennai_24",
+    "name": "Madhya Kailash",
+    "description": "chennai'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=23",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 13.0063383,
+      "longitude": 80.2470187
+    },
+    "estimatedDuration": 88,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "chennai_25",
+    "name": "Kesava Perumal Temple",
+    "description": "chennai'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=24",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 13.030582,
+      "longitude": 80.2706965
+    },
+    "estimatedDuration": 42,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 50,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "chennai_26",
+    "name": "Ramakrishna Math Universal Temple",
+    "description": "chennai'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=25",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 13.0312842,
+      "longitude": 80.2675943
+    },
+    "estimatedDuration": 46,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "chennai_27",
+    "name": "Valluvar Kottam",
+    "description": "chennai'de ziyaret edilebilecek popüler bir nokta: Valluvar Kottam.",
+    "image": "https://picsum.photos/800/600?random=26",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 13.0541065,
+      "longitude": 80.2417681
+    },
+    "estimatedDuration": 37,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "chennai_28",
+    "name": "Queenship Mary Church",
+    "description": "chennai'in tarihi ibadet yapılarından biri.",
+    "image": "https://images.pexels.com/photos/30669894/pexels-photo-30669894.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 13.0776205,
+      "longitude": 80.2692603
+    },
+    "estimatedDuration": 62,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "chennai_29",
+    "name": "Vivekanandar Illam",
+    "description": "chennai'de ziyaret edilebilecek popüler bir nokta: Vivekanandar Illam.",
+    "image": "https://picsum.photos/800/600?random=28",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 13.0495709,
+      "longitude": 80.2802685
+    },
+    "estimatedDuration": 59,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "chennai_30",
+    "name": "Zion Church",
+    "description": "chennai'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=29",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 13.0752168,
+      "longitude": 80.2719575
+    },
+    "estimatedDuration": 33,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "chennai_31",
+    "name": "Thousand Lights Mosque",
+    "description": "chennai'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=30",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 13.0550877,
+      "longitude": 80.2551036
+    },
+    "estimatedDuration": 53,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "chennai_32",
+    "name": "St Peters Church",
+    "description": "chennai'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=31",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 13.1083129,
+      "longitude": 80.2947065
+    },
+    "estimatedDuration": 81,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "chennai_33",
+    "name": "Kachaleeswarar Temple",
+    "description": "chennai'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=32",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 13.0932915,
+      "longitude": 80.2879039
+    },
+    "estimatedDuration": 66,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 180,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "chennai_34",
+    "name": "Chennai Snake Park",
+    "description": "chennai'de ziyaret edilebilecek popüler bir nokta: Chennai Snake Park.",
+    "image": "https://picsum.photos/800/600?random=33",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 13.0033413,
+      "longitude": 80.2382743
+    },
+    "estimatedDuration": 74,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "chennai_35",
+    "name": "St. Thomas Mount",
+    "description": "chennai'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=34",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 13.0051108,
+      "longitude": 80.1935436
+    },
+    "estimatedDuration": 59,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "chennai_36",
+    "name": "Thrisulanathar Temple",
+    "description": "chennai'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=35",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 12.973523,
+      "longitude": 80.1659708
+    },
+    "estimatedDuration": 48,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "chennai_37",
+    "name": "Kaj Schmidt Memorial",
+    "description": "chennai'de ziyaret edilebilecek popüler bir nokta: Kaj Schmidt Memorial.",
+    "image": "https://picsum.photos/800/600?random=36",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 12.9994247,
+      "longitude": 80.272115
+    },
+    "estimatedDuration": 51,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "chennai_38",
+    "name": "Marudeeswarar Temple",
+    "description": "chennai'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=37",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 12.9848616,
+      "longitude": 80.2605971
+    },
+    "estimatedDuration": 88,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "chennai_39",
+    "name": "St Patricks Church",
+    "description": "chennai'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=38",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 13.0081633,
+      "longitude": 80.1953565
+    },
+    "estimatedDuration": 49,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "chennai_40",
+    "name": "Armenian Church of the Virgin Mary",
+    "description": "chennai'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=39",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 13.0892009,
+      "longitude": 80.2873201
+    },
+    "estimatedDuration": 49,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 159,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "chennai_41",
+    "name": "Triplicane Big Wallajah Mosque",
+    "description": "chennai'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=40",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 13.0637034,
+      "longitude": 80.2727866
+    },
+    "estimatedDuration": 71,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "chennai_42",
+    "name": "Triplican Lebbai Mosque",
+    "description": "chennai'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=41",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 13.0555428,
+      "longitude": 80.2717821
+    },
+    "estimatedDuration": 85,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "chennai_43",
+    "name": "Sri Parthasarathy Koil",
+    "description": "chennai'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=42",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 13.0539647,
+      "longitude": 80.2764546
+    },
+    "estimatedDuration": 33,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "chennai_44",
+    "name": "Thiruvalluvar Koil",
+    "description": "chennai'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=43",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 13.0396705,
+      "longitude": 80.27087
+    },
+    "estimatedDuration": 63,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "chennai_45",
+    "name": "Sri Kaalikambal Kamadeswarar Temple",
+    "description": "chennai'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=44",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 13.0947451,
+      "longitude": 80.2889608
+    },
+    "estimatedDuration": 38,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 77,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "chennai_46",
+    "name": "St. Thomas Cathedral Basilica",
+    "description": "chennai'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=45",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 13.0335856,
+      "longitude": 80.2777767
+    },
+    "estimatedDuration": 72,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 72,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "chennai_47",
+    "name": "Chennai Government Museum",
+    "description": "chennai'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=46",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 13.0712834,
+      "longitude": 80.2567535
+    },
+    "estimatedDuration": 86,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "chennai_48",
+    "name": "Fort St. George",
+    "description": "chennai'in tarihine tanıklık eden bir kale.",
+    "image": "https://picsum.photos/800/600?random=47",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 13.0796765,
+      "longitude": 80.2849395
+    },
+    "estimatedDuration": 78,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "chennai_49",
+    "name": "Church of Our Lady of Light (Luz Church)",
+    "description": "chennai'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=48",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 13.038191,
+      "longitude": 80.2623848
+    },
+    "estimatedDuration": 42,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 4,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "chennai_50",
+    "name": "Victory War Memorial",
+    "description": "chennai'de ziyaret edilebilecek popüler bir nokta: Victory War Memorial.",
+    "image": "https://picsum.photos/800/600?random=49",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 13.0734957,
+      "longitude": 80.2856554
+    },
+    "estimatedDuration": 70,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  }
+]

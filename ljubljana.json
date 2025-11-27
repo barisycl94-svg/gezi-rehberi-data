@@ -1,0 +1,974 @@
+[
+  {
+    "id": "ljubljana_1",
+    "name": "Spomenik umirajočega talca",
+    "description": "ljubljana'de ziyaret edilebilecek popüler bir nokta: Spomenik umirajočega talca.",
+    "image": "https://picsum.photos/800/600?random=0",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 46.0742515,
+      "longitude": 14.5259922
+    },
+    "estimatedDuration": 73,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "ljubljana_2",
+    "name": "Mestni muzej Ljubljana",
+    "description": "ljubljana'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=1",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 46.0470036,
+      "longitude": 14.5040244
+    },
+    "estimatedDuration": 85,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "ljubljana_3",
+    "name": "Navje",
+    "description": "ljubljana'de ziyaret edilebilecek popüler bir nokta: Navje.",
+    "image": "https://picsum.photos/800/600?random=2",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 46.0607626,
+      "longitude": 14.5118592
+    },
+    "estimatedDuration": 83,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 96,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "ljubljana_4",
+    "name": "Računalniški muzej",
+    "description": "ljubljana'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=3",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 46.0685514,
+      "longitude": 14.4903519
+    },
+    "estimatedDuration": 85,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 152,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "ljubljana_5",
+    "name": "Grad Koprivnik",
+    "description": "ljubljana'de ziyaret edilebilecek popüler bir nokta: Grad Koprivnik.",
+    "image": "https://picsum.photos/800/600?random=4",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 46.1180433,
+      "longitude": 14.6814862
+    },
+    "estimatedDuration": 42,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "ljubljana_6",
+    "name": "Marijin steber",
+    "description": "ljubljana'de ziyaret edilebilecek popüler bir nokta: Marijin steber.",
+    "image": "https://picsum.photos/800/600?random=5",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 46.045888,
+      "longitude": 14.5070386
+    },
+    "estimatedDuration": 86,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 110,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "ljubljana_7",
+    "name": "šance",
+    "description": "ljubljana'de ziyaret edilebilecek popüler bir nokta: šance.",
+    "image": "https://picsum.photos/800/600?random=6",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 46.0645737,
+      "longitude": 14.4809943
+    },
+    "estimatedDuration": 51,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "ljubljana_12",
+    "name": "Kip rudarja",
+    "description": "ljubljana'de ziyaret edilebilecek popüler bir nokta: Kip rudarja.",
+    "image": "https://picsum.photos/800/600?random=11",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 46.0609913,
+      "longitude": 14.4963636
+    },
+    "estimatedDuration": 30,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "ljubljana_13",
+    "name": "Muzej pošte in telekomunikacij",
+    "description": "ljubljana'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=12",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 46.0673632,
+      "longitude": 14.3139982
+    },
+    "estimatedDuration": 40,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "ljubljana_14",
+    "name": "Stari grad Kolovec",
+    "description": "ljubljana'in tarihine tanıklık eden bir kale.",
+    "image": "https://picsum.photos/800/600?random=13",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 46.1976642,
+      "longitude": 14.6495927
+    },
+    "estimatedDuration": 80,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 67,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "ljubljana_15",
+    "name": "Spomenik Ć",
+    "description": "ljubljana'de ziyaret edilebilecek popüler bir nokta: Spomenik Ć.",
+    "image": "https://picsum.photos/800/600?random=14",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 46.0520356,
+      "longitude": 14.5154188
+    },
+    "estimatedDuration": 40,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 41,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "ljubljana_16",
+    "name": "Tivolski grad",
+    "description": "ljubljana'in tarihine tanıklık eden bir kale.",
+    "image": "https://picsum.photos/800/600?random=15",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 46.0546323,
+      "longitude": 14.4929253
+    },
+    "estimatedDuration": 79,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "ljubljana_17",
+    "name": "Ljubljanski grad",
+    "description": "ljubljana'in tarihine tanıklık eden bir kale.",
+    "image": "https://picsum.photos/800/600?random=16",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 46.04885,
+      "longitude": 14.5085703
+    },
+    "estimatedDuration": 56,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "ljubljana_18",
+    "name": "Cerkev svetega Cirila in Metoda",
+    "description": "ljubljana'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=17",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 46.053911,
+      "longitude": 14.4993641
+    },
+    "estimatedDuration": 61,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 57,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "ljubljana_19",
+    "name": "Narodna galerija",
+    "description": "ljubljana'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=18",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 46.0539803,
+      "longitude": 14.5002522
+    },
+    "estimatedDuration": 75,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 188,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "ljubljana_20",
+    "name": "Cerkev Marijinega obiskanja",
+    "description": "ljubljana'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=19",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 46.0551076,
+      "longitude": 14.4773504
+    },
+    "estimatedDuration": 77,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "ljubljana_21",
+    "name": "Kunstljeva vila",
+    "description": "ljubljana'de ziyaret edilebilecek popüler bir nokta: Kunstljeva vila.",
+    "image": "https://picsum.photos/800/600?random=20",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.9638781,
+      "longitude": 14.2964052
+    },
+    "estimatedDuration": 40,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "ljubljana_22",
+    "name": "Stari grad (Smledniški hrib)",
+    "description": "ljubljana'in tarihine tanıklık eden bir kale.",
+    "image": "https://picsum.photos/800/600?random=21",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 46.1654085,
+      "longitude": 14.4422379
+    },
+    "estimatedDuration": 86,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "ljubljana_23",
+    "name": "Cerkev sv. Jakoba",
+    "description": "ljubljana'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=22",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 46.0461291,
+      "longitude": 14.5074347
+    },
+    "estimatedDuration": 83,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 64,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "ljubljana_24",
+    "name": "Boštanjski grad",
+    "description": "ljubljana'in tarihine tanıklık eden bir kale.",
+    "image": "https://picsum.photos/800/600?random=23",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.9346567,
+      "longitude": 14.6786291
+    },
+    "estimatedDuration": 35,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 148,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "ljubljana_25",
+    "name": "Železniški muzej Slovenskih železnic",
+    "description": "ljubljana'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=24",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 46.062609,
+      "longitude": 14.5025563
+    },
+    "estimatedDuration": 79,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "ljubljana_26",
+    "name": "Cerkev sv. Vida",
+    "description": "ljubljana'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=25",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.9537845,
+      "longitude": 14.4169142
+    },
+    "estimatedDuration": 57,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "ljubljana_27",
+    "name": "Stolnica sv. Nikolaja",
+    "description": "ljubljana'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=26",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 46.0507633,
+      "longitude": 14.508252
+    },
+    "estimatedDuration": 81,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "ljubljana_28",
+    "name": "Frančiškanska cerkev Marijinega oznanjenja",
+    "description": "ljubljana'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=27",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 46.0519017,
+      "longitude": 14.5060721
+    },
+    "estimatedDuration": 79,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 55,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "ljubljana_29",
+    "name": "Plečnikova hiša",
+    "description": "ljubljana'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=28",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 46.042366,
+      "longitude": 14.5022423
+    },
+    "estimatedDuration": 61,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 131,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "ljubljana_30",
+    "name": "Grad Jable",
+    "description": "ljubljana'in tarihine tanıklık eden bir kale.",
+    "image": "https://picsum.photos/800/600?random=29",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 46.1418519,
+      "longitude": 14.5533443
+    },
+    "estimatedDuration": 73,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "ljubljana_31",
+    "name": "Uršulinska cerkev svete Trojice",
+    "description": "ljubljana'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=30",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 46.0501353,
+      "longitude": 14.501926
+    },
+    "estimatedDuration": 76,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 9,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "ljubljana_32",
+    "name": "Cerkev svetega Jerneja",
+    "description": "ljubljana'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=31",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 46.0632169,
+      "longitude": 14.494385
+    },
+    "estimatedDuration": 31,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "ljubljana_33",
+    "name": "Slovenski etnografski muzej",
+    "description": "ljubljana'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=32",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 46.0549773,
+      "longitude": 14.5161748
+    },
+    "estimatedDuration": 38,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "ljubljana_34",
+    "name": "Hotel Bellevue",
+    "description": "ljubljana'de ziyaret edilebilecek popüler bir nokta: Hotel Bellevue.",
+    "image": "https://picsum.photos/800/600?random=33",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 46.0615768,
+      "longitude": 14.494692
+    },
+    "estimatedDuration": 33,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "ljubljana_35",
+    "name": "Župnijska cerkev sv. Štefana",
+    "description": "ljubljana'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=34",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 46.1419248,
+      "longitude": 14.3708516
+    },
+    "estimatedDuration": 32,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "ljubljana_36",
+    "name": "Astronomsko geofizikalni observatorij Golovec",
+    "description": "ljubljana'de ziyaret edilebilecek popüler bir nokta: Astronomsko geofizikalni observatorij Golovec.",
+    "image": "https://picsum.photos/800/600?random=35",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 46.0438281,
+      "longitude": 14.5278087
+    },
+    "estimatedDuration": 53,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 128,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "ljubljana_37",
+    "name": "Sv. Urh",
+    "description": "ljubljana'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=36",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 46.0352168,
+      "longitude": 14.5843503
+    },
+    "estimatedDuration": 37,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "ljubljana_38",
+    "name": "Dvorec Lisičje",
+    "description": "ljubljana'de ziyaret edilebilecek popüler bir nokta: Dvorec Lisičje.",
+    "image": "https://picsum.photos/800/600?random=37",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.9948957,
+      "longitude": 14.5833629
+    },
+    "estimatedDuration": 50,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "ljubljana_39",
+    "name": "Sv. Jakob st. na Petelincu",
+    "description": "ljubljana'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=38",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 46.105256,
+      "longitude": 14.3967395
+    },
+    "estimatedDuration": 64,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 21,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "ljubljana_40",
+    "name": "Sv, Anton Padovanski",
+    "description": "ljubljana'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=39",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 46.0417553,
+      "longitude": 14.4780687
+    },
+    "estimatedDuration": 33,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "ljubljana_41",
+    "name": "Župnijska cerkev svetega Frančiška Asiškega",
+    "description": "ljubljana'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=40",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 46.0682716,
+      "longitude": 14.4967613
+    },
+    "estimatedDuration": 40,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "ljubljana_42",
+    "name": "Mormonska cerkev",
+    "description": "ljubljana'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=41",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 46.0702596,
+      "longitude": 14.4790257
+    },
+    "estimatedDuration": 41,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "ljubljana_43",
+    "name": "Grad Bokalce",
+    "description": "ljubljana'in tarihine tanıklık eden bir kale.",
+    "image": "https://picsum.photos/800/600?random=42",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 46.04801,
+      "longitude": 14.4446154
+    },
+    "estimatedDuration": 51,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 71,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "ljubljana_44",
+    "name": "Župnijska cerkev sv. Janeza Krstnika",
+    "description": "ljubljana'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=43",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 46.1338786,
+      "longitude": 14.4095061
+    },
+    "estimatedDuration": 88,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "ljubljana_45",
+    "name": "Cerkev Sv. Mihaela",
+    "description": "ljubljana'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=44",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 46.0123051,
+      "longitude": 14.5059594
+    },
+    "estimatedDuration": 78,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "ljubljana_46",
+    "name": "Podružnična cerkev Sv. trojice",
+    "description": "ljubljana'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=45",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 46.1092538,
+      "longitude": 14.41345
+    },
+    "estimatedDuration": 59,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "ljubljana_47",
+    "name": "Župnijska cerkev sv. Ane",
+    "description": "ljubljana'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=46",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 46.019442,
+      "longitude": 14.6763099
+    },
+    "estimatedDuration": 60,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 186,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "ljubljana_48",
+    "name": "Cerkev Kristusovega učlovečenja",
+    "description": "ljubljana'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=47",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 46.0820015,
+      "longitude": 14.4726005
+    },
+    "estimatedDuration": 72,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "ljubljana_49",
+    "name": "Grad Krumperk",
+    "description": "ljubljana'in tarihine tanıklık eden bir kale.",
+    "image": "https://picsum.photos/800/600?random=48",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 46.1344533,
+      "longitude": 14.6333618
+    },
+    "estimatedDuration": 45,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 170,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "ljubljana_50",
+    "name": "Sv. Ana",
+    "description": "ljubljana'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=49",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.9695041,
+      "longitude": 14.4222077
+    },
+    "estimatedDuration": 61,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "ljubljana_51",
+    "name": "Ljubljanska džamija",
+    "description": "ljubljana'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=50",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 46.0608176,
+      "longitude": 14.5021563
+    },
+    "estimatedDuration": 63,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "ljubljana_52",
+    "name": "Borovniški viadukt",
+    "description": "ljubljana'de ziyaret edilebilecek popüler bir nokta: Borovniški viadukt.",
+    "image": "https://picsum.photos/800/600?random=51",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.919309,
+      "longitude": 14.3647036
+    },
+    "estimatedDuration": 49,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "ljubljana_53",
+    "name": "Cerkev Marijinega rojstva",
+    "description": "ljubljana'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=52",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 46.1804892,
+      "longitude": 14.6001427
+    },
+    "estimatedDuration": 51,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "ljubljana_54",
+    "name": "Hafnerjeva kapelica",
+    "description": "ljubljana'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=53",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 46.1285559,
+      "longitude": 14.4151297
+    },
+    "estimatedDuration": 32,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "ljubljana_55",
+    "name": "Cerkev sv. Mohorja in Fortunata",
+    "description": "ljubljana'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=54",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 46.0358232,
+      "longitude": 14.2939351
+    },
+    "estimatedDuration": 47,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "ljubljana_56",
+    "name": "Zmajski most",
+    "description": "ljubljana'de ziyaret edilebilecek popüler bir nokta: Zmajski most.",
+    "image": "https://picsum.photos/800/600?random=55",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 46.0519491,
+      "longitude": 14.5104061
+    },
+    "estimatedDuration": 77,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "ljubljana_57",
+    "name": "Cerkev svetega Florijana",
+    "description": "ljubljana'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=56",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 46.0462276,
+      "longitude": 14.5087305
+    },
+    "estimatedDuration": 48,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 27,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "ljubljana_58",
+    "name": "Valentin Vodnik",
+    "description": "ljubljana'de ziyaret edilebilecek popüler bir nokta: Valentin Vodnik.",
+    "image": "https://picsum.photos/800/600?random=57",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 46.0508078,
+      "longitude": 14.5094872
+    },
+    "estimatedDuration": 75,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": "cairo_1",
+    "name": "Lowest Point in Illinois",
+    "description": "cairo'de ziyaret edilebilecek popüler bir nokta: Lowest Point in Illinois.",
+    "image": "https://picsum.photos/800/600?random=0",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 36.9839772,
+      "longitude": -89.1410945
+    },
+    "estimatedDuration": 80,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cairo_2",
+    "name": "Proceeding On",
+    "description": "cairo'de ziyaret edilebilecek popüler bir nokta: Proceeding On.",
+    "image": "https://picsum.photos/800/600?random=1",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 36.9839748,
+      "longitude": -89.1399803
+    },
+    "estimatedDuration": 85,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cairo_3",
+    "name": "Cairo Custom House Museum",
+    "description": "cairo'de bulunan önemli bir müze.",
+    "image": "https://images.pexels.com/photos/34939918/pexels-photo-34939918.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 37.0029058,
+      "longitude": -89.1718085
+    },
+    "estimatedDuration": 34,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "cairo_4",
+    "name": "Magnolia Manor",
+    "description": "cairo'de ziyaret edilebilecek popüler bir nokta: Magnolia Manor.",
+    "image": "https://picsum.photos/800/600?random=3",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 37.0093735,
+      "longitude": -89.1824678
+    },
+    "estimatedDuration": 45,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  }
+]

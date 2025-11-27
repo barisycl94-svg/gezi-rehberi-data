@@ -1,0 +1,524 @@
+[
+  {
+    "id": "austin_1",
+    "name": "Symonds Street NZ Wars memorial",
+    "description": "austin'de ziyaret edilebilecek popüler bir nokta: Symonds Street NZ Wars memorial.",
+    "image": "https://picsum.photos/800/600?random=0",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -36.8557822,
+      "longitude": 174.7659916
+    },
+    "estimatedDuration": 87,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 12,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "austin_2",
+    "name": "Sir George Grey",
+    "description": "austin'de ziyaret edilebilecek popüler bir nokta: Sir George Grey.",
+    "image": "https://picsum.photos/800/600?random=1",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -36.8500888,
+      "longitude": 174.7677333
+    },
+    "estimatedDuration": 35,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 3,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "austin_3",
+    "name": "Propeller of HMNZS Otago (F111)",
+    "description": "austin'de ziyaret edilebilecek popüler bir nokta: Propeller of HMNZS Otago (F111).",
+    "image": "https://picsum.photos/800/600?random=2",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -36.8109444,
+      "longitude": 174.6443771
+    },
+    "estimatedDuration": 73,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "austin_4",
+    "name": "General Assembly House",
+    "description": "austin'de ziyaret edilebilecek popüler bir nokta: General Assembly House.",
+    "image": "https://picsum.photos/800/600?random=3",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -36.8491312,
+      "longitude": 174.7733279
+    },
+    "estimatedDuration": 36,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 134,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "austin_5",
+    "name": "Te Pane-o-Horoiwi",
+    "description": "austin'de ziyaret edilebilecek popüler bir nokta: Te Pane-o-Horoiwi.",
+    "image": "https://picsum.photos/800/600?random=4",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -36.8440108,
+      "longitude": 174.8641284
+    },
+    "estimatedDuration": 36,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "austin_6",
+    "name": "Tāmaki Paenga Hira Auckland War Memorial Museum",
+    "description": "austin'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=5",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": -36.8607505,
+      "longitude": 174.7778113
+    },
+    "estimatedDuration": 80,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 23,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "austin_7",
+    "name": "Holy Trinity Cathedral",
+    "description": "austin'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=6",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -36.859616,
+      "longitude": 174.7836107
+    },
+    "estimatedDuration": 68,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "austin_8",
+    "name": "Saint Patrick’s Cathedral",
+    "description": "austin'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=7",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -36.8464643,
+      "longitude": 174.7633571
+    },
+    "estimatedDuration": 46,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 91,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "austin_9",
+    "name": "Auckland Baptist Tabernacle",
+    "description": "austin'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=8",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -36.8573555,
+      "longitude": 174.7611516
+    },
+    "estimatedDuration": 33,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "austin_10",
+    "name": "Rainbow's End",
+    "description": "austin'de ziyaret edilebilecek popüler bir nokta: Rainbow's End.",
+    "image": "https://picsum.photos/800/600?random=9",
+    "category": "Eğlence",
+    "coordinates": {
+      "latitude": -36.9943997,
+      "longitude": 174.8832056
+    },
+    "estimatedDuration": 83,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Eğlence"
+    ]
+  },
+  {
+    "id": "austin_11",
+    "name": "Auckland Zoo",
+    "description": "austin'de ziyaret edilebilecek popüler bir nokta: Auckland Zoo.",
+    "image": "https://picsum.photos/800/600?random=10",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -36.8625794,
+      "longitude": 174.7212183
+    },
+    "estimatedDuration": 58,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 131,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "austin_12",
+    "name": "Saint Paul's",
+    "description": "austin'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=11",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -36.8544426,
+      "longitude": 174.7683194
+    },
+    "estimatedDuration": 75,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "austin_13",
+    "name": "New Zealand Maritime Museum Hui Te Ananui a Tangaroa",
+    "description": "austin'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=12",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": -36.8415441,
+      "longitude": 174.7633212
+    },
+    "estimatedDuration": 31,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "austin_14",
+    "name": "Samoa House",
+    "description": "austin'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=13",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": -36.8572355,
+      "longitude": 174.7579932
+    },
+    "estimatedDuration": 65,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "austin_15",
+    "name": "Saint Peter's Anglican Church",
+    "description": "austin'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=14",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -36.9225627,
+      "longitude": 174.7849283
+    },
+    "estimatedDuration": 45,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 24,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "austin_16",
+    "name": "Saint John's College Chapel",
+    "description": "austin'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=15",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -36.8737783,
+      "longitude": 174.84144
+    },
+    "estimatedDuration": 31,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "austin_17",
+    "name": "Alberton",
+    "description": "austin'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=16",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": -36.889949,
+      "longitude": 174.7246385
+    },
+    "estimatedDuration": 76,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "austin_18",
+    "name": "Greyfriars Eden Epsom Presbyterian Church",
+    "description": "austin'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=17",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -36.8858151,
+      "longitude": 174.7614676
+    },
+    "estimatedDuration": 69,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "austin_19",
+    "name": "Al-Masjid Al-Jamie",
+    "description": "austin'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=18",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -36.8525956,
+      "longitude": 174.7437379
+    },
+    "estimatedDuration": 68,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "austin_20",
+    "name": "Bharatiya Mandir",
+    "description": "austin'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=19",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -36.8861448,
+      "longitude": 174.7415094
+    },
+    "estimatedDuration": 62,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 31,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "austin_21",
+    "name": "St Barnabas Anglican Church",
+    "description": "austin'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=20",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -36.875529,
+      "longitude": 174.7611773
+    },
+    "estimatedDuration": 66,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "austin_22",
+    "name": "Saint Mary's Old Convent Chapel",
+    "description": "austin'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=21",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -36.845849,
+      "longitude": 174.7483474
+    },
+    "estimatedDuration": 51,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "austin_23",
+    "name": "KZ1 Yacht",
+    "description": "austin'de ziyaret edilebilecek popüler bir nokta: KZ1 Yacht.",
+    "image": "https://picsum.photos/800/600?random=22",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -36.8423504,
+      "longitude": 174.7635082
+    },
+    "estimatedDuration": 77,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "austin_24",
+    "name": "Howick Historical Village",
+    "description": "austin'de ziyaret edilebilecek popüler bir nokta: Howick Historical Village.",
+    "image": "https://picsum.photos/800/600?random=23",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -36.9074151,
+      "longitude": 174.9031765
+    },
+    "estimatedDuration": 58,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "austin_25",
+    "name": "Y turret of HMNZS Achilles",
+    "description": "austin'de ziyaret edilebilecek popüler bir nokta: Y turret of HMNZS Achilles.",
+    "image": "https://picsum.photos/800/600?random=24",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -36.8304896,
+      "longitude": 174.7908453
+    },
+    "estimatedDuration": 66,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 87,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "austin_26",
+    "name": "Rangitoto Lighthouse",
+    "description": "austin'de ziyaret edilebilecek popüler bir nokta: Rangitoto Lighthouse.",
+    "image": "https://picsum.photos/800/600?random=25",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -36.7818708,
+      "longitude": 174.8224386
+    },
+    "estimatedDuration": 85,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "austin_27",
+    "name": "Albert Park Tunnels",
+    "description": "austin'de ziyaret edilebilecek popüler bir nokta: Albert Park Tunnels.",
+    "image": "https://picsum.photos/800/600?random=26",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -36.8501293,
+      "longitude": 174.7701258
+    },
+    "estimatedDuration": 75,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "austin_28",
+    "name": "Museum of Transport and Technology",
+    "description": "austin'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=27",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": -36.8635666,
+      "longitude": 174.7201926
+    },
+    "estimatedDuration": 42,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "austin_29",
+    "name": "Sky Tower",
+    "description": "austin'de ziyaret edilebilecek popüler bir nokta: Sky Tower.",
+    "image": "https://picsum.photos/800/600?random=28",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -36.8484658,
+      "longitude": 174.7621843
+    },
+    "estimatedDuration": 68,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  }
+]

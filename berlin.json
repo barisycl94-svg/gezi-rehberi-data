@@ -1,0 +1,20 @@
+[
+  {
+    "id": "berlin_1",
+    "name": "Daycholah Lookout",
+    "description": "berlin'de ziyaret edilebilecek popüler bir nokta: Daycholah Lookout.",
+    "image": "https://images.pexels.com/photos/34933401/pexels-photo-34933401.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.836304,
+      "longitude": -88.958702
+    },
+    "estimatedDuration": 58,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 153,
+    "interests": [
+      "Tarihi"
+    ]
+  }
+]

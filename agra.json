@@ -1,0 +1,128 @@
+[
+  {
+    "id": "agra_1",
+    "name": "Tomb of Itimad ud Daulah",
+    "description": "agra'de ziyaret edilebilecek popüler bir nokta: Tomb of Itimad ud Daulah.",
+    "image": "https://images.pexels.com/photos/192729/pexels-photo-192729.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 27.1928089,
+      "longitude": 78.0314329
+    },
+    "estimatedDuration": 65,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "agra_2",
+    "name": "Mehtab Bagh",
+    "description": "agra'de ziyaret edilebilecek popüler bir nokta: Mehtab Bagh.",
+    "image": "https://images.pexels.com/photos/15138268/pexels-photo-15138268.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Park",
+    "coordinates": {
+      "latitude": 27.1796698,
+      "longitude": 78.0420345
+    },
+    "estimatedDuration": 59,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 6,
+    "interests": [
+      "Park"
+    ]
+  },
+  {
+    "id": "agra_3",
+    "name": "Akbar's tomb and mausoleum",
+    "description": "agra'de ziyaret edilebilecek popüler bir nokta: Akbar's tomb and mausoleum.",
+    "image": "https://images.pexels.com/photos/2792601/pexels-photo-2792601.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 27.2204201,
+      "longitude": 77.9503982
+    },
+    "estimatedDuration": 78,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "agra_4",
+    "name": "Mariam's Tomb",
+    "description": "agra'de ziyaret edilebilecek popüler bir nokta: Mariam's Tomb.",
+    "image": "https://images.pexels.com/photos/2349168/pexels-photo-2349168.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 27.2153018,
+      "longitude": 77.9427206
+    },
+    "estimatedDuration": 89,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 13,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "agra_5",
+    "name": "Agra Fort",
+    "description": "agra'de ziyaret edilebilecek popüler bir nokta: Agra Fort.",
+    "image": "https://images.pexels.com/photos/8112498/pexels-photo-8112498.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 27.1798217,
+      "longitude": 78.0210426
+    },
+    "estimatedDuration": 56,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "agra_6",
+    "name": "Taj Mahal",
+    "description": "agra'de ziyaret edilebilecek popüler bir nokta: Taj Mahal.",
+    "image": "https://images.pexels.com/photos/5458393/pexels-photo-5458393.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 27.175009,
+      "longitude": 78.0420903
+    },
+    "estimatedDuration": 84,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "agra_7",
+    "name": "एतमाद-उद-दौला का मक़बरा",
+    "description": "agra'de ziyaret edilebilecek popüler bir nokta: एतमाद-उद-दौला का मक़बरा.",
+    "image": "https://picsum.photos/800/600?random=6",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 27.1928678,
+      "longitude": 78.0309945
+    },
+    "estimatedDuration": 49,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  }
+]

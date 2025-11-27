@@ -1,0 +1,614 @@
+[
+  {
+    "id": "christchurch_1",
+    "name": "Old Harry Rocks",
+    "description": "christchurch'de ziyaret edilebilecek popüler bir nokta: Old Harry Rocks.",
+    "image": "https://picsum.photos/800/600?random=0",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.6424216,
+      "longitude": -1.9233902
+    },
+    "estimatedDuration": 56,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "christchurch_2",
+    "name": "Museum of East Dorset",
+    "description": "christchurch'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=1",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 50.7994782,
+      "longitude": -1.9876357
+    },
+    "estimatedDuration": 52,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "christchurch_3",
+    "name": "Wareham Town Museum",
+    "description": "christchurch'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=2",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 50.6861523,
+      "longitude": -2.1095485
+    },
+    "estimatedDuration": 67,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "christchurch_4",
+    "name": "Baden-Powell First Camp Memorial",
+    "description": "christchurch'de ziyaret edilebilecek popüler bir nokta: Baden-Powell First Camp Memorial.",
+    "image": "https://picsum.photos/800/600?random=3",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.6886337,
+      "longitude": -1.9777073
+    },
+    "estimatedDuration": 47,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "christchurch_5",
+    "name": "Ducking Stool",
+    "description": "christchurch'de ziyaret edilebilecek popüler bir nokta: Ducking Stool.",
+    "image": "https://picsum.photos/800/600?random=4",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.7346334,
+      "longitude": -1.7747921
+    },
+    "estimatedDuration": 34,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "christchurch_6",
+    "name": "Stocks",
+    "description": "christchurch'de ziyaret edilebilecek popüler bir nokta: Stocks.",
+    "image": "https://picsum.photos/800/600?random=5",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.7337927,
+      "longitude": -1.7748706
+    },
+    "estimatedDuration": 52,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 11,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "christchurch_7",
+    "name": "Whipping Post",
+    "description": "christchurch'de ziyaret edilebilecek popüler bir nokta: Whipping Post.",
+    "image": "https://picsum.photos/800/600?random=6",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.7336842,
+      "longitude": -1.7748331
+    },
+    "estimatedDuration": 88,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 85,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "christchurch_8",
+    "name": "Fisherman's Walk Cliff Lift",
+    "description": "christchurch'de ziyaret edilebilecek popüler bir nokta: Fisherman's Walk Cliff Lift.",
+    "image": "https://images.pexels.com/photos/2225771/pexels-photo-2225771.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.7211062,
+      "longitude": -1.8173255
+    },
+    "estimatedDuration": 74,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 78,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "christchurch_9",
+    "name": "Woolsbarrow Fort",
+    "description": "christchurch'de ziyaret edilebilecek popüler bir nokta: Woolsbarrow Fort.",
+    "image": "https://picsum.photos/800/600?random=8",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.7325793,
+      "longitude": -2.1533597
+    },
+    "estimatedDuration": 84,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "christchurch_10",
+    "name": "West Cliff Lift",
+    "description": "christchurch'de ziyaret edilebilecek popüler bir nokta: West Cliff Lift.",
+    "image": "https://picsum.photos/800/600?random=9",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.7150986,
+      "longitude": -1.8813351
+    },
+    "estimatedDuration": 35,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "christchurch_11",
+    "name": "Tyneham",
+    "description": "christchurch'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=10",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 50.6219918,
+      "longitude": -2.1690728
+    },
+    "estimatedDuration": 32,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "christchurch_12",
+    "name": "Saint James Church",
+    "description": "christchurch'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=11",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.7135566,
+      "longitude": -1.9894633
+    },
+    "estimatedDuration": 67,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "christchurch_13",
+    "name": "Lulworth Castle and Park",
+    "description": "christchurch'de ziyaret edilebilecek popüler bir nokta: Lulworth Castle and Park.",
+    "image": "https://picsum.photos/800/600?random=12",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.6402952,
+      "longitude": -2.2074153
+    },
+    "estimatedDuration": 51,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "christchurch_14",
+    "name": "Russell Cotes Art Gallery & Museum",
+    "description": "christchurch'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=13",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 50.7176172,
+      "longitude": -1.8706048
+    },
+    "estimatedDuration": 45,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "christchurch_15",
+    "name": "St Stephen's Church",
+    "description": "christchurch'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=14",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.7231495,
+      "longitude": -1.8806159
+    },
+    "estimatedDuration": 45,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 5,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "christchurch_16",
+    "name": "St Mary's Church",
+    "description": "christchurch'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=15",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.6895812,
+      "longitude": -1.9614149
+    },
+    "estimatedDuration": 47,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 192,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "christchurch_17",
+    "name": "Brownsea Castle",
+    "description": "christchurch'in tarihine tanıklık eden bir kale.",
+    "image": "https://picsum.photos/800/600?random=16",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.688458,
+      "longitude": -1.9581156
+    },
+    "estimatedDuration": 70,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "christchurch_18",
+    "name": "Catholic Church of the Sacred Heart",
+    "description": "christchurch'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=17",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.7209733,
+      "longitude": -1.8786142
+    },
+    "estimatedDuration": 75,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "christchurch_19",
+    "name": "Corfe Castle",
+    "description": "christchurch'in tarihine tanıklık eden bir kale.",
+    "image": "https://picsum.photos/800/600?random=18",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.639889,
+      "longitude": -2.0591643
+    },
+    "estimatedDuration": 35,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "christchurch_20",
+    "name": "St. Aldhelm's Chapel",
+    "description": "christchurch'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=19",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.5797199,
+      "longitude": -2.0568009
+    },
+    "estimatedDuration": 77,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "christchurch_21",
+    "name": "Minster of St. Cuthburga",
+    "description": "christchurch'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=20",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.7989834,
+      "longitude": -1.9881391
+    },
+    "estimatedDuration": 66,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "christchurch_22",
+    "name": "Highcliffe Castle",
+    "description": "christchurch'in tarihine tanıklık eden bir kale.",
+    "image": "https://picsum.photos/800/600?random=21",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.7380233,
+      "longitude": -1.7136623
+    },
+    "estimatedDuration": 35,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "christchurch_23",
+    "name": "Bournemouth Hebrew Congregation",
+    "description": "christchurch'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=22",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.721393,
+      "longitude": -1.8715461
+    },
+    "estimatedDuration": 36,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "christchurch_24",
+    "name": "Saint Mary the Virgin, Hampreston",
+    "description": "christchurch'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=23",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.7887794,
+      "longitude": -1.9230655
+    },
+    "estimatedDuration": 48,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 154,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "christchurch_25",
+    "name": "Saint John The Baptist",
+    "description": "christchurch'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=24",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.7498444,
+      "longitude": -1.8779407
+    },
+    "estimatedDuration": 66,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "christchurch_26",
+    "name": "St James",
+    "description": "christchurch'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=25",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.6156535,
+      "longitude": -2.0641434
+    },
+    "estimatedDuration": 66,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "christchurch_27",
+    "name": "St Martin on the Walls",
+    "description": "christchurch'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=26",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.6888908,
+      "longitude": -2.1115084
+    },
+    "estimatedDuration": 76,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "christchurch_28",
+    "name": "St Dunstan Orthodox Christian Church",
+    "description": "christchurch'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=27",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.7244384,
+      "longitude": -1.9385926
+    },
+    "estimatedDuration": 71,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 16,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "christchurch_29",
+    "name": "Poole Museum",
+    "description": "christchurch'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=28",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 50.7125271,
+      "longitude": -1.9888193
+    },
+    "estimatedDuration": 37,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 198,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "christchurch_30",
+    "name": "Museum of Jurassic Marine Life",
+    "description": "christchurch'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=29",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 50.6185418,
+      "longitude": -2.1195891
+    },
+    "estimatedDuration": 84,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "christchurch_31",
+    "name": "Durlston National Nature Reserve",
+    "description": "christchurch'de ziyaret edilebilecek popüler bir nokta: Durlston National Nature Reserve.",
+    "image": "https://picsum.photos/800/600?random=30",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.5968114,
+      "longitude": -1.9619129
+    },
+    "estimatedDuration": 77,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "christchurch_32",
+    "name": "Saint Mary's Church",
+    "description": "christchurch'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=31",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.7997592,
+      "longitude": -1.8936291
+    },
+    "estimatedDuration": 57,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "christchurch_33",
+    "name": "Durlston Castle",
+    "description": "christchurch'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=32",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 50.595118,
+      "longitude": -1.953
+    },
+    "estimatedDuration": 67,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "christchurch_35",
+    "name": "Wareham Town Walls and Castle Remains",
+    "description": "christchurch'de ziyaret edilebilecek popüler bir nokta: Wareham Town Walls and Castle Remains.",
+    "image": "https://picsum.photos/800/600?random=34",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.6871103,
+      "longitude": -2.1103848
+    },
+    "estimatedDuration": 68,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  }
+]

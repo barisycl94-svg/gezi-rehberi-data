@@ -1,0 +1,308 @@
+[
+  {
+    "id": "port_moresby_1",
+    "name": "EM TV Headquarters",
+    "description": "port_moresby'de ziyaret edilebilecek popüler bir nokta: EM TV Headquarters.",
+    "image": "https://picsum.photos/800/600?random=0",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -9.4640745,
+      "longitude": 147.196806
+    },
+    "estimatedDuration": 76,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "port_moresby_2",
+    "name": "Port Moresby Main Market",
+    "description": "port_moresby'de ziyaret edilebilecek popüler bir nokta: Port Moresby Main Market.",
+    "image": "https://picsum.photos/800/600?random=1",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -9.4414574,
+      "longitude": 147.1959598
+    },
+    "estimatedDuration": 79,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "port_moresby_3",
+    "name": "Royal Papuan Yacht Club",
+    "description": "port_moresby'de ziyaret edilebilecek popüler bir nokta: Royal Papuan Yacht Club.",
+    "image": "https://picsum.photos/800/600?random=2",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -9.4664126,
+      "longitude": 147.1547657
+    },
+    "estimatedDuration": 52,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "port_moresby_4",
+    "name": "Filipino Association of Papua New Guinea",
+    "description": "port_moresby'de ziyaret edilebilecek popüler bir nokta: Filipino Association of Papua New Guinea.",
+    "image": "https://picsum.photos/800/600?random=3",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -9.4445014,
+      "longitude": 147.1954362
+    },
+    "estimatedDuration": 52,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "port_moresby_5",
+    "name": "Comrade Haus",
+    "description": "port_moresby'de ziyaret edilebilecek popüler bir nokta: Comrade Haus.",
+    "image": "https://picsum.photos/800/600?random=4",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -9.4524789,
+      "longitude": 147.1828569
+    },
+    "estimatedDuration": 36,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "port_moresby_6",
+    "name": "Hitron PNG",
+    "description": "port_moresby'de ziyaret edilebilecek popüler bir nokta: Hitron PNG.",
+    "image": "https://picsum.photos/800/600?random=5",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -9.4544843,
+      "longitude": 147.193921
+    },
+    "estimatedDuration": 39,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "port_moresby_7",
+    "name": "Botanical Gardens",
+    "description": "port_moresby'de ziyaret edilebilecek popüler bir nokta: Botanical Gardens.",
+    "image": "https://picsum.photos/800/600?random=6",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -9.4074666,
+      "longitude": 147.1658792
+    },
+    "estimatedDuration": 84,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 61,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "port_moresby_8",
+    "name": "NRI National Research Institute",
+    "description": "port_moresby'de ziyaret edilebilecek popüler bir nokta: NRI National Research Institute.",
+    "image": "https://picsum.photos/800/600?random=7",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -9.4097049,
+      "longitude": 147.1644139
+    },
+    "estimatedDuration": 71,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "port_moresby_9",
+    "name": "NBC Radio Station",
+    "description": "port_moresby'de ziyaret edilebilecek popüler bir nokta: NBC Radio Station.",
+    "image": "https://picsum.photos/800/600?random=8",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -9.4583866,
+      "longitude": 147.2033074
+    },
+    "estimatedDuration": 33,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 78,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "port_moresby_10",
+    "name": "Puma Energy Refinery Plant",
+    "description": "port_moresby'de ziyaret edilebilecek popüler bir nokta: Puma Energy Refinery Plant.",
+    "image": "https://picsum.photos/800/600?random=9",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -9.4591641,
+      "longitude": 147.1158608
+    },
+    "estimatedDuration": 48,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "port_moresby_11",
+    "name": "Air Niugini Memorial",
+    "description": "port_moresby'de ziyaret edilebilecek popüler bir nokta: Air Niugini Memorial.",
+    "image": "https://picsum.photos/800/600?random=10",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -9.4471515,
+      "longitude": 147.2122505
+    },
+    "estimatedDuration": 62,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 105,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "port_moresby_12",
+    "name": "Nature Park",
+    "description": "port_moresby'de ziyaret edilebilecek popüler bir nokta: Nature Park.",
+    "image": "https://picsum.photos/800/600?random=11",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -9.4066986,
+      "longitude": 147.1657851
+    },
+    "estimatedDuration": 81,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "port_moresby_13",
+    "name": "Nature Park Main Entrance",
+    "description": "port_moresby'de ziyaret edilebilecek popüler bir nokta: Nature Park Main Entrance.",
+    "image": "https://picsum.photos/800/600?random=12",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -9.4052405,
+      "longitude": 147.1650835
+    },
+    "estimatedDuration": 32,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "port_moresby_14",
+    "name": "Canoe coffee",
+    "description": "port_moresby'de ziyaret edilebilecek popüler bir nokta: Canoe coffee.",
+    "image": "https://picsum.photos/800/600?random=13",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -9.5283406,
+      "longitude": 147.2503896
+    },
+    "estimatedDuration": 60,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "port_moresby_15",
+    "name": "Koki Market",
+    "description": "port_moresby'de ziyaret edilebilecek popüler bir nokta: Koki Market.",
+    "image": "https://picsum.photos/800/600?random=14",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -9.4802656,
+      "longitude": 147.1700261
+    },
+    "estimatedDuration": 68,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "port_moresby_16",
+    "name": "PNG National Museum and Art Gallery",
+    "description": "port_moresby'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=15",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": -9.4255929,
+      "longitude": 147.1901275
+    },
+    "estimatedDuration": 85,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "port_moresby_17",
+    "name": "APEC Haus",
+    "description": "port_moresby'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=16",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": -9.4832683,
+      "longitude": 147.1506134
+    },
+    "estimatedDuration": 73,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 34,
+    "interests": [
+      "Müze"
+    ]
+  }
+]

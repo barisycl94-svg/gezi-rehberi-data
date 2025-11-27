@@ -1,0 +1,380 @@
+[
+  {
+    "id": "dhaka_1",
+    "name": "American Museum of Western Art",
+    "description": "dhaka'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=0",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 39.7446273,
+      "longitude": -104.9879622
+    },
+    "estimatedDuration": 52,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 182,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "dhaka_2",
+    "name": "Scum of the Earth Church",
+    "description": "dhaka'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=1",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 39.7338833,
+      "longitude": -104.9996267
+    },
+    "estimatedDuration": 86,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 179,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "dhaka_3",
+    "name": "Rocky Mountain Quilt Museum",
+    "description": "dhaka'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=2",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 39.7206682,
+      "longitude": -105.1964253
+    },
+    "estimatedDuration": 37,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "dhaka_4",
+    "name": "Stapleton International Airport (closed)",
+    "description": "dhaka'de ziyaret edilebilecek popüler bir nokta: Stapleton International Airport (closed).",
+    "image": "https://picsum.photos/800/600?random=3",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 39.7617531,
+      "longitude": -104.8916236
+    },
+    "estimatedDuration": 85,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 165,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "dhaka_5",
+    "name": "Martin Luther King Jr. Memorial",
+    "description": "dhaka'de ziyaret edilebilecek popüler bir nokta: Martin Luther King Jr. Memorial.",
+    "image": "https://picsum.photos/800/600?random=4",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 39.7460387,
+      "longitude": -104.9545382
+    },
+    "estimatedDuration": 84,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "dhaka_6",
+    "name": "Civil War Monument",
+    "description": "dhaka'de ziyaret edilebilecek popüler bir nokta: Civil War Monument.",
+    "image": "https://picsum.photos/800/600?random=5",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 39.7392393,
+      "longitude": -104.9856362
+    },
+    "estimatedDuration": 71,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "dhaka_7",
+    "name": "Union Station",
+    "description": "dhaka'de ziyaret edilebilecek popüler bir nokta: Union Station.",
+    "image": "https://picsum.photos/800/600?random=6",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 39.7532308,
+      "longitude": -105.0002773
+    },
+    "estimatedDuration": 68,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "dhaka_8",
+    "name": "Denver Museum of Nature and Science",
+    "description": "dhaka'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=7",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 39.747536,
+      "longitude": -104.9428574
+    },
+    "estimatedDuration": 88,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 87,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "dhaka_9",
+    "name": "Colorado Railroad Museum",
+    "description": "dhaka'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=8",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 39.7717725,
+      "longitude": -105.1931146
+    },
+    "estimatedDuration": 59,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 195,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "dhaka_10",
+    "name": "Calvary Episcopal Church",
+    "description": "dhaka'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=9",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 39.7534513,
+      "longitude": -105.2215662
+    },
+    "estimatedDuration": 64,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "dhaka_11",
+    "name": "Boeing B-52B",
+    "description": "dhaka'de ziyaret edilebilecek popüler bir nokta: Boeing B-52B.",
+    "image": "https://picsum.photos/800/600?random=10",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 39.7201888,
+      "longitude": -104.8955459
+    },
+    "estimatedDuration": 59,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 130,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "dhaka_12",
+    "name": "Denver Botanic Gardens",
+    "description": "dhaka'de ziyaret edilebilecek popüler bir nokta: Denver Botanic Gardens.",
+    "image": "https://picsum.photos/800/600?random=11",
+    "category": "Park",
+    "coordinates": {
+      "latitude": 39.7320096,
+      "longitude": -104.9613834
+    },
+    "estimatedDuration": 55,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Park"
+    ]
+  },
+  {
+    "id": "dhaka_13",
+    "name": "Saint Ignatius Loyola Catholic Church",
+    "description": "dhaka'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=12",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 39.7510191,
+      "longitude": -104.9603309
+    },
+    "estimatedDuration": 56,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 104,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "dhaka_14",
+    "name": "Casa Bonita",
+    "description": "dhaka'de ziyaret edilebilecek popüler bir nokta: Casa Bonita.",
+    "image": "https://picsum.photos/800/600?random=13",
+    "category": "Yeme-İçme",
+    "coordinates": {
+      "latitude": 39.7419846,
+      "longitude": -105.0710258
+    },
+    "estimatedDuration": 73,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Yeme-İçme"
+    ]
+  },
+  {
+    "id": "dhaka_15",
+    "name": "Eisenhower Chapel",
+    "description": "dhaka'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=14",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 39.7213053,
+      "longitude": -104.9017089
+    },
+    "estimatedDuration": 64,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "dhaka_16",
+    "name": "Wings Over the Rockies Air & Space Museum",
+    "description": "dhaka'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=15",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 39.7210706,
+      "longitude": -104.8955421
+    },
+    "estimatedDuration": 39,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "dhaka_17",
+    "name": "Lakeside Amusement Park",
+    "description": "dhaka'de ziyaret edilebilecek popüler bir nokta: Lakeside Amusement Park.",
+    "image": "https://images.pexels.com/photos/34836706/pexels-photo-34836706.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Eğlence",
+    "coordinates": {
+      "latitude": 39.7803925,
+      "longitude": -105.054944
+    },
+    "estimatedDuration": 30,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 57,
+    "interests": [
+      "Eğlence"
+    ]
+  },
+  {
+    "id": "dhaka_18",
+    "name": "Denver Colorado Temple",
+    "description": "dhaka'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=17",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 39.5686556,
+      "longitude": -104.9657656
+    },
+    "estimatedDuration": 44,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 71,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "dhaka_19",
+    "name": "Columbine Memorial",
+    "description": "dhaka'de ziyaret edilebilecek popüler bir nokta: Columbine Memorial.",
+    "image": "https://picsum.photos/800/600?random=18",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 39.6052679,
+      "longitude": -105.0790033
+    },
+    "estimatedDuration": 85,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 132,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "dhaka_20",
+    "name": "Colorado Amphitheater",
+    "description": "dhaka'de ziyaret edilebilecek popüler bir nokta: Colorado Amphitheater.",
+    "image": "https://picsum.photos/800/600?random=19",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 39.7435901,
+      "longitude": -105.1763194
+    },
+    "estimatedDuration": 78,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "dhaka_21",
+    "name": "Denver Zoo",
+    "description": "dhaka'de ziyaret edilebilecek popüler bir nokta: Denver Zoo.",
+    "image": "https://picsum.photos/800/600?random=20",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 39.749303,
+      "longitude": -104.951137
+    },
+    "estimatedDuration": 85,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 94,
+    "interests": [
+      "Tarihi"
+    ]
+  }
+]

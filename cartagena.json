@@ -1,0 +1,146 @@
+[
+  {
+    "id": "cartagena_1",
+    "name": "Zona Típica Borde Costero de Cartagena",
+    "description": "cartagena'de ziyaret edilebilecek popüler bir nokta: Zona Típica Borde Costero de Cartagena.",
+    "image": "https://images.pexels.com/photos/17573843/pexels-photo-17573843.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -33.5461857,
+      "longitude": -71.6054339
+    },
+    "estimatedDuration": 65,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 48,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cartagena_2",
+    "name": "Ruinas Iglesia del Niño Jesús",
+    "description": "cartagena'de ziyaret edilebilecek popüler bir nokta: Ruinas Iglesia del Niño Jesús.",
+    "image": "https://picsum.photos/800/600?random=1",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -33.5507593,
+      "longitude": -71.6074862
+    },
+    "estimatedDuration": 41,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cartagena_3",
+    "name": "Litoral de las Artes y los Poetas",
+    "description": "cartagena'de ziyaret edilebilecek popüler bir nokta: Litoral de las Artes y los Poetas.",
+    "image": "https://picsum.photos/800/600?random=2",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -33.4422691,
+      "longitude": -71.6823313
+    },
+    "estimatedDuration": 89,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cartagena_4",
+    "name": "Museo de Historia Natural e Histórico de San Antonio",
+    "description": "cartagena'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=3",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": -33.6228091,
+      "longitude": -71.6009141
+    },
+    "estimatedDuration": 72,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 152,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "cartagena_5",
+    "name": "Casa Hipona (Monasterio Agustinos)",
+    "description": "cartagena'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=4",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -33.4870052,
+      "longitude": -71.6214821
+    },
+    "estimatedDuration": 36,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 113,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cartagena_6",
+    "name": "Casa Las Cruces (Agustinos)",
+    "description": "cartagena'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=5",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -33.4867336,
+      "longitude": -71.6218795
+    },
+    "estimatedDuration": 48,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cartagena_7",
+    "name": "Casa Museo Vicente Huidobro",
+    "description": "cartagena'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=6",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": -33.5545198,
+      "longitude": -71.5995014
+    },
+    "estimatedDuration": 44,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "cartagena_8",
+    "name": "Casa Museo Isla Negra",
+    "description": "cartagena'de bulunan önemli bir müze.",
+    "image": "https://images.pexels.com/photos/31573553/pexels-photo-31573553.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": -33.4429949,
+      "longitude": -71.6837429
+    },
+    "estimatedDuration": 69,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  }
+]

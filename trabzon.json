@@ -1,0 +1,218 @@
+[
+  {
+    "id": "trabzon_1",
+    "name": "Kızlar Manastırı",
+    "description": "trabzon'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=0",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 40.998542,
+      "longitude": 39.7289626
+    },
+    "estimatedDuration": 76,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 74,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "trabzon_2",
+    "name": "Amenapırgiç Manastırı",
+    "description": "trabzon'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=1",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 40.981968,
+      "longitude": 39.7449172
+    },
+    "estimatedDuration": 38,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 84,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "trabzon_3",
+    "name": "Abdullah Paşa Çeşmesi",
+    "description": "trabzon'de ziyaret edilebilecek popüler bir nokta: Abdullah Paşa Çeşmesi.",
+    "image": "https://picsum.photos/800/600?random=2",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.0045192,
+      "longitude": 39.7169593
+    },
+    "estimatedDuration": 75,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "trabzon_4",
+    "name": "Güzelhisar Kalesi",
+    "description": "trabzon'in tarihine tanıklık eden bir kale.",
+    "image": "https://picsum.photos/800/600?random=3",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.007758,
+      "longitude": 39.7346726
+    },
+    "estimatedDuration": 64,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "trabzon_5",
+    "name": "Ortahisar Fatih Büyük Camii",
+    "description": "trabzon'in tarihi ibadet yapılarından biri.",
+    "image": "https://images.pexels.com/photos/30858137/pexels-photo-30858137.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.0045471,
+      "longitude": 39.719512
+    },
+    "estimatedDuration": 32,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 172,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "trabzon_6",
+    "name": "Ayasofya Camii ve Müzesi",
+    "description": "trabzon'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=5",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.00309,
+      "longitude": 39.6961104
+    },
+    "estimatedDuration": 87,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "trabzon_7",
+    "name": "Atatürk Köşkü",
+    "description": "trabzon'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=6",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 40.9797836,
+      "longitude": 39.6974823
+    },
+    "estimatedDuration": 30,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "trabzon_8",
+    "name": "Gülbahar Hatun Cami",
+    "description": "trabzon'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=7",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.0033876,
+      "longitude": 39.7160731
+    },
+    "estimatedDuration": 40,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 49,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "trabzon_9",
+    "name": "Küçük Ayvasıl Kilisesi",
+    "description": "trabzon'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=8",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.0059872,
+      "longitude": 39.7232318
+    },
+    "estimatedDuration": 62,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "trabzon_10",
+    "name": "Trabzon Müzesi",
+    "description": "trabzon'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=9",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 41.0050102,
+      "longitude": 39.7265519
+    },
+    "estimatedDuration": 71,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 88,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "trabzon_11",
+    "name": "Santa Maria Katolik Kilisesi",
+    "description": "trabzon'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=10",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.007189,
+      "longitude": 39.7320896
+    },
+    "estimatedDuration": 85,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 11,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "trabzon_12",
+    "name": "Yeni Cuma Cami",
+    "description": "trabzon'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=11",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.0010385,
+      "longitude": 39.7221412
+    },
+    "estimatedDuration": 41,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 168,
+    "interests": [
+      "Tarihi"
+    ]
+  }
+]

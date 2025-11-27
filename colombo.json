@@ -1,0 +1,434 @@
+[
+  {
+    "id": "colombo_1",
+    "name": "Isipathanarama Temple",
+    "description": "colombo'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=0",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 6.8885067,
+      "longitude": 79.8655919
+    },
+    "estimatedDuration": 48,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 177,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "colombo_2",
+    "name": "National Art Gallery",
+    "description": "colombo'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=1",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 6.9114097,
+      "longitude": 79.861969
+    },
+    "estimatedDuration": 75,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "colombo_3",
+    "name": "Wolvendaal Church",
+    "description": "colombo'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=2",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 6.9420432,
+      "longitude": 79.8590271
+    },
+    "estimatedDuration": 74,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 168,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "colombo_4",
+    "name": "Methodist Church",
+    "description": "colombo'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=3",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 6.9389919,
+      "longitude": 79.8564139
+    },
+    "estimatedDuration": 82,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "colombo_5",
+    "name": "St. Matthias Church",
+    "description": "colombo'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=4",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 6.7993854,
+      "longitude": 79.8780519
+    },
+    "estimatedDuration": 81,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "colombo_6",
+    "name": "Basilica of Our Lady of Lanka",
+    "description": "colombo'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=5",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 7.0326015,
+      "longitude": 79.9344267
+    },
+    "estimatedDuration": 36,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "colombo_7",
+    "name": "St. Lucia Church",
+    "description": "colombo'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=6",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 6.9481148,
+      "longitude": 79.8645241
+    },
+    "estimatedDuration": 36,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "colombo_8",
+    "name": "Ceylon Pentecostal Mission - Colpetty",
+    "description": "colombo'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=7",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 6.9121086,
+      "longitude": 79.8527099
+    },
+    "estimatedDuration": 79,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "colombo_9",
+    "name": "Nalanda War Memorial",
+    "description": "colombo'de ziyaret edilebilecek popüler bir nokta: Nalanda War Memorial.",
+    "image": "https://picsum.photos/800/600?random=8",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 6.9239259,
+      "longitude": 79.8750824
+    },
+    "estimatedDuration": 44,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "colombo_10",
+    "name": "National Zoological Gardens",
+    "description": "colombo'de ziyaret edilebilecek popüler bir nokta: National Zoological Gardens.",
+    "image": "https://picsum.photos/800/600?random=9",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 6.8571632,
+      "longitude": 79.8741524
+    },
+    "estimatedDuration": 54,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 125,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "colombo_11",
+    "name": "National Museum of Natural History",
+    "description": "colombo'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=10",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 6.9111919,
+      "longitude": 79.8611259
+    },
+    "estimatedDuration": 41,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "colombo_12",
+    "name": "National Museum of Colombo",
+    "description": "colombo'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=11",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 6.9104124,
+      "longitude": 79.8609699
+    },
+    "estimatedDuration": 69,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "colombo_13",
+    "name": "St. Andrew's Presbyterian Church",
+    "description": "colombo'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=12",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 6.9189831,
+      "longitude": 79.8476733
+    },
+    "estimatedDuration": 58,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "colombo_14",
+    "name": "Cathedral of Christ the Living Saviour",
+    "description": "colombo'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=13",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 6.9037889,
+      "longitude": 79.873194
+    },
+    "estimatedDuration": 68,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "colombo_15",
+    "name": "Pettah Floating Market",
+    "description": "colombo'de ziyaret edilebilecek popüler bir nokta: Pettah Floating Market.",
+    "image": "https://picsum.photos/800/600?random=14",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 6.9327179,
+      "longitude": 79.8555267
+    },
+    "estimatedDuration": 54,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "colombo_16",
+    "name": "Independence Memorial Hall",
+    "description": "colombo'de ziyaret edilebilecek popüler bir nokta: Independence Memorial Hall.",
+    "image": "https://picsum.photos/800/600?random=15",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 6.9041327,
+      "longitude": 79.8675834
+    },
+    "estimatedDuration": 38,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 27,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "colombo_17",
+    "name": "President's House",
+    "description": "colombo'in tarihine tanıklık eden bir kale.",
+    "image": "https://picsum.photos/800/600?random=16",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 6.9361123,
+      "longitude": 79.8427013
+    },
+    "estimatedDuration": 84,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "colombo_18",
+    "name": "St. Anthony's Church",
+    "description": "colombo'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=17",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 6.9468773,
+      "longitude": 79.8561546
+    },
+    "estimatedDuration": 67,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 88,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "colombo_19",
+    "name": "All Saints' Church",
+    "description": "colombo'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=18",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 6.9209494,
+      "longitude": 79.874897
+    },
+    "estimatedDuration": 30,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "colombo_20",
+    "name": "Church of St. Michael & All angels",
+    "description": "colombo'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=19",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 6.9134501,
+      "longitude": 79.8521232
+    },
+    "estimatedDuration": 68,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 172,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "colombo_21",
+    "name": "St. Lawrence Church",
+    "description": "colombo'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=20",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 6.870756,
+      "longitude": 79.8633415
+    },
+    "estimatedDuration": 37,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 4,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "colombo_22",
+    "name": "Cenotaph War Memorial",
+    "description": "colombo'de ziyaret edilebilecek popüler bir nokta: Cenotaph War Memorial.",
+    "image": "https://picsum.photos/800/600?random=21",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 6.9128886,
+      "longitude": 79.8584571
+    },
+    "estimatedDuration": 62,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "colombo_23",
+    "name": "Jami Ul Alfar Mosque",
+    "description": "colombo'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=22",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 6.9384328,
+      "longitude": 79.8518988
+    },
+    "estimatedDuration": 33,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "colombo_24",
+    "name": "Sri Ponnambalawaneswaram Kovil",
+    "description": "colombo'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=23",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 6.9475835,
+      "longitude": 79.857139
+    },
+    "estimatedDuration": 52,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 146,
+    "interests": [
+      "Tarihi"
+    ]
+  }
+]

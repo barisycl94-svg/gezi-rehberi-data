@@ -1,0 +1,128 @@
+[
+  {
+    "id": "goa_1",
+    "name": "Patag-patag Trail jump off point",
+    "description": "goa'de ziyaret edilebilecek popüler bir nokta: Bilinmeyen Yer.",
+    "image": "https://images.pexels.com/photos/71104/utah-mountain-biking-bike-biking-71104.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 13.6203806,
+      "longitude": 123.4170864
+    },
+    "estimatedDuration": 33,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "goa_2",
+    "name": "Kinahulugan Falls",
+    "description": "goa'de ziyaret edilebilecek popüler bir nokta: Bilinmeyen Yer.",
+    "image": "https://images.pexels.com/photos/34844858/pexels-photo-34844858.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 13.7293245,
+      "longitude": 123.6085005
+    },
+    "estimatedDuration": 38,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "goa_3",
+    "name": "Sta. Maria Resort",
+    "description": "goa'de ziyaret edilebilecek popüler bir nokta: Sta. Maria Resort.",
+    "image": "https://images.pexels.com/photos/7786808/pexels-photo-7786808.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 13.6990552,
+      "longitude": 123.4673115
+    },
+    "estimatedDuration": 86,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 174,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "goa_4",
+    "name": "Philippine Deer",
+    "description": "goa'de ziyaret edilebilecek popüler bir nokta: Philippine Deer.",
+    "image": "https://picsum.photos/800/600?random=3",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 13.6036679,
+      "longitude": 123.4226958
+    },
+    "estimatedDuration": 35,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "goa_5",
+    "name": "Hibiscus Camp Consocep",
+    "description": "goa'de ziyaret edilebilecek popüler bir nokta: Hibiscus Camp Consocep.",
+    "image": "https://images.pexels.com/photos/34884846/pexels-photo-34884846.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 13.6195286,
+      "longitude": 123.4158745
+    },
+    "estimatedDuration": 35,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "goa_6",
+    "name": "Ocampo Deer Farm",
+    "description": "goa'de ziyaret edilebilecek popüler bir nokta: Ocampo Deer Farm.",
+    "image": "https://picsum.photos/800/600?random=5",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 13.603207,
+      "longitude": 123.4228502
+    },
+    "estimatedDuration": 45,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 10,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "goa_7",
+    "name": "Straha",
+    "description": "goa'de ziyaret edilebilecek popüler bir nokta: Straha.",
+    "image": "https://picsum.photos/800/600?random=6",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 13.7528247,
+      "longitude": 123.5352628
+    },
+    "estimatedDuration": 50,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  }
+]

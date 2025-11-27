@@ -1,0 +1,1046 @@
+[
+  {
+    "id": "buenos_aires_1",
+    "name": "El Ateneo Grand Splendid",
+    "description": "buenos_aires'de ziyaret edilebilecek popüler bir nokta: El Ateneo Grand Splendid.",
+    "image": "https://picsum.photos/800/600?random=0",
+    "category": "Alışveriş",
+    "coordinates": {
+      "latitude": -34.5959828,
+      "longitude": -58.3942623
+    },
+    "estimatedDuration": 57,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 32,
+    "interests": [
+      "Alışveriş"
+    ]
+  },
+  {
+    "id": "buenos_aires_2",
+    "name": "San Patricio",
+    "description": "buenos_aires'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=1",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -34.5719406,
+      "longitude": -58.4705798
+    },
+    "estimatedDuration": 77,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "buenos_aires_3",
+    "name": "San Francisco Javier",
+    "description": "buenos_aires'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=2",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -34.5871211,
+      "longitude": -58.4272415
+    },
+    "estimatedDuration": 84,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 6,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "buenos_aires_4",
+    "name": "Monumento a los Caídos en Malvinas",
+    "description": "buenos_aires'de ziyaret edilebilecek popüler bir nokta: Monumento a los Caídos en Malvinas.",
+    "image": "https://picsum.photos/800/600?random=3",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -34.5939289,
+      "longitude": -58.3751497
+    },
+    "estimatedDuration": 80,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "buenos_aires_5",
+    "name": "Monumento al General San Martín",
+    "description": "buenos_aires'de ziyaret edilebilecek popüler bir nokta: Monumento al General San Martín.",
+    "image": "https://picsum.photos/800/600?random=4",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -34.5949977,
+      "longitude": -58.3771579
+    },
+    "estimatedDuration": 53,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "buenos_aires_6",
+    "name": "Sinagoga de la Congregación Israelita (CIRA)",
+    "description": "buenos_aires'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=5",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -34.599592,
+      "longitude": -58.3838939
+    },
+    "estimatedDuration": 32,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 60,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "buenos_aires_7",
+    "name": "Club Español",
+    "description": "buenos_aires'de ziyaret edilebilecek popüler bir nokta: Club Español.",
+    "image": "https://picsum.photos/800/600?random=6",
+    "category": "Yeme-İçme",
+    "coordinates": {
+      "latitude": -34.6103651,
+      "longitude": -58.3804301
+    },
+    "estimatedDuration": 53,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Yeme-İçme"
+    ]
+  },
+  {
+    "id": "buenos_aires_8",
+    "name": "Museo de Arte Hispanoamericano",
+    "description": "buenos_aires'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=7",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": -34.5907972,
+      "longitude": -58.3801161
+    },
+    "estimatedDuration": 41,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 13,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "buenos_aires_9",
+    "name": "Museo de Arte Popular José Hernández",
+    "description": "buenos_aires'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=8",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": -34.5797076,
+      "longitude": -58.4049882
+    },
+    "estimatedDuration": 65,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "buenos_aires_10",
+    "name": "Museo Histórico Nacional del Cabildo y de la Revolución de Mayo",
+    "description": "buenos_aires'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=9",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": -34.6087695,
+      "longitude": -58.3738806
+    },
+    "estimatedDuration": 71,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "buenos_aires_11",
+    "name": "Museo del Holocausto",
+    "description": "buenos_aires'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=10",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": -34.5980366,
+      "longitude": -58.3895532
+    },
+    "estimatedDuration": 87,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 176,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "buenos_aires_12",
+    "name": "Monumento a Bartolomé Mitre",
+    "description": "buenos_aires'de ziyaret edilebilecek popüler bir nokta: Monumento a Bartolomé Mitre.",
+    "image": "https://picsum.photos/800/600?random=11",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -34.584315,
+      "longitude": -58.3962125
+    },
+    "estimatedDuration": 77,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "buenos_aires_13",
+    "name": "Monumento a la Cordialidad Argentino-Uruguaya",
+    "description": "buenos_aires'de ziyaret edilebilecek popüler bir nokta: Monumento a la Cordialidad Argentino-Uruguaya.",
+    "image": "https://picsum.photos/800/600?random=12",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -34.6279872,
+      "longitude": -58.3696441
+    },
+    "estimatedDuration": 84,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "buenos_aires_14",
+    "name": "Monumento a El Cid Campeador",
+    "description": "buenos_aires'de ziyaret edilebilecek popüler bir nokta: Monumento a El Cid Campeador.",
+    "image": "https://picsum.photos/800/600?random=13",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -34.6075828,
+      "longitude": -58.4457265
+    },
+    "estimatedDuration": 52,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "buenos_aires_15",
+    "name": "Julio Argentino Roca",
+    "description": "buenos_aires'de ziyaret edilebilecek popüler bir nokta: Julio Argentino Roca.",
+    "image": "https://picsum.photos/800/600?random=14",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -34.6103333,
+      "longitude": -58.3748716
+    },
+    "estimatedDuration": 47,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "buenos_aires_16",
+    "name": "Franklin Delano Roosevelt",
+    "description": "buenos_aires'de ziyaret edilebilecek popüler bir nokta: Franklin Delano Roosevelt.",
+    "image": "https://picsum.photos/800/600?random=15",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -34.5756582,
+      "longitude": -58.4190506
+    },
+    "estimatedDuration": 67,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "buenos_aires_17",
+    "name": "Museo Casa de Ricardo Rojas",
+    "description": "buenos_aires'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=16",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": -34.5939504,
+      "longitude": -58.4062627
+    },
+    "estimatedDuration": 41,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "buenos_aires_18",
+    "name": "Museo de la Pasión Boquense",
+    "description": "buenos_aires'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=17",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": -34.6364603,
+      "longitude": -58.3644946
+    },
+    "estimatedDuration": 80,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "buenos_aires_19",
+    "name": "Palacio Barolo",
+    "description": "buenos_aires'de ziyaret edilebilecek popüler bir nokta: Palacio Barolo.",
+    "image": "https://picsum.photos/800/600?random=18",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -34.6095791,
+      "longitude": -58.3857362
+    },
+    "estimatedDuration": 60,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 40,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "buenos_aires_20",
+    "name": "Kilómetro Cero",
+    "description": "buenos_aires'de ziyaret edilebilecek popüler bir nokta: Kilómetro Cero.",
+    "image": "https://picsum.photos/800/600?random=19",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -34.6095597,
+      "longitude": -58.3888344
+    },
+    "estimatedDuration": 37,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "buenos_aires_21",
+    "name": "Monumento de los Españoles",
+    "description": "buenos_aires'de ziyaret edilebilecek popüler bir nokta: Monumento de los Españoles.",
+    "image": "https://picsum.photos/800/600?random=20",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -34.5749657,
+      "longitude": -58.4150562
+    },
+    "estimatedDuration": 33,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 48,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "buenos_aires_22",
+    "name": "Giuseppe Garibaldi",
+    "description": "buenos_aires'de ziyaret edilebilecek popüler bir nokta: Giuseppe Garibaldi.",
+    "image": "https://picsum.photos/800/600?random=21",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -34.5813304,
+      "longitude": -58.4209635
+    },
+    "estimatedDuration": 33,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "buenos_aires_23",
+    "name": "Museo Argentino del Títere",
+    "description": "buenos_aires'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=22",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": -34.6186364,
+      "longitude": -58.3773987
+    },
+    "estimatedDuration": 55,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "buenos_aires_24",
+    "name": "Centro Sri Sathya Sai Baba",
+    "description": "buenos_aires'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=23",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -34.6198048,
+      "longitude": -58.3783398
+    },
+    "estimatedDuration": 36,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "buenos_aires_25",
+    "name": "Antigua Sede del Congreso Nacional",
+    "description": "buenos_aires'de ziyaret edilebilecek popüler bir nokta: Antigua Sede del Congreso Nacional.",
+    "image": "https://picsum.photos/800/600?random=24",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -34.6091647,
+      "longitude": -58.3711512
+    },
+    "estimatedDuration": 86,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 58,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "buenos_aires_26",
+    "name": "Estatua de Ana Frank",
+    "description": "buenos_aires'de ziyaret edilebilecek popüler bir nokta: Estatua de Ana Frank.",
+    "image": "https://picsum.photos/800/600?random=25",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -34.6079701,
+      "longitude": -58.363968
+    },
+    "estimatedDuration": 51,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "buenos_aires_27",
+    "name": "Mezquita Al Ahmad",
+    "description": "buenos_aires'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=26",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -34.6279696,
+      "longitude": -58.4001494
+    },
+    "estimatedDuration": 83,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "buenos_aires_28",
+    "name": "Estatua de Juan Manuel Fangio",
+    "description": "buenos_aires'de ziyaret edilebilecek popüler bir nokta: Estatua de Juan Manuel Fangio.",
+    "image": "https://picsum.photos/800/600?random=27",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -34.61187,
+      "longitude": -58.3622212
+    },
+    "estimatedDuration": 66,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 86,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "buenos_aires_29",
+    "name": "Casa Mínima",
+    "description": "buenos_aires'de ziyaret edilebilecek popüler bir nokta: Casa Mínima.",
+    "image": "https://picsum.photos/800/600?random=28",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -34.6167555,
+      "longitude": -58.3713487
+    },
+    "estimatedDuration": 45,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "buenos_aires_30",
+    "name": "Hito de la Argentinidad Nº 10",
+    "description": "buenos_aires'de ziyaret edilebilecek popüler bir nokta: Hito de la Argentinidad Nº 10.",
+    "image": "https://picsum.photos/800/600?random=29",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -34.5886117,
+      "longitude": -58.4512137
+    },
+    "estimatedDuration": 48,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "buenos_aires_31",
+    "name": "Luís Vaz de Camões",
+    "description": "buenos_aires'de ziyaret edilebilecek popüler bir nokta: Luís Vaz de Camões.",
+    "image": "https://picsum.photos/800/600?random=30",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -34.5694225,
+      "longitude": -58.4573968
+    },
+    "estimatedDuration": 81,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 47,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "buenos_aires_32",
+    "name": "Monumento a España",
+    "description": "buenos_aires'de ziyaret edilebilecek popüler bir nokta: Monumento a España.",
+    "image": "https://picsum.photos/800/600?random=31",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -34.6235979,
+      "longitude": -58.3534175
+    },
+    "estimatedDuration": 86,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "buenos_aires_33",
+    "name": "La toma del '59",
+    "description": "buenos_aires'de ziyaret edilebilecek popüler bir nokta: La toma del '59.",
+    "image": "https://picsum.photos/800/600?random=32",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -34.6613265,
+      "longitude": -58.5011525
+    },
+    "estimatedDuration": 83,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 157,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "buenos_aires_34",
+    "name": "El resero",
+    "description": "buenos_aires'de ziyaret edilebilecek popüler bir nokta: El resero.",
+    "image": "https://picsum.photos/800/600?random=33",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -34.6624028,
+      "longitude": -58.4999417
+    },
+    "estimatedDuration": 70,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "buenos_aires_35",
+    "name": "Cemento",
+    "description": "buenos_aires'de ziyaret edilebilecek popüler bir nokta: Cemento.",
+    "image": "https://picsum.photos/800/600?random=34",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -34.618647,
+      "longitude": -58.3834548
+    },
+    "estimatedDuration": 67,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "buenos_aires_36",
+    "name": "Primer partido de fútbol en Sudamérica",
+    "description": "buenos_aires'de ziyaret edilebilecek popüler bir nokta: Primer partido de fútbol en Sudamérica.",
+    "image": "https://picsum.photos/800/600?random=35",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -34.5702425,
+      "longitude": -58.4125213
+    },
+    "estimatedDuration": 43,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 9,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "buenos_aires_37",
+    "name": "Primer viaje tranvía eléctrico",
+    "description": "buenos_aires'de ziyaret edilebilecek popüler bir nokta: Primer viaje tranvía eléctrico.",
+    "image": "https://picsum.photos/800/600?random=36",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -34.5813468,
+      "longitude": -58.4203945
+    },
+    "estimatedDuration": 75,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 147,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "buenos_aires_38",
+    "name": "Ofrenda floral a Sarmiento",
+    "description": "buenos_aires'de ziyaret edilebilecek popüler bir nokta: Ofrenda floral a Sarmiento.",
+    "image": "https://picsum.photos/800/600?random=37",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -34.5705768,
+      "longitude": -58.4165583
+    },
+    "estimatedDuration": 65,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "buenos_aires_39",
+    "name": "Revolución de 1956",
+    "description": "buenos_aires'de ziyaret edilebilecek popüler bir nokta: Revolución de 1956.",
+    "image": "https://picsum.photos/800/600?random=38",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -34.582681,
+      "longitude": -58.4101238
+    },
+    "estimatedDuration": 50,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "buenos_aires_40",
+    "name": "Basílica Nuestra Señora del Rosario",
+    "description": "buenos_aires'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=39",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -34.612683,
+      "longitude": -58.3717212
+    },
+    "estimatedDuration": 63,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "buenos_aires_41",
+    "name": "Museo de la Inmigración",
+    "description": "buenos_aires'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=40",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": -34.5929041,
+      "longitude": -58.3679245
+    },
+    "estimatedDuration": 81,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "buenos_aires_42",
+    "name": "Iglesia Bautista Misión Vida",
+    "description": "buenos_aires'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=41",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -34.5014524,
+      "longitude": -58.5519893
+    },
+    "estimatedDuration": 78,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "buenos_aires_43",
+    "name": "Museo Fotográfico Simik",
+    "description": "buenos_aires'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=42",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": -34.5843296,
+      "longitude": -58.4537213
+    },
+    "estimatedDuration": 76,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "buenos_aires_44",
+    "name": "Museo de la Mujer",
+    "description": "buenos_aires'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=43",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": -34.6068838,
+      "longitude": -58.3853485
+    },
+    "estimatedDuration": 42,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "buenos_aires_45",
+    "name": "Museo Etnográfico Juan Bautista Ambrosetti",
+    "description": "buenos_aires'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=44",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": -34.6113319,
+      "longitude": -58.3710224
+    },
+    "estimatedDuration": 36,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "buenos_aires_46",
+    "name": "Museo de Artistas Argentinos Benito Quinquela Martín",
+    "description": "buenos_aires'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=45",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": -34.6389831,
+      "longitude": -58.3613682
+    },
+    "estimatedDuration": 56,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 136,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "buenos_aires_47",
+    "name": "Museo Penitenciario Argentino 'Antonio Ballvé'",
+    "description": "buenos_aires'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=46",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": -34.6209229,
+      "longitude": -58.3709943
+    },
+    "estimatedDuration": 71,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "buenos_aires_48",
+    "name": "Gustavo Benedetto",
+    "description": "buenos_aires'de ziyaret edilebilecek popüler bir nokta: Gustavo Benedetto.",
+    "image": "https://picsum.photos/800/600?random=47",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -34.6087886,
+      "longitude": -58.3765388
+    },
+    "estimatedDuration": 75,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 62,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "buenos_aires_49",
+    "name": "Museo Nacional de Arte Oriental",
+    "description": "buenos_aires'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=48",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": -34.5996894,
+      "longitude": -58.3743531
+    },
+    "estimatedDuration": 33,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "buenos_aires_50",
+    "name": "Lisandro de la Torre",
+    "description": "buenos_aires'de ziyaret edilebilecek popüler bir nokta: Lisandro de la Torre.",
+    "image": "https://picsum.photos/800/600?random=49",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -34.6058114,
+      "longitude": -58.3778063
+    },
+    "estimatedDuration": 84,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 169,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "buenos_aires_51",
+    "name": "Museo de Informática",
+    "description": "buenos_aires'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=50",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": -34.5964433,
+      "longitude": -58.3774819
+    },
+    "estimatedDuration": 75,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "buenos_aires_52",
+    "name": "Museo de la Deuda Externa",
+    "description": "buenos_aires'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=51",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": -34.6002837,
+      "longitude": -58.398491
+    },
+    "estimatedDuration": 53,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "buenos_aires_53",
+    "name": "Museo del Cine Pablo Ducrós Hicken",
+    "description": "buenos_aires'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=52",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": -34.6296278,
+      "longitude": -58.3571489
+    },
+    "estimatedDuration": 30,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 23,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "buenos_aires_54",
+    "name": "Iglesia San Juan Bautista",
+    "description": "buenos_aires'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=53",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -34.6107073,
+      "longitude": -58.3778393
+    },
+    "estimatedDuration": 79,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 156,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "buenos_aires_55",
+    "name": "Alberto Márquez",
+    "description": "buenos_aires'de ziyaret edilebilecek popüler bir nokta: Alberto Márquez.",
+    "image": "https://picsum.photos/800/600?random=54",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -34.6050346,
+      "longitude": -58.381145
+    },
+    "estimatedDuration": 84,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "buenos_aires_56",
+    "name": "Gastón Riva",
+    "description": "buenos_aires'de ziyaret edilebilecek popüler bir nokta: Gastón Riva.",
+    "image": "https://picsum.photos/800/600?random=55",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -34.6087889,
+      "longitude": -58.3791013
+    },
+    "estimatedDuration": 48,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 117,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "buenos_aires_57",
+    "name": "Carlos \"Petete\" Almirón",
+    "description": "buenos_aires'de ziyaret edilebilecek popüler bir nokta: Carlos \"Petete\" Almirón.",
+    "image": "https://picsum.photos/800/600?random=56",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -34.6095075,
+      "longitude": -58.3809447
+    },
+    "estimatedDuration": 89,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "buenos_aires_58",
+    "name": "Diego Lamagna",
+    "description": "buenos_aires'de ziyaret edilebilecek popüler bir nokta: Diego Lamagna.",
+    "image": "https://picsum.photos/800/600?random=57",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -34.6094926,
+      "longitude": -58.3808434
+    },
+    "estimatedDuration": 69,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 2,
+    "interests": [
+      "Tarihi"
+    ]
+  }
+]

@@ -1,0 +1,218 @@
+[
+  {
+    "id": "accra_1",
+    "name": "Kwame Nkrumah Interchange",
+    "description": "accra'de ziyaret edilebilecek popüler bir nokta: Kwame Nkrumah Interchange.",
+    "image": "https://images.pexels.com/photos/34842268/pexels-photo-34842268.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 5.5695876,
+      "longitude": -0.2153479
+    },
+    "estimatedDuration": 79,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "accra_2",
+    "name": "Accra Brewery Limited",
+    "description": "accra'de ziyaret edilebilecek popüler bir nokta: Accra Brewery Limited.",
+    "image": "https://images.pexels.com/photos/16774788/pexels-photo-16774788.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 5.6327747,
+      "longitude": -0.235134
+    },
+    "estimatedDuration": 31,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "accra_3",
+    "name": "Black Star Square",
+    "description": "accra'de ziyaret edilebilecek popüler bir nokta: Black Star Square.",
+    "image": "https://images.pexels.com/photos/6374574/pexels-photo-6374574.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 5.5474448,
+      "longitude": -0.1925734
+    },
+    "estimatedDuration": 57,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 10,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "accra_4",
+    "name": "Osu Castle",
+    "description": "accra'in tarihine tanıklık eden bir kale.",
+    "image": "https://images.pexels.com/photos/34936617/pexels-photo-34936617.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 5.5474332,
+      "longitude": -0.1847297
+    },
+    "estimatedDuration": 65,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "accra_5",
+    "name": "Independence Arch",
+    "description": "accra'de ziyaret edilebilecek popüler bir nokta: Independence Arch.",
+    "image": "https://images.pexels.com/photos/3044623/pexels-photo-3044623.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 5.5464785,
+      "longitude": -0.1924081
+    },
+    "estimatedDuration": 46,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 169,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "accra_6",
+    "name": "James Fort",
+    "description": "accra'in tarihine tanıklık eden bir kale.",
+    "image": "https://images.pexels.com/photos/34913210/pexels-photo-34913210.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 5.5337382,
+      "longitude": -0.2111325
+    },
+    "estimatedDuration": 76,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "accra_7",
+    "name": "National Museum",
+    "description": "accra'de bulunan önemli bir müze.",
+    "image": "https://images.pexels.com/photos/1033712/pexels-photo-1033712.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 5.560673,
+      "longitude": -0.206579
+    },
+    "estimatedDuration": 32,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 84,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "accra_8",
+    "name": "Accra Ghana Temple",
+    "description": "accra'in tarihi ibadet yapılarından biri.",
+    "image": "https://images.pexels.com/photos/13471976/pexels-photo-13471976.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 5.5674475,
+      "longitude": -0.1937795
+    },
+    "estimatedDuration": 49,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "accra_9",
+    "name": "Kwame Nkrumah Mausoleum",
+    "description": "accra'de bulunan önemli bir müze.",
+    "image": "https://images.pexels.com/photos/1007431/pexels-photo-1007431.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 5.5443523,
+      "longitude": -0.2026853
+    },
+    "estimatedDuration": 71,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "accra_10",
+    "name": "Cathedral Church of the Most Holy Trinity",
+    "description": "accra'in tarihi ibadet yapılarından biri.",
+    "image": "https://images.pexels.com/photos/28209114/pexels-photo-28209114.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 5.5413431,
+      "longitude": -0.205998
+    },
+    "estimatedDuration": 84,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 197,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "accra_11",
+    "name": "Guinness Ghana Brewery",
+    "description": "accra'de ziyaret edilebilecek popüler bir nokta: Guinness Ghana Brewery.",
+    "image": "https://images.pexels.com/photos/31509970/pexels-photo-31509970.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 5.6318658,
+      "longitude": -0.2357816
+    },
+    "estimatedDuration": 68,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "accra_12",
+    "name": "Ghana National Mosque",
+    "description": "accra'in tarihi ibadet yapılarından biri.",
+    "image": "https://images.pexels.com/photos/14915301/pexels-photo-14915301.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 5.5906009,
+      "longitude": -0.1896942
+    },
+    "estimatedDuration": 71,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  }
+]

@@ -1,0 +1,308 @@
+[
+  {
+    "id": "pattaya_1",
+    "name": "วัดญาณสังวรารามวรมหาวิหาร",
+    "description": "pattaya'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=0",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 12.7889065,
+      "longitude": 100.9579477
+    },
+    "estimatedDuration": 75,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "pattaya_2",
+    "name": "ปราสาทสัจธรรม",
+    "description": "pattaya'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=1",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 12.9727895,
+      "longitude": 100.8891366
+    },
+    "estimatedDuration": 33,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "pattaya_3",
+    "name": "ตลาดน้ำ 4 ภาค พัทยา",
+    "description": "pattaya'de ziyaret edilebilecek popüler bir nokta: ตลาดน้ำ 4 ภาค พัทยา.",
+    "image": "https://picsum.photos/800/600?random=2",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 12.8678803,
+      "longitude": 100.9048103
+    },
+    "estimatedDuration": 34,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "pattaya_4",
+    "name": "Bottle Art Museum",
+    "description": "pattaya'de bulunan önemli bir müze.",
+    "image": "https://images.pexels.com/photos/14442584/pexels-photo-14442584.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 12.9552882,
+      "longitude": 100.9072077
+    },
+    "estimatedDuration": 69,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "pattaya_5",
+    "name": "Ripley's Believe it or not",
+    "description": "pattaya'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=4",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 12.9287611,
+      "longitude": 100.8785712
+    },
+    "estimatedDuration": 38,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 131,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "pattaya_6",
+    "name": "Palm View Point",
+    "description": "pattaya'de ziyaret edilebilecek popüler bir nokta: Palm View Point.",
+    "image": "https://picsum.photos/800/600?random=5",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 12.7643718,
+      "longitude": 100.9358874
+    },
+    "estimatedDuration": 38,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "pattaya_7",
+    "name": "Pattaya Milestone",
+    "description": "pattaya'de ziyaret edilebilecek popüler bir nokta: Pattaya Milestone.",
+    "image": "https://picsum.photos/800/600?random=6",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 12.9505006,
+      "longitude": 100.9545328
+    },
+    "estimatedDuration": 79,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "pattaya_8",
+    "name": "ATV Tours Pattaya",
+    "description": "pattaya'de ziyaret edilebilecek popüler bir nokta: ATV Tours Pattaya.",
+    "image": "https://images.pexels.com/photos/13890140/pexels-photo-13890140.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 12.9447039,
+      "longitude": 100.9788917
+    },
+    "estimatedDuration": 38,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "pattaya_9",
+    "name": "Teddy Bear Museum",
+    "description": "pattaya'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=8",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 12.9466477,
+      "longitude": 100.885038
+    },
+    "estimatedDuration": 79,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 121,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "pattaya_10",
+    "name": "Enduro Madness",
+    "description": "pattaya'de ziyaret edilebilecek popüler bir nokta: Enduro Madness.",
+    "image": "https://picsum.photos/800/600?random=9",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 12.9448367,
+      "longitude": 100.9789942
+    },
+    "estimatedDuration": 49,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "pattaya_11",
+    "name": "Gold Mountain Buddha",
+    "description": "pattaya'de ziyaret edilebilecek popüler bir nokta: Gold Mountain Buddha.",
+    "image": "https://picsum.photos/800/600?random=10",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 12.7661507,
+      "longitude": 100.9568099
+    },
+    "estimatedDuration": 43,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "pattaya_12",
+    "name": "พระพุทธรูปแกะสลักเขาชีจรรย์",
+    "description": "pattaya'de ziyaret edilebilecek popüler bir nokta: พระพุทธรูปแกะสลักเขาชีจรรย์.",
+    "image": "https://picsum.photos/800/600?random=11",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 12.7643899,
+      "longitude": 100.95592
+    },
+    "estimatedDuration": 89,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "pattaya_13",
+    "name": "Small Stonehenge look alike",
+    "description": "pattaya'de ziyaret edilebilecek popüler bir nokta: Bilinmeyen Yer.",
+    "image": "https://picsum.photos/800/600?random=12",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 12.7650916,
+      "longitude": 100.9354484
+    },
+    "estimatedDuration": 81,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "pattaya_14",
+    "name": "Big Buddha Hill Temple",
+    "description": "pattaya'de ziyaret edilebilecek popüler bir nokta: Bilinmeyen Yer.",
+    "image": "https://picsum.photos/800/600?random=13",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 12.914185,
+      "longitude": 100.8686548
+    },
+    "estimatedDuration": 54,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 125,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "pattaya_15",
+    "name": "Pattaya Rotary International Peace City",
+    "description": "pattaya'de ziyaret edilebilecek popüler bir nokta: Bilinmeyen Yer.",
+    "image": "https://picsum.photos/800/600?random=14",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 12.9246703,
+      "longitude": 100.8647249
+    },
+    "estimatedDuration": 89,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "pattaya_16",
+    "name": "Parody Art Museum",
+    "description": "pattaya'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=15",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 12.9517847,
+      "longitude": 100.8954286
+    },
+    "estimatedDuration": 50,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "pattaya_17",
+    "name": "Swiss Sheep Farm",
+    "description": "pattaya'de ziyaret edilebilecek popüler bir nokta: Swiss Sheep Farm.",
+    "image": "https://picsum.photos/800/600?random=16",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 12.775513,
+      "longitude": 100.9455746
+    },
+    "estimatedDuration": 33,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  }
+]

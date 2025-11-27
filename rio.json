@@ -1,0 +1,1082 @@
+[
+  {
+    "id": "rio_1",
+    "name": "Observatoriemuseet",
+    "description": "rio'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=0",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 59.3415245,
+      "longitude": 18.054717
+    },
+    "estimatedDuration": 66,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 176,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "rio_2",
+    "name": "Gamla stan",
+    "description": "rio'de ziyaret edilebilecek popüler bir nokta: Gamla stan.",
+    "image": "https://picsum.photos/800/600?random=1",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 59.3249529,
+      "longitude": 18.0706429
+    },
+    "estimatedDuration": 58,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "rio_3",
+    "name": "Moderna museet",
+    "description": "rio'de bulunan önemli bir müze.",
+    "image": "https://images.pexels.com/photos/5994792/pexels-photo-5994792.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 59.3263494,
+      "longitude": 18.0840004
+    },
+    "estimatedDuration": 68,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "rio_4",
+    "name": "Naturhistoriska riksmuseet",
+    "description": "rio'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=3",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 59.3690466,
+      "longitude": 18.0540033
+    },
+    "estimatedDuration": 43,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 83,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "rio_5",
+    "name": "Ulriksdals slottskapell",
+    "description": "rio'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=4",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 59.3886086,
+      "longitude": 18.0183991
+    },
+    "estimatedDuration": 87,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "rio_6",
+    "name": "Gustav III",
+    "description": "rio'de ziyaret edilebilecek popüler bir nokta: Gustav III.",
+    "image": "https://picsum.photos/800/600?random=5",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 59.3267344,
+      "longitude": 18.0749661
+    },
+    "estimatedDuration": 89,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 102,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "rio_7",
+    "name": "Orangerimuseet",
+    "description": "rio'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=6",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 59.3906446,
+      "longitude": 18.0136132
+    },
+    "estimatedDuration": 87,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "rio_8",
+    "name": "Enebykyrkan",
+    "description": "rio'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=7",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 59.4320784,
+      "longitude": 18.0394919
+    },
+    "estimatedDuration": 84,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 72,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "rio_9",
+    "name": "Rönninge By",
+    "description": "rio'de ziyaret edilebilecek popüler bir nokta: Rönninge By.",
+    "image": "https://picsum.photos/800/600?random=8",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 59.455973,
+      "longitude": 18.1137024
+    },
+    "estimatedDuration": 30,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "rio_10",
+    "name": "Carl Eldhs Ateljémuseum",
+    "description": "rio'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=9",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 59.3528674,
+      "longitude": 18.0516224
+    },
+    "estimatedDuration": 80,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "rio_11",
+    "name": "Fjärilshuset Haga Ocean",
+    "description": "rio'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=10",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 59.366082,
+      "longitude": 18.0306067
+    },
+    "estimatedDuration": 74,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 82,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "rio_12",
+    "name": "Hagsätra kyrka",
+    "description": "rio'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=11",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 59.2616346,
+      "longitude": 18.0144982
+    },
+    "estimatedDuration": 84,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "rio_13",
+    "name": "Åkeshovs slott",
+    "description": "rio'de ziyaret edilebilecek popüler bir nokta: Åkeshovs slott.",
+    "image": "https://picsum.photos/800/600?random=12",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 59.3409957,
+      "longitude": 17.9249468
+    },
+    "estimatedDuration": 48,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "rio_14",
+    "name": "Kyrkan vid Brommaplan",
+    "description": "rio'in tarihi ibadet yapılarından biri.",
+    "image": "https://images.pexels.com/photos/6621400/pexels-photo-6621400.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 59.3398413,
+      "longitude": 17.9411441
+    },
+    "estimatedDuration": 77,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "rio_15",
+    "name": "Karl XIII",
+    "description": "rio'de ziyaret edilebilecek popüler bir nokta: Karl XIII.",
+    "image": "https://picsum.photos/800/600?random=14",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 59.3314457,
+      "longitude": 18.0713785
+    },
+    "estimatedDuration": 40,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "rio_16",
+    "name": "Armémuseum",
+    "description": "rio'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=15",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 59.3347609,
+      "longitude": 18.0802581
+    },
+    "estimatedDuration": 52,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "rio_17",
+    "name": "Obelisken",
+    "description": "rio'de ziyaret edilebilecek popüler bir nokta: Obelisken.",
+    "image": "https://picsum.photos/800/600?random=16",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 59.3258668,
+      "longitude": 18.0715057
+    },
+    "estimatedDuration": 80,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "rio_18",
+    "name": "Karl XII",
+    "description": "rio'de ziyaret edilebilecek popüler bir nokta: Karl XII.",
+    "image": "https://picsum.photos/800/600?random=17",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 59.3300115,
+      "longitude": 18.0722205
+    },
+    "estimatedDuration": 68,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "rio_19",
+    "name": "Haga Parkmuseum",
+    "description": "rio'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=18",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 59.3644729,
+      "longitude": 18.0304628
+    },
+    "estimatedDuration": 50,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 86,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "rio_20",
+    "name": "Olle Olsson Hagalund-museet",
+    "description": "rio'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=19",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 59.3610244,
+      "longitude": 18.0160446
+    },
+    "estimatedDuration": 75,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "rio_21",
+    "name": "Judiska muséet",
+    "description": "rio'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=20",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 59.3238321,
+      "longitude": 18.0730173
+    },
+    "estimatedDuration": 52,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 104,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "rio_22",
+    "name": "Strindbergsmuseet",
+    "description": "rio'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=21",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 59.3385327,
+      "longitude": 18.0566136
+    },
+    "estimatedDuration": 51,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 6,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "rio_23",
+    "name": "Färgfabriken",
+    "description": "rio'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=22",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 59.3152528,
+      "longitude": 18.0193235
+    },
+    "estimatedDuration": 86,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "rio_24",
+    "name": "Stadsmuseet i Stockholm",
+    "description": "rio'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=23",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 59.3195947,
+      "longitude": 18.0712613
+    },
+    "estimatedDuration": 44,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "rio_25",
+    "name": "Postmuseum",
+    "description": "rio'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=24",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 59.3240854,
+      "longitude": 18.0680012
+    },
+    "estimatedDuration": 72,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "rio_26",
+    "name": "Nobelprismuseet",
+    "description": "rio'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=25",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 59.3252155,
+      "longitude": 18.0708309
+    },
+    "estimatedDuration": 65,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "rio_27",
+    "name": "Kungliga Myntkabinettet",
+    "description": "rio'de ziyaret edilebilecek popüler bir nokta: Kungliga Myntkabinettet.",
+    "image": "https://picsum.photos/800/600?random=26",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 59.3346683,
+      "longitude": 18.0902219
+    },
+    "estimatedDuration": 78,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "rio_28",
+    "name": "Livrustkammaren",
+    "description": "rio'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=27",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 59.3266147,
+      "longitude": 18.0730777
+    },
+    "estimatedDuration": 39,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "rio_29",
+    "name": "Tre Kronor",
+    "description": "rio'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=28",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 59.3274107,
+      "longitude": 18.0710534
+    },
+    "estimatedDuration": 66,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 103,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "rio_30",
+    "name": "Medelhavsmuseet",
+    "description": "rio'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=29",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 59.3294531,
+      "longitude": 18.0672982
+    },
+    "estimatedDuration": 73,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 9,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "rio_31",
+    "name": "Dansmuseet",
+    "description": "rio'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=30",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 59.3297418,
+      "longitude": 18.0653366
+    },
+    "estimatedDuration": 55,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "rio_32",
+    "name": "Scenkonstmuseet",
+    "description": "rio'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=31",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 59.3337201,
+      "longitude": 18.0783005
+    },
+    "estimatedDuration": 75,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "rio_33",
+    "name": "Kungsholms baptistkyrka",
+    "description": "rio'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=32",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 59.3308259,
+      "longitude": 18.0354934
+    },
+    "estimatedDuration": 59,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "rio_34",
+    "name": "Jarlabankes bro",
+    "description": "rio'de ziyaret edilebilecek popüler bir nokta: Jarlabankes bro.",
+    "image": "https://picsum.photos/800/600?random=33",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 59.4991343,
+      "longitude": 18.0632515
+    },
+    "estimatedDuration": 74,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 34,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "rio_35",
+    "name": "Museum de Vries",
+    "description": "rio'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=34",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 59.3250139,
+      "longitude": 17.887831
+    },
+    "estimatedDuration": 61,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "rio_36",
+    "name": "Olaus Petri kyrka",
+    "description": "rio'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=35",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 59.3449768,
+      "longitude": 18.0879218
+    },
+    "estimatedDuration": 54,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 154,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "rio_37",
+    "name": "Birger Jarl",
+    "description": "rio'de ziyaret edilebilecek popüler bir nokta: Birger Jarl.",
+    "image": "https://picsum.photos/800/600?random=36",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 59.3251068,
+      "longitude": 18.0638546
+    },
+    "estimatedDuration": 63,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "rio_38",
+    "name": "Nils Ericson",
+    "description": "rio'de ziyaret edilebilecek popüler bir nokta: Nils Ericson.",
+    "image": "https://picsum.photos/800/600?random=37",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 59.3304542,
+      "longitude": 18.0589485
+    },
+    "estimatedDuration": 31,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "rio_39",
+    "name": "Stockholms Centrals gamla klocka",
+    "description": "rio'de ziyaret edilebilecek popüler bir nokta: Stockholms Centrals gamla klocka.",
+    "image": "https://picsum.photos/800/600?random=38",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 59.3305494,
+      "longitude": 18.0588355
+    },
+    "estimatedDuration": 82,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 46,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "rio_40",
+    "name": "Skanskvarns luftvärnsställning",
+    "description": "rio'de ziyaret edilebilecek popüler bir nokta: Skanskvarns luftvärnsställning.",
+    "image": "https://picsum.photos/800/600?random=39",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 59.2993705,
+      "longitude": 18.0729957
+    },
+    "estimatedDuration": 58,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "rio_41",
+    "name": "Tensta konsthall",
+    "description": "rio'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=40",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 59.393703,
+      "longitude": 17.9033027
+    },
+    "estimatedDuration": 86,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "rio_42",
+    "name": "Frösundatoppen",
+    "description": "rio'de ziyaret edilebilecek popüler bir nokta: Frösundatoppen.",
+    "image": "https://picsum.photos/800/600?random=41",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 59.3661644,
+      "longitude": 18.0248419
+    },
+    "estimatedDuration": 35,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "rio_43",
+    "name": "We Are One Church",
+    "description": "rio'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=42",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 59.3094235,
+      "longitude": 18.0760567
+    },
+    "estimatedDuration": 33,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "rio_44",
+    "name": "Sundbybergs museum",
+    "description": "rio'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=43",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 59.364734,
+      "longitude": 17.9628285
+    },
+    "estimatedDuration": 39,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 172,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "rio_45",
+    "name": "Polismuseet",
+    "description": "rio'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=44",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 59.3331156,
+      "longitude": 18.1184726
+    },
+    "estimatedDuration": 73,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "rio_46",
+    "name": "Riksidrottsmuseum",
+    "description": "rio'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=45",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 59.3332127,
+      "longitude": 18.117001
+    },
+    "estimatedDuration": 31,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "rio_47",
+    "name": "Citykyrkan",
+    "description": "rio'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=46",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 59.3371518,
+      "longitude": 18.059156
+    },
+    "estimatedDuration": 62,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 151,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "rio_48",
+    "name": "Fotografiska",
+    "description": "rio'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=47",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 59.3180039,
+      "longitude": 18.0847007
+    },
+    "estimatedDuration": 79,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "rio_49",
+    "name": "Drottningholms slottskyrka",
+    "description": "rio'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=48",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 59.3222709,
+      "longitude": 17.8863604
+    },
+    "estimatedDuration": 33,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "rio_50",
+    "name": "Arkitektur- och designcentrum",
+    "description": "rio'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=49",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 59.3258137,
+      "longitude": 18.0846543
+    },
+    "estimatedDuration": 79,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "rio_51",
+    "name": "Betlehemskyrkan",
+    "description": "rio'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=50",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 59.3428478,
+      "longitude": 18.0585818
+    },
+    "estimatedDuration": 58,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 48,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "rio_52",
+    "name": "Tekniska museet",
+    "description": "rio'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=51",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 59.3325149,
+      "longitude": 18.11884
+    },
+    "estimatedDuration": 61,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "rio_53",
+    "name": "Slottskyrkan",
+    "description": "rio'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=52",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 59.3264792,
+      "longitude": 18.0723766
+    },
+    "estimatedDuration": 59,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "rio_54",
+    "name": "Carl XV",
+    "description": "rio'de ziyaret edilebilecek popüler bir nokta: Carl XV.",
+    "image": "https://picsum.photos/800/600?random=53",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 59.3277502,
+      "longitude": 18.097271
+    },
+    "estimatedDuration": 70,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "rio_55",
+    "name": "Ormberget",
+    "description": "rio'de ziyaret edilebilecek popüler bir nokta: Ormberget.",
+    "image": "https://picsum.photos/800/600?random=54",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 59.317064,
+      "longitude": 18.0026386
+    },
+    "estimatedDuration": 78,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 167,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "rio_56",
+    "name": "Östasiatiska museet",
+    "description": "rio'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=55",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 59.3273849,
+      "longitude": 18.0816743
+    },
+    "estimatedDuration": 53,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "rio_57",
+    "name": "Kvarnen",
+    "description": "rio'de ziyaret edilebilecek popüler bir nokta: Kvarnen.",
+    "image": "https://picsum.photos/800/600?random=56",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 59.420768,
+      "longitude": 17.8290482
+    },
+    "estimatedDuration": 64,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "rio_58",
+    "name": "Korskyrkan",
+    "description": "rio'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=57",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 59.3425381,
+      "longitude": 18.0642008
+    },
+    "estimatedDuration": 62,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "rio_59",
+    "name": "Åsöberget",
+    "description": "rio'de ziyaret edilebilecek popüler bir nokta: Åsöberget.",
+    "image": "https://picsum.photos/800/600?random=58",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 59.3144569,
+      "longitude": 18.0958329
+    },
+    "estimatedDuration": 50,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "rio_60",
+    "name": "Delsbogården",
+    "description": "rio'de ziyaret edilebilecek popüler bir nokta: Delsbogården.",
+    "image": "https://picsum.photos/800/600?random=59",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 59.3278597,
+      "longitude": 18.1038554
+    },
+    "estimatedDuration": 70,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  }
+]

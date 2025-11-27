@@ -1,0 +1,1082 @@
+[
+  {
+    "id": "chicago_1",
+    "name": "Saint Jerome's Croatian Catholic Church",
+    "description": "chicago'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=0",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.8419777,
+      "longitude": -87.6339404
+    },
+    "estimatedDuration": 39,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "chicago_2",
+    "name": "Church of Scientology",
+    "description": "chicago'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=1",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.9365369,
+      "longitude": -87.6641033
+    },
+    "estimatedDuration": 43,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "chicago_3",
+    "name": "Haymarket Memorial",
+    "description": "chicago'de ziyaret edilebilecek popüler bir nokta: Haymarket Memorial.",
+    "image": "https://picsum.photos/800/600?random=2",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.8848807,
+      "longitude": -87.6441288
+    },
+    "estimatedDuration": 50,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "chicago_4",
+    "name": "Union Stock Yards Fire Memorial",
+    "description": "chicago'de ziyaret edilebilecek popüler bir nokta: Union Stock Yards Fire Memorial.",
+    "image": "https://picsum.photos/800/600?random=3",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.8186295,
+      "longitude": -87.6487586
+    },
+    "estimatedDuration": 68,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "chicago_5",
+    "name": "Batcolumn",
+    "description": "chicago'de ziyaret edilebilecek popüler bir nokta: Batcolumn.",
+    "image": "https://picsum.photos/800/600?random=4",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.8819687,
+      "longitude": -87.643123
+    },
+    "estimatedDuration": 89,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 90,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "chicago_6",
+    "name": "360 Chicago",
+    "description": "chicago'de ziyaret edilebilecek popüler bir nokta: 360 Chicago.",
+    "image": "https://picsum.photos/800/600?random=5",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.8989798,
+      "longitude": -87.6231763
+    },
+    "estimatedDuration": 89,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "chicago_7",
+    "name": "Home Insurance Building Site",
+    "description": "chicago'de ziyaret edilebilecek popüler bir nokta: Home Insurance Building Site.",
+    "image": "https://picsum.photos/800/600?random=6",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.8797637,
+      "longitude": -87.6318848
+    },
+    "estimatedDuration": 78,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 132,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "chicago_8",
+    "name": "Haymarket Martyrs' Monument",
+    "description": "chicago'de ziyaret edilebilecek popüler bir nokta: Haymarket Martyrs' Monument.",
+    "image": "https://picsum.photos/800/600?random=7",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.869797,
+      "longitude": -87.8197717
+    },
+    "estimatedDuration": 81,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 20,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "chicago_9",
+    "name": "Money Museum",
+    "description": "chicago'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=8",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 41.87833,
+      "longitude": -87.632568
+    },
+    "estimatedDuration": 56,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "chicago_10",
+    "name": "Kids Off The Block Gun Violence Memorial",
+    "description": "chicago'de ziyaret edilebilecek popüler bir nokta: Kids Off The Block Gun Violence Memorial.",
+    "image": "https://picsum.photos/800/600?random=9",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.6819209,
+      "longitude": -87.6208351
+    },
+    "estimatedDuration": 35,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 159,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "chicago_11",
+    "name": "William McKinley Memorial",
+    "description": "chicago'de ziyaret edilebilecek popüler bir nokta: William McKinley Memorial.",
+    "image": "https://picsum.photos/800/600?random=10",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.8262698,
+      "longitude": -87.6838647
+    },
+    "estimatedDuration": 48,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "chicago_12",
+    "name": "McCormick Bridgehouse & Chicago River Museum",
+    "description": "chicago'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=11",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 41.8884954,
+      "longitude": -87.6246857
+    },
+    "estimatedDuration": 41,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "chicago_13",
+    "name": "Vietnam Veterans Memorial",
+    "description": "chicago'de ziyaret edilebilecek popüler bir nokta: Vietnam Veterans Memorial.",
+    "image": "https://picsum.photos/800/600?random=12",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.8870664,
+      "longitude": -87.6271551
+    },
+    "estimatedDuration": 54,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "chicago_14",
+    "name": "National Museum of Puerto Rican Arts & Culture",
+    "description": "chicago'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=13",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 41.9023107,
+      "longitude": -87.703187
+    },
+    "estimatedDuration": 46,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "chicago_15",
+    "name": "Polish Museum of America",
+    "description": "chicago'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=14",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 41.8996737,
+      "longitude": -87.66105
+    },
+    "estimatedDuration": 49,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "chicago_16",
+    "name": "Loyola University Museum of Art",
+    "description": "chicago'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=15",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 41.8973289,
+      "longitude": -87.6250576
+    },
+    "estimatedDuration": 79,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 151,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "chicago_17",
+    "name": "Darius & Girenas Memorial",
+    "description": "chicago'de ziyaret edilebilecek popüler bir nokta: Darius & Girenas Memorial.",
+    "image": "https://picsum.photos/800/600?random=16",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.7715196,
+      "longitude": -87.6937427
+    },
+    "estimatedDuration": 78,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "chicago_18",
+    "name": "Haymarket Police Memorial",
+    "description": "chicago'de ziyaret edilebilecek popüler bir nokta: Haymarket Police Memorial.",
+    "image": "https://picsum.photos/800/600?random=17",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.830436,
+      "longitude": -87.6243239
+    },
+    "estimatedDuration": 86,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 107,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "chicago_19",
+    "name": "National Veterans Art Museum",
+    "description": "chicago'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=18",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 41.9543845,
+      "longitude": -87.7486367
+    },
+    "estimatedDuration": 49,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "chicago_20",
+    "name": "Richard H. Driehaus Museum",
+    "description": "chicago'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=19",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 41.8942846,
+      "longitude": -87.6265031
+    },
+    "estimatedDuration": 43,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 135,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "chicago_21",
+    "name": "Battle of Fort Dearborn",
+    "description": "chicago'de ziyaret edilebilecek popüler bir nokta: Battle of Fort Dearborn.",
+    "image": "https://picsum.photos/800/600?random=20",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.8579606,
+      "longitude": -87.6195131
+    },
+    "estimatedDuration": 38,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 125,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "chicago_22",
+    "name": "Memorial Day Massacre of 1937",
+    "description": "chicago'de ziyaret edilebilecek popüler bir nokta: Memorial Day Massacre of 1937.",
+    "image": "https://picsum.photos/800/600?random=21",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.6828844,
+      "longitude": -87.5399169
+    },
+    "estimatedDuration": 69,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "chicago_23",
+    "name": "Eastland Disaster Memorial",
+    "description": "chicago'de ziyaret edilebilecek popüler bir nokta: Eastland Disaster Memorial.",
+    "image": "https://picsum.photos/800/600?random=22",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.8870384,
+      "longitude": -87.6321938
+    },
+    "estimatedDuration": 61,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "chicago_24",
+    "name": "The First Automobile Race in America",
+    "description": "chicago'de ziyaret edilebilecek popüler bir nokta: The First Automobile Race in America.",
+    "image": "https://picsum.photos/800/600?random=23",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.786636,
+      "longitude": -87.5853969
+    },
+    "estimatedDuration": 45,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "chicago_25",
+    "name": "Begin Route 66",
+    "description": "chicago'de ziyaret edilebilecek popüler bir nokta: Begin Route 66.",
+    "image": "https://picsum.photos/800/600?random=24",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.8796145,
+      "longitude": -87.6246298
+    },
+    "estimatedDuration": 32,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "chicago_26",
+    "name": "Jean Baptiste Point Du Sable Homesite",
+    "description": "chicago'de ziyaret edilebilecek popüler bir nokta: Jean Baptiste Point Du Sable Homesite.",
+    "image": "https://picsum.photos/800/600?random=25",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.8893891,
+      "longitude": -87.6238856
+    },
+    "estimatedDuration": 42,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "chicago_27",
+    "name": "Chicago Architecture Center",
+    "description": "chicago'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=26",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 41.8880131,
+      "longitude": -87.6236228
+    },
+    "estimatedDuration": 31,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "chicago_28",
+    "name": "Showmen's Rest",
+    "description": "chicago'de ziyaret edilebilecek popüler bir nokta: Showmen's Rest.",
+    "image": "https://picsum.photos/800/600?random=27",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.8504904,
+      "longitude": -87.8185401
+    },
+    "estimatedDuration": 89,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "chicago_29",
+    "name": "Chicago Children's Museum",
+    "description": "chicago'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=28",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 41.891472,
+      "longitude": -87.6092029
+    },
+    "estimatedDuration": 47,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "chicago_30",
+    "name": "Mission of Our Lady of the Angels",
+    "description": "chicago'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=29",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.8975192,
+      "longitude": -87.721793
+    },
+    "estimatedDuration": 78,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "chicago_31",
+    "name": "Ukrainian National Museum",
+    "description": "chicago'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=30",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 41.894607,
+      "longitude": -87.6840067
+    },
+    "estimatedDuration": 74,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 51,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "chicago_32",
+    "name": "Waller Apartments",
+    "description": "chicago'de ziyaret edilebilecek popüler bir nokta: Waller Apartments.",
+    "image": "https://picsum.photos/800/600?random=31",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.8856307,
+      "longitude": -87.6983895
+    },
+    "estimatedDuration": 60,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 62,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "chicago_33",
+    "name": "The Light of Truth Ida B. Wells National Monument",
+    "description": "chicago'de ziyaret edilebilecek popüler bir nokta: The Light of Truth Ida B. Wells National Monument.",
+    "image": "https://picsum.photos/800/600?random=32",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.8266297,
+      "longitude": -87.6101289
+    },
+    "estimatedDuration": 73,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "chicago_34",
+    "name": "Map of Bronzeville",
+    "description": "chicago'de ziyaret edilebilecek popüler bir nokta: Map of Bronzeville.",
+    "image": "https://picsum.photos/800/600?random=33",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.8312725,
+      "longitude": -87.6171513
+    },
+    "estimatedDuration": 67,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 185,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "chicago_35",
+    "name": "Ida B. Wells Homes",
+    "description": "chicago'de ziyaret edilebilecek popüler bir nokta: Ida B. Wells Homes.",
+    "image": "https://picsum.photos/800/600?random=34",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.827388,
+      "longitude": -87.6166953
+    },
+    "estimatedDuration": 40,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "chicago_36",
+    "name": "U-505 Submarine",
+    "description": "chicago'de ziyaret edilebilecek popüler bir nokta: U-505 Submarine.",
+    "image": "https://picsum.photos/800/600?random=35",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.7918808,
+      "longitude": -87.5812474
+    },
+    "estimatedDuration": 33,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "chicago_37",
+    "name": "Site of Fort Dearborn",
+    "description": "chicago'de ziyaret edilebilecek popüler bir nokta: Site of Fort Dearborn.",
+    "image": "https://picsum.photos/800/600?random=36",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.8884422,
+      "longitude": -87.6248707
+    },
+    "estimatedDuration": 53,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 36,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "chicago_38",
+    "name": "Our Lady of the Angels School Fire Memorial",
+    "description": "chicago'de ziyaret edilebilecek popüler bir nokta: Our Lady of the Angels School Fire Memorial.",
+    "image": "https://picsum.photos/800/600?random=37",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.8973512,
+      "longitude": -87.721814
+    },
+    "estimatedDuration": 70,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 151,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "chicago_39",
+    "name": "St. Luke's Hospital",
+    "description": "chicago'de ziyaret edilebilecek popüler bir nokta: St. Luke's Hospital.",
+    "image": "https://picsum.photos/800/600?random=38",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.8627811,
+      "longitude": -87.6238772
+    },
+    "estimatedDuration": 48,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "chicago_40",
+    "name": "Site of the Sauganash Hotel/Wigwam",
+    "description": "chicago'de ziyaret edilebilecek popüler bir nokta: Site of the Sauganash Hotel/Wigwam.",
+    "image": "https://picsum.photos/800/600?random=39",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.8856021,
+      "longitude": -87.6368786
+    },
+    "estimatedDuration": 71,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "chicago_41",
+    "name": "The Blues Trail: Mississippi to Chicago",
+    "description": "chicago'de ziyaret edilebilecek popüler bir nokta: The Blues Trail: Mississippi to Chicago.",
+    "image": "https://picsum.photos/800/600?random=40",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.8679325,
+      "longitude": -87.6228622
+    },
+    "estimatedDuration": 74,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "chicago_42",
+    "name": "Eighth Regiment Armory",
+    "description": "chicago'de ziyaret edilebilecek popüler bir nokta: Eighth Regiment Armory.",
+    "image": "https://picsum.photos/800/600?random=41",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.8306889,
+      "longitude": -87.6191977
+    },
+    "estimatedDuration": 85,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 86,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "chicago_43",
+    "name": "Chicago Stadium",
+    "description": "chicago'de ziyaret edilebilecek popüler bir nokta: Chicago Stadium.",
+    "image": "https://picsum.photos/800/600?random=42",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.8814716,
+      "longitude": -87.6742028
+    },
+    "estimatedDuration": 74,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "chicago_44",
+    "name": "Pioneer Zephyr",
+    "description": "chicago'de ziyaret edilebilecek popüler bir nokta: Pioneer Zephyr.",
+    "image": "https://picsum.photos/800/600?random=43",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.7916401,
+      "longitude": -87.5829417
+    },
+    "estimatedDuration": 88,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "chicago_45",
+    "name": "Chicago Chassidishe Kollel",
+    "description": "chicago'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=44",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.9970806,
+      "longitude": -87.7084391
+    },
+    "estimatedDuration": 51,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 115,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "chicago_46",
+    "name": "West Side Grounds",
+    "description": "chicago'de ziyaret edilebilecek popüler bir nokta: West Side Grounds.",
+    "image": "https://picsum.photos/800/600?random=45",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.8700666,
+      "longitude": -87.671582
+    },
+    "estimatedDuration": 43,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "chicago_47",
+    "name": "Eli Schulman",
+    "description": "chicago'de ziyaret edilebilecek popüler bir nokta: Eli Schulman.",
+    "image": "https://picsum.photos/800/600?random=46",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.8971561,
+      "longitude": -87.6223881
+    },
+    "estimatedDuration": 80,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "chicago_48",
+    "name": "Chicago Sports Museum",
+    "description": "chicago'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=47",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 41.8980264,
+      "longitude": -87.6220778
+    },
+    "estimatedDuration": 38,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "chicago_49",
+    "name": "Pritzker Military Museum & Library",
+    "description": "chicago'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=48",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 41.8806197,
+      "longitude": -87.6246632
+    },
+    "estimatedDuration": 80,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "chicago_50",
+    "name": "Central Station",
+    "description": "chicago'de ziyaret edilebilecek popüler bir nokta: Central Station.",
+    "image": "https://picsum.photos/800/600?random=49",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.8679977,
+      "longitude": -87.6227404
+    },
+    "estimatedDuration": 66,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 157,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "chicago_51",
+    "name": "Kiddieland",
+    "description": "chicago'de ziyaret edilebilecek popüler bir nokta: Kiddieland.",
+    "image": "https://picsum.photos/800/600?random=50",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.8944961,
+      "longitude": -87.8561887
+    },
+    "estimatedDuration": 48,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "chicago_52",
+    "name": "William L. Dawson",
+    "description": "chicago'de ziyaret edilebilecek popüler bir nokta: William L. Dawson.",
+    "image": "https://picsum.photos/800/600?random=51",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.8348647,
+      "longitude": -87.6172218
+    },
+    "estimatedDuration": 77,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "chicago_53",
+    "name": "St. Vincent de Paul Catholic Church",
+    "description": "chicago'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=52",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.9221953,
+      "longitude": -87.6539228
+    },
+    "estimatedDuration": 42,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "chicago_54",
+    "name": "The Peggy Notebaert Nature Museum",
+    "description": "chicago'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=53",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 41.9267866,
+      "longitude": -87.6351944
+    },
+    "estimatedDuration": 83,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "chicago_55",
+    "name": "Chicago History Museum",
+    "description": "chicago'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=54",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 41.9119908,
+      "longitude": -87.6315209
+    },
+    "estimatedDuration": 73,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "chicago_56",
+    "name": "Museum of Contemporary Art",
+    "description": "chicago'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=55",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 41.8972189,
+      "longitude": -87.6212206
+    },
+    "estimatedDuration": 57,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 145,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "chicago_57",
+    "name": "Navy Pier",
+    "description": "chicago'de ziyaret edilebilecek popüler bir nokta: Navy Pier.",
+    "image": "https://picsum.photos/800/600?random=56",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.8917312,
+      "longitude": -87.6041467
+    },
+    "estimatedDuration": 42,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 194,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "chicago_58",
+    "name": "Field Museum",
+    "description": "chicago'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=57",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 41.8662111,
+      "longitude": -87.6168966
+    },
+    "estimatedDuration": 44,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "chicago_59",
+    "name": "Griffin Museum of Science and Industry",
+    "description": "chicago'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=58",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 41.7907605,
+      "longitude": -87.5829373
+    },
+    "estimatedDuration": 66,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 196,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "chicago_60",
+    "name": "Unity Temple",
+    "description": "chicago'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=59",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.8883498,
+      "longitude": -87.7968429
+    },
+    "estimatedDuration": 84,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 191,
+    "interests": [
+      "Tarihi"
+    ]
+  }
+]

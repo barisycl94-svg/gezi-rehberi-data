@@ -1,0 +1,200 @@
+[
+  {
+    "id": "queenstown_1",
+    "name": "Ben Lomond",
+    "description": "queenstown'de ziyaret edilebilecek popüler bir nokta: Ben Lomond.",
+    "image": "https://picsum.photos/800/600?random=0",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -45.0070352,
+      "longitude": 168.6155605
+    },
+    "estimatedDuration": 78,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 100,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "queenstown_2",
+    "name": "Seven Mile Point",
+    "description": "queenstown'de ziyaret edilebilecek popüler bir nokta: Seven Mile Point.",
+    "image": "https://picsum.photos/800/600?random=1",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -45.0572796,
+      "longitude": 168.5908186
+    },
+    "estimatedDuration": 40,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "queenstown_3",
+    "name": "Stone ruins",
+    "description": "queenstown'de ziyaret edilebilecek popüler bir nokta: Stone ruins.",
+    "image": "https://picsum.photos/800/600?random=2",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -44.9660982,
+      "longitude": 168.641748
+    },
+    "estimatedDuration": 59,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "queenstown_4",
+    "name": "Old siphon",
+    "description": "queenstown'de ziyaret edilebilecek popüler bir nokta: Old siphon.",
+    "image": "https://picsum.photos/800/600?random=3",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -44.9298037,
+      "longitude": 168.62412
+    },
+    "estimatedDuration": 60,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "queenstown_5",
+    "name": "Kiln ruins",
+    "description": "queenstown'de ziyaret edilebilecek popüler bir nokta: Kiln ruins.",
+    "image": "https://picsum.photos/800/600?random=4",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -45.0745903,
+      "longitude": 168.5250494
+    },
+    "estimatedDuration": 63,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "queenstown_6",
+    "name": "Site of old chinese camp",
+    "description": "queenstown'de ziyaret edilebilecek popüler bir nokta: Site of old chinese camp.",
+    "image": "https://images.pexels.com/photos/19386943/pexels-photo-19386943.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -45.0466859,
+      "longitude": 168.5295169
+    },
+    "estimatedDuration": 65,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "queenstown_7",
+    "name": "Derelict hut",
+    "description": "queenstown'de ziyaret edilebilecek popüler bir nokta: Derelict hut.",
+    "image": "https://picsum.photos/800/600?random=6",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -45.0741271,
+      "longitude": 168.5231429
+    },
+    "estimatedDuration": 52,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "queenstown_9",
+    "name": "Sugar Loaf",
+    "description": "queenstown'de ziyaret edilebilecek popüler bir nokta: Sugar Loaf.",
+    "image": "https://picsum.photos/800/600?random=8",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -44.9968054,
+      "longitude": 168.701812
+    },
+    "estimatedDuration": 55,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "queenstown_10",
+    "name": "Carin Stacks",
+    "description": "queenstown'de ziyaret edilebilecek popüler bir nokta: Carin Stacks.",
+    "image": "https://picsum.photos/800/600?random=9",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -45.0268066,
+      "longitude": 168.6733405
+    },
+    "estimatedDuration": 68,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "queenstown_11",
+    "name": "Onsen Hot Pools",
+    "description": "queenstown'de ziyaret edilebilecek popüler bir nokta: Onsen Hot Pools.",
+    "image": "https://picsum.photos/800/600?random=10",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -44.9809952,
+      "longitude": 168.6854275
+    },
+    "estimatedDuration": 33,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "queenstown_12",
+    "name": "Queenstown Hill Viewpoint",
+    "description": "queenstown'de ziyaret edilebilecek popüler bir nokta: Queenstown Hill Viewpoint.",
+    "image": "https://picsum.photos/800/600?random=11",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -45.0190663,
+      "longitude": 168.676815
+    },
+    "estimatedDuration": 35,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  }
+]

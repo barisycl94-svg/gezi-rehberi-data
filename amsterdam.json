@@ -1,0 +1,1064 @@
+[
+  {
+    "id": "amsterdam_1",
+    "name": "Wereldmuseum Amsterdam",
+    "description": "amsterdam'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=0",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 52.362688,
+      "longitude": 4.9224397
+    },
+    "estimatedDuration": 85,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "amsterdam_2",
+    "name": "Willet-Holthuysen",
+    "description": "amsterdam'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=1",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 52.3656031,
+      "longitude": 4.8990152
+    },
+    "estimatedDuration": 36,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "amsterdam_3",
+    "name": "Museum Vrolik",
+    "description": "amsterdam'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=2",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 52.2939911,
+      "longitude": 4.9600178
+    },
+    "estimatedDuration": 34,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 141,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "amsterdam_4",
+    "name": "Museum Jan",
+    "description": "amsterdam'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=3",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 52.3023149,
+      "longitude": 4.8467004
+    },
+    "estimatedDuration": 70,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "amsterdam_5",
+    "name": "Museum Van Loon",
+    "description": "amsterdam'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=4",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 52.363464,
+      "longitude": 4.8933781
+    },
+    "estimatedDuration": 38,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "amsterdam_6",
+    "name": "Archeologisch Museum Haarlem",
+    "description": "amsterdam'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=5",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 52.3811162,
+      "longitude": 4.6362052
+    },
+    "estimatedDuration": 77,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "amsterdam_7",
+    "name": "Frans Hals Museum",
+    "description": "amsterdam'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=6",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 52.3766062,
+      "longitude": 4.6336897
+    },
+    "estimatedDuration": 84,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "amsterdam_8",
+    "name": "Theo Thijssen Museum",
+    "description": "amsterdam'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=7",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 52.3755212,
+      "longitude": 4.8826878
+    },
+    "estimatedDuration": 85,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "amsterdam_9",
+    "name": "Amsterdam Museum",
+    "description": "amsterdam'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=8",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 52.3704312,
+      "longitude": 4.8904288
+    },
+    "estimatedDuration": 38,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "amsterdam_10",
+    "name": "Allard Pierson Museum",
+    "description": "amsterdam'de bulunan önemli bir müze.",
+    "image": "https://images.pexels.com/photos/34936690/pexels-photo-34936690.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 52.3688053,
+      "longitude": 4.8930549
+    },
+    "estimatedDuration": 72,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 173,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "amsterdam_11",
+    "name": "De Dokwerker",
+    "description": "amsterdam'de ziyaret edilebilecek popüler bir nokta: De Dokwerker.",
+    "image": "https://picsum.photos/800/600?random=10",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 52.3671957,
+      "longitude": 4.9050146
+    },
+    "estimatedDuration": 64,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "amsterdam_12",
+    "name": "Keizersgrachtkerk",
+    "description": "amsterdam'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=11",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 52.3645621,
+      "longitude": 4.8880282
+    },
+    "estimatedDuration": 56,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "amsterdam_13",
+    "name": "Samen Spelen Samen Leven",
+    "description": "amsterdam'de ziyaret edilebilecek popüler bir nokta: Samen Spelen Samen Leven.",
+    "image": "https://picsum.photos/800/600?random=12",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 52.3449153,
+      "longitude": 4.90797
+    },
+    "estimatedDuration": 31,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 177,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "amsterdam_14",
+    "name": "foam",
+    "description": "amsterdam'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=13",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 52.3639884,
+      "longitude": 4.8932631
+    },
+    "estimatedDuration": 61,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "amsterdam_15",
+    "name": "Rembrandthuis",
+    "description": "amsterdam'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=14",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 52.3693667,
+      "longitude": 4.9012367
+    },
+    "estimatedDuration": 44,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "amsterdam_16",
+    "name": "Paaskerk",
+    "description": "amsterdam'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=15",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 52.2925551,
+      "longitude": 4.8607027
+    },
+    "estimatedDuration": 53,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "amsterdam_17",
+    "name": "Venustempel Sexmuseum",
+    "description": "amsterdam'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=16",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 52.3765815,
+      "longitude": 4.8972749
+    },
+    "estimatedDuration": 72,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 68,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "amsterdam_18",
+    "name": "The Amsterdam Dungeon",
+    "description": "amsterdam'de ziyaret edilebilecek popüler bir nokta: The Amsterdam Dungeon.",
+    "image": "https://picsum.photos/800/600?random=17",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 52.3701984,
+      "longitude": 4.892168
+    },
+    "estimatedDuration": 74,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "amsterdam_19",
+    "name": "Frans Hals Museum Hal",
+    "description": "amsterdam'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=18",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 52.3811377,
+      "longitude": 4.6360291
+    },
+    "estimatedDuration": 62,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "amsterdam_20",
+    "name": "Olympiahuis",
+    "description": "amsterdam'de ziyaret edilebilecek popüler bir nokta: Olympiahuis.",
+    "image": "https://picsum.photos/800/600?random=19",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 52.3448864,
+      "longitude": 4.8561555
+    },
+    "estimatedDuration": 38,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "amsterdam_21",
+    "name": "Thomaskerk",
+    "description": "amsterdam'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=20",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 52.342086,
+      "longitude": 4.8748262
+    },
+    "estimatedDuration": 31,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "amsterdam_22",
+    "name": "Begijnhofkapel",
+    "description": "amsterdam'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=21",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 52.3692964,
+      "longitude": 4.8896053
+    },
+    "estimatedDuration": 44,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "amsterdam_23",
+    "name": "Rembrandt",
+    "description": "amsterdam'de ziyaret edilebilecek popüler bir nokta: Rembrandt.",
+    "image": "https://picsum.photos/800/600?random=22",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 52.3660041,
+      "longitude": 4.8965948
+    },
+    "estimatedDuration": 72,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 73,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "amsterdam_24",
+    "name": "Historisch Museum Haarlemmermeer",
+    "description": "amsterdam'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=23",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 52.3217557,
+      "longitude": 4.6649239
+    },
+    "estimatedDuration": 31,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 88,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "amsterdam_25",
+    "name": "Big Spotters Hill",
+    "description": "amsterdam'de ziyaret edilebilecek popüler bir nokta: Big Spotters Hill.",
+    "image": "https://picsum.photos/800/600?random=24",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 52.3348158,
+      "longitude": 4.6690128
+    },
+    "estimatedDuration": 30,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "amsterdam_26",
+    "name": "Museum Crash '40-45",
+    "description": "amsterdam'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=25",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 52.2686879,
+      "longitude": 4.7349906
+    },
+    "estimatedDuration": 84,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "amsterdam_27",
+    "name": "Rozenoord",
+    "description": "amsterdam'de ziyaret edilebilecek popüler bir nokta: Rozenoord.",
+    "image": "https://picsum.photos/800/600?random=26",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 52.333962,
+      "longitude": 4.8983958
+    },
+    "estimatedDuration": 63,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "amsterdam_28",
+    "name": "Hollandsche Schouwburg",
+    "description": "amsterdam'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=27",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 52.3664388,
+      "longitude": 4.911154
+    },
+    "estimatedDuration": 69,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 162,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "amsterdam_29",
+    "name": "Auschwitzmonument",
+    "description": "amsterdam'de ziyaret edilebilecek popüler bir nokta: Auschwitzmonument.",
+    "image": "https://picsum.photos/800/600?random=28",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 52.3679407,
+      "longitude": 4.9092058
+    },
+    "estimatedDuration": 55,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "amsterdam_30",
+    "name": "Verzetsmuseum",
+    "description": "amsterdam'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=29",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 52.3677709,
+      "longitude": 4.912759
+    },
+    "estimatedDuration": 58,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "amsterdam_31",
+    "name": "Thorbecke",
+    "description": "amsterdam'de ziyaret edilebilecek popüler bir nokta: Thorbecke.",
+    "image": "https://picsum.photos/800/600?random=30",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 52.3650584,
+      "longitude": 4.8958534
+    },
+    "estimatedDuration": 69,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 135,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "amsterdam_32",
+    "name": "Museum Het Schip",
+    "description": "amsterdam'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=31",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 52.3904885,
+      "longitude": 4.8737264
+    },
+    "estimatedDuration": 80,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "amsterdam_33",
+    "name": "Kunstenaarsverzet",
+    "description": "amsterdam'de ziyaret edilebilecek popüler bir nokta: Kunstenaarsverzet.",
+    "image": "https://picsum.photos/800/600?random=32",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 52.3655646,
+      "longitude": 4.9136297
+    },
+    "estimatedDuration": 39,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "amsterdam_34",
+    "name": "Mahatma Gandhi",
+    "description": "amsterdam'de ziyaret edilebilecek popüler bir nokta: Mahatma Gandhi.",
+    "image": "https://picsum.photos/800/600?random=33",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 52.3470354,
+      "longitude": 4.8932492
+    },
+    "estimatedDuration": 59,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "amsterdam_35",
+    "name": "Sarphatimonument",
+    "description": "amsterdam'de ziyaret edilebilecek popüler bir nokta: Sarphatimonument.",
+    "image": "https://picsum.photos/800/600?random=34",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 52.3544625,
+      "longitude": 4.8955726
+    },
+    "estimatedDuration": 53,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "amsterdam_36",
+    "name": "Obrechtkerk",
+    "description": "amsterdam'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=35",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 52.3558942,
+      "longitude": 4.8751073
+    },
+    "estimatedDuration": 59,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 84,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "amsterdam_37",
+    "name": "Koningskerk",
+    "description": "amsterdam'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=36",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 52.3484038,
+      "longitude": 4.9362608
+    },
+    "estimatedDuration": 50,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 74,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "amsterdam_38",
+    "name": "Monument voor gefusilleerde verzetstrijders",
+    "description": "amsterdam'de ziyaret edilebilecek popüler bir nokta: Monument voor gefusilleerde verzetstrijders.",
+    "image": "https://picsum.photos/800/600?random=37",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 52.3507032,
+      "longitude": 4.8777528
+    },
+    "estimatedDuration": 42,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "amsterdam_39",
+    "name": "Torture Museum",
+    "description": "amsterdam'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=38",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 52.3672872,
+      "longitude": 4.8906653
+    },
+    "estimatedDuration": 73,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "amsterdam_40",
+    "name": "Hofje van Oorschot",
+    "description": "amsterdam'de ziyaret edilebilecek popüler bir nokta: Hofje van Oorschot.",
+    "image": "https://picsum.photos/800/600?random=39",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 52.383217,
+      "longitude": 4.6350537
+    },
+    "estimatedDuration": 83,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "amsterdam_41",
+    "name": "Huis Marseille",
+    "description": "amsterdam'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=40",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 52.3676378,
+      "longitude": 4.8848092
+    },
+    "estimatedDuration": 56,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "amsterdam_42",
+    "name": "Hofkerk",
+    "description": "amsterdam'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=41",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 52.3530371,
+      "longitude": 4.9336399
+    },
+    "estimatedDuration": 47,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 164,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "amsterdam_43",
+    "name": "Multatuli Museum",
+    "description": "amsterdam'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=42",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 52.3774872,
+      "longitude": 4.8911258
+    },
+    "estimatedDuration": 78,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "amsterdam_44",
+    "name": "Zuiderkerkstoren",
+    "description": "amsterdam'de ziyaret edilebilecek popüler bir nokta: Zuiderkerkstoren.",
+    "image": "https://picsum.photos/800/600?random=43",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 52.3702214,
+      "longitude": 4.8995216
+    },
+    "estimatedDuration": 50,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "amsterdam_45",
+    "name": "Max Euwe Centrum",
+    "description": "amsterdam'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=44",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 52.3627156,
+      "longitude": 4.8829059
+    },
+    "estimatedDuration": 66,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "amsterdam_46",
+    "name": "Hash Marihuana & Hemp Museum",
+    "description": "amsterdam'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=45",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 52.3717617,
+      "longitude": 4.896959
+    },
+    "estimatedDuration": 83,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "amsterdam_47",
+    "name": "Anne Frank",
+    "description": "amsterdam'de ziyaret edilebilecek popüler bir nokta: Anne Frank.",
+    "image": "https://picsum.photos/800/600?random=46",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 52.3455675,
+      "longitude": 4.9002337
+    },
+    "estimatedDuration": 51,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 41,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "amsterdam_48",
+    "name": "Monument voor de Canadese militairen",
+    "description": "amsterdam'de ziyaret edilebilecek popüler bir nokta: Monument voor de Canadese militairen.",
+    "image": "https://picsum.photos/800/600?random=47",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 52.3481615,
+      "longitude": 4.8835114
+    },
+    "estimatedDuration": 49,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "amsterdam_49",
+    "name": "Mozes en Aäronkerk",
+    "description": "amsterdam'in tarihi ibadet yapılarından biri.",
+    "image": "https://images.pexels.com/photos/6832111/pexels-photo-6832111.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 52.368262,
+      "longitude": 4.9031963
+    },
+    "estimatedDuration": 82,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 21,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "amsterdam_50",
+    "name": "Mama Baranka (Moeder Rots)",
+    "description": "amsterdam'de ziyaret edilebilecek popüler bir nokta: Mama Baranka (Moeder Rots).",
+    "image": "https://images.pexels.com/photos/34912325/pexels-photo-34912325.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 52.3592507,
+      "longitude": 4.8744178
+    },
+    "estimatedDuration": 81,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "amsterdam_51",
+    "name": "Museum van de Geest/Het Dolhuys",
+    "description": "amsterdam'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=50",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 52.3905413,
+      "longitude": 4.637786
+    },
+    "estimatedDuration": 51,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "amsterdam_52",
+    "name": "Banpaal",
+    "description": "amsterdam'de ziyaret edilebilecek popüler bir nokta: Banpaal.",
+    "image": "https://picsum.photos/800/600?random=51",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 52.3920158,
+      "longitude": 4.7692066
+    },
+    "estimatedDuration": 46,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "amsterdam_53",
+    "name": "Corrie ten Boom Museum",
+    "description": "amsterdam'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=52",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 52.3822632,
+      "longitude": 4.635411
+    },
+    "estimatedDuration": 70,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "amsterdam_54",
+    "name": "Monument Joods Verzet 1940-'45",
+    "description": "amsterdam'de ziyaret edilebilecek popüler bir nokta: Monument Joods Verzet 1940-'45.",
+    "image": "https://picsum.photos/800/600?random=53",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 52.3676105,
+      "longitude": 4.8988548
+    },
+    "estimatedDuration": 76,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "amsterdam_56",
+    "name": "De Boom die alles zag",
+    "description": "amsterdam'de ziyaret edilebilecek popüler bir nokta: De Boom die alles zag.",
+    "image": "https://picsum.photos/800/600?random=55",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 52.3189551,
+      "longitude": 4.9741142
+    },
+    "estimatedDuration": 68,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 61,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "amsterdam_57",
+    "name": "Meerpadkerk",
+    "description": "amsterdam'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=56",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 52.392239,
+      "longitude": 4.9341123
+    },
+    "estimatedDuration": 66,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "amsterdam_58",
+    "name": "Gerard Dou Synagogue",
+    "description": "amsterdam'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=57",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 52.3570182,
+      "longitude": 4.8978874
+    },
+    "estimatedDuration": 36,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 166,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "amsterdam_59",
+    "name": "Museum De Dageraad",
+    "description": "amsterdam'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=58",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 52.3498616,
+      "longitude": 4.8990404
+    },
+    "estimatedDuration": 41,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "amsterdam_60",
+    "name": "Electric Ladyland",
+    "description": "amsterdam'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=59",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 52.3756175,
+      "longitude": 4.8807964
+    },
+    "estimatedDuration": 41,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  }
+]

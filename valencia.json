@@ -1,0 +1,200 @@
+[
+  {
+    "id": "valencia_1",
+    "name": "National Museum - Dumaguete",
+    "description": "valencia'de bulunan önemli bir müze.",
+    "image": "https://images.pexels.com/photos/5273459/pexels-photo-5273459.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 9.3051766,
+      "longitude": 123.3093638
+    },
+    "estimatedDuration": 52,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 61,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "valencia_2",
+    "name": "Bacong Treehouse",
+    "description": "valencia'de ziyaret edilebilecek popüler bir nokta: Bacong Treehouse.",
+    "image": "https://picsum.photos/800/600?random=1",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 9.2445593,
+      "longitude": 123.2965547
+    },
+    "estimatedDuration": 38,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "valencia_3",
+    "name": "Silliman Anthropology Museum",
+    "description": "valencia'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=2",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 9.310391,
+      "longitude": 123.3064879
+    },
+    "estimatedDuration": 42,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "valencia_4",
+    "name": "Masaplod Norte Stingray sanctuary",
+    "description": "valencia'de ziyaret edilebilecek popüler bir nokta: Masaplod Norte Stingray sanctuary.",
+    "image": "https://picsum.photos/800/600?random=3",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 9.1794491,
+      "longitude": 123.2545253
+    },
+    "estimatedDuration": 73,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 187,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "valencia_5",
+    "name": "Cata-al World War Ⅱ Museum",
+    "description": "valencia'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=4",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 9.2836099,
+      "longitude": 123.2467949
+    },
+    "estimatedDuration": 70,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "valencia_6",
+    "name": "Mama Flory",
+    "description": "valencia'de ziyaret edilebilecek popüler bir nokta: Mama Flory.",
+    "image": "https://picsum.photos/800/600?random=5",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 9.3026373,
+      "longitude": 123.2823879
+    },
+    "estimatedDuration": 68,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "valencia_7",
+    "name": "Najandig peek",
+    "description": "valencia'de ziyaret edilebilecek popüler bir nokta: Najandig peek.",
+    "image": "https://picsum.photos/800/600?random=6",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 9.1974582,
+      "longitude": 123.1436735
+    },
+    "estimatedDuration": 65,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "valencia_8",
+    "name": "San Miguel dive",
+    "description": "valencia'de ziyaret edilebilecek popüler bir nokta: San Miguel dive.",
+    "image": "https://picsum.photos/800/600?random=7",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 9.1989459,
+      "longitude": 123.2807926
+    },
+    "estimatedDuration": 30,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 118,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "valencia_9",
+    "name": "Victoria",
+    "description": "valencia'de ziyaret edilebilecek popüler bir nokta: Victoria.",
+    "image": "https://picsum.photos/800/600?random=8",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 9.3061447,
+      "longitude": 123.3111796
+    },
+    "estimatedDuration": 37,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "valencia_10",
+    "name": "Plane",
+    "description": "valencia'de ziyaret edilebilecek popüler bir nokta: Plane.",
+    "image": "https://picsum.photos/800/600?random=9",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 9.2204902,
+      "longitude": 123.2838383
+    },
+    "estimatedDuration": 74,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "valencia_11",
+    "name": "Whale Bone Museum",
+    "description": "valencia'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=10",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 9.3308241,
+      "longitude": 123.3095377
+    },
+    "estimatedDuration": 72,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 55,
+    "interests": [
+      "Müze"
+    ]
+  }
+]

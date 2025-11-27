@@ -1,0 +1,722 @@
+[
+  {
+    "id": "cappadocia_1",
+    "name": "Rhodes Memorial",
+    "description": "cappadocia'de ziyaret edilebilecek popüler bir nokta: Rhodes Memorial.",
+    "image": "https://picsum.photos/800/600?random=0",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -33.9523507,
+      "longitude": 18.4589221
+    },
+    "estimatedDuration": 57,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cappadocia_2",
+    "name": "Hout Bay Museum",
+    "description": "cappadocia'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=1",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": -34.0402442,
+      "longitude": 18.3600148
+    },
+    "estimatedDuration": 89,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 12,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "cappadocia_3",
+    "name": "BOS 400 Shipwreck",
+    "description": "cappadocia'de ziyaret edilebilecek popüler bir nokta: BOS 400 Shipwreck.",
+    "image": "https://picsum.photos/800/600?random=2",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -34.03702,
+      "longitude": 18.3084054
+    },
+    "estimatedDuration": 71,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 100,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cappadocia_4",
+    "name": "Bartolomeu Dias",
+    "description": "cappadocia'de ziyaret edilebilecek popüler bir nokta: Bartolomeu Dias.",
+    "image": "https://picsum.photos/800/600?random=3",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -33.9175244,
+      "longitude": 18.4279952
+    },
+    "estimatedDuration": 78,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cappadocia_5",
+    "name": "Artillerymen's Memorial",
+    "description": "cappadocia'de ziyaret edilebilecek popüler bir nokta: Artillerymen's Memorial.",
+    "image": "https://picsum.photos/800/600?random=4",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -33.9283021,
+      "longitude": 18.4162446
+    },
+    "estimatedDuration": 33,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 167,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cappadocia_6",
+    "name": "Chavonnes Battery Museum",
+    "description": "cappadocia'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=5",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": -33.9071143,
+      "longitude": 18.421602
+    },
+    "estimatedDuration": 44,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 11,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "cappadocia_7",
+    "name": "Cape Medical Museum",
+    "description": "cappadocia'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=6",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": -33.9071848,
+      "longitude": 18.4147656
+    },
+    "estimatedDuration": 50,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "cappadocia_8",
+    "name": "Statue of Jan Hendrik Hofmeyr",
+    "description": "cappadocia'de ziyaret edilebilecek popüler bir nokta: Statue of Jan Hendrik Hofmeyr.",
+    "image": "https://picsum.photos/800/600?random=7",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -33.9251017,
+      "longitude": 18.4213896
+    },
+    "estimatedDuration": 49,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cappadocia_9",
+    "name": "Heart of Cape Town Museum",
+    "description": "cappadocia'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=8",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": -33.9411108,
+      "longitude": 18.461395
+    },
+    "estimatedDuration": 41,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "cappadocia_10",
+    "name": "Statue of Nelson Mandela",
+    "description": "cappadocia'de ziyaret edilebilecek popüler bir nokta: Statue of Nelson Mandela.",
+    "image": "https://picsum.photos/800/600?random=9",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -33.9252611,
+      "longitude": 18.4238848
+    },
+    "estimatedDuration": 83,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 58,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cappadocia_11",
+    "name": "Noon Gun",
+    "description": "cappadocia'de ziyaret edilebilecek popüler bir nokta: Noon Gun.",
+    "image": "https://picsum.photos/800/600?random=10",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -33.9151188,
+      "longitude": 18.4115429
+    },
+    "estimatedDuration": 85,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 57,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cappadocia_12",
+    "name": "Greenmarket Square",
+    "description": "cappadocia'de ziyaret edilebilecek popüler bir nokta: Greenmarket Square.",
+    "image": "https://picsum.photos/800/600?random=11",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -33.9227067,
+      "longitude": 18.4200839
+    },
+    "estimatedDuration": 85,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cappadocia_13",
+    "name": "Iziko South African Museum",
+    "description": "cappadocia'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=12",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": -33.928907,
+      "longitude": 18.4149534
+    },
+    "estimatedDuration": 31,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "cappadocia_14",
+    "name": "Waterworks Museum",
+    "description": "cappadocia'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=13",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": -33.9748842,
+      "longitude": 18.407557
+    },
+    "estimatedDuration": 78,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "cappadocia_15",
+    "name": "Zeitz Museum of Contemporary Art Africa (MOCAA)",
+    "description": "cappadocia'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=14",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": -33.908416,
+      "longitude": 18.4230011
+    },
+    "estimatedDuration": 46,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "cappadocia_16",
+    "name": "Iziko Slave Lodge",
+    "description": "cappadocia'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=15",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": -33.9251532,
+      "longitude": 18.4205689
+    },
+    "estimatedDuration": 52,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "cappadocia_17",
+    "name": "Groote Kerk",
+    "description": "cappadocia'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=16",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -33.9247712,
+      "longitude": 18.420922
+    },
+    "estimatedDuration": 74,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cappadocia_18",
+    "name": "Groote Schuur",
+    "description": "cappadocia'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=17",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": -33.9637257,
+      "longitude": 18.4639911
+    },
+    "estimatedDuration": 31,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 3,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "cappadocia_19",
+    "name": "Jameah Masjid",
+    "description": "cappadocia'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=18",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -33.9182599,
+      "longitude": 18.4167513
+    },
+    "estimatedDuration": 78,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 138,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cappadocia_20",
+    "name": "St. George's Cathedral",
+    "description": "cappadocia'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=19",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -33.9248781,
+      "longitude": 18.4194119
+    },
+    "estimatedDuration": 44,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 117,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cappadocia_21",
+    "name": "Cape Town Holocaust Centre",
+    "description": "cappadocia'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=20",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": -33.9302827,
+      "longitude": 18.4166236
+    },
+    "estimatedDuration": 59,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "cappadocia_22",
+    "name": "St Mary's Cathedral",
+    "description": "cappadocia'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=21",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -33.92832,
+      "longitude": 18.4194413
+    },
+    "estimatedDuration": 75,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 46,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cappadocia_23",
+    "name": "District Six Museum",
+    "description": "cappadocia'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=22",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": -33.9278109,
+      "longitude": 18.4237456
+    },
+    "estimatedDuration": 49,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "cappadocia_24",
+    "name": "Muizenberg Hebrew Congregation",
+    "description": "cappadocia'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=23",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -34.1066602,
+      "longitude": 18.4672223
+    },
+    "estimatedDuration": 45,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 104,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cappadocia_25",
+    "name": "Castle Lichtenstein",
+    "description": "cappadocia'in tarihine tanıklık eden bir kale.",
+    "image": "https://picsum.photos/800/600?random=24",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -34.0422169,
+      "longitude": 18.3416577
+    },
+    "estimatedDuration": 79,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 73,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cappadocia_26",
+    "name": "World of Birds",
+    "description": "cappadocia'de ziyaret edilebilecek popüler bir nokta: World of Birds.",
+    "image": "https://picsum.photos/800/600?random=25",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -34.0170301,
+      "longitude": 18.3622462
+    },
+    "estimatedDuration": 62,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cappadocia_27",
+    "name": "Evangelical Lutheran Church Strand Street",
+    "description": "cappadocia'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=26",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -33.918969,
+      "longitude": 18.4195682
+    },
+    "estimatedDuration": 42,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cappadocia_28",
+    "name": "Robben Island Prison",
+    "description": "cappadocia'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=27",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": -33.8002531,
+      "longitude": 18.3712742
+    },
+    "estimatedDuration": 85,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "cappadocia_29",
+    "name": "Central Methodist Church",
+    "description": "cappadocia'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=28",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -33.9228808,
+      "longitude": 18.4195357
+    },
+    "estimatedDuration": 69,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 51,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cappadocia_30",
+    "name": "Old Town House Museum",
+    "description": "cappadocia'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=29",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": -33.9231199,
+      "longitude": 18.4198815
+    },
+    "estimatedDuration": 41,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "cappadocia_31",
+    "name": "South African Sendinggestig Museum",
+    "description": "cappadocia'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=30",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": -33.9211187,
+      "longitude": 18.4202831
+    },
+    "estimatedDuration": 67,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "cappadocia_32",
+    "name": "Koopmans-de Wet House",
+    "description": "cappadocia'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=31",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": -33.9209527,
+      "longitude": 18.4212671
+    },
+    "estimatedDuration": 59,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "cappadocia_33",
+    "name": "Auwal Masjid",
+    "description": "cappadocia'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=32",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -33.9223312,
+      "longitude": 18.4149536
+    },
+    "estimatedDuration": 60,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cappadocia_34",
+    "name": "Greek Orthodox Cathedral of St George",
+    "description": "cappadocia'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=33",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -33.9323198,
+      "longitude": 18.4498775
+    },
+    "estimatedDuration": 80,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 35,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cappadocia_35",
+    "name": "Nurul Islam Mosque",
+    "description": "cappadocia'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=34",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -33.9218962,
+      "longitude": 18.4153469
+    },
+    "estimatedDuration": 74,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cappadocia_36",
+    "name": "Palm Tree Mosque",
+    "description": "cappadocia'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=35",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -33.9248013,
+      "longitude": 18.4168327
+    },
+    "estimatedDuration": 37,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 129,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cappadocia_37",
+    "name": "Rust en Vreugd",
+    "description": "cappadocia'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=36",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": -33.9301926,
+      "longitude": 18.4202625
+    },
+    "estimatedDuration": 61,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "cappadocia_38",
+    "name": "The Cenotaph",
+    "description": "cappadocia'de ziyaret edilebilecek popüler bir nokta: The Cenotaph.",
+    "image": "https://picsum.photos/800/600?random=37",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -33.9186817,
+      "longitude": 18.4267957
+    },
+    "estimatedDuration": 48,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cappadocia_39",
+    "name": "Castle of Good Hope",
+    "description": "cappadocia'in tarihine tanıklık eden bir kale.",
+    "image": "https://picsum.photos/800/600?random=38",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -33.9258507,
+      "longitude": 18.4276163
+    },
+    "estimatedDuration": 79,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 157,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cappadocia_40",
+    "name": "Kirstenbosch Botanical Gardens",
+    "description": "cappadocia'de ziyaret edilebilecek popüler bir nokta: Kirstenbosch Botanical Gardens.",
+    "image": "https://picsum.photos/800/600?random=39",
+    "category": "Park",
+    "coordinates": {
+      "latitude": -33.9856281,
+      "longitude": 18.4303765
+    },
+    "estimatedDuration": 33,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Park"
+    ]
+  }
+]

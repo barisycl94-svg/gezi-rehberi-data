@@ -1,0 +1,1064 @@
+[
+  {
+    "id": "cologne_1",
+    "name": "NS-Dokumentationszentrum",
+    "description": "cologne'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=0",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 50.9405648,
+      "longitude": 6.9502382
+    },
+    "estimatedDuration": 80,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "cologne_2",
+    "name": "St. Maria ad Gradus",
+    "description": "cologne'de ziyaret edilebilecek popüler bir nokta: St. Maria ad Gradus.",
+    "image": "https://picsum.photos/800/600?random=1",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.9414333,
+      "longitude": 6.9592324
+    },
+    "estimatedDuration": 59,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cologne_3",
+    "name": "Synagoge Brühl",
+    "description": "cologne'de ziyaret edilebilecek popüler bir nokta: Synagoge Brühl.",
+    "image": "https://picsum.photos/800/600?random=2",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.8315711,
+      "longitude": 6.9033407
+    },
+    "estimatedDuration": 34,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 39,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cologne_4",
+    "name": "St. Konrad",
+    "description": "cologne'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=3",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.9896701,
+      "longitude": 7.0898811
+    },
+    "estimatedDuration": 42,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 62,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cologne_5",
+    "name": "Straßenbahn-Museum Thielenbruch",
+    "description": "cologne'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=4",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 50.9783938,
+      "longitude": 7.0858538
+    },
+    "estimatedDuration": 49,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "cologne_6",
+    "name": "ehemaliger Bahnhof Forsbach",
+    "description": "cologne'de ziyaret edilebilecek popüler bir nokta: ehemaliger Bahnhof Forsbach.",
+    "image": "https://picsum.photos/800/600?random=5",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.9330886,
+      "longitude": 7.1599795
+    },
+    "estimatedDuration": 87,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cologne_7",
+    "name": "Haus Vorst",
+    "description": "cologne'in tarihine tanıklık eden bir kale.",
+    "image": "https://picsum.photos/800/600?random=6",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 51.0892287,
+      "longitude": 7.0198687
+    },
+    "estimatedDuration": 53,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 21,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cologne_8",
+    "name": "Spicher Hohlstein",
+    "description": "cologne'de ziyaret edilebilecek popüler bir nokta: Spicher Hohlstein.",
+    "image": "https://picsum.photos/800/600?random=7",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.8248927,
+      "longitude": 7.1361591
+    },
+    "estimatedDuration": 62,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cologne_9",
+    "name": "Französischer Friedhof",
+    "description": "cologne'de ziyaret edilebilecek popüler bir nokta: Französischer Friedhof.",
+    "image": "https://picsum.photos/800/600?random=8",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.9723639,
+      "longitude": 7.1551462
+    },
+    "estimatedDuration": 86,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cologne_10",
+    "name": "Ruhestätte österreichischer Krieger",
+    "description": "cologne'de ziyaret edilebilecek popüler bir nokta: Ruhestätte österreichischer Krieger.",
+    "image": "https://picsum.photos/800/600?random=9",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.973612,
+      "longitude": 7.1538593
+    },
+    "estimatedDuration": 57,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cologne_11",
+    "name": "St. Jakobus",
+    "description": "cologne'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=10",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.8289182,
+      "longitude": 7.0118643
+    },
+    "estimatedDuration": 79,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cologne_12",
+    "name": "St. Albertus Magnus",
+    "description": "cologne'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=11",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 51.0224934,
+      "longitude": 7.0500499
+    },
+    "estimatedDuration": 74,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cologne_13",
+    "name": "Waldfriedhof",
+    "description": "cologne'de ziyaret edilebilecek popüler bir nokta: Waldfriedhof.",
+    "image": "https://picsum.photos/800/600?random=12",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.9501247,
+      "longitude": 7.1473235
+    },
+    "estimatedDuration": 71,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cologne_14",
+    "name": "Grünewald-Teiche",
+    "description": "cologne'de ziyaret edilebilecek popüler bir nokta: Grünewald-Teiche.",
+    "image": "https://picsum.photos/800/600?random=13",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.945514,
+      "longitude": 7.1988375
+    },
+    "estimatedDuration": 64,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 87,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cologne_15",
+    "name": "Düxer Bock",
+    "description": "cologne'de ziyaret edilebilecek popüler bir nokta: Düxer Bock.",
+    "image": "https://picsum.photos/800/600?random=14",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.9345782,
+      "longitude": 6.9772103
+    },
+    "estimatedDuration": 44,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cologne_16",
+    "name": "Burg Fischenich (Ruine)",
+    "description": "cologne'de ziyaret edilebilecek popüler bir nokta: Burg Fischenich (Ruine).",
+    "image": "https://picsum.photos/800/600?random=15",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.8597088,
+      "longitude": 6.8960402
+    },
+    "estimatedDuration": 67,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cologne_17",
+    "name": "Sankt Michael",
+    "description": "cologne'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=16",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.8113255,
+      "longitude": 6.7989213
+    },
+    "estimatedDuration": 32,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 183,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cologne_18",
+    "name": "Mariensäule",
+    "description": "cologne'de ziyaret edilebilecek popüler bir nokta: Mariensäule.",
+    "image": "https://picsum.photos/800/600?random=17",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.9427207,
+      "longitude": 6.9466046
+    },
+    "estimatedDuration": 64,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cologne_19",
+    "name": "Denkmal für Deserteure und Opfer der NS-Militärjustiz",
+    "description": "cologne'de ziyaret edilebilecek popüler bir nokta: Denkmal für Deserteure und Opfer der NS-Militärjustiz.",
+    "image": "https://picsum.photos/800/600?random=18",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.9410815,
+      "longitude": 6.9505659
+    },
+    "estimatedDuration": 45,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cologne_20",
+    "name": "Kölner Festungsmuseum",
+    "description": "cologne'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=19",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 50.8987052,
+      "longitude": 6.982367
+    },
+    "estimatedDuration": 59,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "cologne_21",
+    "name": "Kölnisches Stadtmuseum",
+    "description": "cologne'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=20",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 50.939021,
+      "longitude": 6.9542661
+    },
+    "estimatedDuration": 85,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "cologne_22",
+    "name": "Tünnes und Schäl",
+    "description": "cologne'de ziyaret edilebilecek popüler bir nokta: Tünnes und Schäl.",
+    "image": "https://picsum.photos/800/600?random=21",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.9382169,
+      "longitude": 6.9607635
+    },
+    "estimatedDuration": 75,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cologne_23",
+    "name": "Museum Ludwig",
+    "description": "cologne'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=22",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 50.9408347,
+      "longitude": 6.9600217
+    },
+    "estimatedDuration": 64,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 125,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "cologne_24",
+    "name": "Jupp-Schmitz-Denkmal",
+    "description": "cologne'de ziyaret edilebilecek popüler bir nokta: Jupp-Schmitz-Denkmal.",
+    "image": "https://picsum.photos/800/600?random=23",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.9381814,
+      "longitude": 6.9569679
+    },
+    "estimatedDuration": 38,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 166,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cologne_25",
+    "name": "Landesburg Lechenich",
+    "description": "cologne'in tarihine tanıklık eden bir kale.",
+    "image": "https://picsum.photos/800/600?random=24",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.8018708,
+      "longitude": 6.7685425
+    },
+    "estimatedDuration": 31,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cologne_26",
+    "name": "Der Tauzieher",
+    "description": "cologne'de ziyaret edilebilecek popüler bir nokta: Der Tauzieher.",
+    "image": "https://picsum.photos/800/600?random=25",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.9320901,
+      "longitude": 6.9632892
+    },
+    "estimatedDuration": 32,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 173,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cologne_27",
+    "name": "Otto Neumann",
+    "description": "cologne'de ziyaret edilebilecek popüler bir nokta: Otto Neumann.",
+    "image": "https://picsum.photos/800/600?random=26",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.8179822,
+      "longitude": 7.1584646
+    },
+    "estimatedDuration": 57,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cologne_28",
+    "name": "Betty Neumann",
+    "description": "cologne'de ziyaret edilebilecek popüler bir nokta: Betty Neumann.",
+    "image": "https://picsum.photos/800/600?random=27",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.8179583,
+      "longitude": 7.1584938
+    },
+    "estimatedDuration": 34,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cologne_29",
+    "name": "ruhender Verkehr",
+    "description": "cologne'de ziyaret edilebilecek popüler bir nokta: ruhender Verkehr.",
+    "image": "https://picsum.photos/800/600?random=28",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.9379647,
+      "longitude": 6.9392999
+    },
+    "estimatedDuration": 44,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cologne_30",
+    "name": "Jahndenkmal",
+    "description": "cologne'de ziyaret edilebilecek popüler bir nokta: Jahndenkmal.",
+    "image": "https://picsum.photos/800/600?random=29",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.929304,
+      "longitude": 6.8727564
+    },
+    "estimatedDuration": 71,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cologne_31",
+    "name": "Immakulata Kapelle",
+    "description": "cologne'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=30",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.7849661,
+      "longitude": 7.0821629
+    },
+    "estimatedDuration": 42,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 104,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cologne_32",
+    "name": "Dionysosmosaik",
+    "description": "cologne'de ziyaret edilebilecek popüler bir nokta: Dionysosmosaik.",
+    "image": "https://picsum.photos/800/600?random=31",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.9407435,
+      "longitude": 6.9586598
+    },
+    "estimatedDuration": 54,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cologne_33",
+    "name": "Burg Hemmersbach",
+    "description": "cologne'in tarihine tanıklık eden bir kale.",
+    "image": "https://picsum.photos/800/600?random=32",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.918822,
+      "longitude": 6.7043409
+    },
+    "estimatedDuration": 86,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 199,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cologne_34",
+    "name": "Zwergenhöhle",
+    "description": "cologne'de ziyaret edilebilecek popüler bir nokta: Zwergenhöhle.",
+    "image": "https://picsum.photos/800/600?random=33",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 51.0121552,
+      "longitude": 7.18614
+    },
+    "estimatedDuration": 48,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cologne_35",
+    "name": "Albertus Magnus",
+    "description": "cologne'de ziyaret edilebilecek popüler bir nokta: Albertus Magnus.",
+    "image": "https://picsum.photos/800/600?random=34",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.9282531,
+      "longitude": 6.9284818
+    },
+    "estimatedDuration": 80,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 109,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cologne_36",
+    "name": "Kronleuchtersaal",
+    "description": "cologne'de ziyaret edilebilecek popüler bir nokta: Kronleuchtersaal.",
+    "image": "https://picsum.photos/800/600?random=35",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.950666,
+      "longitude": 6.963442
+    },
+    "estimatedDuration": 44,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cologne_37",
+    "name": "Burgtor Hermülheim",
+    "description": "cologne'de ziyaret edilebilecek popüler bir nokta: Burgtor Hermülheim.",
+    "image": "https://picsum.photos/800/600?random=36",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.8827376,
+      "longitude": 6.8806672
+    },
+    "estimatedDuration": 38,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 68,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cologne_38",
+    "name": "Jawne",
+    "description": "cologne'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=37",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 50.9398808,
+      "longitude": 6.9446883
+    },
+    "estimatedDuration": 66,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 135,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "cologne_39",
+    "name": "Schwiegelshohn",
+    "description": "cologne'de ziyaret edilebilecek popüler bir nokta: Schwiegelshohn.",
+    "image": "https://picsum.photos/800/600?random=38",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.9364784,
+      "longitude": 7.1727832
+    },
+    "estimatedDuration": 53,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cologne_40",
+    "name": "Ehrenfelder Gruppe",
+    "description": "cologne'de ziyaret edilebilecek popüler bir nokta: Ehrenfelder Gruppe.",
+    "image": "https://picsum.photos/800/600?random=39",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.9515495,
+      "longitude": 6.9153101
+    },
+    "estimatedDuration": 38,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cologne_41",
+    "name": "Bayer-Kreuz",
+    "description": "cologne'de ziyaret edilebilecek popüler bir nokta: Bayer-Kreuz.",
+    "image": "https://picsum.photos/800/600?random=40",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 51.0222804,
+      "longitude": 6.9885981
+    },
+    "estimatedDuration": 61,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cologne_42",
+    "name": "Alte Dorfkirche",
+    "description": "cologne'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=41",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.9308633,
+      "longitude": 6.8561152
+    },
+    "estimatedDuration": 49,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cologne_43",
+    "name": "Deutsches Tanzarchiv",
+    "description": "cologne'de bulunan önemli bir müze.",
+    "image": "https://images.pexels.com/photos/39502/railway-station-cologne-train-railway-39502.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 50.9486933,
+      "longitude": 6.9433901
+    },
+    "estimatedDuration": 34,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "cologne_44",
+    "name": "Belvedere Felderblick",
+    "description": "cologne'de ziyaret edilebilecek popüler bir nokta: Belvedere Felderblick.",
+    "image": "https://picsum.photos/800/600?random=43",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.9644797,
+      "longitude": 6.8613459
+    },
+    "estimatedDuration": 58,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 39,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cologne_45",
+    "name": "Belvedere Ausblick",
+    "description": "cologne'de ziyaret edilebilecek popüler bir nokta: Belvedere Ausblick.",
+    "image": "https://picsum.photos/800/600?random=44",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.9567175,
+      "longitude": 6.8662905
+    },
+    "estimatedDuration": 86,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cologne_46",
+    "name": "Römergrab",
+    "description": "cologne'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=45",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 50.938669,
+      "longitude": 6.8244499
+    },
+    "estimatedDuration": 87,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "cologne_47",
+    "name": "Bauernstein",
+    "description": "cologne'de ziyaret edilebilecek popüler bir nokta: Bauernstein.",
+    "image": "https://picsum.photos/800/600?random=46",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.7728087,
+      "longitude": 6.9223767
+    },
+    "estimatedDuration": 69,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cologne_48",
+    "name": "Polizeiwache Hengasch",
+    "description": "cologne'de ziyaret edilebilecek popüler bir nokta: Polizeiwache Hengasch.",
+    "image": "https://picsum.photos/800/600?random=47",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.7614543,
+      "longitude": 6.9287842
+    },
+    "estimatedDuration": 71,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cologne_49",
+    "name": "Nanny Wolff",
+    "description": "cologne'de ziyaret edilebilecek popüler bir nokta: Nanny Wolff.",
+    "image": "https://picsum.photos/800/600?random=48",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.8272099,
+      "longitude": 6.9817224
+    },
+    "estimatedDuration": 65,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cologne_50",
+    "name": "Jakob Wolff",
+    "description": "cologne'de ziyaret edilebilecek popüler bir nokta: Jakob Wolff.",
+    "image": "https://picsum.photos/800/600?random=49",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.8272123,
+      "longitude": 6.9817193
+    },
+    "estimatedDuration": 33,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 58,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cologne_51",
+    "name": "Johanna Mayer",
+    "description": "cologne'de ziyaret edilebilecek popüler bir nokta: Johanna Mayer.",
+    "image": "https://picsum.photos/800/600?random=50",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.8272171,
+      "longitude": 6.981713
+    },
+    "estimatedDuration": 76,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 173,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cologne_52",
+    "name": "Julie Mayer",
+    "description": "cologne'de ziyaret edilebilecek popüler bir nokta: Julie Mayer.",
+    "image": "https://picsum.photos/800/600?random=51",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.8272147,
+      "longitude": 6.9817161
+    },
+    "estimatedDuration": 64,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cologne_53",
+    "name": "Karl Koppel",
+    "description": "cologne'de ziyaret edilebilecek popüler bir nokta: Karl Koppel.",
+    "image": "https://picsum.photos/800/600?random=52",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.8289262,
+      "longitude": 6.9803866
+    },
+    "estimatedDuration": 56,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cologne_54",
+    "name": "Johanna Koppel",
+    "description": "cologne'de ziyaret edilebilecek popüler bir nokta: Johanna Koppel.",
+    "image": "https://picsum.photos/800/600?random=53",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.828928,
+      "longitude": 6.9803857
+    },
+    "estimatedDuration": 69,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 121,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cologne_55",
+    "name": "Helene Koppel",
+    "description": "cologne'de ziyaret edilebilecek popüler bir nokta: Helene Koppel.",
+    "image": "https://picsum.photos/800/600?random=54",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.8289276,
+      "longitude": 6.9803831
+    },
+    "estimatedDuration": 35,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cologne_56",
+    "name": "Lina Koppel",
+    "description": "cologne'de ziyaret edilebilecek popüler bir nokta: Lina Koppel.",
+    "image": "https://picsum.photos/800/600?random=55",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.828926,
+      "longitude": 6.9803838
+    },
+    "estimatedDuration": 66,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cologne_57",
+    "name": "Edith Stein",
+    "description": "cologne'de ziyaret edilebilecek popüler bir nokta: Edith Stein.",
+    "image": "https://picsum.photos/800/600?random=56",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.9241219,
+      "longitude": 6.8977298
+    },
+    "estimatedDuration": 79,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cologne_58",
+    "name": "Der Schwebende",
+    "description": "cologne'de ziyaret edilebilecek popüler bir nokta: Der Schwebende.",
+    "image": "https://picsum.photos/800/600?random=57",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.9363315,
+      "longitude": 6.9532141
+    },
+    "estimatedDuration": 37,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 21,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cologne_59",
+    "name": "Käthe Kollwitz Museum",
+    "description": "cologne'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=58",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 50.9366697,
+      "longitude": 6.946165
+    },
+    "estimatedDuration": 86,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  }
+]

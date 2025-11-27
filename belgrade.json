@@ -1,0 +1,542 @@
+[
+  {
+    "id": "belgrade_1",
+    "name": "اغتيال رفيق الحريري",
+    "description": "belgrade'de ziyaret edilebilecek popüler bir nokta: اغتيال رفيق الحريري.",
+    "image": "https://picsum.photos/800/600?random=0",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 33.9015029,
+      "longitude": 35.4945897
+    },
+    "estimatedDuration": 89,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "belgrade_2",
+    "name": "متحف الحرير",
+    "description": "belgrade'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=1",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 33.8178984,
+      "longitude": 35.5722818
+    },
+    "estimatedDuration": 35,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "belgrade_3",
+    "name": "مقبرة شهداء صبرا وشاتيلا الفلسطينيين",
+    "description": "belgrade'de ziyaret edilebilecek popüler bir nokta: مقبرة شهداء صبرا وشاتيلا الفلسطينيين.",
+    "image": "https://picsum.photos/800/600?random=2",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 33.8604078,
+      "longitude": 35.4981527
+    },
+    "estimatedDuration": 50,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "belgrade_4",
+    "name": "مغارة جعيتا",
+    "description": "belgrade'de ziyaret edilebilecek popüler bir nokta: مغارة جعيتا.",
+    "image": "https://picsum.photos/800/600?random=3",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 33.9439055,
+      "longitude": 35.6441077
+    },
+    "estimatedDuration": 71,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "belgrade_5",
+    "name": "مضمار سباق الخيل الروماني",
+    "description": "belgrade'de ziyaret edilebilecek popüler bir nokta: مضمار سباق الخيل الروماني.",
+    "image": "https://picsum.photos/800/600?random=4",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 33.8972054,
+      "longitude": 35.4999211
+    },
+    "estimatedDuration": 68,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "belgrade_6",
+    "name": "Museum of Lebanese Prehistory",
+    "description": "belgrade'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=5",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 33.8915926,
+      "longitude": 35.5081645
+    },
+    "estimatedDuration": 62,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 193,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "belgrade_7",
+    "name": "Musée Archéologique de l'Université Américaine de Beyrouth",
+    "description": "belgrade'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=6",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 33.8994876,
+      "longitude": 35.4836324
+    },
+    "estimatedDuration": 75,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "belgrade_8",
+    "name": "Souks de Beyrouth",
+    "description": "belgrade'de ziyaret edilebilecek popüler bir nokta: Souks de Beyrouth.",
+    "image": "https://picsum.photos/800/600?random=7",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 33.8986012,
+      "longitude": 35.5042859
+    },
+    "estimatedDuration": 67,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "belgrade_9",
+    "name": "اغتيال حسن نصر الله",
+    "description": "belgrade'de ziyaret edilebilecek popüler bir nokta: اغتيال حسن نصر الله.",
+    "image": "https://picsum.photos/800/600?random=8",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 33.851403,
+      "longitude": 35.5040455
+    },
+    "estimatedDuration": 39,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "belgrade_10",
+    "name": "موقع مجزرة تل الزعتر",
+    "description": "belgrade'de ziyaret edilebilecek popüler bir nokta: موقع مجزرة تل الزعتر.",
+    "image": "https://picsum.photos/800/600?random=9",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 33.8766557,
+      "longitude": 35.5441097
+    },
+    "estimatedDuration": 37,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "belgrade_11",
+    "name": "كاتدرائية القديس جاورجيوس للروم الأرثوذكس",
+    "description": "belgrade'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=10",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 33.896371,
+      "longitude": 35.5051681
+    },
+    "estimatedDuration": 60,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 131,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "belgrade_12",
+    "name": "كاتدرائية مار جرجس المارونية",
+    "description": "belgrade'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=11",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 33.8951925,
+      "longitude": 35.505223
+    },
+    "estimatedDuration": 73,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "belgrade_13",
+    "name": "المتحف الوطني",
+    "description": "belgrade'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=12",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 33.8782378,
+      "longitude": 35.5149007
+    },
+    "estimatedDuration": 52,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 75,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "belgrade_14",
+    "name": "Agora Hellénistique et Romaine",
+    "description": "belgrade'de ziyaret edilebilecek popüler bir nokta: Agora Hellénistique et Romaine.",
+    "image": "https://picsum.photos/800/600?random=13",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 33.8970605,
+      "longitude": 35.5073524
+    },
+    "estimatedDuration": 48,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 149,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "belgrade_15",
+    "name": "جامع محمد الأمين",
+    "description": "belgrade'in tarihi ibadet yapılarından biri.",
+    "image": "https://images.pexels.com/photos/34901351/pexels-photo-34901351.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 33.8952709,
+      "longitude": 35.5060285
+    },
+    "estimatedDuration": 34,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 95,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "belgrade_16",
+    "name": "ضريح رفيق الحريري",
+    "description": "belgrade'de ziyaret edilebilecek popüler bir nokta: ضريح رفيق الحريري.",
+    "image": "https://picsum.photos/800/600?random=15",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 33.895779,
+      "longitude": 35.5062064
+    },
+    "estimatedDuration": 54,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "belgrade_17",
+    "name": "البيضة",
+    "description": "belgrade'de ziyaret edilebilecek popüler bir nokta: البيضة.",
+    "image": "https://picsum.photos/800/600?random=16",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 33.8935089,
+      "longitude": 35.5060416
+    },
+    "estimatedDuration": 53,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "belgrade_18",
+    "name": "كنيسة مار إيليا",
+    "description": "belgrade'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=17",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 33.8966728,
+      "longitude": 35.5054146
+    },
+    "estimatedDuration": 60,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "belgrade_19",
+    "name": "جامع العمري",
+    "description": "belgrade'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=18",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 33.8977654,
+      "longitude": 35.5051152
+    },
+    "estimatedDuration": 39,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 149,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "belgrade_20",
+    "name": "Musée Sursock",
+    "description": "belgrade'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=19",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 33.8929974,
+      "longitude": 35.5163564
+    },
+    "estimatedDuration": 34,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "belgrade_21",
+    "name": "الكنيسة الأنجيلية",
+    "description": "belgrade'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=20",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 33.8947526,
+      "longitude": 35.5014218
+    },
+    "estimatedDuration": 56,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "belgrade_22",
+    "name": "مار لويس",
+    "description": "belgrade'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=21",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 33.8979562,
+      "longitude": 35.5025646
+    },
+    "estimatedDuration": 71,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "belgrade_23",
+    "name": "كاتدرائية القديسين غريغوريوس المنور والياس النبي للأرمن الكاثوليك",
+    "description": "belgrade'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=22",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 33.8928948,
+      "longitude": 35.5075766
+    },
+    "estimatedDuration": 56,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "belgrade_24",
+    "name": "سيدة النورية",
+    "description": "belgrade'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=23",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 33.8963183,
+      "longitude": 35.5057475
+    },
+    "estimatedDuration": 87,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 106,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "belgrade_25",
+    "name": "Forteresse Croisée",
+    "description": "belgrade'de ziyaret edilebilecek popüler bir nokta: Forteresse Croisée.",
+    "image": "https://picsum.photos/800/600?random=24",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 33.8985461,
+      "longitude": 35.507733
+    },
+    "estimatedDuration": 72,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "belgrade_26",
+    "name": "الأمل من أجل السلام",
+    "description": "belgrade'de ziyaret edilebilecek popüler bir nokta: الأمل من أجل السلام.",
+    "image": "https://picsum.photos/800/600?random=25",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 33.8397112,
+      "longitude": 35.557756
+    },
+    "estimatedDuration": 30,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "belgrade_27",
+    "name": "كنيس ماغين أبراهام‎‎",
+    "description": "belgrade'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=26",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 33.8974721,
+      "longitude": 35.5001649
+    },
+    "estimatedDuration": 71,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "belgrade_28",
+    "name": "بيت بيروت",
+    "description": "belgrade'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=27",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 33.8869945,
+      "longitude": 35.5083604
+    },
+    "estimatedDuration": 59,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "belgrade_29",
+    "name": "المنارة القديمة",
+    "description": "belgrade'de ziyaret edilebilecek popüler bir nokta: المنارة القديمة.",
+    "image": "https://picsum.photos/800/600?random=28",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 33.8975226,
+      "longitude": 35.4724547
+    },
+    "estimatedDuration": 62,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "belgrade_30",
+    "name": "تلة السراي",
+    "description": "belgrade'de ziyaret edilebilecek popüler bir nokta: تلة السراي.",
+    "image": "https://picsum.photos/800/600?random=29",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 33.8960289,
+      "longitude": 35.50091
+    },
+    "estimatedDuration": 34,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  }
+]

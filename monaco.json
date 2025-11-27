@@ -1,0 +1,1046 @@
+[
+  {
+    "id": "monaco_1",
+    "name": "Monument aux morts de Rauba-Capèu",
+    "description": "monaco'de ziyaret edilebilecek popüler bir nokta: Monument aux morts de Rauba-Capèu.",
+    "image": "https://picsum.photos/800/600?random=0",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.6937162,
+      "longitude": 7.281109
+    },
+    "estimatedDuration": 55,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "monaco_2",
+    "name": "Cascade de Gairaut",
+    "description": "monaco'de ziyaret edilebilecek popüler bir nokta: Cascade de Gairaut.",
+    "image": "https://picsum.photos/800/600?random=1",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.7378451,
+      "longitude": 7.2596808
+    },
+    "estimatedDuration": 39,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "monaco_3",
+    "name": "Palais Lascaris",
+    "description": "monaco'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=2",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 43.6976417,
+      "longitude": 7.2772555
+    },
+    "estimatedDuration": 58,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "monaco_4",
+    "name": "Museum d'Histoire Naturelle",
+    "description": "monaco'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=3",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 43.7017759,
+      "longitude": 7.2795802
+    },
+    "estimatedDuration": 66,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 2,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "monaco_5",
+    "name": "Monument à Garibaldi",
+    "description": "monaco'de ziyaret edilebilecek popüler bir nokta: Monument à Garibaldi.",
+    "image": "https://picsum.photos/800/600?random=4",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.7007707,
+      "longitude": 7.2800791
+    },
+    "estimatedDuration": 84,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "monaco_6",
+    "name": "Le Jardin Animalier",
+    "description": "monaco'de ziyaret edilebilecek popüler bir nokta: Le Jardin Animalier.",
+    "image": "https://picsum.photos/800/600?random=5",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.7311404,
+      "longitude": 7.4178887
+    },
+    "estimatedDuration": 80,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "monaco_7",
+    "name": "Antiquarium di Albintimilium",
+    "description": "monaco'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=6",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 43.7889211,
+      "longitude": 7.6252604
+    },
+    "estimatedDuration": 57,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "monaco_8",
+    "name": "Musée Jean Cocteau - Collection Severin Wunderman",
+    "description": "monaco'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=7",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 43.7747355,
+      "longitude": 7.5057931
+    },
+    "estimatedDuration": 58,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "monaco_9",
+    "name": "Grotte préhistorique du Lazaret",
+    "description": "monaco'de ziyaret edilebilecek popüler bir nokta: Grotte préhistorique du Lazaret.",
+    "image": "https://picsum.photos/800/600?random=8",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.690727,
+      "longitude": 7.2948061
+    },
+    "estimatedDuration": 69,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "monaco_10",
+    "name": "Crypte Archéologique de Nice",
+    "description": "monaco'de ziyaret edilebilecek popüler bir nokta: Crypte Archéologique de Nice.",
+    "image": "https://picsum.photos/800/600?random=9",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.7005471,
+      "longitude": 7.2786767
+    },
+    "estimatedDuration": 36,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "monaco_11",
+    "name": "Olivier Millénaire de Roquebrune-Cap-Martin",
+    "description": "monaco'de ziyaret edilebilecek popüler bir nokta: Olivier Millénaire de Roquebrune-Cap-Martin.",
+    "image": "https://picsum.photos/800/600?random=10",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.7643265,
+      "longitude": 7.4633042
+    },
+    "estimatedDuration": 82,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "monaco_12",
+    "name": "Pyramide de Falicon",
+    "description": "monaco'de ziyaret edilebilecek popüler bir nokta: Pyramide de Falicon.",
+    "image": "https://picsum.photos/800/600?random=11",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.7499202,
+      "longitude": 7.2603751
+    },
+    "estimatedDuration": 72,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 144,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "monaco_13",
+    "name": "Opéra de Monaco",
+    "description": "monaco'de ziyaret edilebilecek popüler bir nokta: Opéra de Monaco.",
+    "image": "https://picsum.photos/800/600?random=12",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.7388269,
+      "longitude": 7.428264
+    },
+    "estimatedDuration": 75,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "monaco_14",
+    "name": "Casino de Monte Carlo",
+    "description": "monaco'de ziyaret edilebilecek popüler bir nokta: Casino de Monte Carlo.",
+    "image": "https://picsum.photos/800/600?random=13",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.7391605,
+      "longitude": 7.428023
+    },
+    "estimatedDuration": 62,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "monaco_15",
+    "name": "Musée National du Sport",
+    "description": "monaco'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=14",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 43.7062629,
+      "longitude": 7.1923789
+    },
+    "estimatedDuration": 44,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 30,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "monaco_16",
+    "name": "Musée Franciscain",
+    "description": "monaco'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=15",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 43.7201242,
+      "longitude": 7.2789108
+    },
+    "estimatedDuration": 83,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "monaco_17",
+    "name": "Colonne du pape Pie VII",
+    "description": "monaco'de ziyaret edilebilecek popüler bir nokta: Colonne du pape Pie VII.",
+    "image": "https://picsum.photos/800/600?random=16",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.6962974,
+      "longitude": 7.2626539
+    },
+    "estimatedDuration": 50,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "monaco_18",
+    "name": "La Collection de voitures anciennes de SAS le Prince de Monaco",
+    "description": "monaco'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=17",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 43.7308941,
+      "longitude": 7.4171487
+    },
+    "estimatedDuration": 49,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "monaco_19",
+    "name": "Thermes romains de Cimiez",
+    "description": "monaco'de ziyaret edilebilecek popüler bir nokta: Thermes romains de Cimiez.",
+    "image": "https://picsum.photos/800/600?random=18",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.7192045,
+      "longitude": 7.2766051
+    },
+    "estimatedDuration": 44,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 172,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "monaco_20",
+    "name": "Château de Sospel",
+    "description": "monaco'in tarihine tanıklık eden bir kale.",
+    "image": "https://picsum.photos/800/600?random=19",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.8763443,
+      "longitude": 7.4474618
+    },
+    "estimatedDuration": 63,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 161,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "monaco_21",
+    "name": "Domaine des Colombières",
+    "description": "monaco'in tarihine tanıklık eden bir kale.",
+    "image": "https://picsum.photos/800/600?random=20",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.7876342,
+      "longitude": 7.5169095
+    },
+    "estimatedDuration": 40,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "monaco_22",
+    "name": "Musée des Timbres et des Monnaies",
+    "description": "monaco'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=21",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 43.7308722,
+      "longitude": 7.4175837
+    },
+    "estimatedDuration": 83,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "monaco_23",
+    "name": "Musée Terra Amata",
+    "description": "monaco'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=22",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 43.6977993,
+      "longitude": 7.2892892
+    },
+    "estimatedDuration": 75,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "monaco_24",
+    "name": "Chapelle de la Dormition-de-la-Vierge",
+    "description": "monaco'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=23",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.6993542,
+      "longitude": 7.2844534
+    },
+    "estimatedDuration": 38,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "monaco_25",
+    "name": "Musée Masséna",
+    "description": "monaco'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=24",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 43.6950496,
+      "longitude": 7.2590494
+    },
+    "estimatedDuration": 60,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "monaco_26",
+    "name": "Musée Océanographique",
+    "description": "monaco'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=25",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 43.7306626,
+      "longitude": 7.4255337
+    },
+    "estimatedDuration": 84,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "monaco_27",
+    "name": "Basilique Notre-Dame",
+    "description": "monaco'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=26",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.7032519,
+      "longitude": 7.2657221
+    },
+    "estimatedDuration": 73,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "monaco_28",
+    "name": "Parc Phoenix",
+    "description": "monaco şehrinde doğa ile iç içe bir park.",
+    "image": "https://picsum.photos/800/600?random=27",
+    "category": "Park",
+    "coordinates": {
+      "latitude": 43.6683189,
+      "longitude": 7.2176609
+    },
+    "estimatedDuration": 66,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Park"
+    ]
+  },
+  {
+    "id": "monaco_29",
+    "name": "Chapelle de la Miséricorde",
+    "description": "monaco'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=28",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.7312043,
+      "longitude": 7.4234122
+    },
+    "estimatedDuration": 87,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "monaco_30",
+    "name": "Église Notre-Dame de l'Assomption",
+    "description": "monaco'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=29",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.7284714,
+      "longitude": 7.361782
+    },
+    "estimatedDuration": 47,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "monaco_31",
+    "name": "Villa Ephrussi de Rothschild",
+    "description": "monaco'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=30",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 43.6965881,
+      "longitude": 7.3284042
+    },
+    "estimatedDuration": 47,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "monaco_32",
+    "name": "Chapelle Saint-Pierre",
+    "description": "monaco'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=31",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.7030482,
+      "longitude": 7.3119161
+    },
+    "estimatedDuration": 41,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "monaco_33",
+    "name": "Église Saint-Michel",
+    "description": "monaco'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=32",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.7039673,
+      "longitude": 7.3110639
+    },
+    "estimatedDuration": 67,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "monaco_34",
+    "name": "Musée des Arts Asiatiques",
+    "description": "monaco'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=33",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 43.6679866,
+      "longitude": 7.2160298
+    },
+    "estimatedDuration": 50,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "monaco_35",
+    "name": "Chapelle Sainte-Dévote",
+    "description": "monaco'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=34",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.7375173,
+      "longitude": 7.4209243
+    },
+    "estimatedDuration": 89,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "monaco_36",
+    "name": "Église Saint-Charles",
+    "description": "monaco'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=35",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.7426232,
+      "longitude": 7.4272968
+    },
+    "estimatedDuration": 52,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "monaco_38",
+    "name": "Église Notre-Dame du Port",
+    "description": "monaco'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=37",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.6989146,
+      "longitude": 7.285188
+    },
+    "estimatedDuration": 34,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "monaco_39",
+    "name": "Espace Lympia",
+    "description": "monaco'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=38",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 43.6948909,
+      "longitude": 7.2862476
+    },
+    "estimatedDuration": 82,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "monaco_40",
+    "name": "Chapelle de la Très-Sainte-Trinité et du Saint-Suaire",
+    "description": "monaco'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=39",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.695492,
+      "longitude": 7.2773845
+    },
+    "estimatedDuration": 84,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 73,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "monaco_42",
+    "name": "Église du Gèsu, Saint-Jacques-le-Majeur",
+    "description": "monaco'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=41",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.6967495,
+      "longitude": 7.277366
+    },
+    "estimatedDuration": 62,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "monaco_43",
+    "name": "Chapelle Sainte-Croix",
+    "description": "monaco'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=42",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.6977555,
+      "longitude": 7.277896
+    },
+    "estimatedDuration": 85,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 66,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "monaco_44",
+    "name": "Chapelle de la Visitation",
+    "description": "monaco'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=43",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.6980947,
+      "longitude": 7.2791403
+    },
+    "estimatedDuration": 82,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "monaco_45",
+    "name": "Église Saint-Martin Saint-Augustin",
+    "description": "monaco'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=44",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.6996185,
+      "longitude": 7.27958
+    },
+    "estimatedDuration": 48,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "monaco_46",
+    "name": "Chapelle du Saint-Sépulcre",
+    "description": "monaco'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=45",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.7004567,
+      "longitude": 7.2798975
+    },
+    "estimatedDuration": 58,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "monaco_47",
+    "name": "Cathédrale Sainte-Réparate",
+    "description": "monaco'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=46",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.6971381,
+      "longitude": 7.2757416
+    },
+    "estimatedDuration": 42,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 173,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "monaco_48",
+    "name": "Palais de la Préfecture, ancien palais des rois de Sardaigne",
+    "description": "monaco'in tarihine tanıklık eden bir kale.",
+    "image": "https://picsum.photos/800/600?random=47",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.6963365,
+      "longitude": 7.275156
+    },
+    "estimatedDuration": 80,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "monaco_49",
+    "name": "Église Saint-François de Paule",
+    "description": "monaco'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=48",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.696036,
+      "longitude": 7.27222
+    },
+    "estimatedDuration": 48,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "monaco_50",
+    "name": "Église russe",
+    "description": "monaco'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=49",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.7667715,
+      "longitude": 7.4849355
+    },
+    "estimatedDuration": 81,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "monaco_51",
+    "name": "Chapelle de l'Immaculée Conception",
+    "description": "monaco'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=50",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.777134,
+      "longitude": 7.5064395
+    },
+    "estimatedDuration": 81,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 138,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "monaco_52",
+    "name": "Palais Carnolès",
+    "description": "monaco'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=51",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 43.766639,
+      "longitude": 7.4879965
+    },
+    "estimatedDuration": 74,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "monaco_53",
+    "name": "Maison de la rue Loredan-Larchey",
+    "description": "monaco'de ziyaret edilebilecek popüler bir nokta: Maison de la rue Loredan-Larchey.",
+    "image": "https://picsum.photos/800/600?random=52",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.77672,
+      "longitude": 7.5032805
+    },
+    "estimatedDuration": 62,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "monaco_54",
+    "name": "Chapelle Saint-Jacques",
+    "description": "monaco'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=53",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.782804,
+      "longitude": 7.5122595
+    },
+    "estimatedDuration": 41,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 134,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "monaco_55",
+    "name": "Église Saint-Sauveur",
+    "description": "monaco'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=54",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.7373283,
+      "longitude": 7.2588945
+    },
+    "estimatedDuration": 83,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "monaco_56",
+    "name": "Villa E-1027",
+    "description": "monaco'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=55",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 43.7599015,
+      "longitude": 7.4631865
+    },
+    "estimatedDuration": 53,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 190,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "monaco_57",
+    "name": "Château des Grimaldi",
+    "description": "monaco'in tarihine tanıklık eden bir kale.",
+    "image": "https://picsum.photos/800/600?random=56",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.765265,
+      "longitude": 7.45959
+    },
+    "estimatedDuration": 46,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "monaco_58",
+    "name": "Église Saint-Roman de Bellet",
+    "description": "monaco'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=57",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.744577,
+      "longitude": 7.2145025
+    },
+    "estimatedDuration": 37,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 170,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "monaco_59",
+    "name": "Église arménienne Sainte-Marie",
+    "description": "monaco'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=58",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.714739,
+      "longitude": 7.2244685
+    },
+    "estimatedDuration": 39,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 163,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "monaco_60",
+    "name": "Église Saint-Philippe",
+    "description": "monaco'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=59",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.700255,
+      "longitude": 7.2486225
+    },
+    "estimatedDuration": 32,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  }
+]

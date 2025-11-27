@@ -1,0 +1,110 @@
+[
+  {
+    "id": "abu_dhabi_1",
+    "name": "جامع الشيخ زايد",
+    "description": "abu_dhabi'in tarihi ibadet yapılarından biri.",
+    "image": "https://images.pexels.com/photos/32183964/pexels-photo-32183964.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 24.4812272,
+      "longitude": 54.3587189
+    },
+    "estimatedDuration": 80,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "abu_dhabi_2",
+    "name": "مسجد مريم أم عيسى",
+    "description": "abu_dhabi'in tarihi ibadet yapılarından biri.",
+    "image": "https://images.pexels.com/photos/32922506/pexels-photo-32922506.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 24.4497122,
+      "longitude": 54.3858236
+    },
+    "estimatedDuration": 43,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "abu_dhabi_3",
+    "name": "مَتْحَف زَايِد ٱلْوَطَنِي",
+    "description": "abu_dhabi'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=2",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 24.5335046,
+      "longitude": 54.4066664
+    },
+    "estimatedDuration": 30,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "abu_dhabi_4",
+    "name": "Louvre Museum Abu Dhabi",
+    "description": "abu_dhabi'de bulunan önemli bir müze.",
+    "image": "https://images.pexels.com/photos/15127415/pexels-photo-15127415.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 24.5336716,
+      "longitude": 54.3986948
+    },
+    "estimatedDuration": 33,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 36,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "abu_dhabi_5",
+    "name": "جامع الشيخ زايد الكبير",
+    "description": "abu_dhabi'in tarihi ibadet yapılarından biri.",
+    "image": "https://images.pexels.com/photos/32183964/pexels-photo-32183964.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 24.4124407,
+      "longitude": 54.474993
+    },
+    "estimatedDuration": 71,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "abu_dhabi_6",
+    "name": "قصر الوطن",
+    "description": "abu_dhabi'in tarihine tanıklık eden bir kale.",
+    "image": "https://picsum.photos/800/600?random=5",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 24.4632867,
+      "longitude": 54.3054425
+    },
+    "estimatedDuration": 48,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  }
+]

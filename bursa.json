@@ -1,0 +1,380 @@
+[
+  {
+    "id": "bursa_1",
+    "name": "Bursa Kent Müzesi",
+    "description": "bursa'de bulunan önemli bir müze.",
+    "image": "https://images.pexels.com/photos/10453921/pexels-photo-10453921.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 40.1823869,
+      "longitude": 29.0664373
+    },
+    "estimatedDuration": 43,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "bursa_2",
+    "name": "Atatürk Müzesi",
+    "description": "bursa'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=1",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 40.1951274,
+      "longitude": 29.0398725
+    },
+    "estimatedDuration": 75,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 51,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "bursa_3",
+    "name": "Bursa Arkeoloji Müzesi",
+    "description": "bursa'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=2",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 40.1958953,
+      "longitude": 29.0411975
+    },
+    "estimatedDuration": 39,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "bursa_4",
+    "name": "Ulu Cami",
+    "description": "bursa'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=3",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 40.1839229,
+      "longitude": 29.0618819
+    },
+    "estimatedDuration": 67,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "bursa_5",
+    "name": "Bursa Hayvanat Bahçesi",
+    "description": "bursa'de ziyaret edilebilecek popüler bir nokta: Bursa Hayvanat Bahçesi.",
+    "image": "https://picsum.photos/800/600?random=4",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 40.2194312,
+      "longitude": 29.0464859
+    },
+    "estimatedDuration": 82,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "bursa_6",
+    "name": "Yıldırım Beyazıt Camii",
+    "description": "bursa'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=5",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 40.1874751,
+      "longitude": 29.0824305
+    },
+    "estimatedDuration": 58,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 34,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "bursa_7",
+    "name": "Emir Sultan Camii",
+    "description": "bursa'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=6",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 40.1811397,
+      "longitude": 29.0810309
+    },
+    "estimatedDuration": 75,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 13,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "bursa_8",
+    "name": "Somuncu Baba Camii",
+    "description": "bursa'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=7",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 40.1777544,
+      "longitude": 29.0588863
+    },
+    "estimatedDuration": 32,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "bursa_9",
+    "name": "Gazi Orhan Camii",
+    "description": "bursa'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=8",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 40.1839329,
+      "longitude": 29.0641126
+    },
+    "estimatedDuration": 86,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 103,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "bursa_10",
+    "name": "Şehadet Camii",
+    "description": "bursa'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=9",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 40.1863179,
+      "longitude": 29.0559822
+    },
+    "estimatedDuration": 35,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "bursa_11",
+    "name": "Şehreküstü Cami",
+    "description": "bursa'in tarihi ibadet yapılarından biri.",
+    "image": "https://images.pexels.com/photos/19731241/pexels-photo-19731241.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 40.1876433,
+      "longitude": 29.0607238
+    },
+    "estimatedDuration": 38,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 146,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "bursa_12",
+    "name": "Kanberler Cami",
+    "description": "bursa'in tarihi ibadet yapılarından biri.",
+    "image": "https://images.pexels.com/photos/23224109/pexels-photo-23224109.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 40.1858597,
+      "longitude": 29.0731989
+    },
+    "estimatedDuration": 65,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "bursa_13",
+    "name": "Hatice İsfendiyar Cami",
+    "description": "bursa'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=12",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 40.185675,
+      "longitude": 29.0750306
+    },
+    "estimatedDuration": 31,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "bursa_14",
+    "name": "Kara Timurpaşa Cami",
+    "description": "bursa'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=13",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 40.1881195,
+      "longitude": 29.0719002
+    },
+    "estimatedDuration": 43,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 119,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "bursa_15",
+    "name": "Muradiye Camii",
+    "description": "bursa'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=14",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 40.1910145,
+      "longitude": 29.0465006
+    },
+    "estimatedDuration": 70,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "bursa_16",
+    "name": "Şekerhoca Camii",
+    "description": "bursa'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=15",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 40.1829263,
+      "longitude": 29.061929
+    },
+    "estimatedDuration": 79,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "bursa_17",
+    "name": "Veledi Yaniç Cami",
+    "description": "bursa'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=16",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 40.1850313,
+      "longitude": 29.0564493
+    },
+    "estimatedDuration": 38,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "bursa_18",
+    "name": "Namazgah Camii",
+    "description": "bursa'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=17",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 40.1777885,
+      "longitude": 29.0756484
+    },
+    "estimatedDuration": 48,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "bursa_19",
+    "name": "Ertuğrul Bey Camii",
+    "description": "bursa'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=18",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 40.1856873,
+      "longitude": 29.0628935
+    },
+    "estimatedDuration": 68,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "bursa_20",
+    "name": "Panorama 1326",
+    "description": "bursa'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=19",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 40.1863836,
+      "longitude": 29.0750911
+    },
+    "estimatedDuration": 52,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 125,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "bursa_21",
+    "name": "Koza Han",
+    "description": "bursa'de ziyaret edilebilecek popüler bir nokta: Koza Han.",
+    "image": "https://picsum.photos/800/600?random=20",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 40.1843794,
+      "longitude": 29.0635378
+    },
+    "estimatedDuration": 51,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  }
+]

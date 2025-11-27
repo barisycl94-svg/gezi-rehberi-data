@@ -1,0 +1,1082 @@
+[
+  {
+    "id": "izmir_1",
+    "name": "Paraşüt Kulesi",
+    "description": "izmir'de ziyaret edilebilecek popüler bir nokta: Paraşüt Kulesi.",
+    "image": "https://picsum.photos/800/600?random=0",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 38.4274638,
+      "longitude": 27.1441729
+    },
+    "estimatedDuration": 87,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 108,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "izmir_2",
+    "name": "Dünya Barış Anıtı",
+    "description": "izmir'de ziyaret edilebilecek popüler bir nokta: Dünya Barış Anıtı.",
+    "image": "https://picsum.photos/800/600?random=1",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 38.4941591,
+      "longitude": 27.1463684
+    },
+    "estimatedDuration": 65,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "izmir_3",
+    "name": "Kadifekale",
+    "description": "izmir'in tarihine tanıklık eden bir kale.",
+    "image": "https://picsum.photos/800/600?random=2",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 38.4137835,
+      "longitude": 27.1449561
+    },
+    "estimatedDuration": 66,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 181,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "izmir_4",
+    "name": "Cumhuriyet Ağacı",
+    "description": "izmir'de ziyaret edilebilecek popüler bir nokta: Cumhuriyet Ağacı.",
+    "image": "https://picsum.photos/800/600?random=3",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 38.435794,
+      "longitude": 27.139374
+    },
+    "estimatedDuration": 82,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "izmir_5",
+    "name": "Atatürk Müzesi",
+    "description": "izmir'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=4",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 38.435693,
+      "longitude": 27.1405674
+    },
+    "estimatedDuration": 85,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "izmir_6",
+    "name": "İnciraltı Kent Ormanı",
+    "description": "izmir'de ziyaret edilebilecek popüler bir nokta: İnciraltı Kent Ormanı.",
+    "image": "https://picsum.photos/800/600?random=5",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 38.409438,
+      "longitude": 27.0614277
+    },
+    "estimatedDuration": 85,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 131,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "izmir_7",
+    "name": "Arkas Art Center",
+    "description": "izmir'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=6",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 38.4319227,
+      "longitude": 27.1369584
+    },
+    "estimatedDuration": 81,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "izmir_8",
+    "name": "İzmir Etnografya Müzesi",
+    "description": "izmir'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=7",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 38.4137488,
+      "longitude": 27.1284837
+    },
+    "estimatedDuration": 31,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "izmir_9",
+    "name": "Izmir Archaeology Museum",
+    "description": "izmir'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=8",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 38.4139347,
+      "longitude": 27.1280671
+    },
+    "estimatedDuration": 40,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "izmir_10",
+    "name": "Konak Meydanı",
+    "description": "izmir'de ziyaret edilebilecek popüler bir nokta: Konak Meydanı.",
+    "image": "https://picsum.photos/800/600?random=9",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 38.4183457,
+      "longitude": 27.1287996
+    },
+    "estimatedDuration": 45,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "izmir_11",
+    "name": "İzmir Müze Gemiler Müdürlüğü",
+    "description": "izmir'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=10",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 38.4121444,
+      "longitude": 27.0339596
+    },
+    "estimatedDuration": 70,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 39,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "izmir_12",
+    "name": "Atatürk Anıtı",
+    "description": "izmir'de ziyaret edilebilecek popüler bir nokta: Atatürk Anıtı.",
+    "image": "https://picsum.photos/800/600?random=11",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 38.4289015,
+      "longitude": 27.1344864
+    },
+    "estimatedDuration": 53,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "izmir_13",
+    "name": "Atatürk Maskı",
+    "description": "izmir'de ziyaret edilebilecek popüler bir nokta: Atatürk Maskı.",
+    "image": "https://picsum.photos/800/600?random=12",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 38.4060352,
+      "longitude": 27.1455917
+    },
+    "estimatedDuration": 44,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "izmir_14",
+    "name": "Mask Müzesi",
+    "description": "izmir'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=13",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 38.4357339,
+      "longitude": 27.1421208
+    },
+    "estimatedDuration": 42,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "izmir_15",
+    "name": "Ege Üniversitesi Tabiat Tarihi Müzesi",
+    "description": "izmir'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=14",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 38.4621568,
+      "longitude": 27.2196992
+    },
+    "estimatedDuration": 76,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "izmir_16",
+    "name": "İlk Kurşun Anıtı",
+    "description": "izmir'de ziyaret edilebilecek popüler bir nokta: İlk Kurşun Anıtı.",
+    "image": "https://picsum.photos/800/600?random=15",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 38.4193964,
+      "longitude": 27.128432
+    },
+    "estimatedDuration": 53,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "izmir_17",
+    "name": "Sancakburnu Kalesi",
+    "description": "izmir'in tarihine tanıklık eden bir kale.",
+    "image": "https://picsum.photos/800/600?random=16",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 38.4171639,
+      "longitude": 27.0178887
+    },
+    "estimatedDuration": 67,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "izmir_18",
+    "name": "Şehit Kubilay Anıtı",
+    "description": "izmir'de ziyaret edilebilecek popüler bir nokta: Şehit Kubilay Anıtı.",
+    "image": "https://picsum.photos/800/600?random=17",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 38.6008263,
+      "longitude": 27.0702648
+    },
+    "estimatedDuration": 30,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "izmir_19",
+    "name": "Ege Üniversitesi Etnografya Müzesi",
+    "description": "izmir'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=18",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 38.4607552,
+      "longitude": 27.2170412
+    },
+    "estimatedDuration": 49,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 16,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "izmir_20",
+    "name": "Zübeyde Hanım Eğitim ve Müze Gemisi",
+    "description": "izmir'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=19",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 38.4255223,
+      "longitude": 27.1315859
+    },
+    "estimatedDuration": 85,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "izmir_21",
+    "name": "İzmir Tarih ve Sanat Müzesi",
+    "description": "izmir'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=20",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 38.4362074,
+      "longitude": 27.1481599
+    },
+    "estimatedDuration": 71,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "izmir_22",
+    "name": "Bayraklı Höyüğü",
+    "description": "izmir'de ziyaret edilebilecek popüler bir nokta: Bayraklı Höyüğü.",
+    "image": "https://picsum.photos/800/600?random=21",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 38.4639225,
+      "longitude": 27.1702353
+    },
+    "estimatedDuration": 33,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "izmir_23",
+    "name": "Hisar Camii",
+    "description": "izmir'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=22",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 38.4214918,
+      "longitude": 27.133587
+    },
+    "estimatedDuration": 56,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "izmir_24",
+    "name": "Yeşilova Höyüğü",
+    "description": "izmir'de ziyaret edilebilecek popüler bir nokta: Yeşilova Höyüğü.",
+    "image": "https://picsum.photos/800/600?random=23",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 38.4417282,
+      "longitude": 27.2143593
+    },
+    "estimatedDuration": 62,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "izmir_25",
+    "name": "İzmir Doğal Yaşam Parkı",
+    "description": "izmir'de ziyaret edilebilecek popüler bir nokta: İzmir Doğal Yaşam Parkı.",
+    "image": "https://picsum.photos/800/600?random=24",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 38.4901276,
+      "longitude": 26.9635197
+    },
+    "estimatedDuration": 83,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "izmir_26",
+    "name": "TCG Ege",
+    "description": "izmir'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=25",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 38.412481,
+      "longitude": 27.0347994
+    },
+    "estimatedDuration": 58,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 178,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "izmir_27",
+    "name": "TCG Pirireis",
+    "description": "izmir'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=26",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 38.4123673,
+      "longitude": 27.0348246
+    },
+    "estimatedDuration": 66,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 60,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "izmir_28",
+    "name": "Agora Açık Hava Müzesi",
+    "description": "izmir'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=27",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 38.4189676,
+      "longitude": 27.1384144
+    },
+    "estimatedDuration": 77,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 25,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "izmir_29",
+    "name": "Başdurak Camii",
+    "description": "izmir'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=28",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 38.4184807,
+      "longitude": 27.1334747
+    },
+    "estimatedDuration": 71,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "izmir_30",
+    "name": "Salepçioğlu Camii",
+    "description": "izmir'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=29",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 38.4169944,
+      "longitude": 27.1324608
+    },
+    "estimatedDuration": 86,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "izmir_31",
+    "name": "Kestanepazarı Camii",
+    "description": "izmir'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=30",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 38.4199993,
+      "longitude": 27.1348757
+    },
+    "estimatedDuration": 51,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 121,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "izmir_32",
+    "name": "Şadırvanaltı Camii",
+    "description": "izmir'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=31",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 38.4211777,
+      "longitude": 27.1350653
+    },
+    "estimatedDuration": 87,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "izmir_33",
+    "name": "Bostanlı Açık Hava Müzesi",
+    "description": "izmir'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=32",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 38.4548583,
+      "longitude": 27.0991964
+    },
+    "estimatedDuration": 53,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "izmir_34",
+    "name": "İnsan Hakları Anıtı",
+    "description": "izmir'de ziyaret edilebilecek popüler bir nokta: İnsan Hakları Anıtı.",
+    "image": "https://picsum.photos/800/600?random=33",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 38.4494485,
+      "longitude": 27.1106405
+    },
+    "estimatedDuration": 74,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "izmir_35",
+    "name": "Atatürk, Annesi ve Kadın Hakları Anıtı",
+    "description": "izmir'de ziyaret edilebilecek popüler bir nokta: Atatürk, Annesi ve Kadın Hakları Anıtı.",
+    "image": "https://picsum.photos/800/600?random=34",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 38.4555791,
+      "longitude": 27.1241319
+    },
+    "estimatedDuration": 53,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 120,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "izmir_36",
+    "name": "Konak Camii",
+    "description": "izmir'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=35",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 38.4190617,
+      "longitude": 27.1293172
+    },
+    "estimatedDuration": 72,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 190,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "izmir_37",
+    "name": "Kemeraltı Camii",
+    "description": "izmir'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=36",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 38.4186038,
+      "longitude": 27.1317394
+    },
+    "estimatedDuration": 80,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "izmir_38",
+    "name": "Hatuniye Camii",
+    "description": "izmir'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=37",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 38.420507,
+      "longitude": 27.1412253
+    },
+    "estimatedDuration": 62,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "izmir_39",
+    "name": "Basmane Çorakkapı Camii",
+    "description": "izmir'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=38",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 38.4218242,
+      "longitude": 27.1437849
+    },
+    "estimatedDuration": 72,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "izmir_40",
+    "name": "Saint Polycarpe Kilisesi",
+    "description": "izmir'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=39",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 38.4256819,
+      "longitude": 27.135698
+    },
+    "estimatedDuration": 40,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "izmir_41",
+    "name": "Kültürpark",
+    "description": "izmir şehrinde doğa ile iç içe bir park.",
+    "image": "https://picsum.photos/800/600?random=40",
+    "category": "Park",
+    "coordinates": {
+      "latitude": 38.4278829,
+      "longitude": 27.1455203
+    },
+    "estimatedDuration": 72,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Park"
+    ]
+  },
+  {
+    "id": "izmir_42",
+    "name": "Hamidiye Camii",
+    "description": "izmir'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=41",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 38.4071753,
+      "longitude": 27.1068366
+    },
+    "estimatedDuration": 87,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "izmir_43",
+    "name": "Aziz Yuhanna Katedrali",
+    "description": "izmir'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=42",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 38.4287757,
+      "longitude": 27.139631
+    },
+    "estimatedDuration": 79,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "izmir_44",
+    "name": "Hüseyin İsa Bey Camii",
+    "description": "izmir'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=43",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 38.4675271,
+      "longitude": 27.2188614
+    },
+    "estimatedDuration": 40,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 55,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "izmir_45",
+    "name": "Baptist Protestan Kilisesi",
+    "description": "izmir'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=44",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 38.3868493,
+      "longitude": 27.1774086
+    },
+    "estimatedDuration": 38,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "izmir_46",
+    "name": "Fatih Camii",
+    "description": "izmir'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=45",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 38.4117947,
+      "longitude": 27.1278734
+    },
+    "estimatedDuration": 88,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "izmir_47",
+    "name": "İzmir Saat Kulesi",
+    "description": "izmir'de ziyaret edilebilecek popüler bir nokta: İzmir Saat Kulesi.",
+    "image": "https://picsum.photos/800/600?random=46",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 38.4188754,
+      "longitude": 27.1286954
+    },
+    "estimatedDuration": 35,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 178,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "izmir_48",
+    "name": "Liman Hamamı",
+    "description": "izmir'de ziyaret edilebilecek popüler bir nokta: Liman Hamamı.",
+    "image": "https://picsum.photos/800/600?random=47",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 38.4201982,
+      "longitude": 27.1307116
+    },
+    "estimatedDuration": 37,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 153,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "izmir_49",
+    "name": "Nevvar Salih İşgören Ulu Camii",
+    "description": "izmir'in tarihi ibadet yapılarından biri.",
+    "image": "https://images.pexels.com/photos/32844049/pexels-photo-32844049.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 38.4432262,
+      "longitude": 27.1764122
+    },
+    "estimatedDuration": 56,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "izmir_50",
+    "name": "Alsancak Hocazade Cami",
+    "description": "izmir'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=49",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 38.433942,
+      "longitude": 27.1442396
+    },
+    "estimatedDuration": 87,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "izmir_51",
+    "name": "İzmir Kadın Müzesi",
+    "description": "izmir'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=50",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 38.4210971,
+      "longitude": 27.142324
+    },
+    "estimatedDuration": 77,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "izmir_52",
+    "name": "Yıkık Minare Camii",
+    "description": "izmir'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=51",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 38.4690624,
+      "longitude": 27.2233958
+    },
+    "estimatedDuration": 47,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "izmir_53",
+    "name": "St. Mary Magdalene Anglikan Klisesi",
+    "description": "izmir'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=52",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 38.462366,
+      "longitude": 27.2239099
+    },
+    "estimatedDuration": 75,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 176,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "izmir_54",
+    "name": "St. John the Evangelist",
+    "description": "izmir'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=53",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 38.4370383,
+      "longitude": 27.1472737
+    },
+    "estimatedDuration": 43,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 139,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "izmir_55",
+    "name": "Bet Israel Sinagogu",
+    "description": "izmir'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=54",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 38.4090953,
+      "longitude": 27.1162076
+    },
+    "estimatedDuration": 69,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 74,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "izmir_56",
+    "name": "Asansör",
+    "description": "izmir'de ziyaret edilebilecek popüler bir nokta: Asansör.",
+    "image": "https://picsum.photos/800/600?random=55",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 38.408786,
+      "longitude": 27.117476
+    },
+    "estimatedDuration": 30,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "izmir_57",
+    "name": "Yapıcıoğlu Camii",
+    "description": "izmir'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=56",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 38.4106337,
+      "longitude": 27.1345996
+    },
+    "estimatedDuration": 86,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "izmir_58",
+    "name": "Ümran Baradan Oyun ve Oyuncak Müzesi",
+    "description": "izmir'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=57",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 38.4134967,
+      "longitude": 27.1267439
+    },
+    "estimatedDuration": 51,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 117,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "izmir_59",
+    "name": "Etz Hayim Sinagogu",
+    "description": "izmir'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=58",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 38.4199366,
+      "longitude": 27.1362618
+    },
+    "estimatedDuration": 34,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "izmir_60",
+    "name": "Algazi Sinagogu",
+    "description": "izmir'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=59",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 38.4202315,
+      "longitude": 27.1358903
+    },
+    "estimatedDuration": 45,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  }
+]

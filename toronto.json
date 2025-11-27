@@ -1,0 +1,1064 @@
+[
+  {
+    "id": "toronto_1",
+    "name": "Colborne Lodge",
+    "description": "toronto'de ziyaret edilebilecek popüler bir nokta: Colborne Lodge.",
+    "image": "https://picsum.photos/800/600?random=0",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.6403622,
+      "longitude": -79.459996
+    },
+    "estimatedDuration": 52,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "toronto_2",
+    "name": "Riverdale Farm",
+    "description": "toronto'de ziyaret edilebilecek popüler bir nokta: Riverdale Farm.",
+    "image": "https://picsum.photos/800/600?random=1",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.6669173,
+      "longitude": -79.3608626
+    },
+    "estimatedDuration": 74,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "toronto_3",
+    "name": "CN Tower Edge Walk",
+    "description": "toronto'de ziyaret edilebilecek popüler bir nokta: CN Tower Edge Walk.",
+    "image": "https://picsum.photos/800/600?random=2",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.6425012,
+      "longitude": -79.3871153
+    },
+    "estimatedDuration": 85,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "toronto_4",
+    "name": "Ontario Fire Fighters Memorial",
+    "description": "toronto'de ziyaret edilebilecek popüler bir nokta: Ontario Fire Fighters Memorial.",
+    "image": "https://picsum.photos/800/600?random=3",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.6603429,
+      "longitude": -79.3899237
+    },
+    "estimatedDuration": 69,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 90,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "toronto_5",
+    "name": "No. 8 Hose Station",
+    "description": "toronto'de ziyaret edilebilecek popüler bir nokta: No. 8 Hose Station.",
+    "image": "https://picsum.photos/800/600?random=4",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.6568984,
+      "longitude": -79.404719
+    },
+    "estimatedDuration": 89,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "toronto_6",
+    "name": "Mackenzie House",
+    "description": "toronto'de ziyaret edilebilecek popüler bir nokta: Mackenzie House.",
+    "image": "https://picsum.photos/800/600?random=5",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.6557116,
+      "longitude": -79.3782616
+    },
+    "estimatedDuration": 57,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 156,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "toronto_7",
+    "name": "QEW Monument",
+    "description": "toronto'de ziyaret edilebilecek popüler bir nokta: QEW Monument.",
+    "image": "https://picsum.photos/800/600?random=6",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.6331702,
+      "longitude": -79.4703754
+    },
+    "estimatedDuration": 88,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "toronto_8",
+    "name": "Old City Hall Cenotaph",
+    "description": "toronto'de ziyaret edilebilecek popüler bir nokta: Old City Hall Cenotaph.",
+    "image": "https://picsum.photos/800/600?random=7",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.652142,
+      "longitude": -79.3815365
+    },
+    "estimatedDuration": 55,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "toronto_9",
+    "name": "Katyn Memorial",
+    "description": "toronto'de ziyaret edilebilecek popüler bir nokta: Katyn Memorial.",
+    "image": "https://picsum.photos/800/600?random=8",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.6381943,
+      "longitude": -79.4457758
+    },
+    "estimatedDuration": 89,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "toronto_10",
+    "name": "Canadian Volunteer Monument",
+    "description": "toronto'de ziyaret edilebilecek popüler bir nokta: Canadian Volunteer Monument.",
+    "image": "https://picsum.photos/800/600?random=9",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.6626658,
+      "longitude": -79.3933361
+    },
+    "estimatedDuration": 65,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "toronto_11",
+    "name": "Spadina Museum",
+    "description": "toronto'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=10",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 43.678931,
+      "longitude": -79.408114
+    },
+    "estimatedDuration": 66,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "toronto_12",
+    "name": "Textile Museum Of Canada",
+    "description": "toronto'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=11",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 43.6544937,
+      "longitude": -79.3866913
+    },
+    "estimatedDuration": 83,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "toronto_13",
+    "name": "Ontario Police Memorial",
+    "description": "toronto'de ziyaret edilebilecek popüler bir nokta: Ontario Police Memorial.",
+    "image": "https://picsum.photos/800/600?random=12",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.6623897,
+      "longitude": -79.3898402
+    },
+    "estimatedDuration": 85,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "toronto_14",
+    "name": "Ireland Park",
+    "description": "toronto'de ziyaret edilebilecek popüler bir nokta: Ireland Park.",
+    "image": "https://picsum.photos/800/600?random=13",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.6347038,
+      "longitude": -79.3958319
+    },
+    "estimatedDuration": 56,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "toronto_15",
+    "name": "Fort Rouillé Monument",
+    "description": "toronto'de ziyaret edilebilecek popüler bir nokta: Fort Rouillé Monument.",
+    "image": "https://picsum.photos/800/600?random=14",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.6306583,
+      "longitude": -79.4235245
+    },
+    "estimatedDuration": 84,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 120,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "toronto_16",
+    "name": "Design Exchange",
+    "description": "toronto'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=15",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 43.6477412,
+      "longitude": -79.3801145
+    },
+    "estimatedDuration": 80,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 54,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "toronto_17",
+    "name": "Ontario Veterans Memorial",
+    "description": "toronto'de ziyaret edilebilecek popüler bir nokta: Ontario Veterans Memorial.",
+    "image": "https://picsum.photos/800/600?random=16",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.6614215,
+      "longitude": -79.3916543
+    },
+    "estimatedDuration": 78,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 13,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "toronto_18",
+    "name": "Beth Habonim Congregation",
+    "description": "toronto'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=17",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.7127678,
+      "longitude": -79.4294298
+    },
+    "estimatedDuration": 63,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 114,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "toronto_19",
+    "name": "Serbian Eastern-Orthodox",
+    "description": "toronto'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=18",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.661786,
+      "longitude": -79.4284865
+    },
+    "estimatedDuration": 85,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 93,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "toronto_20",
+    "name": "Jack Layton",
+    "description": "toronto'de ziyaret edilebilecek popüler bir nokta: Jack Layton.",
+    "image": "https://picsum.photos/800/600?random=19",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.6404595,
+      "longitude": -79.3762409
+    },
+    "estimatedDuration": 50,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "toronto_21",
+    "name": "Ned Hanlan ship",
+    "description": "toronto'de ziyaret edilebilecek popüler bir nokta: Ned Hanlan ship.",
+    "image": "https://picsum.photos/800/600?random=20",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.6279746,
+      "longitude": -79.3893945
+    },
+    "estimatedDuration": 76,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 170,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "toronto_22",
+    "name": "The Market Gallery",
+    "description": "toronto'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=21",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 43.6491228,
+      "longitude": -79.3718086
+    },
+    "estimatedDuration": 40,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "toronto_23",
+    "name": "Tabor Hill Monument",
+    "description": "toronto'de ziyaret edilebilecek popüler bir nokta: Tabor Hill Monument.",
+    "image": "https://picsum.photos/800/600?random=22",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.7598306,
+      "longitude": -79.2344543
+    },
+    "estimatedDuration": 77,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "toronto_24",
+    "name": "Hockey Hall of Fame",
+    "description": "toronto'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=23",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 43.647143,
+      "longitude": -79.3777581
+    },
+    "estimatedDuration": 74,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "toronto_25",
+    "name": "Sons of England War Memorial",
+    "description": "toronto'de ziyaret edilebilecek popüler bir nokta: Sons of England War Memorial.",
+    "image": "https://picsum.photos/800/600?random=24",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.6561508,
+      "longitude": -79.3888821
+    },
+    "estimatedDuration": 71,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 199,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "toronto_26",
+    "name": "City History Museum",
+    "description": "toronto'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=25",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 43.6676881,
+      "longitude": -79.3947023
+    },
+    "estimatedDuration": 30,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "toronto_27",
+    "name": "Royal Ontario Museum",
+    "description": "toronto'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=26",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 43.6677062,
+      "longitude": -79.3946899
+    },
+    "estimatedDuration": 36,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "toronto_28",
+    "name": "Fort York",
+    "description": "toronto'de ziyaret edilebilecek popüler bir nokta: Fort York.",
+    "image": "https://picsum.photos/800/600?random=27",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.6390316,
+      "longitude": -79.4032888
+    },
+    "estimatedDuration": 54,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "toronto_29",
+    "name": "St. Basil's Church",
+    "description": "toronto'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=28",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.6663655,
+      "longitude": -79.3890129
+    },
+    "estimatedDuration": 37,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "toronto_30",
+    "name": "St. Helen's Roman Catholic Church",
+    "description": "toronto'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=29",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.6504328,
+      "longitude": -79.4381171
+    },
+    "estimatedDuration": 87,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 24,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "toronto_31",
+    "name": "Gardiner Museum",
+    "description": "toronto'de bulunan önemli bir müze.",
+    "image": "https://images.pexels.com/photos/34903448/pexels-photo-34903448.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 43.6681559,
+      "longitude": -79.3931282
+    },
+    "estimatedDuration": 61,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 25,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "toronto_32",
+    "name": "Bata Shoe Museum",
+    "description": "toronto'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=31",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 43.6672516,
+      "longitude": -79.4001432
+    },
+    "estimatedDuration": 58,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "toronto_33",
+    "name": "St. Francis of Assisi Church",
+    "description": "toronto'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=32",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.653497,
+      "longitude": -79.4145425
+    },
+    "estimatedDuration": 38,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 27,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "toronto_34",
+    "name": "High Park Zoo",
+    "description": "toronto'de ziyaret edilebilecek popüler bir nokta: High Park Zoo.",
+    "image": "https://picsum.photos/800/600?random=33",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.643523,
+      "longitude": -79.4627004
+    },
+    "estimatedDuration": 80,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "toronto_35",
+    "name": "Yorkminster Park Baptist Church",
+    "description": "toronto'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=34",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.6906513,
+      "longitude": -79.3943071
+    },
+    "estimatedDuration": 60,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 190,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "toronto_36",
+    "name": "Campbell House",
+    "description": "toronto'de ziyaret edilebilecek popüler bir nokta: Campbell House.",
+    "image": "https://picsum.photos/800/600?random=35",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.6510527,
+      "longitude": -79.3873221
+    },
+    "estimatedDuration": 65,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 154,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "toronto_37",
+    "name": "St. Thomas Aquinas Church",
+    "description": "toronto'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=36",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.664523,
+      "longitude": -79.3978013
+    },
+    "estimatedDuration": 64,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 78,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "toronto_38",
+    "name": "Beth Avraham Yoseph of Toronto",
+    "description": "toronto'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=37",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.803649,
+      "longitude": -79.444068
+    },
+    "estimatedDuration": 48,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "toronto_39",
+    "name": "Trinity-St. Paul's United Church",
+    "description": "toronto'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=38",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.6660185,
+      "longitude": -79.4056987
+    },
+    "estimatedDuration": 33,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 91,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "toronto_40",
+    "name": "CN Tower",
+    "description": "toronto'de ziyaret edilebilecek popüler bir nokta: CN Tower.",
+    "image": "https://picsum.photos/800/600?random=39",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.6425651,
+      "longitude": -79.38712
+    },
+    "estimatedDuration": 87,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "toronto_41",
+    "name": "Adamson Estate",
+    "description": "toronto'de ziyaret edilebilecek popüler bir nokta: Adamson Estate.",
+    "image": "https://picsum.photos/800/600?random=40",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.5624517,
+      "longitude": -79.5678651
+    },
+    "estimatedDuration": 32,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "toronto_42",
+    "name": "St. Luke's United Church",
+    "description": "toronto'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=41",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.6630274,
+      "longitude": -79.3724816
+    },
+    "estimatedDuration": 75,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "toronto_43",
+    "name": "Allan Gardens Conservatory",
+    "description": "toronto'de ziyaret edilebilecek popüler bir nokta: Allan Gardens Conservatory.",
+    "image": "https://picsum.photos/800/600?random=42",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.6616889,
+      "longitude": -79.3750819
+    },
+    "estimatedDuration": 48,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 74,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "toronto_44",
+    "name": "St. Peter's Roman Catholic Church",
+    "description": "toronto'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=43",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.6659577,
+      "longitude": -79.4123406
+    },
+    "estimatedDuration": 67,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 195,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "toronto_45",
+    "name": "Metropolitan United Church",
+    "description": "toronto'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=44",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.6539071,
+      "longitude": -79.3766926
+    },
+    "estimatedDuration": 53,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "toronto_46",
+    "name": "Church of the Holy Trinity",
+    "description": "toronto'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=45",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.6546926,
+      "longitude": -79.3816915
+    },
+    "estimatedDuration": 35,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "toronto_47",
+    "name": "Cathedral Church of St. James",
+    "description": "toronto'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=46",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.6505081,
+      "longitude": -79.3739867
+    },
+    "estimatedDuration": 82,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "toronto_48",
+    "name": "Church of the Redeemer",
+    "description": "toronto'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=47",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.6690709,
+      "longitude": -79.393997
+    },
+    "estimatedDuration": 87,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "toronto_49",
+    "name": "St. Paul's Anglican Church",
+    "description": "toronto'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=48",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.6709845,
+      "longitude": -79.3815321
+    },
+    "estimatedDuration": 52,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "toronto_50",
+    "name": "Jami Mosque",
+    "description": "toronto'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=49",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.6533205,
+      "longitude": -79.45448
+    },
+    "estimatedDuration": 33,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 193,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "toronto_51",
+    "name": "Saint Thomas's Anglican Church",
+    "description": "toronto'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=50",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.6659485,
+      "longitude": -79.4006016
+    },
+    "estimatedDuration": 42,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "toronto_52",
+    "name": "St. Mary's Roman Catholic Church",
+    "description": "toronto'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=51",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.6450287,
+      "longitude": -79.4039102
+    },
+    "estimatedDuration": 84,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "toronto_53",
+    "name": "Holy Blossom Temple",
+    "description": "toronto'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=52",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.698287,
+      "longitude": -79.4252726
+    },
+    "estimatedDuration": 43,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "toronto_54",
+    "name": "Rosedale Presbyterian Church",
+    "description": "toronto'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=53",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.6759469,
+      "longitude": -79.380168
+    },
+    "estimatedDuration": 47,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 103,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "toronto_55",
+    "name": "Calvin Presbyterian Church",
+    "description": "toronto'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=54",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.6891842,
+      "longitude": -79.3960555
+    },
+    "estimatedDuration": 31,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 194,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "toronto_56",
+    "name": "St. Patrick's Catholic Church",
+    "description": "toronto'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=55",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.6548326,
+      "longitude": -79.3910695
+    },
+    "estimatedDuration": 67,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "toronto_57",
+    "name": "St. Stephen-in-the-fields Anglican Church",
+    "description": "toronto'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=56",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.6569711,
+      "longitude": -79.4039432
+    },
+    "estimatedDuration": 75,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "toronto_58",
+    "name": "Holy Rosary Church",
+    "description": "toronto'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=57",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.6845439,
+      "longitude": -79.413889
+    },
+    "estimatedDuration": 75,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "toronto_59",
+    "name": "St. Vincent de Paul Catholic Church",
+    "description": "toronto'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=58",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.6470873,
+      "longitude": -79.4488439
+    },
+    "estimatedDuration": 53,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 190,
+    "interests": [
+      "Tarihi"
+    ]
+  }
+]

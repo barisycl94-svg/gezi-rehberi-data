@@ -1,0 +1,1028 @@
+[
+  {
+    "id": "zagreb_1",
+    "name": "Hrvatski prirodoslovni muzej",
+    "description": "zagreb'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=0",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 45.8171563,
+      "longitude": 15.9722497
+    },
+    "estimatedDuration": 81,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 67,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "zagreb_2",
+    "name": "kapela Majke Božje od Kamenitih vrata",
+    "description": "zagreb'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=1",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.8157434,
+      "longitude": 15.9753581
+    },
+    "estimatedDuration": 39,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "zagreb_3",
+    "name": "Arheološki muzej",
+    "description": "zagreb'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=2",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 45.810981,
+      "longitude": 15.9772888
+    },
+    "estimatedDuration": 32,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "zagreb_4",
+    "name": "Kapela Ranjenog Isusa",
+    "description": "zagreb'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=3",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.8129487,
+      "longitude": 15.9757317
+    },
+    "estimatedDuration": 43,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 83,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "zagreb_5",
+    "name": "Baptistička crkva Zagreb",
+    "description": "zagreb'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=4",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.8158547,
+      "longitude": 15.9757204
+    },
+    "estimatedDuration": 81,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "zagreb_6",
+    "name": "Muzej prekinutih veza",
+    "description": "zagreb'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=5",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 45.8149694,
+      "longitude": 15.9735299
+    },
+    "estimatedDuration": 89,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "zagreb_7",
+    "name": "Hrvatski povijesni muzej",
+    "description": "zagreb'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=6",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 45.8160204,
+      "longitude": 15.9723414
+    },
+    "estimatedDuration": 74,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "zagreb_8",
+    "name": "Galerija Klovićevi dvori",
+    "description": "zagreb'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=7",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 45.8150278,
+      "longitude": 15.9746427
+    },
+    "estimatedDuration": 87,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "zagreb_9",
+    "name": "Moderna galerija",
+    "description": "zagreb'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=8",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 45.8091324,
+      "longitude": 15.9775482
+    },
+    "estimatedDuration": 38,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "zagreb_10",
+    "name": "Pastoralni centar",
+    "description": "zagreb'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=9",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.7908575,
+      "longitude": 15.99603
+    },
+    "estimatedDuration": 46,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "zagreb_11",
+    "name": "Hrvatski muzej naivne umjetnosti",
+    "description": "zagreb'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=10",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 45.8153802,
+      "longitude": 15.9732804
+    },
+    "estimatedDuration": 39,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "zagreb_12",
+    "name": "Majka Božja od Puta",
+    "description": "zagreb'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=11",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.8773658,
+      "longitude": 15.9758046
+    },
+    "estimatedDuration": 42,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 169,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "zagreb_13",
+    "name": "Muzej grada Zagreba",
+    "description": "zagreb'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=12",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 45.8185783,
+      "longitude": 15.9750163
+    },
+    "estimatedDuration": 85,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 32,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "zagreb_14",
+    "name": "Muzej seljačkih buna",
+    "description": "zagreb'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=13",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 45.9848141,
+      "longitude": 16.0167943
+    },
+    "estimatedDuration": 77,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 126,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "zagreb_15",
+    "name": "Sinagoga Židovske općine Zagreb",
+    "description": "zagreb'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=14",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.8115621,
+      "longitude": 15.9814998
+    },
+    "estimatedDuration": 84,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "zagreb_17",
+    "name": "crkva svetog Antuna Padovanskog",
+    "description": "zagreb'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=16",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.8222887,
+      "longitude": 15.9876462
+    },
+    "estimatedDuration": 50,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "zagreb_18",
+    "name": "kapela Bezgrašnog Srca Marijina",
+    "description": "zagreb'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=17",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.8372656,
+      "longitude": 15.9269025
+    },
+    "estimatedDuration": 69,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 10,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "zagreb_19",
+    "name": "kapela svete Terezije od Djeteta Isusa u Trnju",
+    "description": "zagreb'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=18",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.828281,
+      "longitude": 16.1098244
+    },
+    "estimatedDuration": 42,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 102,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "zagreb_20",
+    "name": "kapela svetog Josipa",
+    "description": "zagreb'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=19",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.7402374,
+      "longitude": 15.8843175
+    },
+    "estimatedDuration": 52,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "zagreb_21",
+    "name": "kapela Gospe Fatimske",
+    "description": "zagreb'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=20",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.7722113,
+      "longitude": 15.9776398
+    },
+    "estimatedDuration": 54,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "zagreb_22",
+    "name": "Tehnički muzej Nikola Tesla",
+    "description": "zagreb'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=21",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 45.8039979,
+      "longitude": 15.9643255
+    },
+    "estimatedDuration": 54,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "zagreb_23",
+    "name": "crkva svetog Blaža",
+    "description": "zagreb'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=22",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.8111575,
+      "longitude": 15.960602
+    },
+    "estimatedDuration": 52,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "zagreb_24",
+    "name": "Muzej za umjetnost i obrt",
+    "description": "zagreb'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=23",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 45.8094017,
+      "longitude": 15.9685272
+    },
+    "estimatedDuration": 83,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "zagreb_25",
+    "name": "Muzej suvremene umjetnosti",
+    "description": "zagreb'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=24",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 45.7788139,
+      "longitude": 15.981858
+    },
+    "estimatedDuration": 71,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "zagreb_26",
+    "name": "crkva svetog Ivana apostola i evanđelista",
+    "description": "zagreb'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=25",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.7774196,
+      "longitude": 15.9940656
+    },
+    "estimatedDuration": 80,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "zagreb_27",
+    "name": "crkva Svetog Križa",
+    "description": "zagreb'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=26",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.7721362,
+      "longitude": 15.9771464
+    },
+    "estimatedDuration": 35,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 11,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "zagreb_28",
+    "name": "crkva Uzašašća Gospodnjega",
+    "description": "zagreb'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=27",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.7638771,
+      "longitude": 15.9877679
+    },
+    "estimatedDuration": 59,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "zagreb_29",
+    "name": "crkva Blagovijesti - navještenja Gospodinova",
+    "description": "zagreb'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=28",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.7940979,
+      "longitude": 15.9166629
+    },
+    "estimatedDuration": 57,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 32,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "zagreb_30",
+    "name": "crkva Krista Kralja",
+    "description": "zagreb'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=29",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.7972448,
+      "longitude": 15.9852833
+    },
+    "estimatedDuration": 62,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 105,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "zagreb_31",
+    "name": "crkva Svete Obitelji",
+    "description": "zagreb'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=30",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.800485,
+      "longitude": 15.9966582
+    },
+    "estimatedDuration": 82,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "zagreb_32",
+    "name": "crkva svetih Šimuna i Jude Tadeja",
+    "description": "zagreb'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=31",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.8764893,
+      "longitude": 16.0146837
+    },
+    "estimatedDuration": 41,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "zagreb_33",
+    "name": "crkva svete Barbare",
+    "description": "zagreb'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=32",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.7357523,
+      "longitude": 16.0240735
+    },
+    "estimatedDuration": 74,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 71,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "zagreb_34",
+    "name": "crkva Presvetog Srca Isusovog",
+    "description": "zagreb'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=33",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.8175182,
+      "longitude": 15.899483
+    },
+    "estimatedDuration": 40,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 144,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "zagreb_36",
+    "name": "kapela svetog Roka",
+    "description": "zagreb'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=35",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.8137945,
+      "longitude": 15.9660827
+    },
+    "estimatedDuration": 43,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 98,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "zagreb_37",
+    "name": "crkva svetog Leopolda Mandića",
+    "description": "zagreb'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=36",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.8001189,
+      "longitude": 15.929706
+    },
+    "estimatedDuration": 84,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 13,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "zagreb_38",
+    "name": "crkva svetog Marka Križevčanina",
+    "description": "zagreb'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=37",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.8033372,
+      "longitude": 15.944248
+    },
+    "estimatedDuration": 81,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 21,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "zagreb_40",
+    "name": "crkva svete Katarine Aleksandrijske",
+    "description": "zagreb'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=39",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.8147427,
+      "longitude": 15.9743782
+    },
+    "estimatedDuration": 82,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "zagreb_41",
+    "name": "konkatedrala svetog Ćirila i Metoda",
+    "description": "zagreb'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=40",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.8151994,
+      "longitude": 15.9732024
+    },
+    "estimatedDuration": 39,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 31,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "zagreb_42",
+    "name": "Saborna crkva Preobraženja Gospodnjeg",
+    "description": "zagreb'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=41",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.8126159,
+      "longitude": 15.9741017
+    },
+    "estimatedDuration": 80,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 186,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "zagreb_43",
+    "name": "crkva Blažene Djevice Marije Kraljice Hrvata",
+    "description": "zagreb'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=42",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.7698986,
+      "longitude": 15.9457328
+    },
+    "estimatedDuration": 33,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "zagreb_44",
+    "name": "katedrala Uznesenja Blažene Djevice Marije i svetih Stjepana i Ladislava",
+    "description": "zagreb'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=43",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.8144752,
+      "longitude": 15.9798675
+    },
+    "estimatedDuration": 46,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 151,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "zagreb_45",
+    "name": "crkva svetog Jurja",
+    "description": "zagreb'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=44",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.9300738,
+      "longitude": 16.0888366
+    },
+    "estimatedDuration": 42,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "zagreb_46",
+    "name": "crkva Pohoda Blažene Djevice Marije",
+    "description": "zagreb'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=45",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.8937405,
+      "longitude": 16.0600217
+    },
+    "estimatedDuration": 34,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "zagreb_47",
+    "name": "crkva svete Marije",
+    "description": "zagreb'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=46",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.8143579,
+      "longitude": 15.976615
+    },
+    "estimatedDuration": 32,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "zagreb_48",
+    "name": "Medvedgrad",
+    "description": "zagreb'in tarihine tanıklık eden bir kale.",
+    "image": "https://picsum.photos/800/600?random=47",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.8695314,
+      "longitude": 15.9407275
+    },
+    "estimatedDuration": 76,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "zagreb_49",
+    "name": "crkva Majke Božje Sljemenske Kraljice Hrvata",
+    "description": "zagreb'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=48",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.901297,
+      "longitude": 15.9552483
+    },
+    "estimatedDuration": 50,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "zagreb_50",
+    "name": "Muzej Turopolja",
+    "description": "zagreb'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=49",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 45.714127,
+      "longitude": 16.076073
+    },
+    "estimatedDuration": 43,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "zagreb_51",
+    "name": "crkva svetog Franje Ksaverskog",
+    "description": "zagreb'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=50",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.8397702,
+      "longitude": 15.973555
+    },
+    "estimatedDuration": 60,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "zagreb_52",
+    "name": "kapela svete Filomene",
+    "description": "zagreb'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=51",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.7206862,
+      "longitude": 16.0590389
+    },
+    "estimatedDuration": 58,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "zagreb_53",
+    "name": "crkva Isusa Krista svetaca posljednjih dana",
+    "description": "zagreb'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=52",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.7904131,
+      "longitude": 15.9176005
+    },
+    "estimatedDuration": 71,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 149,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "zagreb_54",
+    "name": "crkva svete Klare",
+    "description": "zagreb'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=53",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.756517,
+      "longitude": 15.9720918
+    },
+    "estimatedDuration": 82,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "zagreb_55",
+    "name": "crkva svetog Kvirina biskupa i mučenika",
+    "description": "zagreb'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=54",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.8207173,
+      "longitude": 15.9598285
+    },
+    "estimatedDuration": 57,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "zagreb_56",
+    "name": "crkva rođenja Blažene Djevice Marije",
+    "description": "zagreb'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=55",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.8484206,
+      "longitude": 16.0544274
+    },
+    "estimatedDuration": 43,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "zagreb_57",
+    "name": "crkva Duha Svetoga",
+    "description": "zagreb'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=56",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.7912396,
+      "longitude": 15.927427
+    },
+    "estimatedDuration": 30,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "zagreb_58",
+    "name": "crkva uznesenja Blažene Djevice Marije",
+    "description": "zagreb'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=57",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.8511709,
+      "longitude": 15.9901539
+    },
+    "estimatedDuration": 60,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 110,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "zagreb_59",
+    "name": "Dvorac Brezovica",
+    "description": "zagreb'in tarihine tanıklık eden bir kale.",
+    "image": "https://picsum.photos/800/600?random=58",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.7302442,
+      "longitude": 15.9088407
+    },
+    "estimatedDuration": 75,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "zagreb_60",
+    "name": "Dvorac Lužnica",
+    "description": "zagreb'in tarihine tanıklık eden bir kale.",
+    "image": "https://picsum.photos/800/600?random=59",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.8667907,
+      "longitude": 15.7802016
+    },
+    "estimatedDuration": 84,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 178,
+    "interests": [
+      "Tarihi"
+    ]
+  }
+]

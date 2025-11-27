@@ -1,0 +1,362 @@
+[
+  {
+    "id": "perth_1",
+    "name": "Bunnet Stane",
+    "description": "perth'de ziyaret edilebilecek popüler bir nokta: Bunnet Stane.",
+    "image": "https://picsum.photos/800/600?random=0",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 56.2491986,
+      "longitude": -3.3090902
+    },
+    "estimatedDuration": 73,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "perth_2",
+    "name": "Methven Castle",
+    "description": "perth'in tarihine tanıklık eden bir kale.",
+    "image": "https://picsum.photos/800/600?random=1",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 56.4168208,
+      "longitude": -3.5549253
+    },
+    "estimatedDuration": 53,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "perth_3",
+    "name": "Perth Museum",
+    "description": "perth'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=2",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 56.3958693,
+      "longitude": -3.4293585
+    },
+    "estimatedDuration": 81,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "perth_4",
+    "name": "Meikleour Beech Hedges",
+    "description": "perth'de ziyaret edilebilecek popüler bir nokta: Meikleour Beech Hedges.",
+    "image": "https://images.pexels.com/photos/34902168/pexels-photo-34902168.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 56.532843,
+      "longitude": -3.3644343
+    },
+    "estimatedDuration": 74,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "perth_5",
+    "name": "Lindores Abbey (ruins)",
+    "description": "perth'de ziyaret edilebilecek popüler bir nokta: Lindores Abbey (ruins).",
+    "image": "https://picsum.photos/800/600?random=4",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 56.3523414,
+      "longitude": -3.2259452
+    },
+    "estimatedDuration": 54,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 54,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "perth_6",
+    "name": "St. Matthew's Church",
+    "description": "perth'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=5",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 56.3961891,
+      "longitude": -3.4260892
+    },
+    "estimatedDuration": 35,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 12,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "perth_7",
+    "name": "St Ninian's Cathedral",
+    "description": "perth'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=6",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 56.3990499,
+      "longitude": -3.435458
+    },
+    "estimatedDuration": 50,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "perth_8",
+    "name": "Huntingtower Castle",
+    "description": "perth'in tarihine tanıklık eden bir kale.",
+    "image": "https://picsum.photos/800/600?random=7",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 56.4094577,
+      "longitude": -3.4881863
+    },
+    "estimatedDuration": 55,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "perth_9",
+    "name": "Elcho Castle",
+    "description": "perth'in tarihine tanıklık eden bir kale.",
+    "image": "https://picsum.photos/800/600?random=8",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 56.3746118,
+      "longitude": -3.354573
+    },
+    "estimatedDuration": 77,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 44,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "perth_10",
+    "name": "Balvaird Castle",
+    "description": "perth'in tarihine tanıklık eden bir kale.",
+    "image": "https://picsum.photos/800/600?random=9",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 56.2889198,
+      "longitude": -3.342703
+    },
+    "estimatedDuration": 52,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 21,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "perth_11",
+    "name": "All Saints Episcopal Church, Glencarse",
+    "description": "perth'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=10",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 56.3801421,
+      "longitude": -3.3025231
+    },
+    "estimatedDuration": 77,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "perth_12",
+    "name": "Burleigh Castle",
+    "description": "perth'in tarihine tanıklık eden bir kale.",
+    "image": "https://picsum.photos/800/600?random=11",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 56.2258374,
+      "longitude": -3.406472
+    },
+    "estimatedDuration": 69,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "perth_13",
+    "name": "Ballinbreich Castle",
+    "description": "perth'de ziyaret edilebilecek popüler bir nokta: Ballinbreich Castle.",
+    "image": "https://picsum.photos/800/600?random=12",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 56.371023,
+      "longitude": -3.1804173
+    },
+    "estimatedDuration": 54,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 105,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "perth_14",
+    "name": "Collairnie Castle",
+    "description": "perth'de ziyaret edilebilecek popüler bir nokta: Collairnie Castle.",
+    "image": "https://picsum.photos/800/600?random=13",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 56.341919,
+      "longitude": -3.1240775
+    },
+    "estimatedDuration": 71,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "perth_15",
+    "name": "St. John's Kirk",
+    "description": "perth'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=14",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 56.3958342,
+      "longitude": -3.428088
+    },
+    "estimatedDuration": 67,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "perth_16",
+    "name": "Fingask Castle",
+    "description": "perth'in tarihine tanıklık eden bir kale.",
+    "image": "https://picsum.photos/800/600?random=15",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 56.4330695,
+      "longitude": -3.253653
+    },
+    "estimatedDuration": 55,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 130,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "perth_17",
+    "name": "Scone Palace",
+    "description": "perth'in tarihine tanıklık eden bir kale.",
+    "image": "https://picsum.photos/800/600?random=16",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 56.4228855,
+      "longitude": -3.4384092
+    },
+    "estimatedDuration": 40,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "perth_18",
+    "name": "Dupplin Castle",
+    "description": "perth'in tarihine tanıklık eden bir kale.",
+    "image": "https://picsum.photos/800/600?random=17",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 56.3581861,
+      "longitude": -3.5287542
+    },
+    "estimatedDuration": 36,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "perth_19",
+    "name": "Balhousie Castle",
+    "description": "perth'in tarihine tanıklık eden bir kale.",
+    "image": "https://picsum.photos/800/600?random=18",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 56.4033804,
+      "longitude": -3.4368301
+    },
+    "estimatedDuration": 54,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "perth_20",
+    "name": "Denmylne Castle",
+    "description": "perth'de ziyaret edilebilecek popüler bir nokta: Denmylne Castle.",
+    "image": "https://picsum.photos/800/600?random=19",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 56.3442979,
+      "longitude": -3.2160707
+    },
+    "estimatedDuration": 80,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 98,
+    "interests": [
+      "Tarihi"
+    ]
+  }
+]

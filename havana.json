@@ -1,0 +1,74 @@
+[
+  {
+    "id": "havana_1",
+    "name": "Rockwell Mound",
+    "description": "havana'de ziyaret edilebilecek popüler bir nokta: Rockwell Mound.",
+    "image": "https://images.pexels.com/photos/34850041/pexels-photo-34850041.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 40.3050063,
+      "longitude": -90.0636824
+    },
+    "estimatedDuration": 85,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "havana_2",
+    "name": "Ogden-Fettie Site",
+    "description": "havana'de ziyaret edilebilecek popüler bir nokta: Ogden-Fettie Site.",
+    "image": "https://images.pexels.com/photos/34924713/pexels-photo-34924713.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 40.3414837,
+      "longitude": -90.117596
+    },
+    "estimatedDuration": 76,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 171,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "havana_3",
+    "name": "Dickson Mounds",
+    "description": "havana'de ziyaret edilebilecek popüler bir nokta: Dickson Mounds.",
+    "image": "https://picsum.photos/800/600?random=2",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 40.3504747,
+      "longitude": -90.1173284
+    },
+    "estimatedDuration": 80,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "havana_4",
+    "name": "Dickson Mounds Museum",
+    "description": "havana'de bulunan önemli bir müze.",
+    "image": "https://images.pexels.com/photos/34939805/pexels-photo-34939805.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 40.3505847,
+      "longitude": -90.1158066
+    },
+    "estimatedDuration": 75,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  }
+]

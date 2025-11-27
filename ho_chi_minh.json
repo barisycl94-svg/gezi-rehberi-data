@@ -1,0 +1,1082 @@
+[
+  {
+    "id": "ho_chi_minh_1",
+    "name": "Opiskelijakulttuurimuseo",
+    "description": "ho_chi_minh'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=0",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 60.1873655,
+      "longitude": 24.836496
+    },
+    "estimatedDuration": 41,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "ho_chi_minh_2",
+    "name": "Sibelius-monumentti",
+    "description": "ho_chi_minh'de ziyaret edilebilecek popüler bir nokta: Sibelius-monumentti.",
+    "image": "https://picsum.photos/800/600?random=1",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 60.1820272,
+      "longitude": 24.9134171
+    },
+    "estimatedDuration": 65,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "ho_chi_minh_3",
+    "name": "Kristuskyrkan",
+    "description": "ho_chi_minh'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=2",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 60.1759175,
+      "longitude": 24.927272
+    },
+    "estimatedDuration": 69,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "ho_chi_minh_4",
+    "name": "Aleksis Kiven muistopatsas",
+    "description": "ho_chi_minh'de ziyaret edilebilecek popüler bir nokta: Aleksis Kiven muistopatsas.",
+    "image": "https://picsum.photos/800/600?random=3",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 60.1716831,
+      "longitude": 24.9439197
+    },
+    "estimatedDuration": 49,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 182,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "ho_chi_minh_5",
+    "name": "Elias Lönnrot",
+    "description": "ho_chi_minh'de ziyaret edilebilecek popüler bir nokta: Elias Lönnrot.",
+    "image": "https://picsum.photos/800/600?random=4",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 60.1667779,
+      "longitude": 24.9387994
+    },
+    "estimatedDuration": 38,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "ho_chi_minh_6",
+    "name": "Merenkulkijoiden ja mereen menehtyneiden muistomerkki",
+    "description": "ho_chi_minh'de ziyaret edilebilecek popüler bir nokta: Merenkulkijoiden ja mereen menehtyneiden muistomerkki.",
+    "image": "https://picsum.photos/800/600?random=5",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 60.1540912,
+      "longitude": 24.9384321
+    },
+    "estimatedDuration": 49,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "ho_chi_minh_7",
+    "name": "Kyösti Kallio",
+    "description": "ho_chi_minh'de ziyaret edilebilecek popüler bir nokta: Kyösti Kallio.",
+    "image": "https://picsum.photos/800/600?random=6",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 60.1736797,
+      "longitude": 24.9332209
+    },
+    "estimatedDuration": 61,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "ho_chi_minh_8",
+    "name": "Katukappeli",
+    "description": "ho_chi_minh'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=7",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 60.2072601,
+      "longitude": 25.1452682
+    },
+    "estimatedDuration": 82,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "ho_chi_minh_9",
+    "name": "ESY Church",
+    "description": "ho_chi_minh'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=8",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 60.1997317,
+      "longitude": 24.9375965
+    },
+    "estimatedDuration": 30,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 173,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "ho_chi_minh_10",
+    "name": "Pihlajamäen hiidenkirnut",
+    "description": "ho_chi_minh'de ziyaret edilebilecek popüler bir nokta: Pihlajamäen hiidenkirnut.",
+    "image": "https://picsum.photos/800/600?random=9",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 60.2388406,
+      "longitude": 25.0038994
+    },
+    "estimatedDuration": 88,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 115,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "ho_chi_minh_11",
+    "name": "Fila Church Helsinki",
+    "description": "ho_chi_minh'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=10",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 60.165002,
+      "longitude": 24.93255
+    },
+    "estimatedDuration": 46,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "ho_chi_minh_12",
+    "name": "Malminkartanonhuippu",
+    "description": "ho_chi_minh'de ziyaret edilebilecek popüler bir nokta: Malminkartanonhuippu.",
+    "image": "https://picsum.photos/800/600?random=11",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 60.2511943,
+      "longitude": 24.8438976
+    },
+    "estimatedDuration": 73,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "ho_chi_minh_13",
+    "name": "Ässärykmentin muistomerkki / Jalkaväkirykmentti 11",
+    "description": "ho_chi_minh'de ziyaret edilebilecek popüler bir nokta: Ässärykmentin muistomerkki / Jalkaväkirykmentti 11.",
+    "image": "https://picsum.photos/800/600?random=12",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 60.1831081,
+      "longitude": 24.9557644
+    },
+    "estimatedDuration": 49,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "ho_chi_minh_14",
+    "name": "Itämeren tytär / Maila Talvion muistomerkki",
+    "description": "ho_chi_minh'de ziyaret edilebilecek popüler bir nokta: Itämeren tytär / Maila Talvion muistomerkki.",
+    "image": "https://picsum.photos/800/600?random=13",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 60.1869927,
+      "longitude": 24.8949105
+    },
+    "estimatedDuration": 76,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "ho_chi_minh_15",
+    "name": "Oulunkylän vanha kirkko",
+    "description": "ho_chi_minh'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=14",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 60.2313779,
+      "longitude": 24.9671917
+    },
+    "estimatedDuration": 60,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 162,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "ho_chi_minh_16",
+    "name": "Rinkeli",
+    "description": "ho_chi_minh'de ziyaret edilebilecek popüler bir nokta: Rinkeli.",
+    "image": "https://picsum.photos/800/600?random=15",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 60.1879111,
+      "longitude": 24.9392377
+    },
+    "estimatedDuration": 81,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 29,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "ho_chi_minh_17",
+    "name": "Salama",
+    "description": "ho_chi_minh'de ziyaret edilebilecek popüler bir nokta: Salama.",
+    "image": "https://picsum.photos/800/600?random=16",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 60.1872363,
+      "longitude": 24.9394823
+    },
+    "estimatedDuration": 38,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 30,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "ho_chi_minh_18",
+    "name": "Pikajuna",
+    "description": "ho_chi_minh'de ziyaret edilebilecek popüler bir nokta: Pikajuna.",
+    "image": "https://picsum.photos/800/600?random=17",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 60.1875531,
+      "longitude": 24.9384129
+    },
+    "estimatedDuration": 64,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "ho_chi_minh_19",
+    "name": "Tulireki",
+    "description": "ho_chi_minh'de ziyaret edilebilecek popüler bir nokta: Tulireki.",
+    "image": "https://picsum.photos/800/600?random=18",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 60.1877569,
+      "longitude": 24.9384192
+    },
+    "estimatedDuration": 34,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "ho_chi_minh_20",
+    "name": "Kirnu",
+    "description": "ho_chi_minh'de ziyaret edilebilecek popüler bir nokta: Kirnu.",
+    "image": "https://picsum.photos/800/600?random=19",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 60.1882571,
+      "longitude": 24.9399865
+    },
+    "estimatedDuration": 66,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 70,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "ho_chi_minh_21",
+    "name": "Puistolan kirkko",
+    "description": "ho_chi_minh'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=20",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 60.2695357,
+      "longitude": 25.0530715
+    },
+    "estimatedDuration": 43,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 69,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "ho_chi_minh_22",
+    "name": "Taru ja totuus",
+    "description": "ho_chi_minh'de ziyaret edilebilecek popüler bir nokta: Taru ja totuus.",
+    "image": "https://picsum.photos/800/600?random=21",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 60.1674697,
+      "longitude": 24.9447989
+    },
+    "estimatedDuration": 40,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "ho_chi_minh_23",
+    "name": "Itä ja Länsi / J. K. Paasikiven muistomerkki",
+    "description": "ho_chi_minh'de ziyaret edilebilecek popüler bir nokta: Itä ja Länsi / J. K. Paasikiven muistomerkki.",
+    "image": "https://picsum.photos/800/600?random=22",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 60.1708847,
+      "longitude": 24.93585
+    },
+    "estimatedDuration": 43,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "ho_chi_minh_24",
+    "name": "Vironkävijäin muistomerkki",
+    "description": "ho_chi_minh'de ziyaret edilebilecek popüler bir nokta: Vironkävijäin muistomerkki.",
+    "image": "https://picsum.photos/800/600?random=23",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 60.1663052,
+      "longitude": 24.9407277
+    },
+    "estimatedDuration": 78,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "ho_chi_minh_25",
+    "name": "Monumentum amicitiae populorum",
+    "description": "ho_chi_minh'de ziyaret edilebilecek popüler bir nokta: Monumentum amicitiae populorum.",
+    "image": "https://picsum.photos/800/600?random=24",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 60.2080016,
+      "longitude": 25.0842177
+    },
+    "estimatedDuration": 75,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 32,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "ho_chi_minh_26",
+    "name": "K. J. Ståhlberg",
+    "description": "ho_chi_minh'de ziyaret edilebilecek popüler bir nokta: K. J. Ståhlberg.",
+    "image": "https://picsum.photos/800/600?random=25",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 60.1731223,
+      "longitude": 24.9338088
+    },
+    "estimatedDuration": 68,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "ho_chi_minh_27",
+    "name": "P. E. Svinhufvud",
+    "description": "ho_chi_minh'de ziyaret edilebilecek popüler bir nokta: P. E. Svinhufvud.",
+    "image": "https://picsum.photos/800/600?random=26",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 60.1723468,
+      "longitude": 24.9342941
+    },
+    "estimatedDuration": 62,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "ho_chi_minh_28",
+    "name": "Vuosaarenhuippu",
+    "description": "ho_chi_minh'de ziyaret edilebilecek popüler bir nokta: Vuosaarenhuippu.",
+    "image": "https://picsum.photos/800/600?random=27",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 60.2268326,
+      "longitude": 25.1629803
+    },
+    "estimatedDuration": 63,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "ho_chi_minh_29",
+    "name": "Helsingfors Adventkyrka",
+    "description": "ho_chi_minh'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=28",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 60.1638043,
+      "longitude": 24.9416078
+    },
+    "estimatedDuration": 46,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 35,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "ho_chi_minh_30",
+    "name": "Helsingin vapaaseurakunta",
+    "description": "ho_chi_minh'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=29",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 60.162821,
+      "longitude": 24.9427987
+    },
+    "estimatedDuration": 82,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 174,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "ho_chi_minh_31",
+    "name": "Risto Rytin muistomerkki",
+    "description": "ho_chi_minh'de ziyaret edilebilecek popüler bir nokta: Risto Rytin muistomerkki.",
+    "image": "https://picsum.photos/800/600?random=30",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 60.1776068,
+      "longitude": 24.9288829
+    },
+    "estimatedDuration": 30,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "ho_chi_minh_32",
+    "name": "Vapaamuurarin hauta",
+    "description": "ho_chi_minh'de ziyaret edilebilecek popüler bir nokta: Vapaamuurarin hauta.",
+    "image": "https://picsum.photos/800/600?random=31",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 60.1760079,
+      "longitude": 24.9438466
+    },
+    "estimatedDuration": 65,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "ho_chi_minh_33",
+    "name": "Helsingin metodistiseurakunta",
+    "description": "ho_chi_minh'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=32",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 60.1616639,
+      "longitude": 24.9398243
+    },
+    "estimatedDuration": 50,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "ho_chi_minh_34",
+    "name": "Paavo Nurmi",
+    "description": "ho_chi_minh'de ziyaret edilebilecek popüler bir nokta: Paavo Nurmi.",
+    "image": "https://picsum.photos/800/600?random=33",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 60.1843244,
+      "longitude": 24.9268815
+    },
+    "estimatedDuration": 47,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "ho_chi_minh_35",
+    "name": "Uranus",
+    "description": "ho_chi_minh'de ziyaret edilebilecek popüler bir nokta: Uranus.",
+    "image": "https://picsum.photos/800/600?random=34",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 60.2008714,
+      "longitude": 24.824303
+    },
+    "estimatedDuration": 89,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "ho_chi_minh_36",
+    "name": "Voimalamuseo",
+    "description": "ho_chi_minh'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=35",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 60.2161203,
+      "longitude": 24.9806796
+    },
+    "estimatedDuration": 30,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "ho_chi_minh_37",
+    "name": "Vantaan Maatalousmuseo",
+    "description": "ho_chi_minh'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=36",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 60.2875717,
+      "longitude": 24.8754638
+    },
+    "estimatedDuration": 35,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "ho_chi_minh_38",
+    "name": "Maamme-laulun muistomerkki",
+    "description": "ho_chi_minh'de ziyaret edilebilecek popüler bir nokta: Maamme-laulun muistomerkki.",
+    "image": "https://picsum.photos/800/600?random=37",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 60.2046232,
+      "longitude": 24.9674798
+    },
+    "estimatedDuration": 45,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "ho_chi_minh_39",
+    "name": "Tannerin portti / Väinö Tannerin muistomerkki",
+    "description": "ho_chi_minh'de ziyaret edilebilecek popüler bir nokta: Tannerin portti / Väinö Tannerin muistomerkki.",
+    "image": "https://picsum.photos/800/600?random=38",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 60.1829945,
+      "longitude": 24.9583715
+    },
+    "estimatedDuration": 37,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 81,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "ho_chi_minh_40",
+    "name": "Surmansa saaneiden punavankien muistomerkki",
+    "description": "ho_chi_minh'de ziyaret edilebilecek popüler bir nokta: Surmansa saaneiden punavankien muistomerkki.",
+    "image": "https://picsum.photos/800/600?random=39",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 60.1469655,
+      "longitude": 25.0455643
+    },
+    "estimatedDuration": 61,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 157,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "ho_chi_minh_41",
+    "name": "Neptunus",
+    "description": "ho_chi_minh'de ziyaret edilebilecek popüler bir nokta: Neptunus.",
+    "image": "https://picsum.photos/800/600?random=40",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 60.1813049,
+      "longitude": 24.84395
+    },
+    "estimatedDuration": 70,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "ho_chi_minh_42",
+    "name": "Saturnus",
+    "description": "ho_chi_minh'de ziyaret edilebilecek popüler bir nokta: Saturnus.",
+    "image": "https://picsum.photos/800/600?random=41",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 60.2145614,
+      "longitude": 24.8785356
+    },
+    "estimatedDuration": 52,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 41,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "ho_chi_minh_43",
+    "name": "Tiedemuseo Liekki",
+    "description": "ho_chi_minh'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=42",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 60.1697263,
+      "longitude": 24.9495468
+    },
+    "estimatedDuration": 74,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "ho_chi_minh_44",
+    "name": "Kotiharjun sauna",
+    "description": "ho_chi_minh'de ziyaret edilebilecek popüler bir nokta: Kotiharjun sauna.",
+    "image": "https://picsum.photos/800/600?random=43",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 60.1865108,
+      "longitude": 24.9573407
+    },
+    "estimatedDuration": 31,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "ho_chi_minh_45",
+    "name": "Tapanilan kirkko",
+    "description": "ho_chi_minh'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=44",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 60.2659844,
+      "longitude": 25.0298958
+    },
+    "estimatedDuration": 38,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 191,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "ho_chi_minh_46",
+    "name": "Juhani Aho",
+    "description": "ho_chi_minh'de ziyaret edilebilecek popüler bir nokta: Juhani Aho.",
+    "image": "https://picsum.photos/800/600?random=45",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 60.1558784,
+      "longitude": 24.9379426
+    },
+    "estimatedDuration": 88,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "ho_chi_minh_47",
+    "name": "Kivistön kirkko",
+    "description": "ho_chi_minh'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=46",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 60.3180086,
+      "longitude": 24.8434763
+    },
+    "estimatedDuration": 38,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "ho_chi_minh_48",
+    "name": "Espoon automuseo",
+    "description": "ho_chi_minh'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=47",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 60.2755499,
+      "longitude": 24.6688687
+    },
+    "estimatedDuration": 46,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 8,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "ho_chi_minh_49",
+    "name": "Lasipalatsin salavan kanto",
+    "description": "ho_chi_minh'de ziyaret edilebilecek popüler bir nokta: Lasipalatsin salavan kanto.",
+    "image": "https://picsum.photos/800/600?random=48",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 60.2270165,
+      "longitude": 25.1599858
+    },
+    "estimatedDuration": 30,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 96,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "ho_chi_minh_50",
+    "name": "Arvo Turtiaisen muistomerkki",
+    "description": "ho_chi_minh'de ziyaret edilebilecek popüler bir nokta: Arvo Turtiaisen muistomerkki.",
+    "image": "https://picsum.photos/800/600?random=49",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 60.1839724,
+      "longitude": 24.9540862
+    },
+    "estimatedDuration": 74,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 23,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "ho_chi_minh_51",
+    "name": "HopLop",
+    "description": "ho_chi_minh'de ziyaret edilebilecek popüler bir nokta: HopLop.",
+    "image": "https://picsum.photos/800/600?random=50",
+    "category": "Eğlence",
+    "coordinates": {
+      "latitude": 60.2941211,
+      "longitude": 24.9456585
+    },
+    "estimatedDuration": 72,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Eğlence"
+    ]
+  },
+  {
+    "id": "ho_chi_minh_52",
+    "name": "Merkki",
+    "description": "ho_chi_minh'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=51",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 60.1657046,
+      "longitude": 24.9453401
+    },
+    "estimatedDuration": 51,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "ho_chi_minh_53",
+    "name": "Augustin Ehrensvärdin hauta",
+    "description": "ho_chi_minh'de ziyaret edilebilecek popüler bir nokta: Augustin Ehrensvärdin hauta.",
+    "image": "https://picsum.photos/800/600?random=52",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 60.1442574,
+      "longitude": 24.9851404
+    },
+    "estimatedDuration": 68,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 5,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "ho_chi_minh_54",
+    "name": "Adolf Erik Nordenskiöldin muistomerkki",
+    "description": "ho_chi_minh'de ziyaret edilebilecek popüler bir nokta: Adolf Erik Nordenskiöldin muistomerkki.",
+    "image": "https://picsum.photos/800/600?random=53",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 60.1541732,
+      "longitude": 24.9564017
+    },
+    "estimatedDuration": 53,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "ho_chi_minh_55",
+    "name": "Esirippu / Ida Aalbergin muistomerkki",
+    "description": "ho_chi_minh'de ziyaret edilebilecek popüler bir nokta: Esirippu / Ida Aalbergin muistomerkki.",
+    "image": "https://picsum.photos/800/600?random=54",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 60.173044,
+      "longitude": 24.9437742
+    },
+    "estimatedDuration": 84,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 149,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "ho_chi_minh_56",
+    "name": "Mortuis",
+    "description": "ho_chi_minh'de ziyaret edilebilecek popüler bir nokta: Mortuis.",
+    "image": "https://picsum.photos/800/600?random=55",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 60.1414798,
+      "longitude": 24.9860632
+    },
+    "estimatedDuration": 81,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "ho_chi_minh_57",
+    "name": "Sotamuseon Maneesi",
+    "description": "ho_chi_minh'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=56",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 60.1457744,
+      "longitude": 24.9889585
+    },
+    "estimatedDuration": 38,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "ho_chi_minh_58",
+    "name": "Aleksanteri II",
+    "description": "ho_chi_minh'de ziyaret edilebilecek popüler bir nokta: Aleksanteri II.",
+    "image": "https://picsum.photos/800/600?random=57",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 60.1695065,
+      "longitude": 24.9522692
+    },
+    "estimatedDuration": 53,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 192,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "ho_chi_minh_59",
+    "name": "Väestönsuojelumuseo",
+    "description": "ho_chi_minh'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=58",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 60.1764418,
+      "longitude": 24.9540705
+    },
+    "estimatedDuration": 66,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "ho_chi_minh_60",
+    "name": "Keisarinnankivi",
+    "description": "ho_chi_minh'de ziyaret edilebilecek popüler bir nokta: Keisarinnankivi.",
+    "image": "https://picsum.photos/800/600?random=59",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 60.1676605,
+      "longitude": 24.9544392
+    },
+    "estimatedDuration": 52,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  }
+]

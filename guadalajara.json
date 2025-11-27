@@ -1,0 +1,272 @@
+[
+  {
+    "id": "guadalajara_1",
+    "name": "Sea World",
+    "description": "guadalajara'de ziyaret edilebilecek popüler bir nokta: Sea World.",
+    "image": "https://picsum.photos/800/600?random=0",
+    "category": "Eğlence",
+    "coordinates": {
+      "latitude": -27.9584828,
+      "longitude": 153.4252935
+    },
+    "estimatedDuration": 48,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Eğlence"
+    ]
+  },
+  {
+    "id": "guadalajara_2",
+    "name": "Nickelodeon Land",
+    "description": "guadalajara'de ziyaret edilebilecek popüler bir nokta: Nickelodeon Land.",
+    "image": "https://picsum.photos/800/600?random=1",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -27.9576277,
+      "longitude": 153.4254803
+    },
+    "estimatedDuration": 86,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "guadalajara_3",
+    "name": "Leviathan",
+    "description": "guadalajara'de ziyaret edilebilecek popüler bir nokta: Leviathan.",
+    "image": "https://picsum.photos/800/600?random=2",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -27.9581893,
+      "longitude": 153.4262126
+    },
+    "estimatedDuration": 77,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "guadalajara_4",
+    "name": "North Nobby",
+    "description": "guadalajara'de ziyaret edilebilecek popüler bir nokta: North Nobby.",
+    "image": "https://picsum.photos/800/600?random=3",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -28.0620247,
+      "longitude": 153.4407414
+    },
+    "estimatedDuration": 66,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "guadalajara_5",
+    "name": "South Nobby Headland",
+    "description": "guadalajara'de ziyaret edilebilecek popüler bir nokta: South Nobby Headland.",
+    "image": "https://picsum.photos/800/600?random=4",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -28.0709657,
+      "longitude": 153.4450061
+    },
+    "estimatedDuration": 36,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 179,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "guadalajara_6",
+    "name": "Tumgun Lookout",
+    "description": "guadalajara'de ziyaret edilebilecek popüler bir nokta: Tumgun Lookout.",
+    "image": "https://picsum.photos/800/600?random=5",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -28.0919829,
+      "longitude": 153.4592569
+    },
+    "estimatedDuration": 69,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "guadalajara_7",
+    "name": "Gold Coast War Museum",
+    "description": "guadalajara'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=6",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": -28.099164,
+      "longitude": 153.3265716
+    },
+    "estimatedDuration": 69,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "guadalajara_10",
+    "name": "Jebbribillum Lookout",
+    "description": "guadalajara'de ziyaret edilebilecek popüler bir nokta: Jebbribillum Lookout.",
+    "image": "https://images.pexels.com/photos/2387866/pexels-photo-2387866.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -28.0908589,
+      "longitude": 153.4585535
+    },
+    "estimatedDuration": 57,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "guadalajara_11",
+    "name": "Mini Buddhas Yoga",
+    "description": "guadalajara'de ziyaret edilebilecek popüler bir nokta: Mini Buddhas Yoga.",
+    "image": "https://picsum.photos/800/600?random=10",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -28.1354595,
+      "longitude": 153.4751964
+    },
+    "estimatedDuration": 86,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "guadalajara_12",
+    "name": "Skypoint Observaton Deck",
+    "description": "guadalajara'de ziyaret edilebilecek popüler bir nokta: Skypoint Observaton Deck.",
+    "image": "https://picsum.photos/800/600?random=11",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -28.006308,
+      "longitude": 153.42966
+    },
+    "estimatedDuration": 43,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 96,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "guadalajara_13",
+    "name": "Gold Coast Wax Museum",
+    "description": "guadalajara'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=12",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": -27.9981002,
+      "longitude": 153.4269692
+    },
+    "estimatedDuration": 81,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "guadalajara_14",
+    "name": "Peace Pavilion",
+    "description": "guadalajara'de ziyaret edilebilecek popüler bir nokta: Peace Pavilion.",
+    "image": "https://picsum.photos/800/600?random=13",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -28.0008646,
+      "longitude": 153.4194834
+    },
+    "estimatedDuration": 45,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 107,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "guadalajara_15",
+    "name": "Regional Arboretum",
+    "description": "guadalajara'de ziyaret edilebilecek popüler bir nokta: Regional Arboretum.",
+    "image": "https://picsum.photos/800/600?random=14",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -28.007318,
+      "longitude": 153.3836703
+    },
+    "estimatedDuration": 45,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "guadalajara_16",
+    "name": "Seaway Kayaking Tour",
+    "description": "guadalajara'de ziyaret edilebilecek popüler bir nokta: Seaway Kayaking Tour.",
+    "image": "https://picsum.photos/800/600?random=15",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -27.9317906,
+      "longitude": 153.4059384
+    },
+    "estimatedDuration": 40,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "guadalajara_17",
+    "name": "Tree top challenge",
+    "description": "guadalajara'de ziyaret edilebilecek popüler bir nokta: Tree top challenge.",
+    "image": "https://picsum.photos/800/600?random=16",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -28.1368677,
+      "longitude": 153.4843329
+    },
+    "estimatedDuration": 47,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 37,
+    "interests": [
+      "Tarihi"
+    ]
+  }
+]

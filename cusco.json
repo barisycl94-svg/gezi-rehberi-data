@@ -1,0 +1,866 @@
+[
+  {
+    "id": "cusco_1",
+    "name": "Reformationsmonument",
+    "description": "cusco'de ziyaret edilebilecek popüler bir nokta: Reformationsmonument.",
+    "image": "https://picsum.photos/800/600?random=0",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 55.6791988,
+      "longitude": 12.5717541
+    },
+    "estimatedDuration": 80,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 47,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cusco_2",
+    "name": "Oxbjerget",
+    "description": "cusco'de ziyaret edilebilecek popüler bir nokta: Oxbjerget.",
+    "image": "https://picsum.photos/800/600?random=1",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 55.6872126,
+      "longitude": 12.4168973
+    },
+    "estimatedDuration": 56,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 114,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cusco_3",
+    "name": "Brumleby",
+    "description": "cusco'de ziyaret edilebilecek popüler bir nokta: Brumleby.",
+    "image": "https://picsum.photos/800/600?random=2",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 55.7010933,
+      "longitude": 12.5752343
+    },
+    "estimatedDuration": 57,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cusco_4",
+    "name": "Dansk Jødisk Museum",
+    "description": "cusco'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=3",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 55.6743653,
+      "longitude": 12.5823025
+    },
+    "estimatedDuration": 75,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "cusco_5",
+    "name": "Maglebjerg",
+    "description": "cusco'de ziyaret edilebilecek popüler bir nokta: Maglebjerg.",
+    "image": "https://picsum.photos/800/600?random=4",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 55.8486094,
+      "longitude": 12.4685555
+    },
+    "estimatedDuration": 48,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cusco_6",
+    "name": "Værløse Museum",
+    "description": "cusco'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=5",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 55.78534,
+      "longitude": 12.3769733
+    },
+    "estimatedDuration": 37,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "cusco_7",
+    "name": "Medicinsk Museion",
+    "description": "cusco'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=6",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 55.6859579,
+      "longitude": 12.5918956
+    },
+    "estimatedDuration": 69,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "cusco_8",
+    "name": "Davids Samling",
+    "description": "cusco'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=7",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 55.6842796,
+      "longitude": 12.5823849
+    },
+    "estimatedDuration": 58,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "cusco_9",
+    "name": "Johann Hartwig Ernst von Bernstorff",
+    "description": "cusco'de ziyaret edilebilecek popüler bir nokta: Johann Hartwig Ernst von Bernstorff.",
+    "image": "https://picsum.photos/800/600?random=8",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 55.7355173,
+      "longitude": 12.5426848
+    },
+    "estimatedDuration": 53,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cusco_10",
+    "name": "Monument over Danmarks internationale indsats",
+    "description": "cusco'de ziyaret edilebilecek popüler bir nokta: Monument over Danmarks internationale indsats.",
+    "image": "https://picsum.photos/800/600?random=9",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 55.692286,
+      "longitude": 12.5960623
+    },
+    "estimatedDuration": 55,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cusco_11",
+    "name": "Trippendals Galge",
+    "description": "cusco'de ziyaret edilebilecek popüler bir nokta: Trippendals Galge.",
+    "image": "https://picsum.photos/800/600?random=10",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 55.678532,
+      "longitude": 12.3571387
+    },
+    "estimatedDuration": 46,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cusco_12",
+    "name": "Gildhøj",
+    "description": "cusco'de ziyaret edilebilecek popüler bir nokta: Gildhøj.",
+    "image": "https://picsum.photos/800/600?random=11",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 55.6544068,
+      "longitude": 12.4162835
+    },
+    "estimatedDuration": 72,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cusco_13",
+    "name": "Emiliekilde",
+    "description": "cusco'de ziyaret edilebilecek popüler bir nokta: Emiliekilde.",
+    "image": "https://picsum.photos/800/600?random=12",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 55.7723835,
+      "longitude": 12.5942367
+    },
+    "estimatedDuration": 63,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 103,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cusco_14",
+    "name": "Mindesmærke for den svenske fæstningslejr Carlstad",
+    "description": "cusco'de ziyaret edilebilecek popüler bir nokta: Mindesmærke for den svenske fæstningslejr Carlstad.",
+    "image": "https://picsum.photos/800/600?random=13",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 55.7039779,
+      "longitude": 12.4985154
+    },
+    "estimatedDuration": 51,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cusco_15",
+    "name": "Hjortholm Voldsted",
+    "description": "cusco'de ziyaret edilebilecek popüler bir nokta: Hjortholm Voldsted.",
+    "image": "https://picsum.photos/800/600?random=14",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 55.7844198,
+      "longitude": 12.4432243
+    },
+    "estimatedDuration": 39,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cusco_16",
+    "name": "Henrettelsesskur",
+    "description": "cusco'de ziyaret edilebilecek popüler bir nokta: Henrettelsesskur.",
+    "image": "https://picsum.photos/800/600?random=15",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 55.679908,
+      "longitude": 12.6136112
+    },
+    "estimatedDuration": 33,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cusco_17",
+    "name": "Corfitz Ulfeldts Skamstøtte",
+    "description": "cusco'de ziyaret edilebilecek popüler bir nokta: Corfitz Ulfeldts Skamstøtte.",
+    "image": "https://picsum.photos/800/600?random=16",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 55.6746079,
+      "longitude": 12.575396
+    },
+    "estimatedDuration": 57,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cusco_18",
+    "name": "Kongernes Samling Amalienborg",
+    "description": "cusco'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=17",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 55.6844546,
+      "longitude": 12.5924522
+    },
+    "estimatedDuration": 71,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "cusco_19",
+    "name": "Kongernes Samling Rosenborg",
+    "description": "cusco'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=18",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 55.6857558,
+      "longitude": 12.5773221
+    },
+    "estimatedDuration": 46,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "cusco_20",
+    "name": "Steno",
+    "description": "cusco'de ziyaret edilebilecek popüler bir nokta: Steno.",
+    "image": "https://picsum.photos/800/600?random=19",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 55.6968919,
+      "longitude": 12.5610144
+    },
+    "estimatedDuration": 85,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cusco_21",
+    "name": "Druknestenen",
+    "description": "cusco'de ziyaret edilebilecek popüler bir nokta: Druknestenen.",
+    "image": "https://picsum.photos/800/600?random=20",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 55.6835669,
+      "longitude": 12.5559123
+    },
+    "estimatedDuration": 45,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cusco_22",
+    "name": "Kongernes Lapidarium",
+    "description": "cusco'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=21",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 55.6731268,
+      "longitude": 12.5797395
+    },
+    "estimatedDuration": 75,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "cusco_23",
+    "name": "Magasin du Nord Museum",
+    "description": "cusco'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=22",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 55.6787536,
+      "longitude": 12.5840098
+    },
+    "estimatedDuration": 41,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "cusco_24",
+    "name": "Danmark-Ekspeditionen",
+    "description": "cusco'de ziyaret edilebilecek popüler bir nokta: Danmark-Ekspeditionen.",
+    "image": "https://picsum.photos/800/600?random=23",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 55.6948598,
+      "longitude": 12.6002319
+    },
+    "estimatedDuration": 62,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cusco_25",
+    "name": "Livjægermonumentet",
+    "description": "cusco'de ziyaret edilebilecek popüler bir nokta: Livjægermonumentet.",
+    "image": "https://picsum.photos/800/600?random=24",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 55.6974843,
+      "longitude": 12.5889426
+    },
+    "estimatedDuration": 76,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cusco_26",
+    "name": "Dansk Arkitektur Center",
+    "description": "cusco'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=25",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 55.6719886,
+      "longitude": 12.5790588
+    },
+    "estimatedDuration": 46,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "cusco_27",
+    "name": "Copenhagen Contemporary",
+    "description": "cusco'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=26",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 55.6934116,
+      "longitude": 12.6135976
+    },
+    "estimatedDuration": 81,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "cusco_28",
+    "name": "Finlandiastenen",
+    "description": "cusco'de ziyaret edilebilecek popüler bir nokta: Finlandiastenen.",
+    "image": "https://picsum.photos/800/600?random=27",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 55.6892902,
+      "longitude": 12.3909554
+    },
+    "estimatedDuration": 59,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cusco_29",
+    "name": "Den Kongelige Afstøbningssamling",
+    "description": "cusco'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=28",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 55.6860973,
+      "longitude": 12.5974023
+    },
+    "estimatedDuration": 43,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "cusco_30",
+    "name": "Vejprisen",
+    "description": "cusco'de ziyaret edilebilecek popüler bir nokta: Vejprisen.",
+    "image": "https://picsum.photos/800/600?random=29",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 55.6679772,
+      "longitude": 12.5556619
+    },
+    "estimatedDuration": 33,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cusco_31",
+    "name": "Jens Olsens Verdensur",
+    "description": "cusco'de ziyaret edilebilecek popüler bir nokta: Jens Olsens Verdensur.",
+    "image": "https://picsum.photos/800/600?random=30",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 55.6755396,
+      "longitude": 12.5694732
+    },
+    "estimatedDuration": 47,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 174,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cusco_32",
+    "name": "Gråbrødretorv",
+    "description": "cusco'de ziyaret edilebilecek popüler bir nokta: Gråbrødretorv.",
+    "image": "https://picsum.photos/800/600?random=31",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 55.6798604,
+      "longitude": 12.5759083
+    },
+    "estimatedDuration": 76,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cusco_33",
+    "name": "Botanisk Have",
+    "description": "cusco şehrinde doğa ile iç içe bir park.",
+    "image": "https://picsum.photos/800/600?random=32",
+    "category": "Park",
+    "coordinates": {
+      "latitude": 55.6869382,
+      "longitude": 12.5739952
+    },
+    "estimatedDuration": 35,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 112,
+    "interests": [
+      "Park"
+    ]
+  },
+  {
+    "id": "cusco_34",
+    "name": "Flakfortet",
+    "description": "cusco'in tarihine tanıklık eden bir kale.",
+    "image": "https://picsum.photos/800/600?random=33",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 55.7034192,
+      "longitude": 12.7315987
+    },
+    "estimatedDuration": 86,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cusco_35",
+    "name": "Mindelunden",
+    "description": "cusco şehrinde doğa ile iç içe bir park.",
+    "image": "https://picsum.photos/800/600?random=34",
+    "category": "Park",
+    "coordinates": {
+      "latitude": 55.7258905,
+      "longitude": 12.5659327
+    },
+    "estimatedDuration": 69,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Park"
+    ]
+  },
+  {
+    "id": "cusco_36",
+    "name": "Lyngbyfortet",
+    "description": "cusco'de ziyaret edilebilecek popüler bir nokta: Lyngbyfortet.",
+    "image": "https://picsum.photos/800/600?random=35",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 55.7611142,
+      "longitude": 12.4909391
+    },
+    "estimatedDuration": 80,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 95,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cusco_37",
+    "name": "Dyrehavsbakken",
+    "description": "cusco'de ziyaret edilebilecek popüler bir nokta: Dyrehavsbakken.",
+    "image": "https://picsum.photos/800/600?random=36",
+    "category": "Eğlence",
+    "coordinates": {
+      "latitude": 55.7757387,
+      "longitude": 12.5750124
+    },
+    "estimatedDuration": 72,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Eğlence"
+    ]
+  },
+  {
+    "id": "cusco_38",
+    "name": "Amagertorv",
+    "description": "cusco'de ziyaret edilebilecek popüler bir nokta: Amagertorv.",
+    "image": "https://picsum.photos/800/600?random=37",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 55.6787877,
+      "longitude": 12.5782809
+    },
+    "estimatedDuration": 75,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cusco_39",
+    "name": "Krigsmuseet",
+    "description": "cusco'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=38",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 55.6742622,
+      "longitude": 12.5803046
+    },
+    "estimatedDuration": 41,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "cusco_40",
+    "name": "Det Kongelige Biblioteks Have",
+    "description": "cusco şehrinde doğa ile iç içe bir park.",
+    "image": "https://picsum.photos/800/600?random=39",
+    "category": "Park",
+    "coordinates": {
+      "latitude": 55.6746383,
+      "longitude": 12.5812986
+    },
+    "estimatedDuration": 55,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Park"
+    ]
+  },
+  {
+    "id": "cusco_41",
+    "name": "Vor Frue Kirke",
+    "description": "cusco'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=40",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 55.6793765,
+      "longitude": 12.5727306
+    },
+    "estimatedDuration": 62,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 119,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cusco_42",
+    "name": "Den Hirschsprungske Samling",
+    "description": "cusco'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=41",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 55.6899139,
+      "longitude": 12.5774813
+    },
+    "estimatedDuration": 56,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "cusco_43",
+    "name": "Statens Museum for Kunst",
+    "description": "cusco'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=42",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 55.6887542,
+      "longitude": 12.5783495
+    },
+    "estimatedDuration": 84,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "cusco_44",
+    "name": "Det Kongelige Teater",
+    "description": "cusco'de ziyaret edilebilecek popüler bir nokta: Det Kongelige Teater.",
+    "image": "https://picsum.photos/800/600?random=43",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 55.6790619,
+      "longitude": 12.5864547
+    },
+    "estimatedDuration": 46,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 120,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cusco_45",
+    "name": "Børsen",
+    "description": "cusco'de ziyaret edilebilecek popüler bir nokta: Børsen.",
+    "image": "https://picsum.photos/800/600?random=44",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 55.6755172,
+      "longitude": 12.584026
+    },
+    "estimatedDuration": 89,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cusco_46",
+    "name": "Christiansborg Slotskirke",
+    "description": "cusco'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=45",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 55.6770485,
+      "longitude": 12.5793612
+    },
+    "estimatedDuration": 32,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 149,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cusco_47",
+    "name": "Grundtvigs Kirke",
+    "description": "cusco'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=46",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 55.7165844,
+      "longitude": 12.5338941
+    },
+    "estimatedDuration": 66,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "cusco_48",
+    "name": "Rosenborg Slot",
+    "description": "cusco'in tarihine tanıklık eden bir kale.",
+    "image": "https://picsum.photos/800/600?random=47",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 55.6856872,
+      "longitude": 12.5774333
+    },
+    "estimatedDuration": 66,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  }
+]

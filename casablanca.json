@@ -1,0 +1,254 @@
+[
+  {
+    "id": "casablanca_1",
+    "name": "Puro Caballo",
+    "description": "casablanca'de ziyaret edilebilecek popüler bir nokta: Puro Caballo.",
+    "image": "https://picsum.photos/800/600?random=0",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -33.4274874,
+      "longitude": -71.4203872
+    },
+    "estimatedDuration": 43,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "casablanca_2",
+    "name": "Viña Casas del Bosque",
+    "description": "casablanca'de ziyaret edilebilecek popüler bir nokta: Viña Casas del Bosque.",
+    "image": "https://picsum.photos/800/600?random=1",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -33.3187933,
+      "longitude": -71.4355008
+    },
+    "estimatedDuration": 79,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "casablanca_3",
+    "name": "Viña William Cole",
+    "description": "casablanca'de ziyaret edilebilecek popüler bir nokta: Viña William Cole.",
+    "image": "https://picsum.photos/800/600?random=2",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -33.3169398,
+      "longitude": -71.3488642
+    },
+    "estimatedDuration": 86,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 29,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "casablanca_4",
+    "name": "Museo Arqueológico y Antropológico de Casablanca",
+    "description": "casablanca'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=3",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": -33.3206622,
+      "longitude": -71.4112624
+    },
+    "estimatedDuration": 48,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "casablanca_5",
+    "name": "Viña Quintay",
+    "description": "casablanca'de ziyaret edilebilecek popüler bir nokta: Viña Quintay.",
+    "image": "https://picsum.photos/800/600?random=4",
+    "category": "Alışveriş",
+    "coordinates": {
+      "latitude": -33.3557365,
+      "longitude": -71.3297805
+    },
+    "estimatedDuration": 38,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Alışveriş"
+    ]
+  },
+  {
+    "id": "casablanca_6",
+    "name": "Viña Emiliana",
+    "description": "casablanca'de ziyaret edilebilecek popüler bir nokta: Viña Emiliana.",
+    "image": "https://picsum.photos/800/600?random=5",
+    "category": "Alışveriş",
+    "coordinates": {
+      "latitude": -33.3595661,
+      "longitude": -71.309756
+    },
+    "estimatedDuration": 70,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 99,
+    "interests": [
+      "Alışveriş"
+    ]
+  },
+  {
+    "id": "casablanca_7",
+    "name": "Estancia El Cuadro",
+    "description": "casablanca'de ziyaret edilebilecek popüler bir nokta: Estancia El Cuadro.",
+    "image": "https://images.pexels.com/photos/6027582/pexels-photo-6027582.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Alışveriş",
+    "coordinates": {
+      "latitude": -33.2673027,
+      "longitude": -71.2872918
+    },
+    "estimatedDuration": 54,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Alışveriş"
+    ]
+  },
+  {
+    "id": "casablanca_8",
+    "name": "Viña Kingston",
+    "description": "casablanca'de ziyaret edilebilecek popüler bir nokta: Viña Kingston.",
+    "image": "https://picsum.photos/800/600?random=7",
+    "category": "Alışveriş",
+    "coordinates": {
+      "latitude": -33.3172178,
+      "longitude": -71.4607228
+    },
+    "estimatedDuration": 67,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Alışveriş"
+    ]
+  },
+  {
+    "id": "casablanca_9",
+    "name": "Bodegas Re",
+    "description": "casablanca'de ziyaret edilebilecek popüler bir nokta: Bodegas Re.",
+    "image": "https://picsum.photos/800/600?random=8",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -33.304247,
+      "longitude": -71.3976778
+    },
+    "estimatedDuration": 51,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "casablanca_10",
+    "name": "Viña La Recova",
+    "description": "casablanca'de ziyaret edilebilecek popüler bir nokta: Viña La Recova.",
+    "image": "https://picsum.photos/800/600?random=9",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -33.2603146,
+      "longitude": -71.5374566
+    },
+    "estimatedDuration": 67,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 70,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "casablanca_11",
+    "name": "Letrero Casablanca",
+    "description": "casablanca'de ziyaret edilebilecek popüler bir nokta: Letrero Casablanca.",
+    "image": "https://picsum.photos/800/600?random=10",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -33.3084984,
+      "longitude": -71.4093307
+    },
+    "estimatedDuration": 53,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "casablanca_13",
+    "name": "Viña Veramonte",
+    "description": "casablanca'de ziyaret edilebilecek popüler bir nokta: Viña Veramonte.",
+    "image": "https://picsum.photos/800/600?random=12",
+    "category": "Alışveriş",
+    "coordinates": {
+      "latitude": -33.3705695,
+      "longitude": -71.2940821
+    },
+    "estimatedDuration": 82,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Alışveriş"
+    ]
+  },
+  {
+    "id": "casablanca_14",
+    "name": "Viña Casablanca",
+    "description": "casablanca'de ziyaret edilebilecek popüler bir nokta: Viña Casablanca.",
+    "image": "https://picsum.photos/800/600?random=13",
+    "category": "Alışveriş",
+    "coordinates": {
+      "latitude": -33.3562603,
+      "longitude": -71.3269078
+    },
+    "estimatedDuration": 62,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Alışveriş"
+    ]
+  },
+  {
+    "id": "casablanca_15",
+    "name": "Río Tinto",
+    "description": "casablanca'de ziyaret edilebilecek popüler bir nokta: Río Tinto.",
+    "image": "https://picsum.photos/800/600?random=14",
+    "category": "Alışveriş",
+    "coordinates": {
+      "latitude": -33.3477865,
+      "longitude": -71.3471943
+    },
+    "estimatedDuration": 61,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Alışveriş"
+    ]
+  }
+]

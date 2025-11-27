@@ -1,0 +1,1082 @@
+[
+  {
+    "id": "san_francisco_1",
+    "name": "Dragon's Gate",
+    "description": "san_francisco'de ziyaret edilebilecek popüler bir nokta: Dragon's Gate.",
+    "image": "https://picsum.photos/800/600?random=0",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 37.7906877,
+      "longitude": -122.4055936
+    },
+    "estimatedDuration": 84,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "san_francisco_2",
+    "name": "World War II Memorial",
+    "description": "san_francisco'de ziyaret edilebilecek popüler bir nokta: World War II Memorial.",
+    "image": "https://images.pexels.com/photos/2090095/pexels-photo-2090095.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 37.7986078,
+      "longitude": -122.477965
+    },
+    "estimatedDuration": 50,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "san_francisco_3",
+    "name": "Sather Gate",
+    "description": "san_francisco'de ziyaret edilebilecek popüler bir nokta: Sather Gate.",
+    "image": "https://picsum.photos/800/600?random=2",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 37.8702403,
+      "longitude": -122.259509
+    },
+    "estimatedDuration": 79,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "san_francisco_4",
+    "name": "Holocaust Memorial",
+    "description": "san_francisco'de ziyaret edilebilecek popüler bir nokta: Holocaust Memorial.",
+    "image": "https://picsum.photos/800/600?random=3",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 37.7856405,
+      "longitude": -122.4999779
+    },
+    "estimatedDuration": 35,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 68,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "san_francisco_5",
+    "name": "Alameda Museum",
+    "description": "san_francisco'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=4",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 37.7635013,
+      "longitude": -122.244089
+    },
+    "estimatedDuration": 63,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "san_francisco_6",
+    "name": "George Sterling Memorial",
+    "description": "san_francisco'de ziyaret edilebilecek popüler bir nokta: George Sterling Memorial.",
+    "image": "https://picsum.photos/800/600?random=5",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 37.8017451,
+      "longitude": -122.4210813
+    },
+    "estimatedDuration": 88,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 66,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "san_francisco_7",
+    "name": "Musée Mécanique",
+    "description": "san_francisco'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=6",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 37.8092456,
+      "longitude": -122.415794
+    },
+    "estimatedDuration": 33,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "san_francisco_8",
+    "name": "Golden State Model Railroad Museum",
+    "description": "san_francisco'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=7",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 37.9152529,
+      "longitude": -122.3835547
+    },
+    "estimatedDuration": 81,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "san_francisco_9",
+    "name": "Benjamin Franklin",
+    "description": "san_francisco'de ziyaret edilebilecek popüler bir nokta: Benjamin Franklin.",
+    "image": "https://picsum.photos/800/600?random=8",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 37.8008204,
+      "longitude": -122.4100127
+    },
+    "estimatedDuration": 44,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "san_francisco_10",
+    "name": "Exploratorium",
+    "description": "san_francisco'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=9",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 37.800906,
+      "longitude": -122.398523
+    },
+    "estimatedDuration": 61,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "san_francisco_11",
+    "name": "Lone Sailor Monument",
+    "description": "san_francisco'de ziyaret edilebilecek popüler bir nokta: Lone Sailor Monument.",
+    "image": "https://picsum.photos/800/600?random=10",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 37.8326602,
+      "longitude": -122.47995
+    },
+    "estimatedDuration": 81,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 14,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "san_francisco_12",
+    "name": "Painted Ladies",
+    "description": "san_francisco'de ziyaret edilebilecek popüler bir nokta: Painted Ladies.",
+    "image": "https://picsum.photos/800/600?random=11",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 37.7762241,
+      "longitude": -122.4327862
+    },
+    "estimatedDuration": 43,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 52,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "san_francisco_13",
+    "name": "African American Museum and Library at Oakland",
+    "description": "san_francisco'de bulunan önemli bir müze.",
+    "image": "https://images.pexels.com/photos/6334064/pexels-photo-6334064.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 37.8061524,
+      "longitude": -122.276398
+    },
+    "estimatedDuration": 83,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "san_francisco_14",
+    "name": "Pier 39 Sea Lions",
+    "description": "san_francisco'de ziyaret edilebilecek popüler bir nokta: Pier 39 Sea Lions.",
+    "image": "https://picsum.photos/800/600?random=13",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 37.8106359,
+      "longitude": -122.41158
+    },
+    "estimatedDuration": 89,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "san_francisco_15",
+    "name": "Top of the Mark",
+    "description": "san_francisco'de ziyaret edilebilecek popüler bir nokta: Top of the Mark.",
+    "image": "https://picsum.photos/800/600?random=14",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 37.7916237,
+      "longitude": -122.4104078
+    },
+    "estimatedDuration": 56,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "san_francisco_16",
+    "name": "GLBT History Museum",
+    "description": "san_francisco'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=15",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 37.7607664,
+      "longitude": -122.435607
+    },
+    "estimatedDuration": 63,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "san_francisco_17",
+    "name": "SOUTH SAN FRANCISCO THE INDUSTRIAL CITY",
+    "description": "san_francisco'de ziyaret edilebilecek popüler bir nokta: SOUTH SAN FRANCISCO THE INDUSTRIAL CITY.",
+    "image": "https://picsum.photos/800/600?random=16",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 37.6633725,
+      "longitude": -122.4181018
+    },
+    "estimatedDuration": 31,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "san_francisco_18",
+    "name": "Sun Yat-sen's statue",
+    "description": "san_francisco'de ziyaret edilebilecek popüler bir nokta: Sun Yat-sen's statue.",
+    "image": "https://picsum.photos/800/600?random=17",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 37.7920186,
+      "longitude": -122.4054905
+    },
+    "estimatedDuration": 37,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 76,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "san_francisco_19",
+    "name": "Tightwad Hill",
+    "description": "san_francisco'de ziyaret edilebilecek popüler bir nokta: Tightwad Hill.",
+    "image": "https://picsum.photos/800/600?random=18",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 37.8726181,
+      "longitude": -122.2508317
+    },
+    "estimatedDuration": 64,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "san_francisco_20",
+    "name": "Tin How Temple",
+    "description": "san_francisco'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=19",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 37.7945605,
+      "longitude": -122.4070074
+    },
+    "estimatedDuration": 64,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "san_francisco_21",
+    "name": "11th Avenue Buddha",
+    "description": "san_francisco'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=20",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 37.7947051,
+      "longitude": -122.2442535
+    },
+    "estimatedDuration": 85,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "san_francisco_22",
+    "name": "The Museum of Art and Digital Entertainment",
+    "description": "san_francisco'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=21",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 37.8019816,
+      "longitude": -122.274411
+    },
+    "estimatedDuration": 43,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "san_francisco_23",
+    "name": "Muir Beach Overlook",
+    "description": "san_francisco'de ziyaret edilebilecek popüler bir nokta: Muir Beach Overlook.",
+    "image": "https://picsum.photos/800/600?random=22",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 37.8628105,
+      "longitude": -122.585724
+    },
+    "estimatedDuration": 32,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "san_francisco_24",
+    "name": "Lombard Street",
+    "description": "san_francisco'de ziyaret edilebilecek popüler bir nokta: Lombard Street.",
+    "image": "https://picsum.photos/800/600?random=23",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 37.8021196,
+      "longitude": -122.418716
+    },
+    "estimatedDuration": 67,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 135,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "san_francisco_25",
+    "name": "Southern Exposure",
+    "description": "san_francisco'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=24",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 37.759331,
+      "longitude": -122.4114628
+    },
+    "estimatedDuration": 85,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "san_francisco_26",
+    "name": "International Art Museum of America",
+    "description": "san_francisco'de bulunan önemli bir müze.",
+    "image": "https://images.pexels.com/photos/15019313/pexels-photo-15019313.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 37.7814568,
+      "longitude": -122.4107385
+    },
+    "estimatedDuration": 77,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "san_francisco_27",
+    "name": "\"Comfort Women\" Column of Strength",
+    "description": "san_francisco'de ziyaret edilebilecek popüler bir nokta: \"Comfort Women\" Column of Strength.",
+    "image": "https://picsum.photos/800/600?random=26",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 37.7918138,
+      "longitude": -122.4044868
+    },
+    "estimatedDuration": 44,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "san_francisco_28",
+    "name": "Letterform Archive",
+    "description": "san_francisco'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=27",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 37.7598247,
+      "longitude": -122.388244
+    },
+    "estimatedDuration": 39,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "san_francisco_29",
+    "name": "Chabot Space and Science Center",
+    "description": "san_francisco'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=28",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 37.8184631,
+      "longitude": -122.1806867
+    },
+    "estimatedDuration": 38,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 39,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "san_francisco_30",
+    "name": "Fisherman's Wharf",
+    "description": "san_francisco'de ziyaret edilebilecek popüler bir nokta: Fisherman's Wharf.",
+    "image": "https://picsum.photos/800/600?random=29",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 37.8081325,
+      "longitude": -122.4165913
+    },
+    "estimatedDuration": 61,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "san_francisco_31",
+    "name": "Skystar Wheel - Fisherman’s Wharf",
+    "description": "san_francisco'de ziyaret edilebilecek popüler bir nokta: Skystar Wheel - Fisherman’s Wharf.",
+    "image": "https://images.pexels.com/photos/20385941/pexels-photo-20385941.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Eğlence",
+    "coordinates": {
+      "latitude": 37.8087297,
+      "longitude": -122.413413
+    },
+    "estimatedDuration": 52,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Eğlence"
+    ]
+  },
+  {
+    "id": "san_francisco_32",
+    "name": "Sather Tower",
+    "description": "san_francisco'de ziyaret edilebilecek popüler bir nokta: Sather Tower.",
+    "image": "https://picsum.photos/800/600?random=31",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 37.8720577,
+      "longitude": -122.2578158
+    },
+    "estimatedDuration": 64,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "san_francisco_33",
+    "name": "Lawrence Hall of Science",
+    "description": "san_francisco'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=32",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 37.8792009,
+      "longitude": -122.2466936
+    },
+    "estimatedDuration": 55,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "san_francisco_34",
+    "name": "Transamerica Pyramid",
+    "description": "san_francisco'de ziyaret edilebilecek popüler bir nokta: Transamerica Pyramid.",
+    "image": "https://picsum.photos/800/600?random=33",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 37.7951663,
+      "longitude": -122.4027858
+    },
+    "estimatedDuration": 81,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 190,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "san_francisco_35",
+    "name": "Asian Art Museum of San Francisco",
+    "description": "san_francisco'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=34",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 37.7802181,
+      "longitude": -122.4159904
+    },
+    "estimatedDuration": 79,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 32,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "san_francisco_36",
+    "name": "Tilden Park Merry-Go-Round",
+    "description": "san_francisco'de ziyaret edilebilecek popüler bir nokta: Tilden Park Merry-Go-Round.",
+    "image": "https://picsum.photos/800/600?random=35",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 37.9006187,
+      "longitude": -122.2560121
+    },
+    "estimatedDuration": 64,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 189,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "san_francisco_37",
+    "name": "Warden's House",
+    "description": "san_francisco'de ziyaret edilebilecek popüler bir nokta: Warden's House.",
+    "image": "https://picsum.photos/800/600?random=36",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 37.8263164,
+      "longitude": -122.4219151
+    },
+    "estimatedDuration": 44,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "san_francisco_38",
+    "name": "Coit Tower",
+    "description": "san_francisco'de ziyaret edilebilecek popüler bir nokta: Coit Tower.",
+    "image": "https://picsum.photos/800/600?random=37",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 37.8023773,
+      "longitude": -122.405834
+    },
+    "estimatedDuration": 52,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "san_francisco_39",
+    "name": "Saints Peter and Paul Church",
+    "description": "san_francisco'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=38",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 37.8015938,
+      "longitude": -122.4102725
+    },
+    "estimatedDuration": 80,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "san_francisco_40",
+    "name": "Cable Car Powerhouse and Barn",
+    "description": "san_francisco'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=39",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 37.7948846,
+      "longitude": -122.4119197
+    },
+    "estimatedDuration": 51,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "san_francisco_41",
+    "name": "Gurdwara Sahib",
+    "description": "san_francisco'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=40",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 37.9597479,
+      "longitude": -122.3167214
+    },
+    "estimatedDuration": 63,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "san_francisco_42",
+    "name": "Conservatory of Flowers",
+    "description": "san_francisco'de ziyaret edilebilecek popüler bir nokta: Conservatory of Flowers.",
+    "image": "https://picsum.photos/800/600?random=41",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 37.7726137,
+      "longitude": -122.4602223
+    },
+    "estimatedDuration": 74,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "san_francisco_43",
+    "name": "Japanese Tea Garden",
+    "description": "san_francisco'de ziyaret edilebilecek popüler bir nokta: Japanese Tea Garden.",
+    "image": "https://picsum.photos/800/600?random=42",
+    "category": "Park",
+    "coordinates": {
+      "latitude": 37.7703429,
+      "longitude": -122.4700521
+    },
+    "estimatedDuration": 65,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 198,
+    "interests": [
+      "Park"
+    ]
+  },
+  {
+    "id": "san_francisco_44",
+    "name": "Sutro Baths",
+    "description": "san_francisco'de ziyaret edilebilecek popüler bir nokta: Sutro Baths.",
+    "image": "https://picsum.photos/800/600?random=43",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 37.7801415,
+      "longitude": -122.5137957
+    },
+    "estimatedDuration": 54,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "san_francisco_45",
+    "name": "City Lights Booksellers",
+    "description": "san_francisco'de ziyaret edilebilecek popüler bir nokta: City Lights Booksellers.",
+    "image": "https://picsum.photos/800/600?random=44",
+    "category": "Alışveriş",
+    "coordinates": {
+      "latitude": 37.7976347,
+      "longitude": -122.4065733
+    },
+    "estimatedDuration": 55,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Alışveriş"
+    ]
+  },
+  {
+    "id": "san_francisco_46",
+    "name": "Grace Cathedral",
+    "description": "san_francisco'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=45",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 37.7918332,
+      "longitude": -122.4134968
+    },
+    "estimatedDuration": 47,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 22,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "san_francisco_47",
+    "name": "Saint Dominic's Roman Catholic Church",
+    "description": "san_francisco'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=46",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 37.787038,
+      "longitude": -122.4357533
+    },
+    "estimatedDuration": 50,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "san_francisco_48",
+    "name": "Temple Sherith Israel",
+    "description": "san_francisco'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=47",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 37.7894505,
+      "longitude": -122.431962
+    },
+    "estimatedDuration": 79,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "san_francisco_49",
+    "name": "Magnes Collection of Jewish Art and Life",
+    "description": "san_francisco'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=48",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 37.8698004,
+      "longitude": -122.2668851
+    },
+    "estimatedDuration": 79,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "san_francisco_50",
+    "name": "San Francisco Museum of Modern Art",
+    "description": "san_francisco'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=49",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 37.7859355,
+      "longitude": -122.4006294
+    },
+    "estimatedDuration": 77,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "san_francisco_51",
+    "name": "First Unitarian Church of Oakland",
+    "description": "san_francisco'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=50",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 37.8063077,
+      "longitude": -122.2769258
+    },
+    "estimatedDuration": 66,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "san_francisco_52",
+    "name": "Oakland California Temple",
+    "description": "san_francisco'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=51",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 37.807817,
+      "longitude": -122.1990995
+    },
+    "estimatedDuration": 80,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "san_francisco_53",
+    "name": "Wat Mongkolratanaram",
+    "description": "san_francisco'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=52",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 37.8564521,
+      "longitude": -122.2707439
+    },
+    "estimatedDuration": 70,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "san_francisco_54",
+    "name": "USS Hornet (CV 12)",
+    "description": "san_francisco'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=53",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 37.7727399,
+      "longitude": -122.3028839
+    },
+    "estimatedDuration": 88,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "san_francisco_55",
+    "name": "San Francisco Botanical Garden",
+    "description": "san_francisco'de ziyaret edilebilecek popüler bir nokta: San Francisco Botanical Garden.",
+    "image": "https://picsum.photos/800/600?random=54",
+    "category": "Park",
+    "coordinates": {
+      "latitude": 37.7673689,
+      "longitude": -122.4716324
+    },
+    "estimatedDuration": 40,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Park"
+    ]
+  },
+  {
+    "id": "san_francisco_56",
+    "name": "Alma",
+    "description": "san_francisco'de ziyaret edilebilecek popüler bir nokta: Alma.",
+    "image": "https://picsum.photos/800/600?random=55",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 37.8103608,
+      "longitude": -122.4227901
+    },
+    "estimatedDuration": 49,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "san_francisco_57",
+    "name": "USS Pampanito",
+    "description": "san_francisco'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=56",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 37.8099574,
+      "longitude": -122.416401
+    },
+    "estimatedDuration": 81,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 101,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "san_francisco_58",
+    "name": "Camera Obscura",
+    "description": "san_francisco'de ziyaret edilebilecek popüler bir nokta: Camera Obscura.",
+    "image": "https://picsum.photos/800/600?random=57",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 37.7782625,
+      "longitude": -122.5142287
+    },
+    "estimatedDuration": 41,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "san_francisco_59",
+    "name": "USS Potomac",
+    "description": "san_francisco'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=58",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 37.7953385,
+      "longitude": -122.2801063
+    },
+    "estimatedDuration": 88,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "san_francisco_60",
+    "name": "Lightship Relief",
+    "description": "san_francisco'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=59",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 37.7956928,
+      "longitude": -122.2806207
+    },
+    "estimatedDuration": 56,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  }
+]

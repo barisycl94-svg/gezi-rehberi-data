@@ -1,0 +1,128 @@
+[
+  {
+    "id": "adana_1",
+    "name": "Adana Müzesi",
+    "description": "adana'de bulunan önemli bir müze.",
+    "image": "https://images.pexels.com/photos/30475050/pexels-photo-30475050.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 36.9950525,
+      "longitude": 35.3131496
+    },
+    "estimatedDuration": 48,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "adana_2",
+    "name": "Bebekli Kilise",
+    "description": "adana'in tarihi ibadet yapılarından biri.",
+    "image": "https://images.pexels.com/photos/28757287/pexels-photo-28757287.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 36.9875363,
+      "longitude": 35.3258637
+    },
+    "estimatedDuration": 54,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 133,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "adana_3",
+    "name": "Yeni Cami",
+    "description": "adana'in tarihi ibadet yapılarından biri.",
+    "image": "https://images.pexels.com/photos/22481150/pexels-photo-22481150.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 36.9884057,
+      "longitude": 35.3236854
+    },
+    "estimatedDuration": 53,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "adana_4",
+    "name": "Yağ Camii",
+    "description": "adana'in tarihi ibadet yapılarından biri.",
+    "image": "https://images.pexels.com/photos/34885641/pexels-photo-34885641.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 36.9836519,
+      "longitude": 35.3271368
+    },
+    "estimatedDuration": 58,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 37,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "adana_5",
+    "name": "Ulu Camii",
+    "description": "adana'in tarihi ibadet yapılarından biri.",
+    "image": "https://images.pexels.com/photos/21175934/pexels-photo-21175934.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 36.9848529,
+      "longitude": 35.3308936
+    },
+    "estimatedDuration": 41,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 119,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "adana_6",
+    "name": "Çukurova Üniversitesi 57. Alay Şehitleri Camii",
+    "description": "adana'in tarihi ibadet yapılarından biri.",
+    "image": "https://images.pexels.com/photos/34852947/pexels-photo-34852947.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 37.0605511,
+      "longitude": 35.3651808
+    },
+    "estimatedDuration": 79,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 163,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "adana_7",
+    "name": "Taș Köprü",
+    "description": "adana'de ziyaret edilebilecek popüler bir nokta: Taș Köprü.",
+    "image": "https://images.pexels.com/photos/8156936/pexels-photo-8156936.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 36.9862688,
+      "longitude": 35.3350324
+    },
+    "estimatedDuration": 85,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  }
+]

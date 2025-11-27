@@ -1,0 +1,164 @@
+[
+  {
+    "id": "kocaeli_1",
+    "name": "Yeni Cuma Camii",
+    "description": "kocaeli'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=0",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 40.7627303,
+      "longitude": 29.9310305
+    },
+    "estimatedDuration": 45,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "kocaeli_2",
+    "name": "TCG Hızırreis",
+    "description": "kocaeli'de bulunan önemli bir müze.",
+    "image": "https://images.pexels.com/photos/9661252/pexels-photo-9661252.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 40.760132,
+      "longitude": 29.9166123
+    },
+    "estimatedDuration": 86,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 164,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "kocaeli_3",
+    "name": "TCG Gayret",
+    "description": "kocaeli'de bulunan önemli bir müze.",
+    "image": "https://images.pexels.com/photos/9343494/pexels-photo-9343494.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 40.7601422,
+      "longitude": 29.9167612
+    },
+    "estimatedDuration": 81,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "kocaeli_4",
+    "name": "Kasr-ı Hümayün Av Köşkü",
+    "description": "kocaeli'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=3",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 40.763088,
+      "longitude": 29.9206077
+    },
+    "estimatedDuration": 38,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "kocaeli_5",
+    "name": "Fevziye Cami",
+    "description": "kocaeli'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=4",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 40.7626263,
+      "longitude": 29.9255836
+    },
+    "estimatedDuration": 82,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "kocaeli_6",
+    "name": "Yumurtacı Cami",
+    "description": "kocaeli'in tarihi ibadet yapılarından biri.",
+    "image": "https://images.pexels.com/photos/10937263/pexels-photo-10937263.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 40.7649067,
+      "longitude": 29.9211218
+    },
+    "estimatedDuration": 89,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "kocaeli_7",
+    "name": "Orhan Cami",
+    "description": "kocaeli'in tarihi ibadet yapılarından biri.",
+    "image": "https://images.pexels.com/photos/10937263/pexels-photo-10937263.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 40.7685039,
+      "longitude": 29.9196973
+    },
+    "estimatedDuration": 36,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "kocaeli_8",
+    "name": "İzmit Deprem Farkındalık ve Anma Müzesi",
+    "description": "kocaeli'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=7",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 40.7823132,
+      "longitude": 29.9515469
+    },
+    "estimatedDuration": 53,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 64,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "kocaeli_9",
+    "name": "Yarhisar Gemisi Müzesi",
+    "description": "kocaeli'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=8",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 40.7233975,
+      "longitude": 29.8352121
+    },
+    "estimatedDuration": 54,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  }
+]

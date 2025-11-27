@@ -1,0 +1,1064 @@
+[
+  {
+    "id": "tallinn_1",
+    "name": "Eduard Vilde memoriaal",
+    "description": "tallinn'de ziyaret edilebilecek popüler bir nokta: Eduard Vilde memoriaal.",
+    "image": "https://picsum.photos/800/600?random=0",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 59.4362056,
+      "longitude": 24.7435835
+    },
+    "estimatedDuration": 66,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "tallinn_2",
+    "name": "Russalka monument",
+    "description": "tallinn'de ziyaret edilebilecek popüler bir nokta: Russalka monument.",
+    "image": "https://picsum.photos/800/600?random=1",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 59.4433685,
+      "longitude": 24.7939874
+    },
+    "estimatedDuration": 46,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 88,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "tallinn_3",
+    "name": "ORP \"Orzeł\" incident",
+    "description": "tallinn'de ziyaret edilebilecek popüler bir nokta: ORP \"Orzeł\" incident.",
+    "image": "https://picsum.photos/800/600?random=2",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 59.4424777,
+      "longitude": 24.7493278
+    },
+    "estimatedDuration": 81,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 103,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "tallinn_4",
+    "name": "Lastepargi kivi",
+    "description": "tallinn'de ziyaret edilebilecek popüler bir nokta: Lastepargi kivi.",
+    "image": "https://picsum.photos/800/600?random=3",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 59.4368361,
+      "longitude": 24.7894804
+    },
+    "estimatedDuration": 81,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "tallinn_5",
+    "name": "Raeapteek",
+    "description": "tallinn'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=4",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 59.4377315,
+      "longitude": 24.7459364
+    },
+    "estimatedDuration": 89,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "tallinn_6",
+    "name": "Michael Park",
+    "description": "tallinn'de ziyaret edilebilecek popüler bir nokta: Michael Park.",
+    "image": "https://picsum.photos/800/600?random=5",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 59.4593396,
+      "longitude": 24.8135668
+    },
+    "estimatedDuration": 52,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "tallinn_7",
+    "name": "Johan Pitka",
+    "description": "tallinn'de ziyaret edilebilecek popüler bir nokta: Johan Pitka.",
+    "image": "https://picsum.photos/800/600?random=6",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 59.4334132,
+      "longitude": 24.7392469
+    },
+    "estimatedDuration": 55,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 170,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "tallinn_8",
+    "name": "Vabadussõja võidusammas",
+    "description": "tallinn'de ziyaret edilebilecek popüler bir nokta: Vabadussõja võidusammas.",
+    "image": "https://picsum.photos/800/600?random=7",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 59.4340375,
+      "longitude": 24.7430555
+    },
+    "estimatedDuration": 62,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "tallinn_9",
+    "name": "Gustav Ernesaksa monument",
+    "description": "tallinn'de ziyaret edilebilecek popüler bir nokta: Gustav Ernesaksa monument.",
+    "image": "https://picsum.photos/800/600?random=8",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 59.4436913,
+      "longitude": 24.8098719
+    },
+    "estimatedDuration": 63,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "tallinn_10",
+    "name": "Charles Leroux",
+    "description": "tallinn'de ziyaret edilebilecek popüler bir nokta: Charles Leroux.",
+    "image": "https://picsum.photos/800/600?random=9",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 59.459238,
+      "longitude": 24.813262
+    },
+    "estimatedDuration": 87,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "tallinn_11",
+    "name": "Fr. R. Kreutzwaldi ausammas",
+    "description": "tallinn'de ziyaret edilebilecek popüler bir nokta: Fr. R. Kreutzwaldi ausammas.",
+    "image": "https://picsum.photos/800/600?random=10",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 59.4376109,
+      "longitude": 24.7872051
+    },
+    "estimatedDuration": 42,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "tallinn_12",
+    "name": "Männiku hiidrahn",
+    "description": "tallinn'de ziyaret edilebilecek popüler bir nokta: Männiku hiidrahn.",
+    "image": "https://picsum.photos/800/600?random=11",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 59.3638923,
+      "longitude": 24.7368732
+    },
+    "estimatedDuration": 44,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 5,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "tallinn_13",
+    "name": "Kabelikivi",
+    "description": "tallinn'de ziyaret edilebilecek popüler bir nokta: Kabelikivi.",
+    "image": "https://picsum.photos/800/600?random=12",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 59.4869292,
+      "longitude": 24.9481348
+    },
+    "estimatedDuration": 79,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 93,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "tallinn_14",
+    "name": "A. H. Tammsaare Muuseum Tallinnas",
+    "description": "tallinn'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=13",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 59.4377871,
+      "longitude": 24.7785715
+    },
+    "estimatedDuration": 84,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 28,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "tallinn_15",
+    "name": "Metsanurme Koduloomuuseum",
+    "description": "tallinn'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=14",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 59.2676499,
+      "longitude": 24.6637118
+    },
+    "estimatedDuration": 69,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 99,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "tallinn_16",
+    "name": "Eesti Ajaloomuuseum",
+    "description": "tallinn'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=15",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 59.438368,
+      "longitude": 24.7451652
+    },
+    "estimatedDuration": 66,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "tallinn_17",
+    "name": "Eesti Meremuuseum",
+    "description": "tallinn'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=16",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 59.4424047,
+      "longitude": 24.7494089
+    },
+    "estimatedDuration": 58,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 128,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "tallinn_18",
+    "name": "Eesti Juudi muuseum",
+    "description": "tallinn'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=17",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 59.4387118,
+      "longitude": 24.7660916
+    },
+    "estimatedDuration": 68,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "tallinn_19",
+    "name": "Eduard Vilde muuseum",
+    "description": "tallinn'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=18",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 59.4365346,
+      "longitude": 24.7853386
+    },
+    "estimatedDuration": 85,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "tallinn_20",
+    "name": "Eesti Sõjamuuseum – kindral Laidoneri muuseum",
+    "description": "tallinn'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=19",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 59.5014588,
+      "longitude": 24.8345574
+    },
+    "estimatedDuration": 60,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 75,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "tallinn_21",
+    "name": "Jaan Koorti monument",
+    "description": "tallinn'de ziyaret edilebilecek popüler bir nokta: Jaan Koorti monument.",
+    "image": "https://picsum.photos/800/600?random=20",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 59.4398586,
+      "longitude": 24.7907107
+    },
+    "estimatedDuration": 45,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 50,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "tallinn_22",
+    "name": "Ernst Peterson-Särgava",
+    "description": "tallinn'de ziyaret edilebilecek popüler bir nokta: Ernst Peterson-Särgava.",
+    "image": "https://picsum.photos/800/600?random=21",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 59.4336383,
+      "longitude": 24.7501807
+    },
+    "estimatedDuration": 32,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "tallinn_23",
+    "name": "Reaali Poiss",
+    "description": "tallinn'de ziyaret edilebilecek popüler bir nokta: Reaali Poiss.",
+    "image": "https://picsum.photos/800/600?random=22",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 59.4340445,
+      "longitude": 24.7493955
+    },
+    "estimatedDuration": 36,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "tallinn_24",
+    "name": "20. august 1991",
+    "description": "tallinn'de ziyaret edilebilecek popüler bir nokta: 20. august 1991.",
+    "image": "https://picsum.photos/800/600?random=23",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 59.4346279,
+      "longitude": 24.7389604
+    },
+    "estimatedDuration": 42,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 20,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "tallinn_25",
+    "name": "Mart Saar",
+    "description": "tallinn'de ziyaret edilebilecek popüler bir nokta: Mart Saar.",
+    "image": "https://picsum.photos/800/600?random=24",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 59.4390162,
+      "longitude": 24.7777843
+    },
+    "estimatedDuration": 80,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 128,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "tallinn_26",
+    "name": "Apollo skulptuur",
+    "description": "tallinn'de ziyaret edilebilecek popüler bir nokta: Apollo skulptuur.",
+    "image": "https://picsum.photos/800/600?random=25",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 59.4368037,
+      "longitude": 24.7936768
+    },
+    "estimatedDuration": 46,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "tallinn_27",
+    "name": "Marie Under",
+    "description": "tallinn'de ziyaret edilebilecek popüler bir nokta: Marie Under.",
+    "image": "https://picsum.photos/800/600?random=26",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 59.4305488,
+      "longitude": 24.7401341
+    },
+    "estimatedDuration": 33,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "tallinn_28",
+    "name": "Paul Keres",
+    "description": "tallinn'de ziyaret edilebilecek popüler bir nokta: Paul Keres.",
+    "image": "https://picsum.photos/800/600?random=27",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 59.4289868,
+      "longitude": 24.7426844
+    },
+    "estimatedDuration": 84,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "tallinn_29",
+    "name": "Fjodor Dostojevski",
+    "description": "tallinn'de ziyaret edilebilecek popüler bir nokta: Fjodor Dostojevski.",
+    "image": "https://picsum.photos/800/600?random=28",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 59.4387484,
+      "longitude": 24.7529856
+    },
+    "estimatedDuration": 57,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "tallinn_30",
+    "name": "Nikolai von Glehn",
+    "description": "tallinn'de ziyaret edilebilecek popüler bir nokta: Nikolai von Glehn.",
+    "image": "https://picsum.photos/800/600?random=29",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 59.3893193,
+      "longitude": 24.6832488
+    },
+    "estimatedDuration": 74,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "tallinn_31",
+    "name": "Amandus Adamson",
+    "description": "tallinn'de ziyaret edilebilecek popüler bir nokta: Amandus Adamson.",
+    "image": "https://picsum.photos/800/600?random=30",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 59.4394625,
+      "longitude": 24.7903166
+    },
+    "estimatedDuration": 66,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 134,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "tallinn_32",
+    "name": "Georg Lurich",
+    "description": "tallinn'de ziyaret edilebilecek popüler bir nokta: Georg Lurich.",
+    "image": "https://picsum.photos/800/600?random=31",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 59.4642649,
+      "longitude": 24.8281558
+    },
+    "estimatedDuration": 34,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "tallinn_33",
+    "name": "Memoriaal hukkunud päästjate mälestuseks",
+    "description": "tallinn'de ziyaret edilebilecek popüler bir nokta: Memoriaal hukkunud päästjate mälestuseks.",
+    "image": "https://picsum.photos/800/600?random=32",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 59.413814,
+      "longitude": 24.6991016
+    },
+    "estimatedDuration": 57,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 37,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "tallinn_34",
+    "name": "A. H. Tammsaare",
+    "description": "tallinn'de ziyaret edilebilecek popüler bir nokta: A. H. Tammsaare.",
+    "image": "https://picsum.photos/800/600?random=33",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 59.4354791,
+      "longitude": 24.7528992
+    },
+    "estimatedDuration": 35,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "tallinn_35",
+    "name": "1905. aasta revolutsiooni monument",
+    "description": "tallinn'de ziyaret edilebilecek popüler bir nokta: 1905. aasta revolutsiooni monument.",
+    "image": "https://picsum.photos/800/600?random=34",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 59.4350966,
+      "longitude": 24.7495418
+    },
+    "estimatedDuration": 45,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "tallinn_36",
+    "name": "Tramm 1888",
+    "description": "tallinn'de ziyaret edilebilecek popüler bir nokta: Tramm 1888.",
+    "image": "https://picsum.photos/800/600?random=35",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 59.4213694,
+      "longitude": 24.7436053
+    },
+    "estimatedDuration": 69,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "tallinn_37",
+    "name": "Jaan Poska",
+    "description": "tallinn'de ziyaret edilebilecek popüler bir nokta: Jaan Poska.",
+    "image": "https://picsum.photos/800/600?random=36",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 59.4380618,
+      "longitude": 24.7856151
+    },
+    "estimatedDuration": 59,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "tallinn_38",
+    "name": "Mõigu kalmistu",
+    "description": "tallinn'de ziyaret edilebilecek popüler bir nokta: Mõigu kalmistu.",
+    "image": "https://picsum.photos/800/600?random=37",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 59.4083846,
+      "longitude": 24.8011465
+    },
+    "estimatedDuration": 31,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "tallinn_39",
+    "name": "Merivälja UFO",
+    "description": "tallinn'de ziyaret edilebilecek popüler bir nokta: Merivälja UFO.",
+    "image": "https://picsum.photos/800/600?random=38",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 59.495997,
+      "longitude": 24.8366805
+    },
+    "estimatedDuration": 35,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 135,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "tallinn_40",
+    "name": "Solidaarsus",
+    "description": "tallinn'de ziyaret edilebilecek popüler bir nokta: Solidaarsus.",
+    "image": "https://picsum.photos/800/600?random=39",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 59.4334662,
+      "longitude": 24.7448965
+    },
+    "estimatedDuration": 88,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "tallinn_41",
+    "name": "Raua tänava lahingu mälestuskivi",
+    "description": "tallinn'de ziyaret edilebilecek popüler bir nokta: Raua tänava lahingu mälestuskivi.",
+    "image": "https://picsum.photos/800/600?random=40",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 59.4356543,
+      "longitude": 24.7657224
+    },
+    "estimatedDuration": 55,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "tallinn_42",
+    "name": "In memoriam Blasius Hogreve",
+    "description": "tallinn'de ziyaret edilebilecek popüler bir nokta: In memoriam Blasius Hogreve.",
+    "image": "https://picsum.photos/800/600?random=41",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 59.4141896,
+      "longitude": 24.7370416
+    },
+    "estimatedDuration": 46,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 40,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "tallinn_43",
+    "name": "EMK Uue Alguse Kogudus",
+    "description": "tallinn'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=42",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 59.4376326,
+      "longitude": 24.7133938
+    },
+    "estimatedDuration": 79,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 186,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "tallinn_44",
+    "name": "PVL 109 Valvas",
+    "description": "tallinn'de ziyaret edilebilecek popüler bir nokta: PVL 109 Valvas.",
+    "image": "https://picsum.photos/800/600?random=43",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 59.4531474,
+      "longitude": 24.7358877
+    },
+    "estimatedDuration": 86,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "tallinn_45",
+    "name": "Juudi kalmistu mälestuskivi",
+    "description": "tallinn'de ziyaret edilebilecek popüler bir nokta: Juudi kalmistu mälestuskivi.",
+    "image": "https://picsum.photos/800/600?random=44",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 59.424058,
+      "longitude": 24.7548803
+    },
+    "estimatedDuration": 32,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 20,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "tallinn_46",
+    "name": "1924. aasta 1. detsembri riigipöördekatse käigus hukkunud kadettide monument",
+    "description": "tallinn'de ziyaret edilebilecek popüler bir nokta: 1924. aasta 1. detsembri riigipöördekatse käigus hukkunud kadettide monument.",
+    "image": "https://picsum.photos/800/600?random=45",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 59.4046872,
+      "longitude": 24.717321
+    },
+    "estimatedDuration": 78,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "tallinn_47",
+    "name": "Heino Eller",
+    "description": "tallinn'de ziyaret edilebilecek popüler bir nokta: Heino Eller.",
+    "image": "https://picsum.photos/800/600?random=46",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 59.4343845,
+      "longitude": 24.7457575
+    },
+    "estimatedDuration": 65,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "tallinn_48",
+    "name": "Kristjan Raua monument",
+    "description": "tallinn'de ziyaret edilebilecek popüler bir nokta: Kristjan Raua monument.",
+    "image": "https://picsum.photos/800/600?random=47",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 59.4332125,
+      "longitude": 24.7351735
+    },
+    "estimatedDuration": 80,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "tallinn_49",
+    "name": "Vladimir Lenin",
+    "description": "tallinn'de ziyaret edilebilecek popüler bir nokta: Vladimir Lenin.",
+    "image": "https://picsum.photos/800/600?random=48",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 59.4524045,
+      "longitude": 24.8112095
+    },
+    "estimatedDuration": 49,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "tallinn_50",
+    "name": "Jüri Vabadussõja mälestussammas",
+    "description": "tallinn'de ziyaret edilebilecek popüler bir nokta: Jüri Vabadussõja mälestussammas.",
+    "image": "https://picsum.photos/800/600?random=49",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 59.3596296,
+      "longitude": 24.9230158
+    },
+    "estimatedDuration": 47,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "tallinn_51",
+    "name": "Eestikeelse piibli 250. aastapäeva mälestusmärk",
+    "description": "tallinn'de ziyaret edilebilecek popüler bir nokta: Eestikeelse piibli 250. aastapäeva mälestusmärk.",
+    "image": "https://picsum.photos/800/600?random=50",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 59.3597009,
+      "longitude": 24.9226335
+    },
+    "estimatedDuration": 30,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 151,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "tallinn_52",
+    "name": "Balti keti mälestuskivi",
+    "description": "tallinn'de ziyaret edilebilecek popüler bir nokta: Balti keti mälestuskivi.",
+    "image": "https://picsum.photos/800/600?random=51",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 59.4341084,
+      "longitude": 24.742058
+    },
+    "estimatedDuration": 48,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 194,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "tallinn_53",
+    "name": "Kristjan Palusalu",
+    "description": "tallinn'de ziyaret edilebilecek popüler bir nokta: Kristjan Palusalu.",
+    "image": "https://picsum.photos/800/600?random=52",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 59.4282405,
+      "longitude": 24.7606287
+    },
+    "estimatedDuration": 64,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "tallinn_54",
+    "name": "Pirita sõjavangide kalmistu mälestusrist",
+    "description": "tallinn'de ziyaret edilebilecek popüler bir nokta: Pirita sõjavangide kalmistu mälestusrist.",
+    "image": "https://picsum.photos/800/600?random=53",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 59.4710593,
+      "longitude": 24.8505787
+    },
+    "estimatedDuration": 38,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "tallinn_55",
+    "name": "Vabadussõjas langenud raudteelaste mälestustahvel",
+    "description": "tallinn'de ziyaret edilebilecek popüler bir nokta: Vabadussõjas langenud raudteelaste mälestustahvel.",
+    "image": "https://picsum.photos/800/600?random=54",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 59.4415218,
+      "longitude": 24.7322658
+    },
+    "estimatedDuration": 34,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "tallinn_56",
+    "name": "Vabadussõja juhtide mälestussammas",
+    "description": "tallinn'de ziyaret edilebilecek popüler bir nokta: Vabadussõja juhtide mälestussammas.",
+    "image": "https://picsum.photos/800/600?random=55",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 59.4223513,
+      "longitude": 24.7663851
+    },
+    "estimatedDuration": 53,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "tallinn_57",
+    "name": "Balti pataljoni mälestussammas",
+    "description": "tallinn'de ziyaret edilebilecek popüler bir nokta: Balti pataljoni mälestussammas.",
+    "image": "https://picsum.photos/800/600?random=56",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 59.4369092,
+      "longitude": 24.7409502
+    },
+    "estimatedDuration": 60,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "tallinn_58",
+    "name": "Adam Johann von Krusenstern",
+    "description": "tallinn'de ziyaret edilebilecek popüler bir nokta: Adam Johann von Krusenstern.",
+    "image": "https://picsum.photos/800/600?random=57",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 59.4516847,
+      "longitude": 24.7291864
+    },
+    "estimatedDuration": 85,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "tallinn_59",
+    "name": "Mälestusmärk Eesti sõduritele",
+    "description": "tallinn'de ziyaret edilebilecek popüler bir nokta: Mälestusmärk Eesti sõduritele.",
+    "image": "https://picsum.photos/800/600?random=58",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 59.3896581,
+      "longitude": 24.9412056
+    },
+    "estimatedDuration": 37,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 79,
+    "interests": [
+      "Tarihi"
+    ]
+  }
+]

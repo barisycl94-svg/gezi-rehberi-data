@@ -1,0 +1,146 @@
+[
+  {
+    "id": "fethiye_1",
+    "name": "Çağdaş Cam Sanatları Müzesi",
+    "description": "fethiye'de bulunan önemli bir müze.",
+    "image": "https://images.pexels.com/photos/34928280/pexels-photo-34928280.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 39.7651502,
+      "longitude": 30.5218728
+    },
+    "estimatedDuration": 52,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "fethiye_2",
+    "name": "Kurtuluş Müzesi",
+    "description": "fethiye'de bulunan önemli bir müze.",
+    "image": "https://images.pexels.com/photos/17683299/pexels-photo-17683299.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 39.7646958,
+      "longitude": 30.5235716
+    },
+    "estimatedDuration": 37,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "fethiye_3",
+    "name": "Ulus Meydanı",
+    "description": "fethiye'de ziyaret edilebilecek popüler bir nokta: Ulus Meydanı.",
+    "image": "https://picsum.photos/800/600?random=2",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 39.7806108,
+      "longitude": 30.5113662
+    },
+    "estimatedDuration": 46,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "fethiye_4",
+    "name": "Şarhöyük",
+    "description": "fethiye'de ziyaret edilebilecek popüler bir nokta: Şarhöyük.",
+    "image": "https://picsum.photos/800/600?random=3",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 39.7996338,
+      "longitude": 30.5360074
+    },
+    "estimatedDuration": 46,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 10,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "fethiye_5",
+    "name": "Reşadiye Cami",
+    "description": "fethiye'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=4",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 39.771292,
+      "longitude": 30.5168747
+    },
+    "estimatedDuration": 78,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 130,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "fethiye_6",
+    "name": "Alaaddin Camii",
+    "description": "fethiye'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=5",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 39.7667308,
+      "longitude": 30.523977
+    },
+    "estimatedDuration": 88,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "fethiye_7",
+    "name": "Eskişehir Hayvanat Bahçesi",
+    "description": "fethiye'de ziyaret edilebilecek popüler bir nokta: Eskişehir Hayvanat Bahçesi.",
+    "image": "https://picsum.photos/800/600?random=6",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 39.7686212,
+      "longitude": 30.4741404
+    },
+    "estimatedDuration": 30,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "fethiye_8",
+    "name": "Karacahisar Kalesi",
+    "description": "fethiye'de ziyaret edilebilecek popüler bir nokta: Karacahisar Kalesi.",
+    "image": "https://picsum.photos/800/600?random=7",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 39.7329345,
+      "longitude": 30.4460549
+    },
+    "estimatedDuration": 47,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  }
+]

@@ -1,0 +1,218 @@
+[
+  {
+    "id": "marmaris_1",
+    "name": "Kızkumu",
+    "description": "marmaris'de ziyaret edilebilecek popüler bir nokta: Kızkumu.",
+    "image": "https://picsum.photos/800/600?random=0",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 36.757459,
+      "longitude": 28.1300287
+    },
+    "estimatedDuration": 34,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "marmaris_2",
+    "name": "Amos Ancient City",
+    "description": "marmaris'de ziyaret edilebilecek popüler bir nokta: Amos Ancient City.",
+    "image": "https://images.pexels.com/photos/34932494/pexels-photo-34932494.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 36.7574162,
+      "longitude": 28.2688069
+    },
+    "estimatedDuration": 58,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "marmaris_3",
+    "name": "Marmaris Kalesi",
+    "description": "marmaris'in tarihine tanıklık eden bir kale.",
+    "image": "https://picsum.photos/800/600?random=2",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 36.8505637,
+      "longitude": 28.2742596
+    },
+    "estimatedDuration": 31,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "marmaris_4",
+    "name": "Anıtsal Çınar / memorial Platan tree",
+    "description": "marmaris'de ziyaret edilebilecek popüler bir nokta: Anıtsal Çınar / memorial Platan tree.",
+    "image": "https://picsum.photos/800/600?random=3",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 36.7938402,
+      "longitude": 28.1423488
+    },
+    "estimatedDuration": 34,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "marmaris_5",
+    "name": "Nimara Bay",
+    "description": "marmaris'de ziyaret edilebilecek popüler bir nokta: Bilinmeyen Yer.",
+    "image": "https://picsum.photos/800/600?random=4",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 36.8065301,
+      "longitude": 28.2982155
+    },
+    "estimatedDuration": 74,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "marmaris_6",
+    "name": "A nice view to the Marmaris bay",
+    "description": "marmaris'de ziyaret edilebilecek popüler bir nokta: Bilinmeyen Yer.",
+    "image": "https://images.pexels.com/photos/3016350/pexels-photo-3016350.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 36.8432308,
+      "longitude": 28.2340671
+    },
+    "estimatedDuration": 35,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "marmaris_8",
+    "name": "View point",
+    "description": "marmaris'de ziyaret edilebilecek popüler bir nokta: View point.",
+    "image": "https://picsum.photos/800/600?random=7",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 36.8747393,
+      "longitude": 28.2726018
+    },
+    "estimatedDuration": 70,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "marmaris_9",
+    "name": "Marmaris",
+    "description": "marmaris'de ziyaret edilebilecek popüler bir nokta: Marmaris.",
+    "image": "https://picsum.photos/800/600?random=8",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 36.8518703,
+      "longitude": 28.2666799
+    },
+    "estimatedDuration": 50,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "marmaris_10",
+    "name": "Marmaris Müzesi",
+    "description": "marmaris'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=9",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 36.8506284,
+      "longitude": 28.274299
+    },
+    "estimatedDuration": 74,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "marmaris_11",
+    "name": "Fotoğraf Yeri",
+    "description": "marmaris'de ziyaret edilebilecek popüler bir nokta: Fotoğraf Yeri.",
+    "image": "https://picsum.photos/800/600?random=10",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 36.8534961,
+      "longitude": 28.2778171
+    },
+    "estimatedDuration": 89,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 8,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "marmaris_12",
+    "name": "BAR Street",
+    "description": "marmaris'de ziyaret edilebilecek popüler bir nokta: BAR Street.",
+    "image": "https://picsum.photos/800/600?random=11",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 36.8533958,
+      "longitude": 28.2765968
+    },
+    "estimatedDuration": 70,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "marmaris_13",
+    "name": "Затопленный корабль",
+    "description": "marmaris'de ziyaret edilebilecek popüler bir nokta: Затопленный корабль.",
+    "image": "https://picsum.photos/800/600?random=12",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 36.801435,
+      "longitude": 28.2719521
+    },
+    "estimatedDuration": 38,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  }
+]

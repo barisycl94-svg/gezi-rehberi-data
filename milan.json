@@ -1,0 +1,182 @@
+[
+  {
+    "id": "milan_1",
+    "name": "Dillon Memorial Fountain",
+    "description": "milan'de ziyaret edilebilecek popüler bir nokta: Dillon Memorial Fountain.",
+    "image": "https://images.pexels.com/photos/34931568/pexels-photo-34931568.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.5199496,
+      "longitude": -90.5755905
+    },
+    "estimatedDuration": 73,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 48,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "milan_2",
+    "name": "Soldier's Monument",
+    "description": "milan'de ziyaret edilebilecek popüler bir nokta: Soldier's Monument.",
+    "image": "https://picsum.photos/800/600?random=1",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.5312661,
+      "longitude": -90.5755277
+    },
+    "estimatedDuration": 71,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "milan_3",
+    "name": "Campbell's Island State Memorial",
+    "description": "milan'de ziyaret edilebilecek popüler bir nokta: Campbell's Island State Memorial.",
+    "image": "https://picsum.photos/800/600?random=2",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.5384065,
+      "longitude": -90.4365346
+    },
+    "estimatedDuration": 49,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 155,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "milan_4",
+    "name": "Camp McClellan",
+    "description": "milan'de ziyaret edilebilecek popüler bir nokta: Camp McClellan.",
+    "image": "https://picsum.photos/800/600?random=3",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.5307562,
+      "longitude": -90.5425231
+    },
+    "estimatedDuration": 39,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "milan_5",
+    "name": "Hose Station No. 4",
+    "description": "milan'de bulunan önemli bir müze.",
+    "image": "https://images.pexels.com/photos/11116151/pexels-photo-11116151.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 41.5308957,
+      "longitude": -90.5440028
+    },
+    "estimatedDuration": 53,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "milan_6",
+    "name": "John Hauberg Indian Museum",
+    "description": "milan'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=5",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 41.4642525,
+      "longitude": -90.5728256
+    },
+    "estimatedDuration": 74,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "milan_7",
+    "name": "Saint Paul Lutheran Church of Davenport",
+    "description": "milan'in tarihi ibadet yapılarından biri.",
+    "image": "https://images.pexels.com/photos/5050222/pexels-photo-5050222.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.5413525,
+      "longitude": -90.57479
+    },
+    "estimatedDuration": 35,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "milan_8",
+    "name": "Saint Marys Church",
+    "description": "milan'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=7",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.525432,
+      "longitude": -90.594733
+    },
+    "estimatedDuration": 37,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "milan_9",
+    "name": "First Church of Christ, Scientist",
+    "description": "milan'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=8",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.5046683,
+      "longitude": -90.5696059
+    },
+    "estimatedDuration": 53,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "milan_10",
+    "name": "Niabi Zoo",
+    "description": "milan'de ziyaret edilebilecek popüler bir nokta: Niabi Zoo.",
+    "image": "https://picsum.photos/800/600?random=9",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.4422767,
+      "longitude": -90.4353933
+    },
+    "estimatedDuration": 57,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 24,
+    "interests": [
+      "Tarihi"
+    ]
+  }
+]

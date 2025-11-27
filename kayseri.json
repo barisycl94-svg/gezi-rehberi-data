@@ -1,0 +1,254 @@
+[
+  {
+    "id": "kayseri_1",
+    "name": "Mimar Sinan",
+    "description": "kayseri'de ziyaret edilebilecek popüler bir nokta: Mimar Sinan.",
+    "image": "https://picsum.photos/800/600?random=0",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 38.7231096,
+      "longitude": 35.4841018
+    },
+    "estimatedDuration": 70,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "kayseri_2",
+    "name": "Hunat Hatun Külliyesi",
+    "description": "kayseri'de ziyaret edilebilecek popüler bir nokta: Hunat Hatun Külliyesi.",
+    "image": "https://picsum.photos/800/600?random=1",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 38.720869,
+      "longitude": 35.4910241
+    },
+    "estimatedDuration": 65,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "kayseri_3",
+    "name": "Kayseri Arkeoloji Müzesi",
+    "description": "kayseri'de bulunan önemli bir müze.",
+    "image": "https://images.pexels.com/photos/33237631/pexels-photo-33237631.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 38.7210638,
+      "longitude": 35.4884747
+    },
+    "estimatedDuration": 55,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 8,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "kayseri_4",
+    "name": "Kültepe",
+    "description": "kayseri'de ziyaret edilebilecek popüler bir nokta: Kültepe.",
+    "image": "https://picsum.photos/800/600?random=3",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 38.8506054,
+      "longitude": 35.6345692
+    },
+    "estimatedDuration": 54,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 199,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "kayseri_5",
+    "name": "Bürüngüz Cami",
+    "description": "kayseri'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=4",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 38.7214302,
+      "longitude": 35.487241
+    },
+    "estimatedDuration": 47,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "kayseri_6",
+    "name": "Hatıroğlu Cami",
+    "description": "kayseri'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=5",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 38.7173577,
+      "longitude": 35.4858816
+    },
+    "estimatedDuration": 60,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "kayseri_7",
+    "name": "Kurşunlu Cami",
+    "description": "kayseri'in tarihi ibadet yapılarından biri.",
+    "image": "https://images.pexels.com/photos/27916269/pexels-photo-27916269.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 38.7221982,
+      "longitude": 35.4850849
+    },
+    "estimatedDuration": 50,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 193,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "kayseri_8",
+    "name": "Camii Kebir",
+    "description": "kayseri'in tarihi ibadet yapılarından biri.",
+    "image": "https://images.pexels.com/photos/31056819/pexels-photo-31056819.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 38.7199848,
+      "longitude": 35.4857243
+    },
+    "estimatedDuration": 87,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 180,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "kayseri_9",
+    "name": "Atatürk Evi Müzesi",
+    "description": "kayseri'de bulunan önemli bir müze.",
+    "image": "https://images.pexels.com/photos/1407302/pexels-photo-1407302.png?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 38.7191523,
+      "longitude": 35.4904137
+    },
+    "estimatedDuration": 83,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 37,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "kayseri_10",
+    "name": "Döner Kümbet",
+    "description": "kayseri'de ziyaret edilebilecek popüler bir nokta: Döner Kümbet.",
+    "image": "https://picsum.photos/800/600?random=9",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 38.714112,
+      "longitude": 35.4957493
+    },
+    "estimatedDuration": 57,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 146,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "kayseri_11",
+    "name": "Surp Krikor Lusavoriç Kilisesi",
+    "description": "kayseri'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=10",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 38.7117865,
+      "longitude": 35.4842764
+    },
+    "estimatedDuration": 45,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 19,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "kayseri_12",
+    "name": "Keykubadiye Sarayı",
+    "description": "kayseri'de ziyaret edilebilecek popüler bir nokta: Keykubadiye Sarayı.",
+    "image": "https://picsum.photos/800/600?random=11",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 38.7580297,
+      "longitude": 35.4238704
+    },
+    "estimatedDuration": 82,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "kayseri_13",
+    "name": "Sahabiye Medresesi",
+    "description": "kayseri'de ziyaret edilebilecek popüler bir nokta: Sahabiye Medresesi.",
+    "image": "https://picsum.photos/800/600?random=12",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 38.7234527,
+      "longitude": 35.4868529
+    },
+    "estimatedDuration": 50,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "kayseri_14",
+    "name": "Kayseri Kalesi",
+    "description": "kayseri'in tarihine tanıklık eden bir kale.",
+    "image": "https://picsum.photos/800/600?random=13",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 38.7211442,
+      "longitude": 35.4890147
+    },
+    "estimatedDuration": 85,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  }
+]

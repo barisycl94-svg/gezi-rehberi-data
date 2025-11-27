@@ -1,0 +1,938 @@
+[
+  {
+    "id": "jakarta_1",
+    "name": "Monumen Selamat Datang",
+    "description": "jakarta'de ziyaret edilebilecek popüler bir nokta: Monumen Selamat Datang.",
+    "image": "https://picsum.photos/800/600?random=0",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -6.1949789,
+      "longitude": 106.8230733
+    },
+    "estimatedDuration": 36,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 104,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "jakarta_2",
+    "name": "Patung Pemuda Membangun",
+    "description": "jakarta'de ziyaret edilebilecek popüler bir nokta: Patung Pemuda Membangun.",
+    "image": "https://picsum.photos/800/600?random=1",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -6.2293192,
+      "longitude": 106.7994216
+    },
+    "estimatedDuration": 63,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "jakarta_3",
+    "name": "Wayang Museum",
+    "description": "jakarta'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=2",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": -6.1348145,
+      "longitude": 106.8125091
+    },
+    "estimatedDuration": 67,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 103,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "jakarta_4",
+    "name": "Tugu Tani",
+    "description": "jakarta'de ziyaret edilebilecek popüler bir nokta: Tugu Tani.",
+    "image": "https://picsum.photos/800/600?random=3",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -6.1827205,
+      "longitude": 106.8348242
+    },
+    "estimatedDuration": 52,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "jakarta_5",
+    "name": "Museum Sejarah Jakarta",
+    "description": "jakarta'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=4",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": -6.1351548,
+      "longitude": 106.813289
+    },
+    "estimatedDuration": 82,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "jakarta_6",
+    "name": "Museum Bahari",
+    "description": "jakarta'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=5",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": -6.1268288,
+      "longitude": 106.8083185
+    },
+    "estimatedDuration": 34,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 183,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "jakarta_7",
+    "name": "Harmoni Statue",
+    "description": "jakarta'de ziyaret edilebilecek popüler bir nokta: Bilinmeyen Yer.",
+    "image": "https://picsum.photos/800/600?random=6",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -6.1674521,
+      "longitude": 106.8210875
+    },
+    "estimatedDuration": 46,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "jakarta_8",
+    "name": "Taman Mini Indonesia Indah",
+    "description": "jakarta'de ziyaret edilebilecek popüler bir nokta: Taman Mini Indonesia Indah.",
+    "image": "https://picsum.photos/800/600?random=7",
+    "category": "Eğlence",
+    "coordinates": {
+      "latitude": -6.3026299,
+      "longitude": 106.8946496
+    },
+    "estimatedDuration": 37,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Eğlence"
+    ]
+  },
+  {
+    "id": "jakarta_9",
+    "name": "Taman Impian Jaya Ancol",
+    "description": "jakarta'de ziyaret edilebilecek popüler bir nokta: Taman Impian Jaya Ancol.",
+    "image": "https://picsum.photos/800/600?random=8",
+    "category": "Eğlence",
+    "coordinates": {
+      "latitude": -6.1216034,
+      "longitude": 106.8452834
+    },
+    "estimatedDuration": 64,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 13,
+    "interests": [
+      "Eğlence"
+    ]
+  },
+  {
+    "id": "jakarta_10",
+    "name": "Kebun Binatang Ragunan",
+    "description": "jakarta'de ziyaret edilebilecek popüler bir nokta: Kebun Binatang Ragunan.",
+    "image": "https://picsum.photos/800/600?random=9",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -6.31141,
+      "longitude": 106.8213861
+    },
+    "estimatedDuration": 79,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "jakarta_11",
+    "name": "Katedral Jakarta",
+    "description": "jakarta'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=10",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -6.1691939,
+      "longitude": 106.8332511
+    },
+    "estimatedDuration": 88,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "jakarta_12",
+    "name": "Dunia Fantasi",
+    "description": "jakarta'de ziyaret edilebilecek popüler bir nokta: Dunia Fantasi.",
+    "image": "https://picsum.photos/800/600?random=11",
+    "category": "Eğlence",
+    "coordinates": {
+      "latitude": -6.124252,
+      "longitude": 106.8323776
+    },
+    "estimatedDuration": 85,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 97,
+    "interests": [
+      "Eğlence"
+    ]
+  },
+  {
+    "id": "jakarta_13",
+    "name": "Museum Sumpah Pemuda",
+    "description": "jakarta'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=12",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": -6.1838377,
+      "longitude": 106.8430278
+    },
+    "estimatedDuration": 84,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "jakarta_14",
+    "name": "Museum Tekstil",
+    "description": "jakarta'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=13",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": -6.1879683,
+      "longitude": 106.8096115
+    },
+    "estimatedDuration": 85,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "jakarta_15",
+    "name": "Museum Sasmita Loka Ahmad Yani",
+    "description": "jakarta'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=14",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": -6.2045356,
+      "longitude": 106.8365455
+    },
+    "estimatedDuration": 66,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "jakarta_16",
+    "name": "Masjid Cut Meutia",
+    "description": "jakarta'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=15",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -6.1872588,
+      "longitude": 106.8333757
+    },
+    "estimatedDuration": 40,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "jakarta_17",
+    "name": "Gereja Sion",
+    "description": "jakarta'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=16",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -6.1381901,
+      "longitude": 106.8178282
+    },
+    "estimatedDuration": 68,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "jakarta_18",
+    "name": "Gereja Katolik Santa Maria De Fatima",
+    "description": "jakarta'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=17",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -6.1438036,
+      "longitude": 106.8121147
+    },
+    "estimatedDuration": 83,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "jakarta_19",
+    "name": "Museum Perangko",
+    "description": "jakarta'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=18",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": -6.3040752,
+      "longitude": 106.9018064
+    },
+    "estimatedDuration": 47,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "jakarta_20",
+    "name": "Anjungan Nanggroe Aceh Darussalam",
+    "description": "jakarta'de ziyaret edilebilecek popüler bir nokta: Anjungan Nanggroe Aceh Darussalam.",
+    "image": "https://picsum.photos/800/600?random=19",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -6.3003204,
+      "longitude": 106.8958283
+    },
+    "estimatedDuration": 77,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 7,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "jakarta_21",
+    "name": "Anjungan Kepulauan Riau",
+    "description": "jakarta'de ziyaret edilebilecek popüler bir nokta: Anjungan Kepulauan Riau.",
+    "image": "https://picsum.photos/800/600?random=20",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -6.3002167,
+      "longitude": 106.8933878
+    },
+    "estimatedDuration": 55,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "jakarta_22",
+    "name": "Anjungan Sumatera Barat",
+    "description": "jakarta'de ziyaret edilebilecek popüler bir nokta: Anjungan Sumatera Barat.",
+    "image": "https://picsum.photos/800/600?random=21",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -6.3001833,
+      "longitude": 106.8944088
+    },
+    "estimatedDuration": 45,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "jakarta_23",
+    "name": "Anjungan Sumatera Utara",
+    "description": "jakarta'de ziyaret edilebilecek popüler bir nokta: Anjungan Sumatera Utara.",
+    "image": "https://picsum.photos/800/600?random=22",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -6.3001768,
+      "longitude": 106.8955315
+    },
+    "estimatedDuration": 59,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 38,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "jakarta_24",
+    "name": "Museum Taman Prasasti",
+    "description": "jakarta'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=23",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": -6.1723713,
+      "longitude": 106.8195429
+    },
+    "estimatedDuration": 45,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "jakarta_25",
+    "name": "Museum Kebangkitan Nasional",
+    "description": "jakarta'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=24",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": -6.1787409,
+      "longitude": 106.8380412
+    },
+    "estimatedDuration": 55,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 86,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "jakarta_26",
+    "name": "Museum Indonesia",
+    "description": "jakarta'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=25",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": -6.3008337,
+      "longitude": 106.8914087
+    },
+    "estimatedDuration": 45,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "jakarta_27",
+    "name": "Museum Purna Bhakti Pertiwi",
+    "description": "jakarta'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=26",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": -6.3006058,
+      "longitude": 106.8873124
+    },
+    "estimatedDuration": 63,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "jakarta_28",
+    "name": "Museum Hakka Indonesia",
+    "description": "jakarta'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=27",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": -6.3054129,
+      "longitude": 106.9040375
+    },
+    "estimatedDuration": 85,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 143,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "jakarta_29",
+    "name": "Batavia Castle Barracks Remnants",
+    "description": "jakarta'in tarihine tanıklık eden bir kale.",
+    "image": "https://picsum.photos/800/600?random=28",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -6.1289881,
+      "longitude": 106.8130712
+    },
+    "estimatedDuration": 89,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "jakarta_30",
+    "name": "Museum Perumusan Naskah Proklamasi",
+    "description": "jakarta'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=29",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": -6.200436,
+      "longitude": 106.8310836
+    },
+    "estimatedDuration": 84,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "jakarta_31",
+    "name": "Museum Jenderal Besar Dr. A. H. Nasution",
+    "description": "jakarta'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=30",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": -6.1928977,
+      "longitude": 106.8326369
+    },
+    "estimatedDuration": 53,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "jakarta_32",
+    "name": "Gereja Anglikan Indonesia",
+    "description": "jakarta'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=31",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -6.183119,
+      "longitude": 106.8354525
+    },
+    "estimatedDuration": 50,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 165,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "jakarta_33",
+    "name": "Masjid Jami Al-Anwar Angke",
+    "description": "jakarta'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=32",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -6.1433398,
+      "longitude": 106.7959573
+    },
+    "estimatedDuration": 66,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 151,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "jakarta_34",
+    "name": "Masjid Al-Anshor",
+    "description": "jakarta'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=33",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -6.1390139,
+      "longitude": 106.8069062
+    },
+    "estimatedDuration": 49,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "jakarta_35",
+    "name": "Masjid Jami Kampung Baru",
+    "description": "jakarta'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=34",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -6.1366124,
+      "longitude": 106.8028022
+    },
+    "estimatedDuration": 62,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "jakarta_36",
+    "name": "Museum Bank Mandiri",
+    "description": "jakarta'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=35",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": -6.1381259,
+      "longitude": 106.8131585
+    },
+    "estimatedDuration": 42,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 149,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "jakarta_38",
+    "name": "Masjid Jami Al Mansur",
+    "description": "jakarta'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=37",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -6.1462754,
+      "longitude": 106.8063768
+    },
+    "estimatedDuration": 71,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 195,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "jakarta_39",
+    "name": "Masjid Agung Al Azhar",
+    "description": "jakarta'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=38",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -6.2350097,
+      "longitude": 106.7993492
+    },
+    "estimatedDuration": 35,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "jakarta_40",
+    "name": "Masjid Jami' Annawier",
+    "description": "jakarta'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=39",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -6.1414689,
+      "longitude": 106.8045357
+    },
+    "estimatedDuration": 81,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "jakarta_41",
+    "name": "Masjid Lautze Jakarta",
+    "description": "jakarta'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=40",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -6.1588597,
+      "longitude": 106.8299224
+    },
+    "estimatedDuration": 69,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "jakarta_42",
+    "name": "Museum MACAN",
+    "description": "jakarta'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=41",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": -6.191156,
+      "longitude": 106.7676685
+    },
+    "estimatedDuration": 83,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "jakarta_43",
+    "name": "Wihara Dharma Bakti",
+    "description": "jakarta'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=42",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -6.1441956,
+      "longitude": 106.8127303
+    },
+    "estimatedDuration": 51,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "jakarta_44",
+    "name": "Masjid Keramat Luar Batang",
+    "description": "jakarta'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=43",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -6.1237897,
+      "longitude": 106.8064804
+    },
+    "estimatedDuration": 78,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "jakarta_45",
+    "name": "Vihara Bahtera Bhakti",
+    "description": "jakarta'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=44",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -6.1203134,
+      "longitude": 106.8539622
+    },
+    "estimatedDuration": 34,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "jakarta_46",
+    "name": "Pembebasan Irian Jaya",
+    "description": "jakarta'de ziyaret edilebilecek popüler bir nokta: Pembebasan Irian Jaya.",
+    "image": "https://picsum.photos/800/600?random=45",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -6.1703216,
+      "longitude": 106.834905
+    },
+    "estimatedDuration": 89,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "jakarta_47",
+    "name": "Kauldron Asian Games / Asian Para Games 2018",
+    "description": "jakarta'de ziyaret edilebilecek popüler bir nokta: Kauldron Asian Games / Asian Para Games 2018.",
+    "image": "https://picsum.photos/800/600?random=46",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -6.2204184,
+      "longitude": 106.8039487
+    },
+    "estimatedDuration": 34,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 179,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "jakarta_48",
+    "name": "Monumen Nasional",
+    "description": "jakarta'de ziyaret edilebilecek popüler bir nokta: Monumen Nasional.",
+    "image": "https://picsum.photos/800/600?random=47",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -6.1754073,
+      "longitude": 106.8271672
+    },
+    "estimatedDuration": 54,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 125,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "jakarta_49",
+    "name": "Patung Pangeran Diponegoro",
+    "description": "jakarta'de ziyaret edilebilecek popüler bir nokta: Patung Pangeran Diponegoro.",
+    "image": "https://picsum.photos/800/600?random=48",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -6.1732102,
+      "longitude": 106.8272502
+    },
+    "estimatedDuration": 48,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "jakarta_50",
+    "name": "Taman Budaya Tionghoa Indonesia",
+    "description": "jakarta'de ziyaret edilebilecek popüler bir nokta: Taman Budaya Tionghoa Indonesia.",
+    "image": "https://picsum.photos/800/600?random=49",
+    "category": "Eğlence",
+    "coordinates": {
+      "latitude": -6.3043178,
+      "longitude": 106.9028074
+    },
+    "estimatedDuration": 78,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 66,
+    "interests": [
+      "Eğlence"
+    ]
+  },
+  {
+    "id": "jakarta_51",
+    "name": "Museum Seni Rupa dan Keramik",
+    "description": "jakarta'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=50",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": -6.1342548,
+      "longitude": 106.8144774
+    },
+    "estimatedDuration": 85,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "jakarta_52",
+    "name": "Museum Bank Indonesia",
+    "description": "jakarta'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=51",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": -6.1371865,
+      "longitude": 106.8127696
+    },
+    "estimatedDuration": 69,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 10,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "jakarta_53",
+    "name": "Masjid Istiqlal",
+    "description": "jakarta'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=52",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -6.1702647,
+      "longitude": 106.8311986
+    },
+    "estimatedDuration": 30,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  }
+]

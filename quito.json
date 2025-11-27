@@ -1,0 +1,344 @@
+[
+  {
+    "id": "quito_1",
+    "name": "Museo Alberto Mena Caamaño",
+    "description": "quito'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=0",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": -0.2201387,
+      "longitude": -78.5130536
+    },
+    "estimatedDuration": 63,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 177,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "quito_2",
+    "name": "Monumento a la Independencia",
+    "description": "quito'de ziyaret edilebilecek popüler bir nokta: Monumento a la Independencia.",
+    "image": "https://picsum.photos/800/600?random=1",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -0.2200773,
+      "longitude": -78.5120884
+    },
+    "estimatedDuration": 39,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 58,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "quito_3",
+    "name": "Arco de la circasiana",
+    "description": "quito'de ziyaret edilebilecek popüler bir nokta: Arco de la circasiana.",
+    "image": "https://images.pexels.com/photos/3166785/pexels-photo-3166785.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -0.2081078,
+      "longitude": -78.4972855
+    },
+    "estimatedDuration": 39,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 128,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "quito_4",
+    "name": "Cimborio \"Virgen Del Cisne\"",
+    "description": "quito'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=3",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -0.0764441,
+      "longitude": -78.4405447
+    },
+    "estimatedDuration": 78,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "quito_5",
+    "name": "Museo Camilo Egas",
+    "description": "quito'de bulunan önemli bir müze.",
+    "image": "https://images.pexels.com/photos/31573606/pexels-photo-31573606.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": -0.2174436,
+      "longitude": -78.5091989
+    },
+    "estimatedDuration": 80,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "quito_6",
+    "name": "Santuario Católico Nuestra Señora de Guápulo",
+    "description": "quito'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=5",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -0.2000737,
+      "longitude": -78.475318
+    },
+    "estimatedDuration": 79,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "quito_7",
+    "name": "Casa de Sucre",
+    "description": "quito'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=6",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": -0.2218927,
+      "longitude": -78.5131828
+    },
+    "estimatedDuration": 70,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 45,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "quito_8",
+    "name": "Museo Capilla del Hombre",
+    "description": "quito'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=7",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": -0.1908144,
+      "longitude": -78.4694694
+    },
+    "estimatedDuration": 46,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "quito_9",
+    "name": "Casa de la Cultura Ecuatoriana",
+    "description": "quito'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=8",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": -0.2101359,
+      "longitude": -78.4953877
+    },
+    "estimatedDuration": 34,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "quito_10",
+    "name": "Museo de la Ciudad",
+    "description": "quito'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=9",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": -0.2231382,
+      "longitude": -78.5150007
+    },
+    "estimatedDuration": 82,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "quito_11",
+    "name": "Basílica del Voto Nacional o del Sagrado Corazón de Jesús",
+    "description": "quito'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=10",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -0.2147225,
+      "longitude": -78.5073486
+    },
+    "estimatedDuration": 40,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 140,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "quito_12",
+    "name": "La Iglesia de El Sagrario",
+    "description": "quito'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=11",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -0.2206219,
+      "longitude": -78.512733
+    },
+    "estimatedDuration": 82,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 75,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "quito_13",
+    "name": "Catedral Metropolitana Quito",
+    "description": "quito'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=12",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -0.2205078,
+      "longitude": -78.5124852
+    },
+    "estimatedDuration": 42,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "quito_14",
+    "name": "Busto a Alexander Sabes Petion",
+    "description": "quito'de ziyaret edilebilecek popüler bir nokta: Busto a Alexander Sabes Petion.",
+    "image": "https://picsum.photos/800/600?random=13",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -0.2121462,
+      "longitude": -78.5068361
+    },
+    "estimatedDuration": 39,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "quito_15",
+    "name": "Iglesia de Santo Domingo",
+    "description": "quito'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=14",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -0.2243065,
+      "longitude": -78.5125067
+    },
+    "estimatedDuration": 72,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 148,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "quito_16",
+    "name": "Iglesia de la Compañia de Jesus",
+    "description": "quito'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=15",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -0.2207589,
+      "longitude": -78.5138108
+    },
+    "estimatedDuration": 36,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "quito_17",
+    "name": "Convento Máximo de La Merced",
+    "description": "quito'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=16",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -0.2180891,
+      "longitude": -78.5137946
+    },
+    "estimatedDuration": 57,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "quito_18",
+    "name": "Museo de Arte Precolombino Casa del Alabado",
+    "description": "quito'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=17",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": -0.2213864,
+      "longitude": -78.5159465
+    },
+    "estimatedDuration": 62,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 1,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "quito_19",
+    "name": "Quito Ecuador Temple",
+    "description": "quito'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=18",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -0.2140961,
+      "longitude": -78.4411951
+    },
+    "estimatedDuration": 63,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 43,
+    "interests": [
+      "Tarihi"
+    ]
+  }
+]

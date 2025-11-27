@@ -1,0 +1,326 @@
+[
+  {
+    "id": "seville_1",
+    "name": "Sherbrooke Forest",
+    "description": "seville'de ziyaret edilebilecek popüler bir nokta: Sherbrooke Forest.",
+    "image": "https://picsum.photos/800/600?random=0",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -37.8904969,
+      "longitude": 145.3176068
+    },
+    "estimatedDuration": 46,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 182,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "seville_2",
+    "name": "Healesville Sanctuary",
+    "description": "seville'de ziyaret edilebilecek popüler bir nokta: Healesville Sanctuary.",
+    "image": "https://picsum.photos/800/600?random=1",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -37.6842773,
+      "longitude": 145.5313403
+    },
+    "estimatedDuration": 50,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "seville_3",
+    "name": "Belgrave (Narrow-gauge)",
+    "description": "seville'de ziyaret edilebilecek popüler bir nokta: Belgrave (Narrow-gauge).",
+    "image": "https://images.pexels.com/photos/10890316/pexels-photo-10890316.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -37.9076711,
+      "longitude": 145.356573
+    },
+    "estimatedDuration": 81,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "seville_4",
+    "name": "Oak Ridge Vineyard",
+    "description": "seville'de ziyaret edilebilecek popüler bir nokta: Oak Ridge Vineyard.",
+    "image": "https://picsum.photos/800/600?random=3",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -37.6874192,
+      "longitude": 145.4570254
+    },
+    "estimatedDuration": 52,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "seville_5",
+    "name": "Rochford Winery",
+    "description": "seville'de ziyaret edilebilecek popüler bir nokta: Rochford Winery.",
+    "image": "https://picsum.photos/800/600?random=4",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -37.6861965,
+      "longitude": 145.4743071
+    },
+    "estimatedDuration": 30,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "seville_6",
+    "name": "SkyHigh Maze",
+    "description": "seville'de ziyaret edilebilecek popüler bir nokta: SkyHigh Maze.",
+    "image": "https://picsum.photos/800/600?random=5",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -37.8280063,
+      "longitude": 145.3528089
+    },
+    "estimatedDuration": 63,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "seville_7",
+    "name": "Upper Viewing Platform",
+    "description": "seville'de ziyaret edilebilecek popüler bir nokta: Upper Viewing Platform.",
+    "image": "https://picsum.photos/800/600?random=6",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -37.8357836,
+      "longitude": 145.3732733
+    },
+    "estimatedDuration": 74,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "seville_8",
+    "name": "Lower Viewing Platform",
+    "description": "seville'de ziyaret edilebilecek popüler bir nokta: Lower Viewing Platform.",
+    "image": "https://picsum.photos/800/600?random=7",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -37.835785,
+      "longitude": 145.3740626
+    },
+    "estimatedDuration": 69,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "seville_9",
+    "name": "Burkes Lookout",
+    "description": "seville'de ziyaret edilebilecek popüler bir nokta: Burkes Lookout.",
+    "image": "https://picsum.photos/800/600?random=8",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -37.8348992,
+      "longitude": 145.346801
+    },
+    "estimatedDuration": 45,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 96,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "seville_10",
+    "name": "Serenity Point",
+    "description": "seville'de ziyaret edilebilecek popüler bir nokta: Serenity Point.",
+    "image": "https://picsum.photos/800/600?random=9",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -37.8435672,
+      "longitude": 145.372149
+    },
+    "estimatedDuration": 64,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "seville_11",
+    "name": "Bird hide",
+    "description": "seville'de ziyaret edilebilecek popüler bir nokta: Bird hide.",
+    "image": "https://picsum.photos/800/600?random=10",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -37.7682854,
+      "longitude": 145.3565477
+    },
+    "estimatedDuration": 81,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "seville_12",
+    "name": "Serenity Point Lookout",
+    "description": "seville'de ziyaret edilebilecek popüler bir nokta: Serenity Point Lookout.",
+    "image": "https://picsum.photos/800/600?random=11",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -37.8441717,
+      "longitude": 145.3726984
+    },
+    "estimatedDuration": 34,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "seville_13",
+    "name": "Kalorama Lookout",
+    "description": "seville'de ziyaret edilebilecek popüler bir nokta: Kalorama Lookout.",
+    "image": "https://picsum.photos/800/600?random=12",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -37.8182213,
+      "longitude": 145.366866
+    },
+    "estimatedDuration": 40,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "seville_14",
+    "name": "Lillydale Lake Lookout",
+    "description": "seville'de ziyaret edilebilecek popüler bir nokta: Lillydale Lake Lookout.",
+    "image": "https://picsum.photos/800/600?random=13",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -37.7625469,
+      "longitude": 145.3544133
+    },
+    "estimatedDuration": 39,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "seville_15",
+    "name": "Dingo2",
+    "description": "seville'de ziyaret edilebilecek popüler bir nokta: Dingo2.",
+    "image": "https://picsum.photos/800/600?random=14",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -37.6832361,
+      "longitude": 145.5306778
+    },
+    "estimatedDuration": 85,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "seville_16",
+    "name": "Wombat",
+    "description": "seville'de ziyaret edilebilecek popüler bir nokta: Wombat.",
+    "image": "https://picsum.photos/800/600?random=15",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -37.6830281,
+      "longitude": 145.5304874
+    },
+    "estimatedDuration": 60,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "seville_18",
+    "name": "Dingo1",
+    "description": "seville'de ziyaret edilebilecek popüler bir nokta: Dingo1.",
+    "image": "https://picsum.photos/800/600?random=17",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -37.6832497,
+      "longitude": 145.5310979
+    },
+    "estimatedDuration": 40,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "seville_19",
+    "name": "Spirits of the Sky Birdshow",
+    "description": "seville'de ziyaret edilebilecek popüler bir nokta: Spirits of the Sky Birdshow.",
+    "image": "https://picsum.photos/800/600?random=18",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -37.6841383,
+      "longitude": 145.5307663
+    },
+    "estimatedDuration": 45,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 157,
+    "interests": [
+      "Tarihi"
+    ]
+  }
+]

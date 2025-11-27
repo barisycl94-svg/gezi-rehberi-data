@@ -1,0 +1,236 @@
+[
+  {
+    "id": "lusaka_1",
+    "name": "Gabon Disaster Memorial",
+    "description": "lusaka'de ziyaret edilebilecek popüler bir nokta: Gabon Disaster Memorial.",
+    "image": "https://picsum.photos/800/600?random=0",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -15.3689447,
+      "longitude": 28.2688844
+    },
+    "estimatedDuration": 78,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "lusaka_2",
+    "name": "Lusaka National Museum",
+    "description": "lusaka'de bulunan önemli bir müze.",
+    "image": "https://images.pexels.com/photos/5825377/pexels-photo-5825377.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": -15.4218737,
+      "longitude": 28.2913007
+    },
+    "estimatedDuration": 35,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "lusaka_3",
+    "name": "White Rhino",
+    "description": "lusaka'de ziyaret edilebilecek popüler bir nokta: White Rhino.",
+    "image": "https://images.pexels.com/photos/3381910/pexels-photo-3381910.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -15.5301196,
+      "longitude": 28.4120902
+    },
+    "estimatedDuration": 32,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 103,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "lusaka_4",
+    "name": "Plot 968, House No. 2",
+    "description": "lusaka'de ziyaret edilebilecek popüler bir nokta: Plot 968, House No. 2.",
+    "image": "https://picsum.photos/800/600?random=3",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -15.3880564,
+      "longitude": 28.4073171
+    },
+    "estimatedDuration": 36,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 16,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "lusaka_5",
+    "name": "Makeni House",
+    "description": "lusaka'de ziyaret edilebilecek popüler bir nokta: Makeni House.",
+    "image": "https://picsum.photos/800/600?random=4",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -15.460764,
+      "longitude": 28.2622417
+    },
+    "estimatedDuration": 72,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "lusaka_6",
+    "name": "Bayport",
+    "description": "lusaka'de ziyaret edilebilecek popüler bir nokta: Bayport.",
+    "image": "https://images.pexels.com/photos/26178826/pexels-photo-26178826.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -15.4190658,
+      "longitude": 28.2826568
+    },
+    "estimatedDuration": 82,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "lusaka_7",
+    "name": "Tuesday Market",
+    "description": "lusaka'de ziyaret edilebilecek popüler bir nokta: Tuesday Market.",
+    "image": "https://picsum.photos/800/600?random=6",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -15.4367092,
+      "longitude": 28.3133664
+    },
+    "estimatedDuration": 62,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "lusaka_8",
+    "name": "Russell Phiri Residence",
+    "description": "lusaka'de ziyaret edilebilecek popüler bir nokta: Russell Phiri Residence.",
+    "image": "https://picsum.photos/800/600?random=7",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -15.4640401,
+      "longitude": 28.3264457
+    },
+    "estimatedDuration": 63,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "lusaka_9",
+    "name": "Suwilanji Gardens",
+    "description": "lusaka'de ziyaret edilebilecek popüler bir nokta: Suwilanji Gardens.",
+    "image": "https://picsum.photos/800/600?random=8",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -15.3832562,
+      "longitude": 28.3235153
+    },
+    "estimatedDuration": 83,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "lusaka_10",
+    "name": "Selina Events Gardens",
+    "description": "lusaka'de ziyaret edilebilecek popüler bir nokta: Selina Events Gardens.",
+    "image": "https://picsum.photos/800/600?random=9",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -15.3890193,
+      "longitude": 28.3985119
+    },
+    "estimatedDuration": 35,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "lusaka_11",
+    "name": "Plot No. 117-22-9013 House No.5",
+    "description": "lusaka'de ziyaret edilebilecek popüler bir nokta: Plot No. 117-22-9013 House No.5.",
+    "image": "https://picsum.photos/800/600?random=10",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -15.3868461,
+      "longitude": 28.2984162
+    },
+    "estimatedDuration": 37,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 113,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "lusaka_12",
+    "name": "Kenneth Kaunda Chilenje House National Monument",
+    "description": "lusaka şehrinde doğa ile iç içe bir park.",
+    "image": "https://picsum.photos/800/600?random=11",
+    "category": "Park",
+    "coordinates": {
+      "latitude": -15.4436451,
+      "longitude": 28.3322716
+    },
+    "estimatedDuration": 31,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Park"
+    ]
+  },
+  {
+    "id": "lusaka_13",
+    "name": "Kabwata Cultural Village",
+    "description": "lusaka'de ziyaret edilebilecek popüler bir nokta: Kabwata Cultural Village.",
+    "image": "https://picsum.photos/800/600?random=12",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": -15.4328807,
+      "longitude": 28.3049097
+    },
+    "estimatedDuration": 66,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  }
+]

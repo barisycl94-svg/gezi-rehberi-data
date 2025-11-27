@@ -1,0 +1,380 @@
+[
+  {
+    "id": "kingston_1",
+    "name": "Bob Marley museum",
+    "description": "kingston'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=0",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 18.0198223,
+      "longitude": -76.7797644
+    },
+    "estimatedDuration": 76,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 20,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "kingston_2",
+    "name": "Holy Trinity Cathedral",
+    "description": "kingston'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=1",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 17.9753462,
+      "longitude": -76.7841947
+    },
+    "estimatedDuration": 71,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 185,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "kingston_3",
+    "name": "Devon House",
+    "description": "kingston'de ziyaret edilebilecek popüler bir nokta: Devon House.",
+    "image": "https://picsum.photos/800/600?random=2",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 18.0147091,
+      "longitude": -76.7899419
+    },
+    "estimatedDuration": 83,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 194,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "kingston_4",
+    "name": "Negro Aroused",
+    "description": "kingston'de ziyaret edilebilecek popüler bir nokta: Negro Aroused.",
+    "image": "https://picsum.photos/800/600?random=3",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 17.963651,
+      "longitude": -76.7932821
+    },
+    "estimatedDuration": 42,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 133,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "kingston_5",
+    "name": "Holywell National Park",
+    "description": "kingston'de ziyaret edilebilecek popüler bir nokta: Holywell National Park.",
+    "image": "https://picsum.photos/800/600?random=4",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 18.0860741,
+      "longitude": -76.7265428
+    },
+    "estimatedDuration": 82,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "kingston_6",
+    "name": "Rodney's Lookout Trail Head",
+    "description": "kingston'de ziyaret edilebilecek popüler bir nokta: Rodney's Lookout Trail Head.",
+    "image": "https://picsum.photos/800/600?random=5",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 17.9513389,
+      "longitude": -76.8875821
+    },
+    "estimatedDuration": 72,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 160,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "kingston_7",
+    "name": "The Arms/Rodney Lookout",
+    "description": "kingston'de ziyaret edilebilecek popüler bir nokta: The Arms/Rodney Lookout.",
+    "image": "https://picsum.photos/800/600?random=6",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 17.9484587,
+      "longitude": -76.8745977
+    },
+    "estimatedDuration": 70,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "kingston_8",
+    "name": "Simon Bolivar Statue",
+    "description": "kingston'de ziyaret edilebilecek popüler bir nokta: Simon Bolivar Statue.",
+    "image": "https://picsum.photos/800/600?random=7",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 17.980559,
+      "longitude": -76.7872319
+    },
+    "estimatedDuration": 79,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "kingston_9",
+    "name": "Powergen ltd",
+    "description": "kingston'de ziyaret edilebilecek popüler bir nokta: Powergen ltd.",
+    "image": "https://picsum.photos/800/600?random=8",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 18.0153622,
+      "longitude": -76.8009163
+    },
+    "estimatedDuration": 45,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "kingston_10",
+    "name": "National Gallery of Jamaica",
+    "description": "kingston'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=9",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 17.9647847,
+      "longitude": -76.7946857
+    },
+    "estimatedDuration": 55,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 7,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "kingston_11",
+    "name": "Scenic view over Kingston",
+    "description": "kingston'de ziyaret edilebilecek popüler bir nokta: Scenic view over Kingston.",
+    "image": "https://picsum.photos/800/600?random=10",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 18.047788,
+      "longitude": -76.7255921
+    },
+    "estimatedDuration": 72,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "kingston_12",
+    "name": "Peter tosh museum",
+    "description": "kingston'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=11",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 18.0114992,
+      "longitude": -76.7893495
+    },
+    "estimatedDuration": 36,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "kingston_13",
+    "name": "Trench Town Culture Yard Museum",
+    "description": "kingston'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=12",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 17.9817148,
+      "longitude": -76.8053878
+    },
+    "estimatedDuration": 48,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 41,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "kingston_14",
+    "name": "Black Beach(BM Beach)",
+    "description": "kingston'de ziyaret edilebilecek popüler bir nokta: Black Beach(BM Beach).",
+    "image": "https://picsum.photos/800/600?random=13",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 17.9355179,
+      "longitude": -76.6614496
+    },
+    "estimatedDuration": 42,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "kingston_15",
+    "name": "Cane River Waterfall",
+    "description": "kingston'de ziyaret edilebilecek popüler bir nokta: Cane River Waterfall.",
+    "image": "https://picsum.photos/800/600?random=14",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 17.9652557,
+      "longitude": -76.6927953
+    },
+    "estimatedDuration": 88,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "kingston_16",
+    "name": "The Victoria Albert Battery",
+    "description": "kingston'de ziyaret edilebilecek popüler bir nokta: The Victoria Albert Battery.",
+    "image": "https://picsum.photos/800/600?random=15",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 17.9339868,
+      "longitude": -76.8422429
+    },
+    "estimatedDuration": 69,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 123,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "kingston_17",
+    "name": "Rodney's Lookout",
+    "description": "kingston'de ziyaret edilebilecek popüler bir nokta: Rodney's Lookout.",
+    "image": "https://picsum.photos/800/600?random=16",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 17.9465157,
+      "longitude": -76.8823779
+    },
+    "estimatedDuration": 62,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "kingston_18",
+    "name": "Bournemouth",
+    "description": "kingston'de ziyaret edilebilecek popüler bir nokta: Bournemouth.",
+    "image": "https://picsum.photos/800/600?random=17",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 17.9661486,
+      "longitude": -76.7592349
+    },
+    "estimatedDuration": 58,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "kingston_19",
+    "name": "St Geroges Cliffs",
+    "description": "kingston'de ziyaret edilebilecek popüler bir nokta: St Geroges Cliffs.",
+    "image": "https://picsum.photos/800/600?random=18",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 17.8919492,
+      "longitude": -76.8962073
+    },
+    "estimatedDuration": 67,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "kingston_20",
+    "name": "Kingston Viewpoint",
+    "description": "kingston'de ziyaret edilebilecek popüler bir nokta: Kingston Viewpoint.",
+    "image": "https://picsum.photos/800/600?random=19",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 18.0511173,
+      "longitude": -76.8420777
+    },
+    "estimatedDuration": 75,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "kingston_21",
+    "name": "Peter's Rock",
+    "description": "kingston'de ziyaret edilebilecek popüler bir nokta: Peter's Rock.",
+    "image": "https://picsum.photos/800/600?random=20",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 18.0631385,
+      "longitude": -76.7493926
+    },
+    "estimatedDuration": 41,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  }
+]

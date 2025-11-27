@@ -1,0 +1,1082 @@
+[
+  {
+    "id": "singapore_1",
+    "name": "Dalhousie Obelisk",
+    "description": "singapore'de ziyaret edilebilecek popüler bir nokta: Dalhousie Obelisk.",
+    "image": "https://picsum.photos/800/600?random=0",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 1.2874478,
+      "longitude": 103.852223
+    },
+    "estimatedDuration": 81,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "singapore_2",
+    "name": "Sri Senpaga Vinayagar Temple",
+    "description": "singapore'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=1",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 1.3055218,
+      "longitude": 103.9025104
+    },
+    "estimatedDuration": 74,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 123,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "singapore_3",
+    "name": "Shonan Chureito World War II Memorial",
+    "description": "singapore'de ziyaret edilebilecek popüler bir nokta: Shonan Chureito World War II Memorial.",
+    "image": "https://picsum.photos/800/600?random=2",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 1.3509551,
+      "longitude": 103.7667117
+    },
+    "estimatedDuration": 57,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "singapore_4",
+    "name": "Lim Bo Seng Memorial",
+    "description": "singapore'de ziyaret edilebilecek popüler bir nokta: Lim Bo Seng Memorial.",
+    "image": "https://picsum.photos/800/600?random=3",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 1.2885081,
+      "longitude": 103.8530829
+    },
+    "estimatedDuration": 49,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "singapore_5",
+    "name": "St George's Church",
+    "description": "singapore'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=4",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 1.3047797,
+      "longitude": 103.815087
+    },
+    "estimatedDuration": 84,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 32,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "singapore_6",
+    "name": "Singapore Zoo",
+    "description": "singapore'de ziyaret edilebilecek popüler bir nokta: Singapore Zoo.",
+    "image": "https://picsum.photos/800/600?random=5",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 1.4045935,
+      "longitude": 103.7907296
+    },
+    "estimatedDuration": 46,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "singapore_7",
+    "name": "Dragon's Teeth Gate",
+    "description": "singapore'de ziyaret edilebilecek popüler bir nokta: Dragon's Teeth Gate.",
+    "image": "https://picsum.photos/800/600?random=6",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 1.2629688,
+      "longitude": 103.8053462
+    },
+    "estimatedDuration": 43,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "singapore_8",
+    "name": "Chinatown",
+    "description": "singapore'de ziyaret edilebilecek popüler bir nokta: Chinatown.",
+    "image": "https://picsum.photos/800/600?random=7",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 1.2829435,
+      "longitude": 103.8441517
+    },
+    "estimatedDuration": 55,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "singapore_9",
+    "name": "Former Indian National Army Monument",
+    "description": "singapore'de ziyaret edilebilecek popüler bir nokta: Former Indian National Army Monument.",
+    "image": "https://picsum.photos/800/600?random=8",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 1.2894155,
+      "longitude": 103.8538924
+    },
+    "estimatedDuration": 76,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "singapore_10",
+    "name": "Masjid Ahmad Ibrahim",
+    "description": "singapore'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=9",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 1.4066708,
+      "longitude": 103.8206656
+    },
+    "estimatedDuration": 76,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "singapore_11",
+    "name": "Mint Museum of Toys",
+    "description": "singapore'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=10",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 1.2963108,
+      "longitude": 103.8546099
+    },
+    "estimatedDuration": 82,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "singapore_12",
+    "name": "Keramat Kusu",
+    "description": "singapore'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=11",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 1.222963,
+      "longitude": 103.8615914
+    },
+    "estimatedDuration": 43,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 105,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "singapore_13",
+    "name": "Lee Kong Chian Natural History Museum",
+    "description": "singapore'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=12",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 1.3014296,
+      "longitude": 103.773624
+    },
+    "estimatedDuration": 75,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 122,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "singapore_14",
+    "name": "新加坡佛牙寺龙华院",
+    "description": "singapore'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=13",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 1.2813051,
+      "longitude": 103.8444324
+    },
+    "estimatedDuration": 33,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "singapore_15",
+    "name": "Chek Jawa Wetlands",
+    "description": "singapore'de ziyaret edilebilecek popüler bir nokta: Chek Jawa Wetlands.",
+    "image": "https://picsum.photos/800/600?random=14",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 1.408688,
+      "longitude": 103.9907677
+    },
+    "estimatedDuration": 53,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 17,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "singapore_16",
+    "name": "Battlebox Visitor Centre",
+    "description": "singapore'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=15",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 1.296123,
+      "longitude": 103.8462345
+    },
+    "estimatedDuration": 50,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 32,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "singapore_17",
+    "name": "megazip adventure park",
+    "description": "singapore'de ziyaret edilebilecek popüler bir nokta: megazip adventure park.",
+    "image": "https://picsum.photos/800/600?random=16",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 1.2568794,
+      "longitude": 103.814305
+    },
+    "estimatedDuration": 83,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "singapore_18",
+    "name": "Raffles' Landing Site",
+    "description": "singapore'de ziyaret edilebilecek popüler bir nokta: Raffles' Landing Site.",
+    "image": "https://picsum.photos/800/600?random=17",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 1.2877192,
+      "longitude": 103.8507866
+    },
+    "estimatedDuration": 64,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "singapore_19",
+    "name": "Thekchen Choling",
+    "description": "singapore'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=18",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 1.3120164,
+      "longitude": 103.8604611
+    },
+    "estimatedDuration": 34,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "singapore_20",
+    "name": "National Gallery Singapore",
+    "description": "singapore'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=19",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 1.2902557,
+      "longitude": 103.8514709
+    },
+    "estimatedDuration": 71,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "singapore_21",
+    "name": "Syonan Jinja",
+    "description": "singapore'de ziyaret edilebilecek popüler bir nokta: Syonan Jinja.",
+    "image": "https://picsum.photos/800/600?random=20",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 1.3482648,
+      "longitude": 103.8138145
+    },
+    "estimatedDuration": 65,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 152,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "singapore_22",
+    "name": "Singapore City Gallery",
+    "description": "singapore'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=21",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 1.2795017,
+      "longitude": 103.8451897
+    },
+    "estimatedDuration": 50,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 64,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "singapore_23",
+    "name": "Masjid Al-Abrar",
+    "description": "singapore'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=22",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 1.2803171,
+      "longitude": 103.847318
+    },
+    "estimatedDuration": 37,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 87,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "singapore_24",
+    "name": "Kite Museum Pasir Gudang",
+    "description": "singapore'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=23",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 1.4740442,
+      "longitude": 103.9060608
+    },
+    "estimatedDuration": 83,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 127,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "singapore_25",
+    "name": "Sri Thendayuthapani Temple",
+    "description": "singapore'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=24",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 1.2937259,
+      "longitude": 103.8436766
+    },
+    "estimatedDuration": 56,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "singapore_26",
+    "name": "Madame Tussauds Singapore",
+    "description": "singapore'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=25",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 1.2540986,
+      "longitude": 103.8177656
+    },
+    "estimatedDuration": 37,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 80,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "singapore_27",
+    "name": "Reflections at Bukit Chandu",
+    "description": "singapore'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=26",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 1.2794721,
+      "longitude": 103.7940834
+    },
+    "estimatedDuration": 46,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "singapore_28",
+    "name": "Objectifs - Centre for Photography and Film",
+    "description": "singapore'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=27",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 1.2998033,
+      "longitude": 103.8520187
+    },
+    "estimatedDuration": 57,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 66,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "singapore_29",
+    "name": "Dragon's Teeth Gate Viewpoint",
+    "description": "singapore'de ziyaret edilebilecek popüler bir nokta: Dragon's Teeth Gate Viewpoint.",
+    "image": "https://picsum.photos/800/600?random=28",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 1.2600017,
+      "longitude": 103.807375
+    },
+    "estimatedDuration": 50,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 32,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "singapore_30",
+    "name": "Ah Meng Memorial",
+    "description": "singapore'de ziyaret edilebilecek popüler bir nokta: Ah Meng Memorial.",
+    "image": "https://picsum.photos/800/600?random=29",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 1.4033433,
+      "longitude": 103.7951639
+    },
+    "estimatedDuration": 77,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "singapore_31",
+    "name": "Johor Bahru Chinese Heritage Museum",
+    "description": "singapore'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=30",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 1.4560242,
+      "longitude": 103.7632774
+    },
+    "estimatedDuration": 55,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "singapore_32",
+    "name": "Former Malay Film Productions",
+    "description": "singapore'de ziyaret edilebilecek popüler bir nokta: Former Malay Film Productions.",
+    "image": "https://picsum.photos/800/600?random=31",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 1.326446,
+      "longitude": 103.8514982
+    },
+    "estimatedDuration": 31,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "singapore_33",
+    "name": "Balestier Art Deco shophouses",
+    "description": "singapore'de ziyaret edilebilecek popüler bir nokta: Balestier Art Deco shophouses.",
+    "image": "https://picsum.photos/800/600?random=32",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 1.3216239,
+      "longitude": 103.8530549
+    },
+    "estimatedDuration": 63,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "singapore_34",
+    "name": "Sim Kwong Ho shophouses",
+    "description": "singapore'de ziyaret edilebilecek popüler bir nokta: Sim Kwong Ho shophouses.",
+    "image": "https://picsum.photos/800/600?random=33",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 1.323241,
+      "longitude": 103.8525342
+    },
+    "estimatedDuration": 34,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "singapore_35",
+    "name": "Istana Kampong Glam",
+    "description": "singapore'in tarihine tanıklık eden bir kale.",
+    "image": "https://picsum.photos/800/600?random=34",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 1.3026709,
+      "longitude": 103.8599476
+    },
+    "estimatedDuration": 73,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "singapore_36",
+    "name": "National Museum of Singapore",
+    "description": "singapore'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=35",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 1.2965624,
+      "longitude": 103.8484117
+    },
+    "estimatedDuration": 34,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 147,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "singapore_37",
+    "name": "Masjid Al-Mawaddah",
+    "description": "singapore'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=36",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 1.3834249,
+      "longitude": 103.8902139
+    },
+    "estimatedDuration": 83,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 174,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "singapore_38",
+    "name": "Church of The Nativity of the Blessed Virgin Mary",
+    "description": "singapore'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=37",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 1.3734782,
+      "longitude": 103.8984678
+    },
+    "estimatedDuration": 79,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "singapore_39",
+    "name": "Masjid En-Naeem",
+    "description": "singapore'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=38",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 1.3609801,
+      "longitude": 103.8925267
+    },
+    "estimatedDuration": 58,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 189,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "singapore_40",
+    "name": "Masjid Al-Muttaqin",
+    "description": "singapore'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=39",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 1.3704566,
+      "longitude": 103.8460326
+    },
+    "estimatedDuration": 51,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "singapore_41",
+    "name": "Emerald Hill",
+    "description": "singapore'de ziyaret edilebilecek popüler bir nokta: Emerald Hill.",
+    "image": "https://picsum.photos/800/600?random=40",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 1.303058,
+      "longitude": 103.8393539
+    },
+    "estimatedDuration": 60,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "singapore_42",
+    "name": "Istana",
+    "description": "singapore'in tarihine tanıklık eden bir kale.",
+    "image": "https://picsum.photos/800/600?random=41",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 1.3070961,
+      "longitude": 103.8428805
+    },
+    "estimatedDuration": 73,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 110,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "singapore_43",
+    "name": "Asian Civilisations Museum",
+    "description": "singapore'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=42",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 1.2874463,
+      "longitude": 103.8514197
+    },
+    "estimatedDuration": 48,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "singapore_44",
+    "name": "Foo Hai Ch'an Monastery",
+    "description": "singapore'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=43",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 1.3180385,
+      "longitude": 103.8884898
+    },
+    "estimatedDuration": 41,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "singapore_45",
+    "name": "Sri Sivan Temple",
+    "description": "singapore'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=44",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 1.3184154,
+      "longitude": 103.8886764
+    },
+    "estimatedDuration": 34,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 32,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "singapore_46",
+    "name": "Buddha Tooth Relic Temple",
+    "description": "singapore'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=45",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 1.2814954,
+      "longitude": 103.8442306
+    },
+    "estimatedDuration": 43,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "singapore_47",
+    "name": "Sri Krishnan Temple",
+    "description": "singapore'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=46",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 1.3005493,
+      "longitude": 103.8526377
+    },
+    "estimatedDuration": 70,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "singapore_48",
+    "name": "Kwan Im Thong Hood Cho Temple",
+    "description": "singapore'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=47",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 1.3009649,
+      "longitude": 103.8529424
+    },
+    "estimatedDuration": 40,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 71,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "singapore_49",
+    "name": "Haw Par Villa",
+    "description": "singapore şehrinde doğa ile iç içe bir park.",
+    "image": "https://picsum.photos/800/600?random=48",
+    "category": "Park",
+    "coordinates": {
+      "latitude": 1.2841831,
+      "longitude": 103.7824654
+    },
+    "estimatedDuration": 62,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Park"
+    ]
+  },
+  {
+    "id": "singapore_50",
+    "name": "Masjid Alkaff Mosque Kampung Melayu",
+    "description": "singapore'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=49",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 1.3366804,
+      "longitude": 103.9139868
+    },
+    "estimatedDuration": 81,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "singapore_51",
+    "name": "City Harvest Church",
+    "description": "singapore'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=50",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 1.3429798,
+      "longitude": 103.6918892
+    },
+    "estimatedDuration": 44,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "singapore_52",
+    "name": "Universal Studios Singapore",
+    "description": "singapore'de ziyaret edilebilecek popüler bir nokta: Universal Studios Singapore.",
+    "image": "https://picsum.photos/800/600?random=51",
+    "category": "Eğlence",
+    "coordinates": {
+      "latitude": 1.2542331,
+      "longitude": 103.8229909
+    },
+    "estimatedDuration": 77,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 114,
+    "interests": [
+      "Eğlence"
+    ]
+  },
+  {
+    "id": "singapore_53",
+    "name": "Science Centre Singapore",
+    "description": "singapore'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=52",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 1.3328648,
+      "longitude": 103.7359522
+    },
+    "estimatedDuration": 31,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "singapore_54",
+    "name": "Kong Meng San Phor Kark See Monastery",
+    "description": "singapore'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=53",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 1.3612374,
+      "longitude": 103.8362676
+    },
+    "estimatedDuration": 31,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "singapore_55",
+    "name": "Peranakan Museum",
+    "description": "singapore'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=54",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 1.2942776,
+      "longitude": 103.8490826
+    },
+    "estimatedDuration": 68,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "singapore_56",
+    "name": "Tan Si Chong Su",
+    "description": "singapore'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=55",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 1.2892972,
+      "longitude": 103.8428541
+    },
+    "estimatedDuration": 77,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "singapore_57",
+    "name": "Saint Andrew's Cathedral",
+    "description": "singapore'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=56",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 1.292307,
+      "longitude": 103.8522648
+    },
+    "estimatedDuration": 59,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 58,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "singapore_58",
+    "name": "Saint Joseph Church",
+    "description": "singapore'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=57",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 1.2983952,
+      "longitude": 103.8531169
+    },
+    "estimatedDuration": 75,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "singapore_59",
+    "name": "Cathedral of the Good Shepherd",
+    "description": "singapore'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=58",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 1.2960559,
+      "longitude": 103.8512074
+    },
+    "estimatedDuration": 89,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "singapore_60",
+    "name": "Church of Saints Peter and Paul",
+    "description": "singapore'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=59",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 1.2978886,
+      "longitude": 103.8512997
+    },
+    "estimatedDuration": 79,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 187,
+    "interests": [
+      "Tarihi"
+    ]
+  }
+]

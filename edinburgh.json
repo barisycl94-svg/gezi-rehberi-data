@@ -1,0 +1,1064 @@
+[
+  {
+    "id": "edinburgh_1",
+    "name": "Greyfriars Bobby",
+    "description": "edinburgh'de ziyaret edilebilecek popüler bir nokta: Greyfriars Bobby.",
+    "image": "https://picsum.photos/800/600?random=0",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 55.9469224,
+      "longitude": -3.1913043
+    },
+    "estimatedDuration": 38,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "edinburgh_2",
+    "name": "Camera Obscura & World of Illusions",
+    "description": "edinburgh'de ziyaret edilebilecek popüler bir nokta: Camera Obscura & World of Illusions.",
+    "image": "https://picsum.photos/800/600?random=1",
+    "category": "Alışveriş",
+    "coordinates": {
+      "latitude": 55.9490288,
+      "longitude": -3.1956037
+    },
+    "estimatedDuration": 34,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Alışveriş"
+    ]
+  },
+  {
+    "id": "edinburgh_3",
+    "name": "Talbot Rice Gallery",
+    "description": "edinburgh'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=2",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 55.9470669,
+      "longitude": -3.1877715
+    },
+    "estimatedDuration": 88,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "edinburgh_4",
+    "name": "Gilmerton Cove",
+    "description": "edinburgh'de ziyaret edilebilecek popüler bir nokta: Gilmerton Cove.",
+    "image": "https://picsum.photos/800/600?random=3",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 55.905595,
+      "longitude": -3.133111
+    },
+    "estimatedDuration": 36,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 185,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "edinburgh_5",
+    "name": "Kirkcaldy Museum and Art Gallery",
+    "description": "edinburgh'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=4",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 56.1122057,
+      "longitude": -3.1661343
+    },
+    "estimatedDuration": 65,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "edinburgh_6",
+    "name": "Mons Meg",
+    "description": "edinburgh'de ziyaret edilebilecek popüler bir nokta: Mons Meg.",
+    "image": "https://picsum.photos/800/600?random=5",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 55.9487878,
+      "longitude": -3.2001566
+    },
+    "estimatedDuration": 46,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "edinburgh_7",
+    "name": "The Great Yew of Ormiston",
+    "description": "edinburgh'de ziyaret edilebilecek popüler bir nokta: The Great Yew of Ormiston.",
+    "image": "https://picsum.photos/800/600?random=6",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 55.8979893,
+      "longitude": -2.9417237
+    },
+    "estimatedDuration": 53,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "edinburgh_8",
+    "name": "Georgian House",
+    "description": "edinburgh'de ziyaret edilebilecek popüler bir nokta: Georgian House.",
+    "image": "https://picsum.photos/800/600?random=7",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 55.9524878,
+      "longitude": -3.2082145
+    },
+    "estimatedDuration": 53,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "edinburgh_9",
+    "name": "The Scotch Whisky Experience",
+    "description": "edinburgh'de ziyaret edilebilecek popüler bir nokta: The Scotch Whisky Experience.",
+    "image": "https://picsum.photos/800/600?random=8",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 55.9487433,
+      "longitude": -3.1958749
+    },
+    "estimatedDuration": 61,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "edinburgh_10",
+    "name": "Museum of Childhood",
+    "description": "edinburgh'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=9",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 55.9503299,
+      "longitude": -3.1855073
+    },
+    "estimatedDuration": 31,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 30,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "edinburgh_11",
+    "name": "Quintinshill Rail Disaster Memorial",
+    "description": "edinburgh'de ziyaret edilebilecek popüler bir nokta: Quintinshill Rail Disaster Memorial.",
+    "image": "https://picsum.photos/800/600?random=10",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 55.9674344,
+      "longitude": -3.1873093
+    },
+    "estimatedDuration": 83,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "edinburgh_12",
+    "name": "Binnend Village",
+    "description": "edinburgh'de ziyaret edilebilecek popüler bir nokta: Binnend Village.",
+    "image": "https://picsum.photos/800/600?random=11",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 56.071854,
+      "longitude": -3.2216871
+    },
+    "estimatedDuration": 31,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 59,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "edinburgh_13",
+    "name": "Cat Stane",
+    "description": "edinburgh'de ziyaret edilebilecek popüler bir nokta: Cat Stane.",
+    "image": "https://picsum.photos/800/600?random=12",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 55.9548242,
+      "longitude": -3.3645313
+    },
+    "estimatedDuration": 75,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "edinburgh_14",
+    "name": "Wentworth Elm",
+    "description": "edinburgh'de ziyaret edilebilecek popüler bir nokta: Wentworth Elm.",
+    "image": "https://picsum.photos/800/600?random=13",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 55.952111,
+      "longitude": -3.1706489
+    },
+    "estimatedDuration": 76,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "edinburgh_16",
+    "name": "Writers' Museum",
+    "description": "edinburgh'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=15",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 55.9496906,
+      "longitude": -3.1937416
+    },
+    "estimatedDuration": 43,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "edinburgh_17",
+    "name": "Museum on the Mound",
+    "description": "edinburgh'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=16",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 55.950188,
+      "longitude": -3.1932476
+    },
+    "estimatedDuration": 86,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "edinburgh_18",
+    "name": "Knockdavie Castle",
+    "description": "edinburgh'de ziyaret edilebilecek popüler bir nokta: Knockdavie Castle.",
+    "image": "https://picsum.photos/800/600?random=17",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 56.0803286,
+      "longitude": -3.2680164
+    },
+    "estimatedDuration": 79,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "edinburgh_19",
+    "name": "Hallyards Castle",
+    "description": "edinburgh'de ziyaret edilebilecek popüler bir nokta: Hallyards Castle.",
+    "image": "https://picsum.photos/800/600?random=18",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 56.1085653,
+      "longitude": -3.2693055
+    },
+    "estimatedDuration": 68,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "edinburgh_20",
+    "name": "Oldwoodhouselee Castle",
+    "description": "edinburgh'in tarihine tanıklık eden bir kale.",
+    "image": "https://picsum.photos/800/600?random=19",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 55.8415998,
+      "longitude": -3.1875962
+    },
+    "estimatedDuration": 60,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "edinburgh_21",
+    "name": "The Royal Scots Dragoon Guards Museum",
+    "description": "edinburgh'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=20",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 55.9480854,
+      "longitude": -3.2008805
+    },
+    "estimatedDuration": 80,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "edinburgh_22",
+    "name": "Elphinstone Tower",
+    "description": "edinburgh'de ziyaret edilebilecek popüler bir nokta: Elphinstone Tower.",
+    "image": "https://picsum.photos/800/600?random=21",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 55.9174307,
+      "longitude": -2.9770052
+    },
+    "estimatedDuration": 83,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "edinburgh_23",
+    "name": "Heart Of Midlothian War Memorial",
+    "description": "edinburgh'de ziyaret edilebilecek popüler bir nokta: Heart Of Midlothian War Memorial.",
+    "image": "https://picsum.photos/800/600?random=22",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 55.9462847,
+      "longitude": -3.2164969
+    },
+    "estimatedDuration": 40,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "edinburgh_24",
+    "name": "HMS Claverhouse",
+    "description": "edinburgh'de ziyaret edilebilecek popüler bir nokta: HMS Claverhouse.",
+    "image": "https://picsum.photos/800/600?random=23",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 55.9807285,
+      "longitude": -3.2238121
+    },
+    "estimatedDuration": 55,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "edinburgh_25",
+    "name": "Madelvic Car Factory",
+    "description": "edinburgh'de ziyaret edilebilecek popüler bir nokta: Madelvic Car Factory.",
+    "image": "https://picsum.photos/800/600?random=24",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 55.9804211,
+      "longitude": -3.2326178
+    },
+    "estimatedDuration": 82,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 69,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "edinburgh_26",
+    "name": "Lennox Tower",
+    "description": "edinburgh'de ziyaret edilebilecek popüler bir nokta: Lennox Tower.",
+    "image": "https://picsum.photos/800/600?random=25",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 55.8900978,
+      "longitude": -3.3226629
+    },
+    "estimatedDuration": 71,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "edinburgh_27",
+    "name": "Edinburgh Castle",
+    "description": "edinburgh'in tarihine tanıklık eden bir kale.",
+    "image": "https://picsum.photos/800/600?random=26",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 55.9486754,
+      "longitude": -3.2003994
+    },
+    "estimatedDuration": 55,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "edinburgh_28",
+    "name": "Canongate Kirk",
+    "description": "edinburgh'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=27",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 55.9518207,
+      "longitude": -3.1796259
+    },
+    "estimatedDuration": 52,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 87,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "edinburgh_29",
+    "name": "National Monument of Scotland",
+    "description": "edinburgh'de ziyaret edilebilecek popüler bir nokta: National Monument of Scotland.",
+    "image": "https://picsum.photos/800/600?random=28",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 55.9547388,
+      "longitude": -3.1817956
+    },
+    "estimatedDuration": 79,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 50,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "edinburgh_30",
+    "name": "Dynamic Earth",
+    "description": "edinburgh'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=29",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 55.9505296,
+      "longitude": -3.1744118
+    },
+    "estimatedDuration": 34,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "edinburgh_31",
+    "name": "The Robin Chapel",
+    "description": "edinburgh'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=30",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 55.9313181,
+      "longitude": -3.1303585
+    },
+    "estimatedDuration": 80,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "edinburgh_32",
+    "name": "Duddingston Kirk",
+    "description": "edinburgh'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=31",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 55.9411856,
+      "longitude": -3.1490664
+    },
+    "estimatedDuration": 54,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "edinburgh_33",
+    "name": "Liberton Tower",
+    "description": "edinburgh'in tarihine tanıklık eden bir kale.",
+    "image": "https://picsum.photos/800/600?random=32",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 55.9145709,
+      "longitude": -3.1773823
+    },
+    "estimatedDuration": 74,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "edinburgh_34",
+    "name": "Edinburgh Central Mosque",
+    "description": "edinburgh'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=33",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 55.9450099,
+      "longitude": -3.1858397
+    },
+    "estimatedDuration": 75,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "edinburgh_35",
+    "name": "Dundas Castle",
+    "description": "edinburgh'in tarihine tanıklık eden bir kale.",
+    "image": "https://picsum.photos/800/600?random=34",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 55.9750379,
+      "longitude": -3.4145918
+    },
+    "estimatedDuration": 58,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "edinburgh_36",
+    "name": "Barnbougle Castle",
+    "description": "edinburgh'in tarihine tanıklık eden bir kale.",
+    "image": "https://picsum.photos/800/600?random=35",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 55.992463,
+      "longitude": -3.3343483
+    },
+    "estimatedDuration": 75,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "edinburgh_37",
+    "name": "St Michael's Kirk Inveresk",
+    "description": "edinburgh'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=36",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 55.937124,
+      "longitude": -3.0512808
+    },
+    "estimatedDuration": 56,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "edinburgh_38",
+    "name": "Cramond Kirk",
+    "description": "edinburgh'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=37",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 55.9777545,
+      "longitude": -3.2999555
+    },
+    "estimatedDuration": 33,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 19,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "edinburgh_39",
+    "name": "Mavisbank House",
+    "description": "edinburgh'de ziyaret edilebilecek popüler bir nokta: Mavisbank House.",
+    "image": "https://picsum.photos/800/600?random=38",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 55.8742773,
+      "longitude": -3.1391872
+    },
+    "estimatedDuration": 64,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "edinburgh_40",
+    "name": "Scott Monument",
+    "description": "edinburgh'de ziyaret edilebilecek popüler bir nokta: Scott Monument.",
+    "image": "https://picsum.photos/800/600?random=39",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 55.9523608,
+      "longitude": -3.1932573
+    },
+    "estimatedDuration": 60,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 78,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "edinburgh_41",
+    "name": "National War Museum",
+    "description": "edinburgh'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=40",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 55.9487884,
+      "longitude": -3.2016642
+    },
+    "estimatedDuration": 63,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "edinburgh_42",
+    "name": "St Margaret's Chapel",
+    "description": "edinburgh'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=41",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 55.9486972,
+      "longitude": -3.2000962
+    },
+    "estimatedDuration": 82,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "edinburgh_43",
+    "name": "The King's Gallery",
+    "description": "edinburgh'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=42",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 55.9525858,
+      "longitude": -3.173884
+    },
+    "estimatedDuration": 63,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "edinburgh_44",
+    "name": "Borthwick Castle Hotel",
+    "description": "edinburgh'in tarihine tanıklık eden bir kale.",
+    "image": "https://picsum.photos/800/600?random=43",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 55.82668,
+      "longitude": -3.007474
+    },
+    "estimatedDuration": 79,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 199,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "edinburgh_45",
+    "name": "St Cecilia's Hall",
+    "description": "edinburgh'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=44",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 55.9489881,
+      "longitude": -3.1864309
+    },
+    "estimatedDuration": 75,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 75,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "edinburgh_46",
+    "name": "St Giles' Cathedral",
+    "description": "edinburgh'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=45",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 55.9494682,
+      "longitude": -3.1908597
+    },
+    "estimatedDuration": 63,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "edinburgh_47",
+    "name": "North & South Leith Parish Church",
+    "description": "edinburgh'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=46",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 55.9720493,
+      "longitude": -3.1705517
+    },
+    "estimatedDuration": 58,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "edinburgh_48",
+    "name": "Augustine United Church",
+    "description": "edinburgh'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=47",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 55.9476419,
+      "longitude": -3.1911865
+    },
+    "estimatedDuration": 47,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 142,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "edinburgh_49",
+    "name": "Royal Observatory, Edinburgh",
+    "description": "edinburgh'de ziyaret edilebilecek popüler bir nokta: Royal Observatory, Edinburgh.",
+    "image": "https://picsum.photos/800/600?random=48",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 55.9228976,
+      "longitude": -3.1880723
+    },
+    "estimatedDuration": 65,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "edinburgh_50",
+    "name": "Aberdour Castle",
+    "description": "edinburgh'de ziyaret edilebilecek popüler bir nokta: Aberdour Castle.",
+    "image": "https://picsum.photos/800/600?random=49",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 56.0552258,
+      "longitude": -3.2982293
+    },
+    "estimatedDuration": 60,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "edinburgh_51",
+    "name": "Craigmillar Castle",
+    "description": "edinburgh'in tarihine tanıklık eden bir kale.",
+    "image": "https://picsum.photos/800/600?random=50",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 55.9257071,
+      "longitude": -3.1406202
+    },
+    "estimatedDuration": 86,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "edinburgh_52",
+    "name": "Charlotte Chapel",
+    "description": "edinburgh'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=51",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 55.9494563,
+      "longitude": -3.2105728
+    },
+    "estimatedDuration": 70,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "edinburgh_53",
+    "name": "Church of St John the Evangelist",
+    "description": "edinburgh'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=52",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 55.9500439,
+      "longitude": -3.2064809
+    },
+    "estimatedDuration": 34,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 176,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "edinburgh_54",
+    "name": "The Parish Church of St Cuthbert",
+    "description": "edinburgh'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=53",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 55.9496257,
+      "longitude": -3.2051212
+    },
+    "estimatedDuration": 51,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "edinburgh_55",
+    "name": "Colinton Parish Church",
+    "description": "edinburgh'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=54",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 55.9089726,
+      "longitude": -3.2561229
+    },
+    "estimatedDuration": 67,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "edinburgh_56",
+    "name": "Mayfield Salisbury Parish Church",
+    "description": "edinburgh'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=55",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 55.9330249,
+      "longitude": -3.177121
+    },
+    "estimatedDuration": 77,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "edinburgh_57",
+    "name": "The People's Story Museum",
+    "description": "edinburgh'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=56",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 55.9514815,
+      "longitude": -3.1799351
+    },
+    "estimatedDuration": 54,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "edinburgh_58",
+    "name": "Trinity Apse",
+    "description": "edinburgh'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=57",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 55.9509601,
+      "longitude": -3.1856769
+    },
+    "estimatedDuration": 32,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "edinburgh_59",
+    "name": "Carrubbers Christian Centre",
+    "description": "edinburgh'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=58",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 55.9507864,
+      "longitude": -3.1855925
+    },
+    "estimatedDuration": 35,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "edinburgh_60",
+    "name": "Orthodox Community of St Andrew",
+    "description": "edinburgh'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=59",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 55.9307609,
+      "longitude": -3.1718825
+    },
+    "estimatedDuration": 80,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  }
+]

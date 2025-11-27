@@ -1,0 +1,344 @@
+[
+  {
+    "id": "naples_1",
+    "name": "Naples Botanical Garden",
+    "description": "naples'de ziyaret edilebilecek popüler bir nokta: Naples Botanical Garden.",
+    "image": "https://picsum.photos/800/600?random=0",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 26.1058904,
+      "longitude": -81.7715511
+    },
+    "estimatedDuration": 53,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "naples_2",
+    "name": "The Baker Museum",
+    "description": "naples'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=1",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 26.21589,
+      "longitude": -81.8044314
+    },
+    "estimatedDuration": 42,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "naples_3",
+    "name": "Holocaust Museum of Southwest Florida",
+    "description": "naples'de bulunan önemli bir müze.",
+    "image": "https://images.pexels.com/photos/28993968/pexels-photo-28993968.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 26.204363,
+      "longitude": -81.79955
+    },
+    "estimatedDuration": 32,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 197,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "naples_4",
+    "name": "Rookery Bay Environmental Learning Center",
+    "description": "naples'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=3",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 26.049814,
+      "longitude": -81.7009017
+    },
+    "estimatedDuration": 51,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "naples_5",
+    "name": "The Children's Column",
+    "description": "naples'de ziyaret edilebilecek popüler bir nokta: The Children's Column.",
+    "image": "https://images.pexels.com/photos/34753919/pexels-photo-34753919.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 26.0261645,
+      "longitude": -81.7353803
+    },
+    "estimatedDuration": 62,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "naples_6",
+    "name": "Naples Historical Society",
+    "description": "naples'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=5",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 26.1321265,
+      "longitude": -81.8042381
+    },
+    "estimatedDuration": 74,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "naples_7",
+    "name": "Zebra",
+    "description": "naples'de ziyaret edilebilecek popüler bir nokta: Zebra.",
+    "image": "https://picsum.photos/800/600?random=6",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 26.1682473,
+      "longitude": -81.7879596
+    },
+    "estimatedDuration": 30,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 11,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "naples_8",
+    "name": "Giraffe",
+    "description": "naples'de ziyaret edilebilecek popüler bir nokta: Giraffe.",
+    "image": "https://images.pexels.com/photos/259554/pexels-photo-259554.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 26.1698921,
+      "longitude": -81.7869231
+    },
+    "estimatedDuration": 77,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "naples_9",
+    "name": "Lion",
+    "description": "naples'de ziyaret edilebilecek popüler bir nokta: Lion.",
+    "image": "https://picsum.photos/800/600?random=8",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 26.16826,
+      "longitude": -81.788484
+    },
+    "estimatedDuration": 38,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 33,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "naples_10",
+    "name": "Clouded Leopard",
+    "description": "naples'de ziyaret edilebilecek popüler bir nokta: Clouded Leopard.",
+    "image": "https://picsum.photos/800/600?random=9",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 26.1685109,
+      "longitude": -81.7887549
+    },
+    "estimatedDuration": 58,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "naples_11",
+    "name": "Flamingo",
+    "description": "naples'de ziyaret edilebilecek popüler bir nokta: Flamingo.",
+    "image": "https://picsum.photos/800/600?random=10",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 26.1684435,
+      "longitude": -81.7890789
+    },
+    "estimatedDuration": 44,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 30,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "naples_12",
+    "name": "Giant Tortoise Species",
+    "description": "naples'de ziyaret edilebilecek popüler bir nokta: Giant Tortoise Species.",
+    "image": "https://picsum.photos/800/600?random=11",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 26.1685646,
+      "longitude": -81.7892219
+    },
+    "estimatedDuration": 55,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 105,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "naples_13",
+    "name": "Python",
+    "description": "naples'de ziyaret edilebilecek popüler bir nokta: Python.",
+    "image": "https://picsum.photos/800/600?random=12",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 26.1695983,
+      "longitude": -81.7898665
+    },
+    "estimatedDuration": 78,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "naples_14",
+    "name": "Striped Hyena",
+    "description": "naples'de ziyaret edilebilecek popüler bir nokta: Striped Hyena.",
+    "image": "https://picsum.photos/800/600?random=13",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 26.1696934,
+      "longitude": -81.7894206
+    },
+    "estimatedDuration": 71,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 78,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "naples_15",
+    "name": "Florida Panther",
+    "description": "naples'de ziyaret edilebilecek popüler bir nokta: Florida Panther.",
+    "image": "https://picsum.photos/800/600?random=14",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 26.1699149,
+      "longitude": -81.7894847
+    },
+    "estimatedDuration": 81,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "naples_16",
+    "name": "Cheetah",
+    "description": "naples'de ziyaret edilebilecek popüler bir nokta: Cheetah.",
+    "image": "https://picsum.photos/800/600?random=15",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 26.1694889,
+      "longitude": -81.7891969
+    },
+    "estimatedDuration": 58,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "naples_17",
+    "name": "Mountain Bongo",
+    "description": "naples'de ziyaret edilebilecek popüler bir nokta: Mountain Bongo.",
+    "image": "https://picsum.photos/800/600?random=16",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 26.1697804,
+      "longitude": -81.7891679
+    },
+    "estimatedDuration": 47,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 166,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "naples_18",
+    "name": "Honey Badger",
+    "description": "naples'de ziyaret edilebilecek popüler bir nokta: Honey Badger.",
+    "image": "https://picsum.photos/800/600?random=17",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 26.1694093,
+      "longitude": -81.7883713
+    },
+    "estimatedDuration": 49,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "naples_19",
+    "name": "Black Bear",
+    "description": "naples'de ziyaret edilebilecek popüler bir nokta: Black Bear.",
+    "image": "https://picsum.photos/800/600?random=18",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 26.1696,
+      "longitude": -81.7902306
+    },
+    "estimatedDuration": 51,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 154,
+    "interests": [
+      "Tarihi"
+    ]
+  }
+]

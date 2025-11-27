@@ -1,0 +1,308 @@
+[
+  {
+    "id": "manchester_1",
+    "name": "National Watch and Clock Museum",
+    "description": "manchester'de bulunan önemli bir müze.",
+    "image": "https://images.pexels.com/photos/10969455/pexels-photo-10969455.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 40.0369906,
+      "longitude": -76.5022313
+    },
+    "estimatedDuration": 81,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "manchester_2",
+    "name": "Haines Shoe House",
+    "description": "manchester'de ziyaret edilebilecek popüler bir nokta: Haines Shoe House.",
+    "image": "https://picsum.photos/800/600?random=1",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 39.9990024,
+      "longitude": -76.6371596
+    },
+    "estimatedDuration": 31,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "manchester_3",
+    "name": "Marietta Restoration Associates",
+    "description": "manchester'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=2",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 40.057395,
+      "longitude": -76.5525355
+    },
+    "estimatedDuration": 40,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "manchester_4",
+    "name": "White Cliffs of Conoy",
+    "description": "manchester'de ziyaret edilebilecek popüler bir nokta: White Cliffs of Conoy.",
+    "image": "https://picsum.photos/800/600?random=3",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 40.0722235,
+      "longitude": -76.653102
+    },
+    "estimatedDuration": 32,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "manchester_5",
+    "name": "Top of York",
+    "description": "manchester'de ziyaret edilebilecek popüler bir nokta: Top of York.",
+    "image": "https://picsum.photos/800/600?random=4",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 39.9333605,
+      "longitude": -76.7323192
+    },
+    "estimatedDuration": 66,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "manchester_6",
+    "name": "Memorial Flag Pole",
+    "description": "manchester şehrinde doğa ile iç içe bir park.",
+    "image": "https://picsum.photos/800/600?random=5",
+    "category": "Park",
+    "coordinates": {
+      "latitude": 40.0105926,
+      "longitude": -76.6980416
+    },
+    "estimatedDuration": 43,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Park"
+    ]
+  },
+  {
+    "id": "manchester_7",
+    "name": "House of Oddities",
+    "description": "manchester'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=6",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 40.1515879,
+      "longitude": -76.6063165
+    },
+    "estimatedDuration": 47,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "manchester_8",
+    "name": "South Observation Deck",
+    "description": "manchester'de ziyaret edilebilecek popüler bir nokta: South Observation Deck.",
+    "image": "https://picsum.photos/800/600?random=7",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 40.0104072,
+      "longitude": -76.6437598
+    },
+    "estimatedDuration": 78,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "manchester_9",
+    "name": "The Overlook at Schull's Rock",
+    "description": "manchester'de ziyaret edilebilecek popüler bir nokta: The Overlook at Schull's Rock.",
+    "image": "https://picsum.photos/800/600?random=8",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 40.0556473,
+      "longitude": -76.6308528
+    },
+    "estimatedDuration": 76,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 147,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "manchester_10",
+    "name": "Winters Heritage House Museum",
+    "description": "manchester'de bulunan önemli bir müze.",
+    "image": "https://images.pexels.com/photos/34770325/pexels-photo-34770325.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 40.152131,
+      "longitude": -76.6047475
+    },
+    "estimatedDuration": 66,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "manchester_11",
+    "name": "Haldeman Mansion",
+    "description": "manchester'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=10",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 40.0791343,
+      "longitude": -76.6602216
+    },
+    "estimatedDuration": 63,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "manchester_12",
+    "name": "York County History Center",
+    "description": "manchester'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=11",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 39.9631335,
+      "longitude": -76.7322287
+    },
+    "estimatedDuration": 84,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "manchester_13",
+    "name": "Fire Museum of York County Inc",
+    "description": "manchester'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=12",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 39.9567792,
+      "longitude": -76.7470038
+    },
+    "estimatedDuration": 88,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "manchester_14",
+    "name": "Bonham House",
+    "description": "manchester'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=13",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 39.9633588,
+      "longitude": -76.7241676
+    },
+    "estimatedDuration": 74,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "manchester_15",
+    "name": "Industrial & Agricultural Museum",
+    "description": "manchester'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=14",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 39.9587007,
+      "longitude": -76.7308764
+    },
+    "estimatedDuration": 52,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 182,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "manchester_16",
+    "name": "Engine House and Lincoln Museum",
+    "description": "manchester'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=15",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 40.1523157,
+      "longitude": -76.627292
+    },
+    "estimatedDuration": 55,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "manchester_17",
+    "name": "North Observation Deck",
+    "description": "manchester'de ziyaret edilebilecek popüler bir nokta: North Observation Deck.",
+    "image": "https://picsum.photos/800/600?random=16",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 40.0128704,
+      "longitude": -76.654397
+    },
+    "estimatedDuration": 45,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  }
+]

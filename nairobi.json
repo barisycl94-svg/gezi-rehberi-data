@@ -1,0 +1,164 @@
+[
+  {
+    "id": "nairobi_1",
+    "name": "Bomas of Kenya",
+    "description": "nairobi'de ziyaret edilebilecek popüler bir nokta: Bomas of Kenya.",
+    "image": "https://picsum.photos/800/600?random=0",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -1.3375894,
+      "longitude": 36.7686673
+    },
+    "estimatedDuration": 32,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "nairobi_2",
+    "name": "Khoja Mosque",
+    "description": "nairobi'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=1",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -1.2814703,
+      "longitude": 36.821624
+    },
+    "estimatedDuration": 53,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 28,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "nairobi_3",
+    "name": "Temple of Dawn",
+    "description": "nairobi'in tarihi ibadet yapılarından biri.",
+    "image": "https://images.pexels.com/photos/33401282/pexels-photo-33401282.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -1.1973411,
+      "longitude": 36.9302663
+    },
+    "estimatedDuration": 87,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "nairobi_4",
+    "name": "Nairobi Safari Walk",
+    "description": "nairobi'de ziyaret edilebilecek popüler bir nokta: Nairobi Safari Walk.",
+    "image": "https://picsum.photos/800/600?random=3",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -1.3367987,
+      "longitude": 36.7773064
+    },
+    "estimatedDuration": 75,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "nairobi_5",
+    "name": "Giraffe Centre",
+    "description": "nairobi'de ziyaret edilebilecek popüler bir nokta: Giraffe Centre.",
+    "image": "https://picsum.photos/800/600?random=4",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -1.3765209,
+      "longitude": 36.7445984
+    },
+    "estimatedDuration": 88,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "nairobi_6",
+    "name": "Nairobi National Museum",
+    "description": "nairobi'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=5",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": -1.273995,
+      "longitude": 36.8149772
+    },
+    "estimatedDuration": 51,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "nairobi_7",
+    "name": "All Saints Cathedral",
+    "description": "nairobi'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=6",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -1.2893364,
+      "longitude": 36.8135082
+    },
+    "estimatedDuration": 66,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 67,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "nairobi_9",
+    "name": "Nairobi Gallery",
+    "description": "nairobi'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=8",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": -1.2867687,
+      "longitude": 36.8178958
+    },
+    "estimatedDuration": 37,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "nairobi_10",
+    "name": "Nairobi Railway Museum",
+    "description": "nairobi'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=9",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": -1.2936209,
+      "longitude": 36.8225011
+    },
+    "estimatedDuration": 78,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  }
+]

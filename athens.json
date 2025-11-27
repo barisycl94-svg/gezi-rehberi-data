@@ -1,0 +1,1082 @@
+[
+  {
+    "id": "athens_1",
+    "name": "Άγιος Γεώργιος",
+    "description": "athens'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=0",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 37.9819334,
+      "longitude": 23.7433907
+    },
+    "estimatedDuration": 62,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "athens_2",
+    "name": "Ιστορικό & Λαογραφικό Μουσείο Αχαρνών",
+    "description": "athens'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=1",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 38.0806723,
+      "longitude": 23.7354949
+    },
+    "estimatedDuration": 35,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "athens_3",
+    "name": "Λειψύδριον",
+    "description": "athens'de ziyaret edilebilecek popüler bir nokta: Λειψύδριον.",
+    "image": "https://picsum.photos/800/600?random=2",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 38.1284395,
+      "longitude": 23.7237662
+    },
+    "estimatedDuration": 84,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "athens_4",
+    "name": "Άγιος Νικόλαος ο Χωστός",
+    "description": "athens'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=3",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 37.9985191,
+      "longitude": 23.6986726
+    },
+    "estimatedDuration": 58,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "athens_5",
+    "name": "Άγαλμα Αθηνάς Προμάχου",
+    "description": "athens'de ziyaret edilebilecek popüler bir nokta: Άγαλμα Αθηνάς Προμάχου.",
+    "image": "https://picsum.photos/800/600?random=4",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 37.9718171,
+      "longitude": 23.725665
+    },
+    "estimatedDuration": 65,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "athens_6",
+    "name": "Ψυρρή",
+    "description": "athens'de ziyaret edilebilecek popüler bir nokta: Ψυρρή.",
+    "image": "https://picsum.photos/800/600?random=5",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 37.9784208,
+      "longitude": 23.7249422
+    },
+    "estimatedDuration": 75,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "athens_7",
+    "name": "Υ/Β Παπανικολής",
+    "description": "athens'de ziyaret edilebilecek popüler bir nokta: Υ/Β Παπανικολής.",
+    "image": "https://picsum.photos/800/600?random=6",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 37.9324948,
+      "longitude": 23.6459179
+    },
+    "estimatedDuration": 34,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "athens_8",
+    "name": "Χαρίλαος Τρικούπης",
+    "description": "athens'de ziyaret edilebilecek popüler bir nokta: Χαρίλαος Τρικούπης.",
+    "image": "https://picsum.photos/800/600?random=7",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 37.9775668,
+      "longitude": 23.73313
+    },
+    "estimatedDuration": 71,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "athens_9",
+    "name": "Μελίνα Μερκούρη",
+    "description": "athens'de ziyaret edilebilecek popüler bir nokta: Μελίνα Μερκούρη.",
+    "image": "https://picsum.photos/800/600?random=8",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 37.969856,
+      "longitude": 23.7314255
+    },
+    "estimatedDuration": 59,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 62,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "athens_10",
+    "name": "Επιγραφικό μουσείο",
+    "description": "athens'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=9",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 37.988769,
+      "longitude": 23.7323306
+    },
+    "estimatedDuration": 75,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "athens_11",
+    "name": "Μνημείο πεσόντων του Πολυτεχνείου",
+    "description": "athens'de ziyaret edilebilecek popüler bir nokta: Μνημείο πεσόντων του Πολυτεχνείου.",
+    "image": "https://picsum.photos/800/600?random=10",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 37.9878859,
+      "longitude": 23.7306771
+    },
+    "estimatedDuration": 87,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "athens_12",
+    "name": "Γεώργιος Αβέρωφ",
+    "description": "athens'de ziyaret edilebilecek popüler bir nokta: Γεώργιος Αβέρωφ.",
+    "image": "https://picsum.photos/800/600?random=11",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 37.9693436,
+      "longitude": 23.7392802
+    },
+    "estimatedDuration": 85,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "athens_13",
+    "name": "Οδυσσέας Ελύτης",
+    "description": "athens'de ziyaret edilebilecek popüler bir nokta: Οδυσσέας Ελύτης.",
+    "image": "https://picsum.photos/800/600?random=12",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 37.978867,
+      "longitude": 23.7416052
+    },
+    "estimatedDuration": 46,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "athens_14",
+    "name": "Τζωρτζ Κάνινγκ",
+    "description": "athens'de ziyaret edilebilecek popüler bir nokta: Τζωρτζ Κάνινγκ.",
+    "image": "https://picsum.photos/800/600?random=13",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 37.9854964,
+      "longitude": 23.7312515
+    },
+    "estimatedDuration": 49,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "athens_15",
+    "name": "Πλάτων",
+    "description": "athens'de ziyaret edilebilecek popüler bir nokta: Πλάτων.",
+    "image": "https://picsum.photos/800/600?random=14",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 37.9799703,
+      "longitude": 23.7338151
+    },
+    "estimatedDuration": 37,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "athens_16",
+    "name": "Σωκράτης",
+    "description": "athens'de ziyaret edilebilecek popüler bir nokta: Σωκράτης.",
+    "image": "https://picsum.photos/800/600?random=15",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 37.9799285,
+      "longitude": 23.7338506
+    },
+    "estimatedDuration": 40,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "athens_17",
+    "name": "Θεόδωρος Κολοκοτρώνης",
+    "description": "athens'de ziyaret edilebilecek popüler bir nokta: Θεόδωρος Κολοκοτρώνης.",
+    "image": "https://picsum.photos/800/600?random=16",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 37.9779839,
+      "longitude": 23.7330429
+    },
+    "estimatedDuration": 71,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "athens_18",
+    "name": "Αλέξανδρος Παναγούλης",
+    "description": "athens'de ziyaret edilebilecek popüler bir nokta: Αλέξανδρος Παναγούλης.",
+    "image": "https://picsum.photos/800/600?random=17",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 37.9823457,
+      "longitude": 23.7308942
+    },
+    "estimatedDuration": 72,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "athens_19",
+    "name": "Αλεξάντερ Φλέμινγκ",
+    "description": "athens'de ziyaret edilebilecek popüler bir nokta: Αλεξάντερ Φλέμινγκ.",
+    "image": "https://picsum.photos/800/600?random=18",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 37.9775827,
+      "longitude": 23.7063937
+    },
+    "estimatedDuration": 63,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 87,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "athens_20",
+    "name": "Αρχαιολογικός Χώρος Ακαδημίας Πλάτωνος",
+    "description": "athens'de ziyaret edilebilecek popüler bir nokta: Αρχαιολογικός Χώρος Ακαδημίας Πλάτωνος.",
+    "image": "https://picsum.photos/800/600?random=19",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 37.9913682,
+      "longitude": 23.7083807
+    },
+    "estimatedDuration": 56,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "athens_21",
+    "name": "Μουσείο Ηλεκτρικών Σιδηροδρόμων",
+    "description": "athens'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=20",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 37.9481619,
+      "longitude": 23.6425872
+    },
+    "estimatedDuration": 45,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "athens_22",
+    "name": "Νομισματικό Μουσείο",
+    "description": "athens'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=21",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 37.9778271,
+      "longitude": 23.7353855
+    },
+    "estimatedDuration": 69,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "athens_23",
+    "name": "Βοτανικός Κήπος Διομήδους",
+    "description": "athens'de ziyaret edilebilecek popüler bir nokta: Βοτανικός Κήπος Διομήδους.",
+    "image": "https://picsum.photos/800/600?random=22",
+    "category": "Park",
+    "coordinates": {
+      "latitude": 38.0105985,
+      "longitude": 23.6427364
+    },
+    "estimatedDuration": 87,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 44,
+    "interests": [
+      "Park"
+    ]
+  },
+  {
+    "id": "athens_24",
+    "name": "Δημοτική Πινακοθήκη Πειραιά",
+    "description": "athens'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=23",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 37.945302,
+      "longitude": 23.6468125
+    },
+    "estimatedDuration": 35,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "athens_25",
+    "name": "Σηράγγειο",
+    "description": "athens'de ziyaret edilebilecek popüler bir nokta: Σηράγγειο.",
+    "image": "https://picsum.photos/800/600?random=24",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 37.936179,
+      "longitude": 23.652883
+    },
+    "estimatedDuration": 74,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 70,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "athens_26",
+    "name": "Ιερό Έρωτα και Αφροδίτης",
+    "description": "athens'de ziyaret edilebilecek popüler bir nokta: Ιερό Έρωτα και Αφροδίτης.",
+    "image": "https://picsum.photos/800/600?random=25",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 37.9722492,
+      "longitude": 23.7270202
+    },
+    "estimatedDuration": 87,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "athens_27",
+    "name": "Επιτροπή Ποντιακών Μελετών",
+    "description": "athens'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=26",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 37.9352737,
+      "longitude": 23.7160998
+    },
+    "estimatedDuration": 80,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "athens_28",
+    "name": "Ψηφιακό Μουσείο της Ακαδημίας Πλάτωνος",
+    "description": "athens'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=27",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 37.9944547,
+      "longitude": 23.7072931
+    },
+    "estimatedDuration": 81,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "athens_29",
+    "name": "Σπηλιά Νταβέλη",
+    "description": "athens'de ziyaret edilebilecek popüler bir nokta: Σπηλιά Νταβέλη.",
+    "image": "https://picsum.photos/800/600?random=28",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 38.0708339,
+      "longitude": 23.877298
+    },
+    "estimatedDuration": 40,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "athens_30",
+    "name": "Αρχαίο θέατρο Ικαρίας Αττικής",
+    "description": "athens'de ziyaret edilebilecek popüler bir nokta: Αρχαίο θέατρο Ικαρίας Αττικής.",
+    "image": "https://picsum.photos/800/600?random=29",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 38.0956228,
+      "longitude": 23.9004792
+    },
+    "estimatedDuration": 70,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "athens_31",
+    "name": "Δίπυλον",
+    "description": "athens'de ziyaret edilebilecek popüler bir nokta: Δίπυλον.",
+    "image": "https://picsum.photos/800/600?random=30",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 37.9785361,
+      "longitude": 23.7189826
+    },
+    "estimatedDuration": 45,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "athens_32",
+    "name": "Πατριάρχης Γρηγόριος Ε΄",
+    "description": "athens'de ziyaret edilebilecek popüler bir nokta: Πατριάρχης Γρηγόριος Ε΄.",
+    "image": "https://picsum.photos/800/600?random=31",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 37.9804935,
+      "longitude": 23.7338424
+    },
+    "estimatedDuration": 33,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 35,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "athens_33",
+    "name": "Ποικίλη Στοά",
+    "description": "athens'de ziyaret edilebilecek popüler bir nokta: Ποικίλη Στοά.",
+    "image": "https://picsum.photos/800/600?random=32",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 37.9764143,
+      "longitude": 23.7226169
+    },
+    "estimatedDuration": 79,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "athens_34",
+    "name": "Ελληνικό Μουσείο Πληροφορικής",
+    "description": "athens'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=33",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 37.954619,
+      "longitude": 23.6772329
+    },
+    "estimatedDuration": 67,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "athens_35",
+    "name": "Ερρίκος Σλήμαν",
+    "description": "athens'de ziyaret edilebilecek popüler bir nokta: Ερρίκος Σλήμαν.",
+    "image": "https://picsum.photos/800/600?random=34",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 37.9643487,
+      "longitude": 23.7361025
+    },
+    "estimatedDuration": 65,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "athens_36",
+    "name": "Μουσείο Αρχαίας Αγοράς",
+    "description": "athens'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=35",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 37.9750214,
+      "longitude": 23.7241932
+    },
+    "estimatedDuration": 62,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "athens_37",
+    "name": "Μουσείο Μελέτης Ελληνικού Θεάτρου",
+    "description": "athens'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=36",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 37.9813749,
+      "longitude": 23.735311
+    },
+    "estimatedDuration": 72,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 62,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "athens_38",
+    "name": "Πανδρόσειο",
+    "description": "athens'de ziyaret edilebilecek popüler bir nokta: Πανδρόσειο.",
+    "image": "https://picsum.photos/800/600?random=37",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 37.9720591,
+      "longitude": 23.7262584
+    },
+    "estimatedDuration": 40,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "athens_39",
+    "name": "Μουσείο Γουλανδρή Φυσικής Ιστορίας",
+    "description": "athens'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=38",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 38.0743683,
+      "longitude": 23.8146485
+    },
+    "estimatedDuration": 89,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "athens_40",
+    "name": "Θέατρο του Διονύσου",
+    "description": "athens'de ziyaret edilebilecek popüler bir nokta: Θέατρο του Διονύσου.",
+    "image": "https://picsum.photos/800/600?random=39",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 37.9705875,
+      "longitude": 23.7277152
+    },
+    "estimatedDuration": 34,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "athens_41",
+    "name": "Μουσείο Μπενάκη",
+    "description": "athens'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=40",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 37.9760159,
+      "longitude": 23.7403427
+    },
+    "estimatedDuration": 47,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "athens_42",
+    "name": "Ναός Ηφαίστου",
+    "description": "athens'de ziyaret edilebilecek popüler bir nokta: Ναός Ηφαίστου.",
+    "image": "https://picsum.photos/800/600?random=41",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 37.975604,
+      "longitude": 23.7214117
+    },
+    "estimatedDuration": 39,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 81,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "athens_43",
+    "name": "Εθνική Γλυπτοθήκη",
+    "description": "athens'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=42",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 37.987099,
+      "longitude": 23.7779536
+    },
+    "estimatedDuration": 36,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "athens_44",
+    "name": "Ναός του Ολυμπίου Διός",
+    "description": "athens'de ziyaret edilebilecek popüler bir nokta: Ναός του Ολυμπίου Διός.",
+    "image": "https://picsum.photos/800/600?random=43",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 37.9693685,
+      "longitude": 23.7330942
+    },
+    "estimatedDuration": 87,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 149,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "athens_45",
+    "name": "Παναγία Μαρμαριώτισσα",
+    "description": "athens'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=44",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 38.0156745,
+      "longitude": 23.79801
+    },
+    "estimatedDuration": 58,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "athens_46",
+    "name": "Ναός της Ρώμης και του Αυγούστου",
+    "description": "athens'de ziyaret edilebilecek popüler bir nokta: Ναός της Ρώμης και του Αυγούστου.",
+    "image": "https://picsum.photos/800/600?random=45",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 37.9716276,
+      "longitude": 23.727309
+    },
+    "estimatedDuration": 52,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "athens_47",
+    "name": "Πάνδιον",
+    "description": "athens'de ziyaret edilebilecek popüler bir nokta: Πάνδιον.",
+    "image": "https://picsum.photos/800/600?random=46",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 37.9715198,
+      "longitude": 23.7278948
+    },
+    "estimatedDuration": 53,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "athens_48",
+    "name": "Αρρηφόριον",
+    "description": "athens'de ziyaret edilebilecek popüler bir nokta: Αρρηφόριον.",
+    "image": "https://picsum.photos/800/600?random=47",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 37.9721951,
+      "longitude": 23.7258979
+    },
+    "estimatedDuration": 75,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "athens_49",
+    "name": "Στοά Ευμένους",
+    "description": "athens'de ziyaret edilebilecek popüler bir nokta: Στοά Ευμένους.",
+    "image": "https://picsum.photos/800/600?random=48",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 37.970529,
+      "longitude": 23.7260129
+    },
+    "estimatedDuration": 89,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "athens_50",
+    "name": "Μνημείο επωνύμων ηρώων",
+    "description": "athens'de ziyaret edilebilecek popüler bir nokta: Μνημείο επωνύμων ηρώων.",
+    "image": "https://picsum.photos/800/600?random=49",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 37.9750746,
+      "longitude": 23.7223915
+    },
+    "estimatedDuration": 72,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "athens_51",
+    "name": "Βασίλειος Στοά",
+    "description": "athens'de ziyaret edilebilecek popüler bir nokta: Βασίλειος Στοά.",
+    "image": "https://picsum.photos/800/600?random=50",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 37.9761188,
+      "longitude": 23.7223455
+    },
+    "estimatedDuration": 33,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 120,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "athens_52",
+    "name": "Βιβλιοθήκη τού Πανταίνου",
+    "description": "athens'de ziyaret edilebilecek popüler bir nokta: Βιβλιοθήκη τού Πανταίνου.",
+    "image": "https://picsum.photos/800/600?random=51",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 37.9743957,
+      "longitude": 23.7246741
+    },
+    "estimatedDuration": 79,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "athens_53",
+    "name": "Ναός του Απόλλωνος Πατρώου",
+    "description": "athens'de ziyaret edilebilecek popüler bir nokta: Ναός του Απόλλωνος Πατρώου.",
+    "image": "https://picsum.photos/800/600?random=52",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 37.9755569,
+      "longitude": 23.7221243
+    },
+    "estimatedDuration": 76,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "athens_54",
+    "name": "Στοά του Ελευθερίου Διός",
+    "description": "athens'de ziyaret edilebilecek popüler bir nokta: Στοά του Ελευθερίου Διός.",
+    "image": "https://picsum.photos/800/600?random=53",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 37.9758361,
+      "longitude": 23.7221118
+    },
+    "estimatedDuration": 65,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "athens_55",
+    "name": "Ἐλευσίνιον",
+    "description": "athens'de ziyaret edilebilecek popüler bir nokta: Ἐλευσίνιον.",
+    "image": "https://picsum.photos/800/600?random=54",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 37.9733141,
+      "longitude": 23.7249088
+    },
+    "estimatedDuration": 50,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "athens_56",
+    "name": "Δελφίνιον",
+    "description": "athens'de ziyaret edilebilecek popüler bir nokta: Δελφίνιον.",
+    "image": "https://picsum.photos/800/600?random=55",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 37.9685708,
+      "longitude": 23.7329859
+    },
+    "estimatedDuration": 42,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 182,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "athens_57",
+    "name": "Αρχαιολογικος χώρος πλατείας Τερψιθέας",
+    "description": "athens'de ziyaret edilebilecek popüler bir nokta: Αρχαιολογικος χώρος πλατείας Τερψιθέας.",
+    "image": "https://picsum.photos/800/600?random=56",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 37.9392606,
+      "longitude": 23.6447575
+    },
+    "estimatedDuration": 68,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 47,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "athens_58",
+    "name": "Μνημείο Λυσικράτους",
+    "description": "athens'de ziyaret edilebilecek popüler bir nokta: Μνημείο Λυσικράτους.",
+    "image": "https://picsum.photos/800/600?random=57",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 37.9710801,
+      "longitude": 23.7299377
+    },
+    "estimatedDuration": 39,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "athens_59",
+    "name": "Πύλη του Αδριανού",
+    "description": "athens'de ziyaret edilebilecek popüler bir nokta: Πύλη του Αδριανού.",
+    "image": "https://picsum.photos/800/600?random=58",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 37.9701868,
+      "longitude": 23.732013
+    },
+    "estimatedDuration": 86,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "athens_60",
+    "name": "Μουσείο Φρυσίρα",
+    "description": "athens'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=59",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 37.9720554,
+      "longitude": 23.732572
+    },
+    "estimatedDuration": 70,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  }
+]

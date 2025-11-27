@@ -1,0 +1,830 @@
+[
+  {
+    "id": "hanoi_1",
+    "name": "Nhà 48 phố Hàng Ngang",
+    "description": "hanoi'de ziyaret edilebilecek popüler bir nokta: Nhà 48 phố Hàng Ngang.",
+    "image": "https://picsum.photos/800/600?random=0",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 21.0343278,
+      "longitude": 105.8504388
+    },
+    "estimatedDuration": 83,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "hanoi_2",
+    "name": "Chùa Phật Tích",
+    "description": "hanoi'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=1",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 21.0936546,
+      "longitude": 106.0262578
+    },
+    "estimatedDuration": 85,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "hanoi_3",
+    "name": "Đền Hai Bà Trưng",
+    "description": "hanoi'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=2",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 21.012183,
+      "longitude": 105.8552674
+    },
+    "estimatedDuration": 41,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 100,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "hanoi_4",
+    "name": "Đền Voi Phục",
+    "description": "hanoi'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=3",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 21.0306583,
+      "longitude": 105.8042292
+    },
+    "estimatedDuration": 70,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "hanoi_5",
+    "name": "Cầu Thê Húc",
+    "description": "hanoi'de ziyaret edilebilecek popüler bir nokta: Cầu Thê Húc.",
+    "image": "https://picsum.photos/800/600?random=4",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 21.0307813,
+      "longitude": 105.8527835
+    },
+    "estimatedDuration": 85,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "hanoi_6",
+    "name": "Nhà thờ Lớn",
+    "description": "hanoi'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=5",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 21.0286594,
+      "longitude": 105.8488471
+    },
+    "estimatedDuration": 83,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "hanoi_7",
+    "name": "Công viên Thủ Lệ",
+    "description": "hanoi'de ziyaret edilebilecek popüler bir nokta: Công viên Thủ Lệ.",
+    "image": "https://picsum.photos/800/600?random=6",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 21.0307413,
+      "longitude": 105.80664
+    },
+    "estimatedDuration": 66,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 83,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "hanoi_8",
+    "name": "Lăng Chủ tịch Hồ Chí Minh",
+    "description": "hanoi'de ziyaret edilebilecek popüler bir nokta: Lăng Chủ tịch Hồ Chí Minh.",
+    "image": "https://picsum.photos/800/600?random=7",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 21.0367617,
+      "longitude": 105.8346919
+    },
+    "estimatedDuration": 82,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "hanoi_9",
+    "name": "Bảo tàng Hồ Chí Minh",
+    "description": "hanoi'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=8",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 21.0356178,
+      "longitude": 105.8326247
+    },
+    "estimatedDuration": 61,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "hanoi_10",
+    "name": "Phủ Chủ Tịch",
+    "description": "hanoi'in tarihine tanıklık eden bir kale.",
+    "image": "https://picsum.photos/800/600?random=9",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 21.0393019,
+      "longitude": 105.8344412
+    },
+    "estimatedDuration": 59,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 4,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "hanoi_11",
+    "name": "Nhà hát Lớn",
+    "description": "hanoi'de ziyaret edilebilecek popüler bir nokta: Nhà hát Lớn.",
+    "image": "https://picsum.photos/800/600?random=10",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 21.0241925,
+      "longitude": 105.857823
+    },
+    "estimatedDuration": 68,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "hanoi_12",
+    "name": "Bảo tàng Lịch sử Quốc gia Việt Nam",
+    "description": "hanoi'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=11",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 21.0242432,
+      "longitude": 105.8597158
+    },
+    "estimatedDuration": 38,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 148,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "hanoi_14",
+    "name": "Đền Ngọc Sơn",
+    "description": "hanoi'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=13",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 21.0307296,
+      "longitude": 105.8523763
+    },
+    "estimatedDuration": 35,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "hanoi_15",
+    "name": "Tháp Rùa",
+    "description": "hanoi'de ziyaret edilebilecek popüler bir nokta: Tháp Rùa.",
+    "image": "https://picsum.photos/800/600?random=14",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 21.027873,
+      "longitude": 105.8522929
+    },
+    "estimatedDuration": 89,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 86,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "hanoi_16",
+    "name": "Bảo tàng Hà Nội",
+    "description": "hanoi'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=15",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 21.010013,
+      "longitude": 105.786309
+    },
+    "estimatedDuration": 69,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "hanoi_17",
+    "name": "Chùa Trấn Quốc",
+    "description": "hanoi'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=16",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 21.0478999,
+      "longitude": 105.8367599
+    },
+    "estimatedDuration": 46,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "hanoi_18",
+    "name": "Cung Văn hóa Lao động Hữu nghị Việt Xô",
+    "description": "hanoi'de ziyaret edilebilecek popüler bir nokta: Cung Văn hóa Lao động Hữu nghị Việt Xô.",
+    "image": "https://picsum.photos/800/600?random=17",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 21.0222196,
+      "longitude": 105.8442397
+    },
+    "estimatedDuration": 62,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "hanoi_19",
+    "name": "Bảo tàng Dân tộc học Việt Nam",
+    "description": "hanoi'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=18",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 21.0403941,
+      "longitude": 105.7988369
+    },
+    "estimatedDuration": 83,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 26,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "hanoi_20",
+    "name": "Nhà tù Hỏa Lò",
+    "description": "hanoi'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=19",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 21.0253763,
+      "longitude": 105.8464274
+    },
+    "estimatedDuration": 30,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "hanoi_21",
+    "name": "Chùa Bút Tháp",
+    "description": "hanoi'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=20",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 21.0610268,
+      "longitude": 106.0222454
+    },
+    "estimatedDuration": 72,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 32,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "hanoi_22",
+    "name": "Đền Đô",
+    "description": "hanoi'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=21",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 21.107089,
+      "longitude": 105.9597632
+    },
+    "estimatedDuration": 41,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "hanoi_23",
+    "name": "Đoan Môn",
+    "description": "hanoi'de ziyaret edilebilecek popüler bir nokta: Đoan Môn.",
+    "image": "https://picsum.photos/800/600?random=22",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 21.0352574,
+      "longitude": 105.8402519
+    },
+    "estimatedDuration": 74,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 19,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "hanoi_24",
+    "name": "Hoàng thành Thăng Long",
+    "description": "hanoi'in tarihine tanıklık eden bir kale.",
+    "image": "https://picsum.photos/800/600?random=23",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 21.0357532,
+      "longitude": 105.8402425
+    },
+    "estimatedDuration": 65,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 103,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "hanoi_25",
+    "name": "Chùa Một Cột",
+    "description": "hanoi'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=24",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 21.0358556,
+      "longitude": 105.8336144
+    },
+    "estimatedDuration": 53,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "hanoi_26",
+    "name": "Nhà thờ Cửa Bắc",
+    "description": "hanoi'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=25",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 21.0414535,
+      "longitude": 105.8405062
+    },
+    "estimatedDuration": 74,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "hanoi_27",
+    "name": "Đền Quán Thánh",
+    "description": "hanoi'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=26",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 21.0430081,
+      "longitude": 105.8364202
+    },
+    "estimatedDuration": 64,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "hanoi_28",
+    "name": "Bảo tàng Mỹ thuật Việt Nam",
+    "description": "hanoi'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=27",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 21.0306532,
+      "longitude": 105.8370317
+    },
+    "estimatedDuration": 62,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 194,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "hanoi_29",
+    "name": "Hội quán Việt Đông",
+    "description": "hanoi'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=28",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 21.0362662,
+      "longitude": 105.8522718
+    },
+    "estimatedDuration": 71,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "hanoi_30",
+    "name": "Đền Bạch Mã",
+    "description": "hanoi'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=29",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 21.0358982,
+      "longitude": 105.8510074
+    },
+    "estimatedDuration": 75,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "hanoi_31",
+    "name": "Chùa Quán Sứ",
+    "description": "hanoi'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=30",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 21.024453,
+      "longitude": 105.8454153
+    },
+    "estimatedDuration": 60,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 178,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "hanoi_32",
+    "name": "Bảo tàng Phụ nữ Việt Nam",
+    "description": "hanoi'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=31",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 21.0234022,
+      "longitude": 105.8516031
+    },
+    "estimatedDuration": 83,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "hanoi_33",
+    "name": "Bắc Bộ Phủ",
+    "description": "hanoi'de ziyaret edilebilecek popüler bir nokta: Bắc Bộ Phủ.",
+    "image": "https://picsum.photos/800/600?random=32",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 21.0266644,
+      "longitude": 105.8552864
+    },
+    "estimatedDuration": 66,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 189,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "hanoi_34",
+    "name": "Tòa nhà trung tâm Bưu điện Hà Nội",
+    "description": "hanoi'de ziyaret edilebilecek popüler bir nokta: Tòa nhà trung tâm Bưu điện Hà Nội.",
+    "image": "https://picsum.photos/800/600?random=33",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 21.0265128,
+      "longitude": 105.8537563
+    },
+    "estimatedDuration": 52,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "hanoi_35",
+    "name": "Phủ Tây Hồ",
+    "description": "hanoi'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=34",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 21.0555556,
+      "longitude": 105.8197192
+    },
+    "estimatedDuration": 33,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "hanoi_36",
+    "name": "Đền Kim Liên",
+    "description": "hanoi'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=35",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 21.0106784,
+      "longitude": 105.8381736
+    },
+    "estimatedDuration": 85,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "hanoi_37",
+    "name": "Chùa Hà",
+    "description": "hanoi'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=36",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 21.0371267,
+      "longitude": 105.7951905
+    },
+    "estimatedDuration": 66,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "hanoi_38",
+    "name": "Chùa Phúc Khánh",
+    "description": "hanoi'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=37",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 21.004447,
+      "longitude": 105.8211559
+    },
+    "estimatedDuration": 74,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 106,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "hanoi_39",
+    "name": "Bảo tàng Lịch sử Quân sự Việt Nam",
+    "description": "hanoi'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=38",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 21.0117597,
+      "longitude": 105.7548289
+    },
+    "estimatedDuration": 50,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 90,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "hanoi_40",
+    "name": "Quảng trường Ba Đình",
+    "description": "hanoi'de ziyaret edilebilecek popüler bir nokta: Quảng trường Ba Đình.",
+    "image": "https://picsum.photos/800/600?random=39",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 21.0369875,
+      "longitude": 105.8358029
+    },
+    "estimatedDuration": 80,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "hanoi_41",
+    "name": "Bảo tàng Đặc công",
+    "description": "hanoi'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=40",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 20.9166342,
+      "longitude": 105.8744443
+    },
+    "estimatedDuration": 44,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "hanoi_43",
+    "name": "Bảo tàng Phòng không - Không quân",
+    "description": "hanoi'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=42",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 20.999274,
+      "longitude": 105.8292331
+    },
+    "estimatedDuration": 66,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 88,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "hanoi_44",
+    "name": "Tháp Hòa Phong",
+    "description": "hanoi'de ziyaret edilebilecek popüler bir nokta: Tháp Hòa Phong.",
+    "image": "https://picsum.photos/800/600?random=43",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 21.0263362,
+      "longitude": 105.853313
+    },
+    "estimatedDuration": 45,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 130,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "hanoi_45",
+    "name": "Chùa Chân Tiên",
+    "description": "hanoi'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=44",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 21.0141222,
+      "longitude": 105.8495463
+    },
+    "estimatedDuration": 35,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 67,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "hanoi_46",
+    "name": "Phố đường tàu Hà Nội",
+    "description": "hanoi'de ziyaret edilebilecek popüler bir nokta: Phố đường tàu Hà Nội.",
+    "image": "https://picsum.photos/800/600?random=45",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 21.0299738,
+      "longitude": 105.8431281
+    },
+    "estimatedDuration": 31,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "hanoi_47",
+    "name": "Đền Bà Kiệu",
+    "description": "hanoi'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=46",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 21.0311074,
+      "longitude": 105.8534574
+    },
+    "estimatedDuration": 80,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 2,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "hanoi_48",
+    "name": "Đài tưởng niệm các Anh hùng liệt sĩ",
+    "description": "hanoi'de ziyaret edilebilecek popüler bir nokta: Đài tưởng niệm các Anh hùng liệt sĩ.",
+    "image": "https://picsum.photos/800/600?random=47",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 21.0360358,
+      "longitude": 105.8386914
+    },
+    "estimatedDuration": 61,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  }
+]

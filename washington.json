@@ -1,0 +1,362 @@
+[
+  {
+    "id": "washington_1",
+    "name": "St. Gregory the Great Cathedral",
+    "description": "washington'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=0",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 13.1383887,
+      "longitude": 123.7332738
+    },
+    "estimatedDuration": 33,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 155,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "washington_2",
+    "name": "Our Lady of the Gate Parish",
+    "description": "washington'in tarihi ibadet yapılarından biri.",
+    "image": "https://images.pexels.com/photos/5273123/pexels-photo-5273123.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 13.1498989,
+      "longitude": 123.7121098
+    },
+    "estimatedDuration": 65,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "washington_3",
+    "name": "Hoyop Hoyopan Cave",
+    "description": "washington'de ziyaret edilebilecek popüler bir nokta: Hoyop Hoyopan Cave.",
+    "image": "https://picsum.photos/800/600?random=2",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 13.1207143,
+      "longitude": 123.6563101
+    },
+    "estimatedDuration": 81,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "washington_4",
+    "name": "La Edley",
+    "description": "washington'de ziyaret edilebilecek popüler bir nokta: La Edley.",
+    "image": "https://picsum.photos/800/600?random=3",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 13.154624,
+      "longitude": 123.732123
+    },
+    "estimatedDuration": 89,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 105,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "washington_5",
+    "name": "Mina's Resort",
+    "description": "washington'de ziyaret edilebilecek popüler bir nokta: Mina's Resort.",
+    "image": "https://images.pexels.com/photos/18212454/pexels-photo-18212454.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 13.1883154,
+      "longitude": 123.7433892
+    },
+    "estimatedDuration": 87,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 52,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "washington_6",
+    "name": "Legaspi City Marine Sanctuary",
+    "description": "washington'de ziyaret edilebilecek popüler bir nokta: Bilinmeyen Yer.",
+    "image": "https://picsum.photos/800/600?random=5",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 13.0653711,
+      "longitude": 123.7707153
+    },
+    "estimatedDuration": 74,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "washington_7",
+    "name": "Quitinday Hills",
+    "description": "washington'de ziyaret edilebilecek popüler bir nokta: Quitinday Hills.",
+    "image": "https://picsum.photos/800/600?random=6",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 13.0998127,
+      "longitude": 123.615692
+    },
+    "estimatedDuration": 49,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "washington_8",
+    "name": "Bagumbayan Gymnasium",
+    "description": "washington'de ziyaret edilebilecek popüler bir nokta: Bagumbayan Gymnasium.",
+    "image": "https://picsum.photos/800/600?random=7",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 13.1413832,
+      "longitude": 123.7151785
+    },
+    "estimatedDuration": 75,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "washington_9",
+    "name": "Quitinday Greenhills",
+    "description": "washington'de ziyaret edilebilecek popüler bir nokta: Quitinday Greenhills.",
+    "image": "https://picsum.photos/800/600?random=8",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 13.1075683,
+      "longitude": 123.6189862
+    },
+    "estimatedDuration": 77,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "washington_10",
+    "name": "Underground River",
+    "description": "washington'de ziyaret edilebilecek popüler bir nokta: Underground River.",
+    "image": "https://picsum.photos/800/600?random=9",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 13.0762625,
+      "longitude": 123.6044656
+    },
+    "estimatedDuration": 57,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 121,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "washington_11",
+    "name": "Solong Eco Park & Tours, Cave & Mountain",
+    "description": "washington'de ziyaret edilebilecek popüler bir nokta: Solong Eco Park & Tours, Cave & Mountain.",
+    "image": "https://picsum.photos/800/600?random=10",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 13.11599,
+      "longitude": 123.64593
+    },
+    "estimatedDuration": 33,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "washington_12",
+    "name": "Puro Beach",
+    "description": "washington'de ziyaret edilebilecek popüler bir nokta: Puro Beach.",
+    "image": "https://picsum.photos/800/600?random=11",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 13.1360472,
+      "longitude": 123.7624748
+    },
+    "estimatedDuration": 36,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 78,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "washington_13",
+    "name": "Embarcadero Lighthouse",
+    "description": "washington'de ziyaret edilebilecek popüler bir nokta: Embarcadero Lighthouse.",
+    "image": "https://images.pexels.com/photos/34918722/pexels-photo-34918722.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 13.1438306,
+      "longitude": 123.7573794
+    },
+    "estimatedDuration": 61,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "washington_14",
+    "name": "Liberty Bell",
+    "description": "washington'de ziyaret edilebilecek popüler bir nokta: Liberty Bell.",
+    "image": "https://picsum.photos/800/600?random=13",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 13.1385873,
+      "longitude": 123.7350365
+    },
+    "estimatedDuration": 54,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 10,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "washington_15",
+    "name": "Bicol Heritage Park",
+    "description": "washington'de ziyaret edilebilecek popüler bir nokta: Bicol Heritage Park.",
+    "image": "https://picsum.photos/800/600?random=14",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 13.1449678,
+      "longitude": 123.7257516
+    },
+    "estimatedDuration": 33,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 11,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "washington_16",
+    "name": "Wooden Gate",
+    "description": "washington'de ziyaret edilebilecek popüler bir nokta: Wooden Gate.",
+    "image": "https://picsum.photos/800/600?random=15",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 13.1429586,
+      "longitude": 123.7599348
+    },
+    "estimatedDuration": 36,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "washington_17",
+    "name": "Viewpoint",
+    "description": "washington'de ziyaret edilebilecek popüler bir nokta: Viewpoint.",
+    "image": "https://picsum.photos/800/600?random=16",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 13.1430466,
+      "longitude": 123.7601582
+    },
+    "estimatedDuration": 47,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 89,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "washington_18",
+    "name": "Take LEFT Fork",
+    "description": "washington'de ziyaret edilebilecek popüler bir nokta: Take LEFT Fork.",
+    "image": "https://picsum.photos/800/600?random=17",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 13.1424154,
+      "longitude": 123.7588917
+    },
+    "estimatedDuration": 38,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 82,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "washington_19",
+    "name": "Legazpi Sign",
+    "description": "washington'de ziyaret edilebilecek popüler bir nokta: Legazpi Sign.",
+    "image": "https://picsum.photos/800/600?random=18",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 13.1344072,
+      "longitude": 123.7670614
+    },
+    "estimatedDuration": 33,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 26,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "washington_20",
+    "name": "Ranchwood Garden Receptions",
+    "description": "washington'de ziyaret edilebilecek popüler bir nokta: Ranchwood Garden Receptions.",
+    "image": "https://picsum.photos/800/600?random=19",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 13.1107422,
+      "longitude": 123.6990434
+    },
+    "estimatedDuration": 80,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  }
+]

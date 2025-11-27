@@ -1,0 +1,272 @@
+[
+  {
+    "id": "gold_coast_1",
+    "name": "Sea World",
+    "description": "gold_coast'de ziyaret edilebilecek popüler bir nokta: Sea World.",
+    "image": "https://picsum.photos/800/600?random=0",
+    "category": "Eğlence",
+    "coordinates": {
+      "latitude": -27.9584828,
+      "longitude": 153.4252935
+    },
+    "estimatedDuration": 43,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Eğlence"
+    ]
+  },
+  {
+    "id": "gold_coast_2",
+    "name": "Nickelodeon Land",
+    "description": "gold_coast'de ziyaret edilebilecek popüler bir nokta: Nickelodeon Land.",
+    "image": "https://picsum.photos/800/600?random=1",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -27.9576277,
+      "longitude": 153.4254803
+    },
+    "estimatedDuration": 37,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "gold_coast_3",
+    "name": "Leviathan",
+    "description": "gold_coast'de ziyaret edilebilecek popüler bir nokta: Leviathan.",
+    "image": "https://picsum.photos/800/600?random=2",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -27.9581893,
+      "longitude": 153.4262126
+    },
+    "estimatedDuration": 59,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "gold_coast_4",
+    "name": "North Nobby",
+    "description": "gold_coast'de ziyaret edilebilecek popüler bir nokta: North Nobby.",
+    "image": "https://picsum.photos/800/600?random=3",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -28.0620247,
+      "longitude": 153.4407414
+    },
+    "estimatedDuration": 58,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "gold_coast_5",
+    "name": "South Nobby Headland",
+    "description": "gold_coast'de ziyaret edilebilecek popüler bir nokta: South Nobby Headland.",
+    "image": "https://picsum.photos/800/600?random=4",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -28.0709657,
+      "longitude": 153.4450061
+    },
+    "estimatedDuration": 57,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "gold_coast_6",
+    "name": "Tumgun Lookout",
+    "description": "gold_coast'de ziyaret edilebilecek popüler bir nokta: Tumgun Lookout.",
+    "image": "https://picsum.photos/800/600?random=5",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -28.0919829,
+      "longitude": 153.4592569
+    },
+    "estimatedDuration": 56,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "gold_coast_7",
+    "name": "Gold Coast War Museum",
+    "description": "gold_coast'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=6",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": -28.099164,
+      "longitude": 153.3265716
+    },
+    "estimatedDuration": 45,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "gold_coast_10",
+    "name": "Jebbribillum Lookout",
+    "description": "gold_coast'de ziyaret edilebilecek popüler bir nokta: Jebbribillum Lookout.",
+    "image": "https://picsum.photos/800/600?random=9",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -28.0908589,
+      "longitude": 153.4585535
+    },
+    "estimatedDuration": 70,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "gold_coast_11",
+    "name": "Mini Buddhas Yoga",
+    "description": "gold_coast'de ziyaret edilebilecek popüler bir nokta: Mini Buddhas Yoga.",
+    "image": "https://picsum.photos/800/600?random=10",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -28.1354595,
+      "longitude": 153.4751964
+    },
+    "estimatedDuration": 79,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 186,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "gold_coast_12",
+    "name": "Skypoint Observaton Deck",
+    "description": "gold_coast'de ziyaret edilebilecek popüler bir nokta: Skypoint Observaton Deck.",
+    "image": "https://picsum.photos/800/600?random=11",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -28.006308,
+      "longitude": 153.42966
+    },
+    "estimatedDuration": 53,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "gold_coast_13",
+    "name": "Gold Coast Wax Museum",
+    "description": "gold_coast'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=12",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": -27.9981002,
+      "longitude": 153.4269692
+    },
+    "estimatedDuration": 87,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "gold_coast_14",
+    "name": "Peace Pavilion",
+    "description": "gold_coast'de ziyaret edilebilecek popüler bir nokta: Peace Pavilion.",
+    "image": "https://picsum.photos/800/600?random=13",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -28.0008646,
+      "longitude": 153.4194834
+    },
+    "estimatedDuration": 85,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "gold_coast_15",
+    "name": "Regional Arboretum",
+    "description": "gold_coast'de ziyaret edilebilecek popüler bir nokta: Regional Arboretum.",
+    "image": "https://picsum.photos/800/600?random=14",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -28.007318,
+      "longitude": 153.3836703
+    },
+    "estimatedDuration": 82,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "gold_coast_16",
+    "name": "Seaway Kayaking Tour",
+    "description": "gold_coast'de ziyaret edilebilecek popüler bir nokta: Seaway Kayaking Tour.",
+    "image": "https://picsum.photos/800/600?random=15",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -27.9317906,
+      "longitude": 153.4059384
+    },
+    "estimatedDuration": 63,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "gold_coast_17",
+    "name": "Tree top challenge",
+    "description": "gold_coast'de ziyaret edilebilecek popüler bir nokta: Tree top challenge.",
+    "image": "https://picsum.photos/800/600?random=16",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -28.1368677,
+      "longitude": 153.4843329
+    },
+    "estimatedDuration": 63,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  }
+]

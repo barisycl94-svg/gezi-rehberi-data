@@ -1,0 +1,434 @@
+[
+  {
+    "id": "phoenix_1",
+    "name": "George Washington Carver Museum and Cultural Center",
+    "description": "phoenix'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=0",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 33.4405996,
+      "longitude": -112.068203
+    },
+    "estimatedDuration": 67,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 169,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "phoenix_2",
+    "name": "Dream City Church",
+    "description": "phoenix'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=1",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 33.6099319,
+      "longitude": -112.031948
+    },
+    "estimatedDuration": 35,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "phoenix_3",
+    "name": "Arizona State University Art Museum",
+    "description": "phoenix'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=2",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 33.4186736,
+      "longitude": -111.938104
+    },
+    "estimatedDuration": 69,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "phoenix_4",
+    "name": "Phoenix Police Museum",
+    "description": "phoenix'de bulunan önemli bir müze.",
+    "image": "https://images.pexels.com/photos/33120129/pexels-photo-33120129.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 33.447505,
+      "longitude": -112.076031
+    },
+    "estimatedDuration": 80,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "phoenix_5",
+    "name": "Glendale USS Arizona Memorial",
+    "description": "phoenix'de ziyaret edilebilecek popüler bir nokta: Glendale USS Arizona Memorial.",
+    "image": "https://picsum.photos/800/600?random=4",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 33.5777768,
+      "longitude": -112.1865915
+    },
+    "estimatedDuration": 59,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "phoenix_6",
+    "name": "Arizona State Fairgrounds",
+    "description": "phoenix'de ziyaret edilebilecek popüler bir nokta: Arizona State Fairgrounds.",
+    "image": "https://picsum.photos/800/600?random=5",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 33.4695182,
+      "longitude": -112.0974126
+    },
+    "estimatedDuration": 50,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "phoenix_7",
+    "name": "Hall of Flame Fire Museum",
+    "description": "phoenix'de bulunan önemli bir müze.",
+    "image": "https://images.pexels.com/photos/34934581/pexels-photo-34934581.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 33.4476733,
+      "longitude": -111.9532581
+    },
+    "estimatedDuration": 79,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "phoenix_8",
+    "name": "Enchanted Island Amusement Park",
+    "description": "phoenix'de ziyaret edilebilecek popüler bir nokta: Enchanted Island Amusement Park.",
+    "image": "https://picsum.photos/800/600?random=7",
+    "category": "Eğlence",
+    "coordinates": {
+      "latitude": 33.4749914,
+      "longitude": -112.0878385
+    },
+    "estimatedDuration": 89,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Eğlence"
+    ]
+  },
+  {
+    "id": "phoenix_9",
+    "name": "Trinity Episcopal Cathedral",
+    "description": "phoenix'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=8",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 33.4589685,
+      "longitude": -112.0750066
+    },
+    "estimatedDuration": 30,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "phoenix_10",
+    "name": "Castles N' Coasters",
+    "description": "phoenix'de ziyaret edilebilecek popüler bir nokta: Castles N' Coasters.",
+    "image": "https://picsum.photos/800/600?random=9",
+    "category": "Eğlence",
+    "coordinates": {
+      "latitude": 33.5721682,
+      "longitude": -112.1192064
+    },
+    "estimatedDuration": 74,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Eğlence"
+    ]
+  },
+  {
+    "id": "phoenix_11",
+    "name": "Faithful Word Baptist Church",
+    "description": "phoenix'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=10",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 33.3917022,
+      "longitude": -111.9774843
+    },
+    "estimatedDuration": 77,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "phoenix_12",
+    "name": "S'edav Va'aki Museum",
+    "description": "phoenix'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=11",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 33.4457371,
+      "longitude": -111.9847757
+    },
+    "estimatedDuration": 59,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "phoenix_13",
+    "name": "First Methodist Episcopal Church of Glendale",
+    "description": "phoenix'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=12",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 33.5402449,
+      "longitude": -112.1852562
+    },
+    "estimatedDuration": 63,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "phoenix_14",
+    "name": "Scottsdale Museum of Contemporary Art",
+    "description": "phoenix'de bulunan önemli bir müze.",
+    "image": "https://images.pexels.com/photos/375890/pexels-photo-375890.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 33.4916715,
+      "longitude": -111.9230183
+    },
+    "estimatedDuration": 33,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "phoenix_15",
+    "name": "Arizona Doll & Toy Museum",
+    "description": "phoenix'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=14",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 33.5420611,
+      "longitude": -112.185842
+    },
+    "estimatedDuration": 46,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "phoenix_16",
+    "name": "Saint Marys Episcopal Church",
+    "description": "phoenix'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=15",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 33.5319464,
+      "longitude": -112.142445
+    },
+    "estimatedDuration": 87,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "phoenix_17",
+    "name": "Islamic Community Center of Phoenix",
+    "description": "phoenix'in tarihi ibadet yapılarından biri.",
+    "image": "https://images.pexels.com/photos/31275859/pexels-photo-31275859.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 33.5465447,
+      "longitude": -112.112878
+    },
+    "estimatedDuration": 46,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "phoenix_18",
+    "name": "Cathedral of Saints Simon and Jude",
+    "description": "phoenix'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=17",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 33.5298327,
+      "longitude": -112.1162744
+    },
+    "estimatedDuration": 71,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "phoenix_19",
+    "name": "Shemer Art Center",
+    "description": "phoenix'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=18",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 33.5049914,
+      "longitude": -111.9720227
+    },
+    "estimatedDuration": 55,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 71,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "phoenix_20",
+    "name": "Islamic Community Center of Phoenix Secondary",
+    "description": "phoenix'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=19",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 33.5454852,
+      "longitude": -112.1129186
+    },
+    "estimatedDuration": 82,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "phoenix_21",
+    "name": "Heard Museum",
+    "description": "phoenix'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=20",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 33.4720429,
+      "longitude": -112.0723317
+    },
+    "estimatedDuration": 89,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "phoenix_22",
+    "name": "Phoenix Art Museum",
+    "description": "phoenix'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=21",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 33.4667769,
+      "longitude": -112.0726795
+    },
+    "estimatedDuration": 31,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "phoenix_23",
+    "name": "Phoenix Zoo",
+    "description": "phoenix'de ziyaret edilebilecek popüler bir nokta: Phoenix Zoo.",
+    "image": "https://picsum.photos/800/600?random=22",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 33.4497212,
+      "longitude": -111.9464082
+    },
+    "estimatedDuration": 41,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "phoenix_24",
+    "name": "9/11 Memorial",
+    "description": "phoenix'de ziyaret edilebilecek popüler bir nokta: 9/11 Memorial.",
+    "image": "https://picsum.photos/800/600?random=23",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 33.448594,
+      "longitude": -112.0938113
+    },
+    "estimatedDuration": 43,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  }
+]

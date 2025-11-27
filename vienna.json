@@ -1,0 +1,128 @@
+[
+  {
+    "id": "vienna_1",
+    "name": "Henry N. Barkhausen Cache River Wetlands Center",
+    "description": "vienna'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=0",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 37.3119099,
+      "longitude": -89.0176244
+    },
+    "estimatedDuration": 86,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "vienna_2",
+    "name": "Schwegman Ecological Area",
+    "description": "vienna'de ziyaret edilebilecek popüler bir nokta: Schwegman Ecological Area.",
+    "image": "https://images.pexels.com/photos/10326326/pexels-photo-10326326.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 37.505267,
+      "longitude": -88.8811532
+    },
+    "estimatedDuration": 79,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "vienna_3",
+    "name": "Bulge Hole Ecological Area",
+    "description": "vienna'de ziyaret edilebilecek popüler bir nokta: Bulge Hole Ecological Area.",
+    "image": "https://images.pexels.com/photos/10326326/pexels-photo-10326326.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 37.4955649,
+      "longitude": -88.891601
+    },
+    "estimatedDuration": 62,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "vienna_4",
+    "name": "Jean Farwell Overloop",
+    "description": "vienna'de ziyaret edilebilecek popüler bir nokta: Jean Farwell Overloop.",
+    "image": "https://picsum.photos/800/600?random=3",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 37.3122491,
+      "longitude": -88.9516307
+    },
+    "estimatedDuration": 41,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 185,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "vienna_5",
+    "name": "Lookout Point",
+    "description": "vienna'de ziyaret edilebilecek popüler bir nokta: Lookout Point.",
+    "image": "https://picsum.photos/800/600?random=4",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 37.371518,
+      "longitude": -88.9243779
+    },
+    "estimatedDuration": 84,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "vienna_6",
+    "name": "Natural Bridge",
+    "description": "vienna'de ziyaret edilebilecek popüler bir nokta: Natural Bridge.",
+    "image": "https://images.pexels.com/photos/34937209/pexels-photo-34937209.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 37.5251925,
+      "longitude": -88.9946487
+    },
+    "estimatedDuration": 36,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "vienna_7",
+    "name": "Forman Depot Museum",
+    "description": "vienna'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=6",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 37.4164641,
+      "longitude": -88.888486
+    },
+    "estimatedDuration": 46,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  }
+]

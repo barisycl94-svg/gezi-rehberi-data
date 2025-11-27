@@ -1,0 +1,146 @@
+[
+  {
+    "id": "valparaiso_1",
+    "name": "First Unitarian Church of Hobart",
+    "description": "valparaiso'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=0",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.5299208,
+      "longitude": -87.2530901
+    },
+    "estimatedDuration": 76,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "valparaiso_2",
+    "name": "Splash Down Dunes Waterpark",
+    "description": "valparaiso'de ziyaret edilebilecek popüler bir nokta: Splash Down Dunes Waterpark.",
+    "image": "https://picsum.photos/800/600?random=1",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.6340327,
+      "longitude": -87.0651257
+    },
+    "estimatedDuration": 45,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "valparaiso_3",
+    "name": "Nike Missile Site C47",
+    "description": "valparaiso'de ziyaret edilebilecek popüler bir nokta: Nike Missile Site C47.",
+    "image": "https://picsum.photos/800/600?random=2",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.5340794,
+      "longitude": -87.1667254
+    },
+    "estimatedDuration": 60,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "valparaiso_4",
+    "name": "Chapel of the Resurrection",
+    "description": "valparaiso'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=3",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.463145,
+      "longitude": -87.0417401
+    },
+    "estimatedDuration": 42,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "valparaiso_5",
+    "name": "Founders Rock",
+    "description": "valparaiso'de ziyaret edilebilecek popüler bir nokta: Founders Rock.",
+    "image": "https://picsum.photos/800/600?random=4",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.462059,
+      "longitude": -87.0537445
+    },
+    "estimatedDuration": 48,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "valparaiso_6",
+    "name": "Porter County Jail",
+    "description": "valparaiso'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=5",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 41.466405,
+      "longitude": -87.0595192
+    },
+    "estimatedDuration": 72,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "valparaiso_7",
+    "name": "Jump",
+    "description": "valparaiso'de ziyaret edilebilecek popüler bir nokta: Jump.",
+    "image": "https://picsum.photos/800/600?random=6",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.4824949,
+      "longitude": -87.1054009
+    },
+    "estimatedDuration": 61,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "valparaiso_13",
+    "name": "Porter County Museum",
+    "description": "valparaiso'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=12",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 41.4665852,
+      "longitude": -87.0599322
+    },
+    "estimatedDuration": 31,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 48,
+    "interests": [
+      "Müze"
+    ]
+  }
+]

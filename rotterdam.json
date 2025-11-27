@@ -1,0 +1,1046 @@
+[
+  {
+    "id": "rotterdam_1",
+    "name": "Nationaal Jenevermuseum",
+    "description": "rotterdam'de bulunan önemli bir müze.",
+    "image": "https://images.pexels.com/photos/33448077/pexels-photo-33448077.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 51.9152492,
+      "longitude": 4.3973324
+    },
+    "estimatedDuration": 71,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "rotterdam_2",
+    "name": "Wereldmuseum Rotterdam",
+    "description": "rotterdam'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=1",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 51.9078832,
+      "longitude": 4.4804953
+    },
+    "estimatedDuration": 31,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "rotterdam_3",
+    "name": "Museum de Schilpen",
+    "description": "rotterdam'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=2",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 51.9354173,
+      "longitude": 4.2711594
+    },
+    "estimatedDuration": 57,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 172,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "rotterdam_4",
+    "name": "Museum Het Tramstation",
+    "description": "rotterdam'de bulunan önemli bir müze.",
+    "image": "https://images.pexels.com/photos/34939918/pexels-photo-34939918.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 51.9758977,
+      "longitude": 4.318517
+    },
+    "estimatedDuration": 51,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "rotterdam_5",
+    "name": "Huis Sonneveld",
+    "description": "rotterdam'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=4",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 51.915611,
+      "longitude": 4.4723373
+    },
+    "estimatedDuration": 55,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "rotterdam_6",
+    "name": "Mariniersmuseum",
+    "description": "rotterdam'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=5",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 51.9187157,
+      "longitude": 4.4915635
+    },
+    "estimatedDuration": 84,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 190,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "rotterdam_7",
+    "name": "Kubuswoningen",
+    "description": "rotterdam'de ziyaret edilebilecek popüler bir nokta: Kubuswoningen.",
+    "image": "https://picsum.photos/800/600?random=6",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 51.9203941,
+      "longitude": 4.4901272
+    },
+    "estimatedDuration": 52,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "rotterdam_8",
+    "name": "Oude of Pelgrimvaderskerk",
+    "description": "rotterdam'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=7",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 51.9085542,
+      "longitude": 4.4489074
+    },
+    "estimatedDuration": 76,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "rotterdam_9",
+    "name": "Het Schielandshuis",
+    "description": "rotterdam'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=8",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 51.9189409,
+      "longitude": 4.4819365
+    },
+    "estimatedDuration": 86,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "rotterdam_10",
+    "name": "Nederlands Fotomuseum",
+    "description": "rotterdam'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=9",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 51.9056101,
+      "longitude": 4.4871474
+    },
+    "estimatedDuration": 48,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 184,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "rotterdam_11",
+    "name": "Bergsingelkerk",
+    "description": "rotterdam'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=10",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 51.9356005,
+      "longitude": 4.4705163
+    },
+    "estimatedDuration": 54,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "rotterdam_12",
+    "name": "Sint Joostkapel",
+    "description": "rotterdam'in tarihi ibadet yapılarından biri.",
+    "image": "https://images.pexels.com/photos/5583526/pexels-photo-5583526.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 52.0101113,
+      "longitude": 4.707125
+    },
+    "estimatedDuration": 87,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "rotterdam_13",
+    "name": "Maritiem Museum",
+    "description": "rotterdam'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=12",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 51.9176272,
+      "longitude": 4.4818867
+    },
+    "estimatedDuration": 34,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 41,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "rotterdam_14",
+    "name": "Mariniersmonument",
+    "description": "rotterdam'de ziyaret edilebilecek popüler bir nokta: Mariniersmonument.",
+    "image": "https://picsum.photos/800/600?random=13",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 51.9223587,
+      "longitude": 4.4978339
+    },
+    "estimatedDuration": 39,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 40,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "rotterdam_15",
+    "name": "Miniworld Rotterdam",
+    "description": "rotterdam'de ziyaret edilebilecek popüler bir nokta: Miniworld Rotterdam.",
+    "image": "https://picsum.photos/800/600?random=14",
+    "category": "Eğlence",
+    "coordinates": {
+      "latitude": 51.9228315,
+      "longitude": 4.4651259
+    },
+    "estimatedDuration": 66,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Eğlence"
+    ]
+  },
+  {
+    "id": "rotterdam_16",
+    "name": "Houweling Telecom Museum",
+    "description": "rotterdam'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=15",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 51.9328571,
+      "longitude": 4.4680951
+    },
+    "estimatedDuration": 64,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "rotterdam_17",
+    "name": "Havenmuseum",
+    "description": "rotterdam'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=16",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 51.9156357,
+      "longitude": 4.4824857
+    },
+    "estimatedDuration": 58,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "rotterdam_18",
+    "name": "Oorlogsmonument Schipluiden",
+    "description": "rotterdam'de ziyaret edilebilecek popüler bir nokta: Oorlogsmonument Schipluiden.",
+    "image": "https://picsum.photos/800/600?random=17",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 51.975378,
+      "longitude": 4.3149669
+    },
+    "estimatedDuration": 44,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "rotterdam_19",
+    "name": "De Boeg",
+    "description": "rotterdam'de ziyaret edilebilecek popüler bir nokta: De Boeg.",
+    "image": "https://picsum.photos/800/600?random=18",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 51.9122727,
+      "longitude": 4.4845575
+    },
+    "estimatedDuration": 65,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 153,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "rotterdam_20",
+    "name": "Oorlogsmonument 'Grenadiers en Jagers'",
+    "description": "rotterdam'de ziyaret edilebilecek popüler bir nokta: Oorlogsmonument 'Grenadiers en Jagers'.",
+    "image": "https://picsum.photos/800/600?random=19",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 52.0386033,
+      "longitude": 4.3709772
+    },
+    "estimatedDuration": 79,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "rotterdam_21",
+    "name": "Oude Maasheuvel",
+    "description": "rotterdam'de ziyaret edilebilecek popüler bir nokta: Oude Maasheuvel.",
+    "image": "https://picsum.photos/800/600?random=20",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 51.8400552,
+      "longitude": 4.500184
+    },
+    "estimatedDuration": 38,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 68,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "rotterdam_22",
+    "name": "Calandmonument",
+    "description": "rotterdam'de ziyaret edilebilecek popüler bir nokta: Calandmonument.",
+    "image": "https://picsum.photos/800/600?random=21",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 51.9080186,
+      "longitude": 4.4797535
+    },
+    "estimatedDuration": 46,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "rotterdam_23",
+    "name": "Steen van de miljoenen tranen",
+    "description": "rotterdam'de ziyaret edilebilecek popüler bir nokta: Steen van de miljoenen tranen.",
+    "image": "https://picsum.photos/800/600?random=22",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 51.9267564,
+      "longitude": 4.5104434
+    },
+    "estimatedDuration": 36,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "rotterdam_24",
+    "name": "Waalse Kerk",
+    "description": "rotterdam'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=23",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 52.0122654,
+      "longitude": 4.3547919
+    },
+    "estimatedDuration": 82,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 185,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "rotterdam_25",
+    "name": "Wilhelminafontein",
+    "description": "rotterdam'de ziyaret edilebilecek popüler bir nokta: Wilhelminafontein.",
+    "image": "https://picsum.photos/800/600?random=24",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 51.9139133,
+      "longitude": 4.4956278
+    },
+    "estimatedDuration": 84,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "rotterdam_26",
+    "name": "Villa Zebra",
+    "description": "rotterdam'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=25",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 51.9112458,
+      "longitude": 4.4967551
+    },
+    "estimatedDuration": 80,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "rotterdam_27",
+    "name": "O.L.V. Altijddurende Bijstand",
+    "description": "rotterdam'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=26",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 51.9354037,
+      "longitude": 4.4283216
+    },
+    "estimatedDuration": 33,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "rotterdam_28",
+    "name": "De Levende Steen",
+    "description": "rotterdam'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=27",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 51.8502553,
+      "longitude": 4.3122881
+    },
+    "estimatedDuration": 64,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 50,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "rotterdam_29",
+    "name": "Zakkendragershuisje",
+    "description": "rotterdam'de ziyaret edilebilecek popüler bir nokta: Zakkendragershuisje.",
+    "image": "https://picsum.photos/800/600?random=28",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 51.9183808,
+      "longitude": 4.396396
+    },
+    "estimatedDuration": 54,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "rotterdam_30",
+    "name": "Kunstinstituut Melly",
+    "description": "rotterdam'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=29",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 51.9153949,
+      "longitude": 4.4770797
+    },
+    "estimatedDuration": 36,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "rotterdam_31",
+    "name": "Belasting & Douane Museum",
+    "description": "rotterdam'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=30",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 51.9076171,
+      "longitude": 4.4764139
+    },
+    "estimatedDuration": 33,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 38,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "rotterdam_32",
+    "name": "Museum Johannes Postschool",
+    "description": "rotterdam'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=31",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 51.850898,
+      "longitude": 4.5947488
+    },
+    "estimatedDuration": 85,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "rotterdam_33",
+    "name": "Boezemkerk",
+    "description": "rotterdam'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=32",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 51.8961343,
+      "longitude": 4.5778179
+    },
+    "estimatedDuration": 77,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "rotterdam_34",
+    "name": "Museum Vlaardingen",
+    "description": "rotterdam'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=33",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 51.9057354,
+      "longitude": 4.3452252
+    },
+    "estimatedDuration": 74,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 193,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "rotterdam_35",
+    "name": "Jeruzalemkapel",
+    "description": "rotterdam'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=34",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 52.0106703,
+      "longitude": 4.7130611
+    },
+    "estimatedDuration": 85,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "rotterdam_36",
+    "name": "Museum Gouda",
+    "description": "rotterdam'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=35",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 52.0100937,
+      "longitude": 4.7112301
+    },
+    "estimatedDuration": 78,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "rotterdam_37",
+    "name": "R.K. Kerk van St. Petrus'Banden",
+    "description": "rotterdam'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=36",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 51.940931,
+      "longitude": 4.4215072
+    },
+    "estimatedDuration": 75,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 127,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "rotterdam_38",
+    "name": "Dordrechts Museum",
+    "description": "rotterdam'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=37",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 51.8141201,
+      "longitude": 4.6721539
+    },
+    "estimatedDuration": 71,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "rotterdam_39",
+    "name": "Museum 1940-1945",
+    "description": "rotterdam'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=38",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 51.8165071,
+      "longitude": 4.6639375
+    },
+    "estimatedDuration": 68,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "rotterdam_40",
+    "name": "Museum Mr. Simon Van Gijn",
+    "description": "rotterdam'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=39",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 51.8163845,
+      "longitude": 4.6636485
+    },
+    "estimatedDuration": 49,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 15,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "rotterdam_41",
+    "name": "Radio Museum",
+    "description": "rotterdam'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=40",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 51.9421968,
+      "longitude": 4.479665
+    },
+    "estimatedDuration": 76,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 76,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "rotterdam_42",
+    "name": "Rotterdams Openbaar Vervoer Museum",
+    "description": "rotterdam'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=41",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 51.9447361,
+      "longitude": 4.4840637
+    },
+    "estimatedDuration": 62,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "rotterdam_43",
+    "name": "Streekmuseum Krimpenerwaard",
+    "description": "rotterdam'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=42",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 51.9199708,
+      "longitude": 4.5881167
+    },
+    "estimatedDuration": 86,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "rotterdam_44",
+    "name": "Museum De Timmerwerf",
+    "description": "rotterdam'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=43",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 51.9747575,
+      "longitude": 4.2493404
+    },
+    "estimatedDuration": 38,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "rotterdam_45",
+    "name": "Binnenvaartmuseum",
+    "description": "rotterdam'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=44",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 51.8169225,
+      "longitude": 4.6858748
+    },
+    "estimatedDuration": 51,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "rotterdam_46",
+    "name": "Slot Heenvliet",
+    "description": "rotterdam'de ziyaret edilebilecek popüler bir nokta: Slot Heenvliet.",
+    "image": "https://picsum.photos/800/600?random=45",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 51.8629326,
+      "longitude": 4.2425587
+    },
+    "estimatedDuration": 33,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "rotterdam_47",
+    "name": "Het Vergeten Bombardement",
+    "description": "rotterdam'de ziyaret edilebilecek popüler bir nokta: Het Vergeten Bombardement.",
+    "image": "https://picsum.photos/800/600?random=46",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 51.9128307,
+      "longitude": 4.440375
+    },
+    "estimatedDuration": 84,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "rotterdam_48",
+    "name": "Bevrijdingsmonument Vreewijk",
+    "description": "rotterdam'de ziyaret edilebilecek popüler bir nokta: Bevrijdingsmonument Vreewijk.",
+    "image": "https://picsum.photos/800/600?random=47",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 51.8876753,
+      "longitude": 4.5111305
+    },
+    "estimatedDuration": 46,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 46,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "rotterdam_49",
+    "name": "Il grande miracolo",
+    "description": "rotterdam'de ziyaret edilebilecek popüler bir nokta: Il grande miracolo.",
+    "image": "https://picsum.photos/800/600?random=48",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 51.8900671,
+      "longitude": 4.4883838
+    },
+    "estimatedDuration": 54,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "rotterdam_50",
+    "name": "Monument 1940 - 1945",
+    "description": "rotterdam'de ziyaret edilebilecek popüler bir nokta: Monument 1940 - 1945.",
+    "image": "https://picsum.photos/800/600?random=49",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 51.9006317,
+      "longitude": 4.5491169
+    },
+    "estimatedDuration": 50,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 189,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "rotterdam_51",
+    "name": "Monument voor de gevallenen",
+    "description": "rotterdam'de ziyaret edilebilecek popüler bir nokta: Monument voor de gevallenen.",
+    "image": "https://picsum.photos/800/600?random=50",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 52.0594628,
+      "longitude": 4.3566812
+    },
+    "estimatedDuration": 49,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "rotterdam_52",
+    "name": "Markthal",
+    "description": "rotterdam'de ziyaret edilebilecek popüler bir nokta: Markthal.",
+    "image": "https://picsum.photos/800/600?random=51",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 51.919771,
+      "longitude": 4.4862592
+    },
+    "estimatedDuration": 51,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "rotterdam_53",
+    "name": "Moeder",
+    "description": "rotterdam'de ziyaret edilebilecek popüler bir nokta: Moeder.",
+    "image": "https://picsum.photos/800/600?random=52",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 51.819745,
+      "longitude": 4.4812737
+    },
+    "estimatedDuration": 33,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "rotterdam_54",
+    "name": "Joods Kindermonument",
+    "description": "rotterdam'de ziyaret edilebilecek popüler bir nokta: Joods Kindermonument.",
+    "image": "https://picsum.photos/800/600?random=53",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 51.9095934,
+      "longitude": 4.4947533
+    },
+    "estimatedDuration": 88,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "rotterdam_55",
+    "name": "Stadswerf Koningspoort",
+    "description": "rotterdam'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=54",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 51.9188288,
+      "longitude": 4.4931225
+    },
+    "estimatedDuration": 88,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "rotterdam_56",
+    "name": "De Delftse Donderslag, 1654",
+    "description": "rotterdam'de ziyaret edilebilecek popüler bir nokta: De Delftse Donderslag, 1654.",
+    "image": "https://picsum.photos/800/600?random=55",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 52.0166919,
+      "longitude": 4.3592779
+    },
+    "estimatedDuration": 61,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 144,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "rotterdam_57",
+    "name": "St. Mary's",
+    "description": "rotterdam'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=56",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 51.9056563,
+      "longitude": 4.4594302
+    },
+    "estimatedDuration": 85,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "rotterdam_58",
+    "name": "Bleiswijkse Verlaat",
+    "description": "rotterdam'de ziyaret edilebilecek popüler bir nokta: Bleiswijkse Verlaat.",
+    "image": "https://picsum.photos/800/600?random=57",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 52.015311,
+      "longitude": 4.5558271
+    },
+    "estimatedDuration": 69,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  }
+]

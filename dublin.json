@@ -1,0 +1,524 @@
+[
+  {
+    "id": "dublin_1",
+    "name": "Deira Clocktower",
+    "description": "dublin'de ziyaret edilebilecek popüler bir nokta: Deira Clocktower.",
+    "image": "https://picsum.photos/800/600?random=0",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 25.2586577,
+      "longitude": 55.3264496
+    },
+    "estimatedDuration": 65,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "dublin_2",
+    "name": "كنيسة القديسة مريم الكاثوليكية",
+    "description": "dublin'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=1",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 25.2402325,
+      "longitude": 55.3176059
+    },
+    "estimatedDuration": 81,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 89,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "dublin_3",
+    "name": "معبد هندوسي",
+    "description": "dublin'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=2",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 25.2648235,
+      "longitude": 55.2968261
+    },
+    "estimatedDuration": 48,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "dublin_4",
+    "name": "Barjeel Art Foundation",
+    "description": "dublin'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=3",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 25.3217905,
+      "longitude": 55.3765887
+    },
+    "estimatedDuration": 40,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 165,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "dublin_5",
+    "name": "سوق دبي للمنسوجات",
+    "description": "dublin'de ziyaret edilebilecek popüler bir nokta: سوق دبي للمنسوجات.",
+    "image": "https://picsum.photos/800/600?random=4",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 25.2641413,
+      "longitude": 55.296206
+    },
+    "estimatedDuration": 70,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 38,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "dublin_6",
+    "name": "متحف الاتحاد",
+    "description": "dublin'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=5",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 25.2414327,
+      "longitude": 55.269331
+    },
+    "estimatedDuration": 72,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 187,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "dublin_7",
+    "name": "Coffee Museum",
+    "description": "dublin'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=6",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 25.2637077,
+      "longitude": 55.3000981
+    },
+    "estimatedDuration": 78,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "dublin_8",
+    "name": "حي دبي للتصميم",
+    "description": "dublin'de ziyaret edilebilecek popüler bir nokta: حي دبي للتصميم.",
+    "image": "https://picsum.photos/800/600?random=7",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 25.1891522,
+      "longitude": 55.2981417
+    },
+    "estimatedDuration": 67,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "dublin_9",
+    "name": "بلدية دبي",
+    "description": "dublin'de ziyaret edilebilecek popüler bir nokta: بلدية دبي.",
+    "image": "https://picsum.photos/800/600?random=8",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 25.2645258,
+      "longitude": 55.3117283
+    },
+    "estimatedDuration": 80,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 71,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "dublin_10",
+    "name": "مسجد النور",
+    "description": "dublin'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=9",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 25.3348187,
+      "longitude": 55.3871486
+    },
+    "estimatedDuration": 72,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "dublin_11",
+    "name": "مسجد دبي الكبير",
+    "description": "dublin'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=10",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 25.2643735,
+      "longitude": 55.296809
+    },
+    "estimatedDuration": 45,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "dublin_12",
+    "name": "المسجد الشيعي الإيراني، بر دبي",
+    "description": "dublin'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=11",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 25.2641603,
+      "longitude": 55.2947142
+    },
+    "estimatedDuration": 43,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "dublin_13",
+    "name": "حديقة مشرف الوطنية",
+    "description": "dublin şehrinde doğa ile iç içe bir park.",
+    "image": "https://picsum.photos/800/600?random=12",
+    "category": "Park",
+    "coordinates": {
+      "latitude": 25.2179214,
+      "longitude": 55.452679
+    },
+    "estimatedDuration": 39,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Park"
+    ]
+  },
+  {
+    "id": "dublin_14",
+    "name": "آي إم جي عالم من المغامرات",
+    "description": "dublin'de ziyaret edilebilecek popüler bir nokta: آي إم جي عالم من المغامرات.",
+    "image": "https://picsum.photos/800/600?random=13",
+    "category": "Eğlence",
+    "coordinates": {
+      "latitude": 25.081394,
+      "longitude": 55.3183488
+    },
+    "estimatedDuration": 36,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 195,
+    "interests": [
+      "Eğlence"
+    ]
+  },
+  {
+    "id": "dublin_15",
+    "name": "برواز دبي",
+    "description": "dublin'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=14",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 25.2354561,
+      "longitude": 55.3003673
+    },
+    "estimatedDuration": 41,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 16,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "dublin_16",
+    "name": "برج خليفة",
+    "description": "dublin'de ziyaret edilebilecek popüler bir nokta: برج خليفة.",
+    "image": "https://picsum.photos/800/600?random=15",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 25.1970352,
+      "longitude": 55.2742132
+    },
+    "estimatedDuration": 37,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 65,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "dublin_17",
+    "name": "موقع جميرا الأثري",
+    "description": "dublin'de ziyaret edilebilecek popüler bir nokta: موقع جميرا الأثري.",
+    "image": "https://picsum.photos/800/600?random=16",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 25.1968283,
+      "longitude": 55.2417502
+    },
+    "estimatedDuration": 53,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "dublin_18",
+    "name": "Majlis Ghorfat Umm Al Sheif",
+    "description": "dublin'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=17",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 25.1866763,
+      "longitude": 55.2308013
+    },
+    "estimatedDuration": 39,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "dublin_19",
+    "name": "The Green Planet",
+    "description": "dublin'de ziyaret edilebilecek popüler bir nokta: The Green Planet.",
+    "image": "https://picsum.photos/800/600?random=18",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 25.2061998,
+      "longitude": 55.2605148
+    },
+    "estimatedDuration": 69,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "dublin_20",
+    "name": "حي الفهيدي التاريخي",
+    "description": "dublin'de ziyaret edilebilecek popüler bir nokta: حي الفهيدي التاريخي.",
+    "image": "https://picsum.photos/800/600?random=19",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 25.264182,
+      "longitude": 55.3002047
+    },
+    "estimatedDuration": 42,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "dublin_21",
+    "name": "سوق التوابل",
+    "description": "dublin'de ziyaret edilebilecek popüler bir nokta: سوق التوابل.",
+    "image": "https://picsum.photos/800/600?random=20",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 25.2645866,
+      "longitude": 55.2945435
+    },
+    "estimatedDuration": 70,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "dublin_22",
+    "name": "حديقة سفاري دبي",
+    "description": "dublin'de ziyaret edilebilecek popüler bir nokta: حديقة سفاري دبي.",
+    "image": "https://picsum.photos/800/600?random=21",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 25.1795853,
+      "longitude": 55.4516179
+    },
+    "estimatedDuration": 44,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "dublin_23",
+    "name": "متحف المستقبل",
+    "description": "dublin'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=22",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 25.2191064,
+      "longitude": 55.2818004
+    },
+    "estimatedDuration": 47,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 57,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "dublin_24",
+    "name": "Muweilah",
+    "description": "dublin'de ziyaret edilebilecek popüler bir nokta: Muweilah.",
+    "image": "https://picsum.photos/800/600?random=23",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 25.2989735,
+      "longitude": 55.4973157
+    },
+    "estimatedDuration": 81,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "dublin_25",
+    "name": "قلب الشارقة",
+    "description": "dublin'de ziyaret edilebilecek popüler bir nokta: قلب الشارقة.",
+    "image": "https://picsum.photos/800/600?random=24",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 25.3590737,
+      "longitude": 55.3835002
+    },
+    "estimatedDuration": 34,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "dublin_26",
+    "name": "Sheikh Obaid bin Thani House",
+    "description": "dublin'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=25",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 25.2685771,
+      "longitude": 55.2905365
+    },
+    "estimatedDuration": 85,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "dublin_27",
+    "name": "Saeed Al Maktoum House",
+    "description": "dublin'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=26",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 25.2679406,
+      "longitude": 55.2900682
+    },
+    "estimatedDuration": 53,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "dublin_29",
+    "name": "Deira Gold Souk",
+    "description": "dublin'de ziyaret edilebilecek popüler bir nokta: Deira Gold Souk.",
+    "image": "https://picsum.photos/800/600?random=28",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 25.2700478,
+      "longitude": 55.2980805
+    },
+    "estimatedDuration": 51,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "dublin_30",
+    "name": "دبي مول",
+    "description": "dublin'de ziyaret edilebilecek popüler bir nokta: دبي مول.",
+    "image": "https://picsum.photos/800/600?random=29",
+    "category": "Alışveriş",
+    "coordinates": {
+      "latitude": 25.1970073,
+      "longitude": 55.2785741
+    },
+    "estimatedDuration": 59,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 44,
+    "interests": [
+      "Alışveriş"
+    ]
+  }
+]

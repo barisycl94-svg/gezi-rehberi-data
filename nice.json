@@ -1,0 +1,1064 @@
+[
+  {
+    "id": "nice_1",
+    "name": "Monument aux morts de Rauba-Capèu",
+    "description": "nice'de ziyaret edilebilecek popüler bir nokta: Monument aux morts de Rauba-Capèu.",
+    "image": "https://picsum.photos/800/600?random=0",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.6937162,
+      "longitude": 7.281109
+    },
+    "estimatedDuration": 75,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 149,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "nice_2",
+    "name": "Cascade de Gairaut",
+    "description": "nice'de ziyaret edilebilecek popüler bir nokta: Cascade de Gairaut.",
+    "image": "https://picsum.photos/800/600?random=1",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.7378451,
+      "longitude": 7.2596808
+    },
+    "estimatedDuration": 53,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "nice_3",
+    "name": "Palais Lascaris",
+    "description": "nice'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=2",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 43.6976417,
+      "longitude": 7.2772555
+    },
+    "estimatedDuration": 85,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "nice_4",
+    "name": "Museum d'Histoire Naturelle",
+    "description": "nice'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=3",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 43.7017759,
+      "longitude": 7.2795802
+    },
+    "estimatedDuration": 88,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "nice_5",
+    "name": "Monument à Garibaldi",
+    "description": "nice'de ziyaret edilebilecek popüler bir nokta: Monument à Garibaldi.",
+    "image": "https://picsum.photos/800/600?random=4",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.7007707,
+      "longitude": 7.2800791
+    },
+    "estimatedDuration": 55,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 92,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "nice_6",
+    "name": "Le Jardin Animalier",
+    "description": "nice'de ziyaret edilebilecek popüler bir nokta: Le Jardin Animalier.",
+    "image": "https://picsum.photos/800/600?random=5",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.7311404,
+      "longitude": 7.4178887
+    },
+    "estimatedDuration": 62,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "nice_7",
+    "name": "Grotte préhistorique du Lazaret",
+    "description": "nice'de ziyaret edilebilecek popüler bir nokta: Grotte préhistorique du Lazaret.",
+    "image": "https://picsum.photos/800/600?random=6",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.690727,
+      "longitude": 7.2948061
+    },
+    "estimatedDuration": 81,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "nice_8",
+    "name": "Crypte Archéologique de Nice",
+    "description": "nice'de ziyaret edilebilecek popüler bir nokta: Crypte Archéologique de Nice.",
+    "image": "https://picsum.photos/800/600?random=7",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.7005471,
+      "longitude": 7.2786767
+    },
+    "estimatedDuration": 30,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "nice_9",
+    "name": "Olivier Millénaire de Roquebrune-Cap-Martin",
+    "description": "nice'de ziyaret edilebilecek popüler bir nokta: Olivier Millénaire de Roquebrune-Cap-Martin.",
+    "image": "https://picsum.photos/800/600?random=8",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.7643265,
+      "longitude": 7.4633042
+    },
+    "estimatedDuration": 49,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "nice_10",
+    "name": "Pyramide de Falicon",
+    "description": "nice'de ziyaret edilebilecek popüler bir nokta: Pyramide de Falicon.",
+    "image": "https://picsum.photos/800/600?random=9",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.7499202,
+      "longitude": 7.2603751
+    },
+    "estimatedDuration": 32,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "nice_11",
+    "name": "La Tour de la Chèvre d'Or",
+    "description": "nice'de ziyaret edilebilecek popüler bir nokta: La Tour de la Chèvre d'Or.",
+    "image": "https://picsum.photos/800/600?random=10",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.6211582,
+      "longitude": 7.094934
+    },
+    "estimatedDuration": 34,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 1,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "nice_12",
+    "name": "Fontaine de Saint-Paul-de-Vence",
+    "description": "nice'de ziyaret edilebilecek popüler bir nokta: Fontaine de Saint-Paul-de-Vence.",
+    "image": "https://picsum.photos/800/600?random=11",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.6965502,
+      "longitude": 7.122058
+    },
+    "estimatedDuration": 66,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "nice_13",
+    "name": "Opéra de Monaco",
+    "description": "nice'de ziyaret edilebilecek popüler bir nokta: Opéra de Monaco.",
+    "image": "https://picsum.photos/800/600?random=12",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.7388269,
+      "longitude": 7.428264
+    },
+    "estimatedDuration": 31,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "nice_14",
+    "name": "Casino de Monte Carlo",
+    "description": "nice'de ziyaret edilebilecek popüler bir nokta: Casino de Monte Carlo.",
+    "image": "https://picsum.photos/800/600?random=13",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.7391605,
+      "longitude": 7.428023
+    },
+    "estimatedDuration": 68,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "nice_15",
+    "name": "Musée National du Sport",
+    "description": "nice'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=14",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 43.7062629,
+      "longitude": 7.1923789
+    },
+    "estimatedDuration": 38,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 167,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "nice_16",
+    "name": "Musée Franciscain",
+    "description": "nice'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=15",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 43.7201242,
+      "longitude": 7.2789108
+    },
+    "estimatedDuration": 78,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 59,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "nice_17",
+    "name": "Colonne du pape Pie VII",
+    "description": "nice'de ziyaret edilebilecek popüler bir nokta: Colonne du pape Pie VII.",
+    "image": "https://picsum.photos/800/600?random=16",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.6962974,
+      "longitude": 7.2626539
+    },
+    "estimatedDuration": 33,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "nice_18",
+    "name": "La Collection de voitures anciennes de SAS le Prince de Monaco",
+    "description": "nice'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=17",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 43.7308941,
+      "longitude": 7.4171487
+    },
+    "estimatedDuration": 69,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "nice_19",
+    "name": "Thermes romains de Cimiez",
+    "description": "nice'de ziyaret edilebilecek popüler bir nokta: Thermes romains de Cimiez.",
+    "image": "https://picsum.photos/800/600?random=18",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.7192045,
+      "longitude": 7.2766051
+    },
+    "estimatedDuration": 65,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "nice_20",
+    "name": "Musée des Timbres et des Monnaies",
+    "description": "nice'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=19",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 43.7308722,
+      "longitude": 7.4175837
+    },
+    "estimatedDuration": 89,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 178,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "nice_21",
+    "name": "Musée Terra Amata",
+    "description": "nice'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=20",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 43.6977993,
+      "longitude": 7.2892892
+    },
+    "estimatedDuration": 70,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 67,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "nice_22",
+    "name": "Chapelle de la Dormition-de-la-Vierge",
+    "description": "nice'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=21",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.6993542,
+      "longitude": 7.2844534
+    },
+    "estimatedDuration": 70,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "nice_23",
+    "name": "Musée Masséna",
+    "description": "nice'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=22",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 43.6950496,
+      "longitude": 7.2590494
+    },
+    "estimatedDuration": 63,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 100,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "nice_24",
+    "name": "Musée Océanographique",
+    "description": "nice'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=23",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 43.7306626,
+      "longitude": 7.4255337
+    },
+    "estimatedDuration": 51,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "nice_25",
+    "name": "Basilique Notre-Dame",
+    "description": "nice'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=24",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.7032519,
+      "longitude": 7.2657221
+    },
+    "estimatedDuration": 80,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 102,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "nice_26",
+    "name": "Église Sainte-Marie-Madeleine",
+    "description": "nice'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=25",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.6266083,
+      "longitude": 7.0999399
+    },
+    "estimatedDuration": 32,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "nice_27",
+    "name": "Manoir de Vaugrenier",
+    "description": "nice'in tarihine tanıklık eden bir kale.",
+    "image": "https://picsum.photos/800/600?random=26",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.6300815,
+      "longitude": 7.1188716
+    },
+    "estimatedDuration": 52,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "nice_28",
+    "name": "Parc Phoenix",
+    "description": "nice şehrinde doğa ile iç içe bir park.",
+    "image": "https://picsum.photos/800/600?random=27",
+    "category": "Park",
+    "coordinates": {
+      "latitude": 43.6683189,
+      "longitude": 7.2176609
+    },
+    "estimatedDuration": 57,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 68,
+    "interests": [
+      "Park"
+    ]
+  },
+  {
+    "id": "nice_29",
+    "name": "Château de Villeneuve Loubet",
+    "description": "nice'in tarihine tanıklık eden bir kale.",
+    "image": "https://picsum.photos/800/600?random=28",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.6599219,
+      "longitude": 7.1242927
+    },
+    "estimatedDuration": 66,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "nice_30",
+    "name": "Chapelle de la Miséricorde",
+    "description": "nice'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=29",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.7312043,
+      "longitude": 7.4234122
+    },
+    "estimatedDuration": 42,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "nice_31",
+    "name": "Église Notre-Dame de l'Assomption",
+    "description": "nice'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=30",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.7284714,
+      "longitude": 7.361782
+    },
+    "estimatedDuration": 54,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "nice_32",
+    "name": "Villa Ephrussi de Rothschild",
+    "description": "nice'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=31",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 43.6965881,
+      "longitude": 7.3284042
+    },
+    "estimatedDuration": 59,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "nice_33",
+    "name": "Chapelle Saint-Pierre",
+    "description": "nice'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=32",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.7030482,
+      "longitude": 7.3119161
+    },
+    "estimatedDuration": 73,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "nice_34",
+    "name": "Église Saint-Michel",
+    "description": "nice'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=33",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.7039673,
+      "longitude": 7.3110639
+    },
+    "estimatedDuration": 57,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 92,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "nice_35",
+    "name": "Musée Renoir",
+    "description": "nice'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=34",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 43.6676631,
+      "longitude": 7.1569511
+    },
+    "estimatedDuration": 37,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 40,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "nice_36",
+    "name": "Chapelle Notre-Dame de Protection",
+    "description": "nice'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=35",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.6680672,
+      "longitude": 7.1465368
+    },
+    "estimatedDuration": 44,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "nice_37",
+    "name": "Château Grimaldi",
+    "description": "nice'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=36",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 43.667051,
+      "longitude": 7.1454887
+    },
+    "estimatedDuration": 88,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "nice_38",
+    "name": "Chapelle Saint-Bernardin",
+    "description": "nice'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=37",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.5817869,
+      "longitude": 7.1248921
+    },
+    "estimatedDuration": 79,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 61,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "nice_39",
+    "name": "Musée Picasso",
+    "description": "nice'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=38",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 43.5807499,
+      "longitude": 7.1283024
+    },
+    "estimatedDuration": 53,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "nice_40",
+    "name": "Chapelle Saint-Jean",
+    "description": "nice'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=39",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.5863861,
+      "longitude": 7.0910019
+    },
+    "estimatedDuration": 88,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "nice_41",
+    "name": "Cathédrale Notre-Dame-de-la-Platea",
+    "description": "nice'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=40",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.5811718,
+      "longitude": 7.1285452
+    },
+    "estimatedDuration": 87,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 42,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "nice_42",
+    "name": "Musée d'Archéologie",
+    "description": "nice'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=41",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 43.5773757,
+      "longitude": 7.1260914
+    },
+    "estimatedDuration": 54,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "nice_43",
+    "name": "Église Notre-Dame de la Garoupe",
+    "description": "nice'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=42",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.5642201,
+      "longitude": 7.1320799
+    },
+    "estimatedDuration": 78,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 23,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "nice_44",
+    "name": "Musée des Arts Asiatiques",
+    "description": "nice'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=43",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 43.6679866,
+      "longitude": 7.2160298
+    },
+    "estimatedDuration": 85,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "nice_45",
+    "name": "Église Saint-Antonin",
+    "description": "nice'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=44",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.8603104,
+      "longitude": 7.2255265
+    },
+    "estimatedDuration": 89,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "nice_46",
+    "name": "Musée national Fernand Léger",
+    "description": "nice'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=45",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 43.6223994,
+      "longitude": 7.112372
+    },
+    "estimatedDuration": 34,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "nice_47",
+    "name": "Chapelle Sainte-Dévote",
+    "description": "nice'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=46",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.7375173,
+      "longitude": 7.4209243
+    },
+    "estimatedDuration": 60,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "nice_48",
+    "name": "Église Saint-Charles",
+    "description": "nice'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=47",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.7426232,
+      "longitude": 7.4272968
+    },
+    "estimatedDuration": 39,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "nice_49",
+    "name": "Chapelle du Rosaire",
+    "description": "nice'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=48",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 43.727516,
+      "longitude": 7.112862
+    },
+    "estimatedDuration": 89,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 189,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "nice_50",
+    "name": "Château de Villeneuve",
+    "description": "nice'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=49",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 43.7229295,
+      "longitude": 7.1126235
+    },
+    "estimatedDuration": 41,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 80,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "nice_51",
+    "name": "Cathédrale de la Nativité-de-Notre-Dame",
+    "description": "nice'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=50",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.722674,
+      "longitude": 7.1139365
+    },
+    "estimatedDuration": 46,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "nice_52",
+    "name": "Château de Montfort dit Le Gaudelet",
+    "description": "nice'in tarihine tanıklık eden bir kale.",
+    "image": "https://picsum.photos/800/600?random=51",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.6788915,
+      "longitude": 7.1096795
+    },
+    "estimatedDuration": 33,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 97,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "nice_53",
+    "name": "Tour de la Madone",
+    "description": "nice'de ziyaret edilebilecek popüler bir nokta: Tour de la Madone.",
+    "image": "https://picsum.photos/800/600?random=52",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.6562418,
+      "longitude": 7.0988305
+    },
+    "estimatedDuration": 49,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "nice_54",
+    "name": "Église Notre-Dame du Port",
+    "description": "nice'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=53",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.6989146,
+      "longitude": 7.285188
+    },
+    "estimatedDuration": 68,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 55,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "nice_55",
+    "name": "Espace Lympia",
+    "description": "nice'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=54",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 43.6948909,
+      "longitude": 7.2862476
+    },
+    "estimatedDuration": 53,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 178,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "nice_56",
+    "name": "Chapelle de la Très-Sainte-Trinité et du Saint-Suaire",
+    "description": "nice'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=55",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.695492,
+      "longitude": 7.2773845
+    },
+    "estimatedDuration": 66,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "nice_58",
+    "name": "Église du Gèsu, Saint-Jacques-le-Majeur",
+    "description": "nice'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=57",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.6967495,
+      "longitude": 7.277366
+    },
+    "estimatedDuration": 73,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 57,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "nice_59",
+    "name": "Chapelle Sainte-Croix",
+    "description": "nice'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=58",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.6977555,
+      "longitude": 7.277896
+    },
+    "estimatedDuration": 35,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "nice_60",
+    "name": "Chapelle de la Visitation",
+    "description": "nice'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=59",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.6980947,
+      "longitude": 7.2791403
+    },
+    "estimatedDuration": 67,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  }
+]

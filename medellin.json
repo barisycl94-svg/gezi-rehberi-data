@@ -1,0 +1,236 @@
+[
+  {
+    "id": "medellin_1",
+    "name": "City of Bogo Museum",
+    "description": "medellin'de bulunan önemli bir müze.",
+    "image": "https://images.pexels.com/photos/33928816/pexels-photo-33928816.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 11.0512428,
+      "longitude": 124.0033991
+    },
+    "estimatedDuration": 54,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "medellin_2",
+    "name": "Pestaño Residence",
+    "description": "medellin'de ziyaret edilebilecek popüler bir nokta: Pestaño Residence.",
+    "image": "https://picsum.photos/800/600?random=1",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 11.0400651,
+      "longitude": 124.0083202
+    },
+    "estimatedDuration": 86,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "medellin_3",
+    "name": "Marlyn's Quality Puso",
+    "description": "medellin'de ziyaret edilebilecek popüler bir nokta: Marlyn's Quality Puso.",
+    "image": "https://picsum.photos/800/600?random=2",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 11.0400204,
+      "longitude": 124.0081005
+    },
+    "estimatedDuration": 69,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 107,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "medellin_4",
+    "name": "PRYSBETERIAN CHURCH",
+    "description": "medellin'de ziyaret edilebilecek popüler bir nokta: PRYSBETERIAN CHURCH.",
+    "image": "https://images.pexels.com/photos/34936687/pexels-photo-34936687.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 11.0404938,
+      "longitude": 124.0080236
+    },
+    "estimatedDuration": 65,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "medellin_5",
+    "name": "Kasagingan Ni Aida Alferez",
+    "description": "medellin'de ziyaret edilebilecek popüler bir nokta: Kasagingan Ni Aida Alferez.",
+    "image": "https://picsum.photos/800/600?random=4",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 11.0403187,
+      "longitude": 124.0082835
+    },
+    "estimatedDuration": 30,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 118,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "medellin_6",
+    "name": "To Sitio Nangka",
+    "description": "medellin'de ziyaret edilebilecek popüler bir nokta: To Sitio Nangka.",
+    "image": "https://picsum.photos/800/600?random=5",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 11.0415851,
+      "longitude": 124.0087724
+    },
+    "estimatedDuration": 48,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "medellin_7",
+    "name": "Bogo City Fire Station",
+    "description": "medellin'de ziyaret edilebilecek popüler bir nokta: Bogo City Fire Station.",
+    "image": "https://images.pexels.com/photos/14984476/pexels-photo-14984476.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 11.0394746,
+      "longitude": 124.006729
+    },
+    "estimatedDuration": 88,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "medellin_8",
+    "name": "Orongan Beach Club",
+    "description": "medellin'de ziyaret edilebilecek popüler bir nokta: Orongan Beach Club.",
+    "image": "https://picsum.photos/800/600?random=7",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 11.0213586,
+      "longitude": 123.9066485
+    },
+    "estimatedDuration": 81,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "medellin_9",
+    "name": "Paradizzo Beach Resort",
+    "description": "medellin'de ziyaret edilebilecek popüler bir nokta: Paradizzo Beach Resort.",
+    "image": "https://picsum.photos/800/600?random=8",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 11.1860353,
+      "longitude": 123.9446286
+    },
+    "estimatedDuration": 58,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "medellin_10",
+    "name": "Seahorse Tourist Inn of Medellin",
+    "description": "medellin'de ziyaret edilebilecek popüler bir nokta: Seahorse Tourist Inn of Medellin.",
+    "image": "https://picsum.photos/800/600?random=9",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 11.1868915,
+      "longitude": 123.9447724
+    },
+    "estimatedDuration": 31,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 158,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "medellin_11",
+    "name": "Eileen Beach Resort",
+    "description": "medellin'de ziyaret edilebilecek popüler bir nokta: Eileen Beach Resort.",
+    "image": "https://picsum.photos/800/600?random=10",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 11.1851724,
+      "longitude": 123.9447034
+    },
+    "estimatedDuration": 66,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 64,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "medellin_12",
+    "name": "siri yangu san rem",
+    "description": "medellin'de ziyaret edilebilecek popüler bir nokta: siri yangu san rem.",
+    "image": "https://picsum.photos/800/600?random=11",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 11.031366,
+      "longitude": 123.9015837
+    },
+    "estimatedDuration": 66,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "medellin_13",
+    "name": "Bogo Port",
+    "description": "medellin'de ziyaret edilebilecek popüler bir nokta: Bogo Port.",
+    "image": "https://picsum.photos/800/600?random=12",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 11.0736235,
+      "longitude": 124.0016957
+    },
+    "estimatedDuration": 57,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  }
+]

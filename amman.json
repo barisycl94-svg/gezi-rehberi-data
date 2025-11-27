@@ -1,0 +1,254 @@
+[
+  {
+    "id": "amman_1",
+    "name": "مسجد فاطمة الزهراء",
+    "description": "amman'in tarihi ibadet yapılarından biri.",
+    "image": "https://images.pexels.com/photos/19263882/pexels-photo-19263882.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 31.9765614,
+      "longitude": 35.9908591
+    },
+    "estimatedDuration": 68,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "amman_2",
+    "name": "Nymphaeum",
+    "description": "amman'de ziyaret edilebilecek popüler bir nokta: Nymphaeum.",
+    "image": "https://images.pexels.com/photos/9150142/pexels-photo-9150142.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 31.9501526,
+      "longitude": 35.9361773
+    },
+    "estimatedDuration": 52,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "amman_3",
+    "name": "Khirbet Yajouz archaeological site",
+    "description": "amman'de ziyaret edilebilecek popüler bir nokta: Khirbet Yajouz archaeological site.",
+    "image": "https://images.pexels.com/photos/3290074/pexels-photo-3290074.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 32.0361769,
+      "longitude": 35.9149874
+    },
+    "estimatedDuration": 49,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 32,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "amman_4",
+    "name": "تل القلعة",
+    "description": "amman'de ziyaret edilebilecek popüler bir nokta: تل القلعة.",
+    "image": "https://picsum.photos/800/600?random=3",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 31.9549197,
+      "longitude": 35.9348725
+    },
+    "estimatedDuration": 71,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 48,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "amman_5",
+    "name": "Jubaiha Amusement City",
+    "description": "amman'de ziyaret edilebilecek popüler bir nokta: Jubaiha Amusement City.",
+    "image": "https://images.pexels.com/photos/1446624/pexels-photo-1446624.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Eğlence",
+    "coordinates": {
+      "latitude": 32.046392,
+      "longitude": 35.8736007
+    },
+    "estimatedDuration": 68,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Eğlence"
+    ]
+  },
+  {
+    "id": "amman_6",
+    "name": "كنيسة السيدة العذراء للأقباط",
+    "description": "amman'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=5",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 31.9603861,
+      "longitude": 35.9133564
+    },
+    "estimatedDuration": 64,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "amman_7",
+    "name": "معبد هيراكليس",
+    "description": "amman'de ziyaret edilebilecek popüler bir nokta: معبد هيراكليس.",
+    "image": "https://images.pexels.com/photos/30806985/pexels-photo-30806985.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 31.9537461,
+      "longitude": 35.934861
+    },
+    "estimatedDuration": 85,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "amman_8",
+    "name": "مسجد الملك عبد الله",
+    "description": "amman'in tarihi ibadet yapılarından biri.",
+    "image": "https://images.pexels.com/photos/34934762/pexels-photo-34934762.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 31.9611202,
+      "longitude": 35.9128443
+    },
+    "estimatedDuration": 87,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 90,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "amman_9",
+    "name": "متحف القلعة",
+    "description": "amman'de bulunan önemli bir müze.",
+    "image": "https://images.pexels.com/photos/34838586/pexels-photo-34838586.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 31.9541201,
+      "longitude": 35.9342923
+    },
+    "estimatedDuration": 47,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 56,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "amman_10",
+    "name": "'Ain Ghazal",
+    "description": "amman'de ziyaret edilebilecek popüler bir nokta: 'Ain Ghazal.",
+    "image": "https://images.pexels.com/photos/34784460/pexels-photo-34784460.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 31.9884629,
+      "longitude": 35.9762924
+    },
+    "estimatedDuration": 40,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 161,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "amman_11",
+    "name": "Roman Theatre",
+    "description": "amman'de ziyaret edilebilecek popüler bir nokta: Roman Theatre.",
+    "image": "https://images.pexels.com/photos/12204346/pexels-photo-12204346.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 31.9516288,
+      "longitude": 35.9393101
+    },
+    "estimatedDuration": 86,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 7,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "amman_12",
+    "name": "قصر الأمويين",
+    "description": "amman'de ziyaret edilebilecek popüler bir nokta: قصر الأمويين.",
+    "image": "https://picsum.photos/800/600?random=11",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 31.9558901,
+      "longitude": 35.933684
+    },
+    "estimatedDuration": 40,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "amman_13",
+    "name": "Tall Jawa",
+    "description": "amman'de ziyaret edilebilecek popüler bir nokta: Tall Jawa.",
+    "image": "https://images.pexels.com/photos/34927990/pexels-photo-34927990.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 31.8575924,
+      "longitude": 35.9316033
+    },
+    "estimatedDuration": 69,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "amman_14",
+    "name": "Tall al-Umayri",
+    "description": "amman'de ziyaret edilebilecek popüler bir nokta: Tall al-Umayri.",
+    "image": "https://images.pexels.com/photos/18834951/pexels-photo-18834951.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 31.8686624,
+      "longitude": 35.8879661
+    },
+    "estimatedDuration": 47,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  }
+]

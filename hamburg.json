@@ -1,0 +1,1064 @@
+[
+  {
+    "id": "hamburg_1",
+    "name": "Roland",
+    "description": "hamburg'de ziyaret edilebilecek popüler bir nokta: Roland.",
+    "image": "https://images.pexels.com/photos/3672355/pexels-photo-3672355.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 53.5839242,
+      "longitude": 9.6978052
+    },
+    "estimatedDuration": 35,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "hamburg_2",
+    "name": "Krameramtsstuben",
+    "description": "hamburg'de ziyaret edilebilecek popüler bir nokta: Krameramtsstuben.",
+    "image": "https://picsum.photos/800/600?random=1",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 53.5480236,
+      "longitude": 9.9802931
+    },
+    "estimatedDuration": 86,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 51,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "hamburg_3",
+    "name": "Leuchtfeuer Bunthaus",
+    "description": "hamburg'de ziyaret edilebilecek popüler bir nokta: Leuchtfeuer Bunthaus.",
+    "image": "https://picsum.photos/800/600?random=2",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 53.4568694,
+      "longitude": 10.0690766
+    },
+    "estimatedDuration": 88,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "hamburg_4",
+    "name": "Bohrkopf T.R.U.D.E.",
+    "description": "hamburg'de ziyaret edilebilecek popüler bir nokta: Bohrkopf T.R.U.D.E..",
+    "image": "https://picsum.photos/800/600?random=3",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 53.5848467,
+      "longitude": 10.0443424
+    },
+    "estimatedDuration": 33,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 118,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "hamburg_5",
+    "name": "Dialoghaus Hamburg",
+    "description": "hamburg'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=4",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 53.546213,
+      "longitude": 10.0016843
+    },
+    "estimatedDuration": 87,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "hamburg_6",
+    "name": "Hamburg Dungeon",
+    "description": "hamburg'de ziyaret edilebilecek popüler bir nokta: Hamburg Dungeon.",
+    "image": "https://images.pexels.com/photos/34884680/pexels-photo-34884680.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 53.543871,
+      "longitude": 9.9894039
+    },
+    "estimatedDuration": 63,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "hamburg_7",
+    "name": "Gedenkstätte Bullenhuser Damm",
+    "description": "hamburg'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=6",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 53.5420468,
+      "longitude": 10.0475484
+    },
+    "estimatedDuration": 83,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "hamburg_8",
+    "name": "Deutsches Zollmuseum",
+    "description": "hamburg'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=7",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 53.5459413,
+      "longitude": 9.9980125
+    },
+    "estimatedDuration": 54,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "hamburg_9",
+    "name": "Aussichtsturm Zuckerstangen",
+    "description": "hamburg'de ziyaret edilebilecek popüler bir nokta: Aussichtsturm Zuckerstangen.",
+    "image": "https://picsum.photos/800/600?random=8",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 53.4893519,
+      "longitude": 10.1584502
+    },
+    "estimatedDuration": 35,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 2,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "hamburg_10",
+    "name": "KZ Wittmoor",
+    "description": "hamburg'de ziyaret edilebilecek popüler bir nokta: KZ Wittmoor.",
+    "image": "https://picsum.photos/800/600?random=9",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 53.6897271,
+      "longitude": 10.0698022
+    },
+    "estimatedDuration": 53,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "hamburg_11",
+    "name": "KZ-Außenlager Langenhorn",
+    "description": "hamburg'de ziyaret edilebilecek popüler bir nokta: KZ-Außenlager Langenhorn.",
+    "image": "https://picsum.photos/800/600?random=10",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 53.6721608,
+      "longitude": 9.9923923
+    },
+    "estimatedDuration": 45,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "hamburg_12",
+    "name": "Gedenksäule Zwangsarbeit in den Hanseatischen Kettenwerken",
+    "description": "hamburg'de ziyaret edilebilecek popüler bir nokta: Gedenksäule Zwangsarbeit in den Hanseatischen Kettenwerken.",
+    "image": "https://picsum.photos/800/600?random=11",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 53.6770578,
+      "longitude": 10.0003544
+    },
+    "estimatedDuration": 53,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "hamburg_13",
+    "name": "Altonaer Balkon",
+    "description": "hamburg'de ziyaret edilebilecek popüler bir nokta: Altonaer Balkon.",
+    "image": "https://picsum.photos/800/600?random=12",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 53.545274,
+      "longitude": 9.935832
+    },
+    "estimatedDuration": 36,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "hamburg_14",
+    "name": "Karlstein",
+    "description": "hamburg'de ziyaret edilebilecek popüler bir nokta: Karlstein.",
+    "image": "https://picsum.photos/800/600?random=13",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 53.4074525,
+      "longitude": 9.826801
+    },
+    "estimatedDuration": 81,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 80,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "hamburg_15",
+    "name": "Spicy's Gewürzmuseum",
+    "description": "hamburg'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=14",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 53.5431509,
+      "longitude": 9.9883872
+    },
+    "estimatedDuration": 44,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "hamburg_16",
+    "name": "Speicherstadtmuseum",
+    "description": "hamburg'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=15",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 53.543075,
+      "longitude": 9.9875264
+    },
+    "estimatedDuration": 42,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "hamburg_17",
+    "name": "Sir William Lindley",
+    "description": "hamburg'de ziyaret edilebilecek popüler bir nokta: Sir William Lindley.",
+    "image": "https://picsum.photos/800/600?random=16",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 53.5441686,
+      "longitude": 9.9795673
+    },
+    "estimatedDuration": 50,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "hamburg_18",
+    "name": "Ehrenmal der Radiologie",
+    "description": "hamburg'de ziyaret edilebilecek popüler bir nokta: Ehrenmal der Radiologie.",
+    "image": "https://picsum.photos/800/600?random=17",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 53.5590823,
+      "longitude": 10.0197902
+    },
+    "estimatedDuration": 42,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 104,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "hamburg_19",
+    "name": "Schillerdenkmal",
+    "description": "hamburg'de ziyaret edilebilecek popüler bir nokta: Schillerdenkmal.",
+    "image": "https://picsum.photos/800/600?random=18",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 53.5591874,
+      "longitude": 9.9903026
+    },
+    "estimatedDuration": 31,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "hamburg_20",
+    "name": "Gotthold Ephraim Lessing",
+    "description": "hamburg'de ziyaret edilebilecek popüler bir nokta: Gotthold Ephraim Lessing.",
+    "image": "https://picsum.photos/800/600?random=19",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 53.5551471,
+      "longitude": 9.988493
+    },
+    "estimatedDuration": 54,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 46,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "hamburg_21",
+    "name": "Heinrich-Heine-Denkmal",
+    "description": "hamburg'de ziyaret edilebilecek popüler bir nokta: Heinrich-Heine-Denkmal.",
+    "image": "https://picsum.photos/800/600?random=20",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 53.5504559,
+      "longitude": 9.9936461
+    },
+    "estimatedDuration": 33,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "hamburg_22",
+    "name": "Park Fiction",
+    "description": "hamburg'de ziyaret edilebilecek popüler bir nokta: Park Fiction.",
+    "image": "https://picsum.photos/800/600?random=21",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 53.5461929,
+      "longitude": 9.9570813
+    },
+    "estimatedDuration": 56,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "hamburg_23",
+    "name": "Dietrich-Bonhoeffer-Denkmal",
+    "description": "hamburg'de ziyaret edilebilecek popüler bir nokta: Dietrich-Bonhoeffer-Denkmal.",
+    "image": "https://picsum.photos/800/600?random=22",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 53.5504746,
+      "longitude": 9.997132
+    },
+    "estimatedDuration": 78,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "hamburg_24",
+    "name": "Regiments-Kriegerdenkmal 1870/71 des Infanterie-Regiments",
+    "description": "hamburg'de ziyaret edilebilecek popüler bir nokta: Regiments-Kriegerdenkmal 1870/71 des Infanterie-Regiments.",
+    "image": "https://picsum.photos/800/600?random=23",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 53.5648822,
+      "longitude": 9.9990036
+    },
+    "estimatedDuration": 35,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 118,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "hamburg_25",
+    "name": "Ehem. Bahnhof Elektrische Kleinbahn Alt-Rahlstedt–Volksdorf–Wohldorf",
+    "description": "hamburg'de ziyaret edilebilecek popüler bir nokta: Ehem. Bahnhof Elektrische Kleinbahn Alt-Rahlstedt–Volksdorf–Wohldorf.",
+    "image": "https://picsum.photos/800/600?random=24",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 53.6194592,
+      "longitude": 10.1306338
+    },
+    "estimatedDuration": 36,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "hamburg_26",
+    "name": "KZ Sasel",
+    "description": "hamburg'de ziyaret edilebilecek popüler bir nokta: KZ Sasel.",
+    "image": "https://picsum.photos/800/600?random=25",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 53.6647218,
+      "longitude": 10.1043613
+    },
+    "estimatedDuration": 67,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 71,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "hamburg_27",
+    "name": "Alsterfontäne",
+    "description": "hamburg'de ziyaret edilebilecek popüler bir nokta: Alsterfontäne.",
+    "image": "https://picsum.photos/800/600?random=26",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 53.5550686,
+      "longitude": 9.9957819
+    },
+    "estimatedDuration": 83,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "hamburg_28",
+    "name": "Gedenkstätte KZ Wittmoor",
+    "description": "hamburg'de ziyaret edilebilecek popüler bir nokta: Gedenkstätte KZ Wittmoor.",
+    "image": "https://picsum.photos/800/600?random=27",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 53.6917119,
+      "longitude": 10.0597931
+    },
+    "estimatedDuration": 63,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "hamburg_29",
+    "name": "Büsch-Denkmal",
+    "description": "hamburg'de ziyaret edilebilecek popüler bir nokta: Büsch-Denkmal.",
+    "image": "https://picsum.photos/800/600?random=28",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 53.5620621,
+      "longitude": 9.9894381
+    },
+    "estimatedDuration": 31,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 17,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "hamburg_30",
+    "name": "Bischofsturm",
+    "description": "hamburg'de ziyaret edilebilecek popüler bir nokta: Bischofsturm.",
+    "image": "https://picsum.photos/800/600?random=29",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 53.5500116,
+      "longitude": 9.9978996
+    },
+    "estimatedDuration": 84,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "hamburg_31",
+    "name": "Brahms-Museum",
+    "description": "hamburg'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=30",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 53.5512163,
+      "longitude": 9.9766047
+    },
+    "estimatedDuration": 41,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 162,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "hamburg_32",
+    "name": "Black Form",
+    "description": "hamburg'de ziyaret edilebilecek popüler bir nokta: Black Form.",
+    "image": "https://picsum.photos/800/600?random=31",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 53.5479214,
+      "longitude": 9.93541
+    },
+    "estimatedDuration": 79,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "hamburg_33",
+    "name": "Deutsches Hafenmuseum",
+    "description": "hamburg'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=32",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 53.525368,
+      "longitude": 10.0000668
+    },
+    "estimatedDuration": 61,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "hamburg_34",
+    "name": "Bugenhagen-Denkmal",
+    "description": "hamburg'de ziyaret edilebilecek popüler bir nokta: Bugenhagen-Denkmal.",
+    "image": "https://picsum.photos/800/600?random=33",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 53.5895731,
+      "longitude": 10.0058974
+    },
+    "estimatedDuration": 33,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 173,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "hamburg_35",
+    "name": "Adolf Laser",
+    "description": "hamburg'de ziyaret edilebilecek popüler bir nokta: Adolf Laser.",
+    "image": "https://picsum.photos/800/600?random=34",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 53.5180168,
+      "longitude": 9.9851882
+    },
+    "estimatedDuration": 55,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "hamburg_36",
+    "name": "Deutsches Zusatzstoffmuseum",
+    "description": "hamburg'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=35",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 53.5407959,
+      "longitude": 10.0209548
+    },
+    "estimatedDuration": 74,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "hamburg_37",
+    "name": "Hamburger DOM",
+    "description": "hamburg'de ziyaret edilebilecek popüler bir nokta: Hamburger DOM.",
+    "image": "https://picsum.photos/800/600?random=36",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 53.5534324,
+      "longitude": 9.9701087
+    },
+    "estimatedDuration": 73,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 140,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "hamburg_38",
+    "name": "Gedenktafeln jüdischer Friedhof",
+    "description": "hamburg'de ziyaret edilebilecek popüler bir nokta: Gedenktafeln jüdischer Friedhof.",
+    "image": "https://picsum.photos/800/600?random=37",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 53.5526058,
+      "longitude": 9.9319583
+    },
+    "estimatedDuration": 52,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "hamburg_39",
+    "name": "Gedenktafel Ehem. Schießplatz Höltigbaum",
+    "description": "hamburg'de ziyaret edilebilecek popüler bir nokta: Gedenktafel Ehem. Schießplatz Höltigbaum.",
+    "image": "https://picsum.photos/800/600?random=38",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 53.6078092,
+      "longitude": 10.1858916
+    },
+    "estimatedDuration": 51,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "hamburg_40",
+    "name": "Friedenseiche",
+    "description": "hamburg'de ziyaret edilebilecek popüler bir nokta: Friedenseiche.",
+    "image": "https://picsum.photos/800/600?random=39",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 53.6414841,
+      "longitude": 10.0808418
+    },
+    "estimatedDuration": 83,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "hamburg_41",
+    "name": "Gedenkstein KZ-Außenlager",
+    "description": "hamburg'de ziyaret edilebilecek popüler bir nokta: Gedenkstein KZ-Außenlager.",
+    "image": "https://picsum.photos/800/600?random=40",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 53.4609915,
+      "longitude": 9.8681935
+    },
+    "estimatedDuration": 65,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "hamburg_42",
+    "name": "Mahnmal für die Opfer des KZ-Außenlagers Sasel",
+    "description": "hamburg'de ziyaret edilebilecek popüler bir nokta: Mahnmal für die Opfer des KZ-Außenlagers Sasel.",
+    "image": "https://picsum.photos/800/600?random=41",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 53.6720539,
+      "longitude": 10.1266578
+    },
+    "estimatedDuration": 52,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 88,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "hamburg_43",
+    "name": "Schewes Achim",
+    "description": "hamburg'de ziyaret edilebilecek popüler bir nokta: Schewes Achim.",
+    "image": "https://picsum.photos/800/600?random=42",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 53.572382,
+      "longitude": 10.0398041
+    },
+    "estimatedDuration": 84,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "hamburg_44",
+    "name": "Müllberg Hummelsbüttel",
+    "description": "hamburg'de ziyaret edilebilecek popüler bir nokta: Müllberg Hummelsbüttel.",
+    "image": "https://picsum.photos/800/600?random=43",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 53.6736869,
+      "longitude": 10.0514542
+    },
+    "estimatedDuration": 61,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 152,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "hamburg_45",
+    "name": "Kaiser Wilhelm I",
+    "description": "hamburg'de ziyaret edilebilecek popüler bir nokta: Kaiser Wilhelm I.",
+    "image": "https://picsum.photos/800/600?random=44",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 53.5474701,
+      "longitude": 9.9354004
+    },
+    "estimatedDuration": 82,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "hamburg_46",
+    "name": "Mahnmal gegen den Faschismus",
+    "description": "hamburg'de ziyaret edilebilecek popüler bir nokta: Mahnmal gegen den Faschismus.",
+    "image": "https://picsum.photos/800/600?random=45",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 53.460885,
+      "longitude": 9.9803868
+    },
+    "estimatedDuration": 82,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "hamburg_47",
+    "name": "Gedenktafel KZ Wittmoor",
+    "description": "hamburg'de ziyaret edilebilecek popüler bir nokta: Gedenktafel KZ Wittmoor.",
+    "image": "https://picsum.photos/800/600?random=46",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 53.6985529,
+      "longitude": 10.0521695
+    },
+    "estimatedDuration": 80,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "hamburg_48",
+    "name": "Schiffsbegrüßungsanlage Willkomm-Höft",
+    "description": "hamburg'de ziyaret edilebilecek popüler bir nokta: Schiffsbegrüßungsanlage Willkomm-Höft.",
+    "image": "https://picsum.photos/800/600?random=47",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 53.5681304,
+      "longitude": 9.7024742
+    },
+    "estimatedDuration": 33,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 63,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "hamburg_49",
+    "name": "Freie Akademie der Künste",
+    "description": "hamburg'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=48",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 53.5485293,
+      "longitude": 10.0067109
+    },
+    "estimatedDuration": 31,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "hamburg_50",
+    "name": "Telemann-Museum",
+    "description": "hamburg'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=49",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 53.5512775,
+      "longitude": 9.9771499
+    },
+    "estimatedDuration": 46,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "hamburg_51",
+    "name": "PROTOTYP -Das Automuseum",
+    "description": "hamburg'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=50",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 53.5432742,
+      "longitude": 10.0026462
+    },
+    "estimatedDuration": 55,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "hamburg_52",
+    "name": "electrum - Museum der Elektrizität",
+    "description": "hamburg'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=51",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 53.4643064,
+      "longitude": 9.9817302
+    },
+    "estimatedDuration": 51,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "hamburg_53",
+    "name": "Arbeitserziehungslager Langer Morgen",
+    "description": "hamburg'de ziyaret edilebilecek popüler bir nokta: Arbeitserziehungslager Langer Morgen.",
+    "image": "https://picsum.photos/800/600?random=52",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 53.4977509,
+      "longitude": 9.9754887
+    },
+    "estimatedDuration": 81,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "hamburg_54",
+    "name": "Neue Dammtor-Synagoge",
+    "description": "hamburg'de ziyaret edilebilecek popüler bir nokta: Neue Dammtor-Synagoge.",
+    "image": "https://picsum.photos/800/600?random=53",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 53.5670178,
+      "longitude": 9.9826802
+    },
+    "estimatedDuration": 76,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "hamburg_56",
+    "name": "Spökelburg",
+    "description": "hamburg'de ziyaret edilebilecek popüler bir nokta: Spökelburg.",
+    "image": "https://picsum.photos/800/600?random=55",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 53.535661,
+      "longitude": 10.1101172
+    },
+    "estimatedDuration": 76,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "hamburg_57",
+    "name": "Otto Linne",
+    "description": "hamburg'de ziyaret edilebilecek popüler bir nokta: Otto Linne.",
+    "image": "https://picsum.photos/800/600?random=56",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 53.6231009,
+      "longitude": 10.0627467
+    },
+    "estimatedDuration": 46,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 127,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "hamburg_58",
+    "name": "Evangelische Freikirche Torstraße",
+    "description": "hamburg'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=57",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 53.5763835,
+      "longitude": 9.9370424
+    },
+    "estimatedDuration": 60,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "hamburg_59",
+    "name": "Mahnmal Madonna der Seefahrt",
+    "description": "hamburg'de ziyaret edilebilecek popüler bir nokta: Mahnmal Madonna der Seefahrt.",
+    "image": "https://picsum.photos/800/600?random=58",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 53.5454077,
+      "longitude": 9.9545265
+    },
+    "estimatedDuration": 43,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "hamburg_60",
+    "name": "Hamburger Schulmuseum",
+    "description": "hamburg'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=59",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 53.5506352,
+      "longitude": 9.9633657
+    },
+    "estimatedDuration": 74,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 156,
+    "interests": [
+      "Müze"
+    ]
+  }
+]

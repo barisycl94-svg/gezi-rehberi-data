@@ -1,0 +1,848 @@
+[
+  {
+    "id": "bilbao_1",
+    "name": "Monumento a Evaristo Churruca",
+    "description": "bilbao'de ziyaret edilebilecek popüler bir nokta: Monumento a Evaristo Churruca.",
+    "image": "https://picsum.photos/800/600?random=0",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.3263275,
+      "longitude": -3.0185235
+    },
+    "estimatedDuration": 63,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "bilbao_2",
+    "name": "Castro del Cerco Bolumburu",
+    "description": "bilbao'de ziyaret edilebilecek popüler bir nokta: Castro del Cerco Bolumburu.",
+    "image": "https://images.pexels.com/photos/3075312/pexels-photo-3075312.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.1953149,
+      "longitude": -3.1548711
+    },
+    "estimatedDuration": 79,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "bilbao_3",
+    "name": "Andra Maria basilika / Basílica de Santa María",
+    "description": "bilbao'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=2",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.3198185,
+      "longitude": -3.0167234
+    },
+    "estimatedDuration": 68,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "bilbao_4",
+    "name": "Bizkaia zubia",
+    "description": "bilbao'de ziyaret edilebilecek popüler bir nokta: Bizkaia zubia.",
+    "image": "https://picsum.photos/800/600?random=3",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.3232139,
+      "longitude": -3.0171379
+    },
+    "estimatedDuration": 66,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "bilbao_5",
+    "name": "Horno Alto N.º1 de Altos Hornos de Vizcaya",
+    "description": "bilbao'de ziyaret edilebilecek popüler bir nokta: Horno Alto N.º1 de Altos Hornos de Vizcaya.",
+    "image": "https://picsum.photos/800/600?random=4",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.3116643,
+      "longitude": -3.0004577
+    },
+    "estimatedDuration": 71,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "bilbao_6",
+    "name": "Done Jurgi eliza / Iglesia de San Jorge",
+    "description": "bilbao'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=5",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.3292207,
+      "longitude": -3.0326975
+    },
+    "estimatedDuration": 51,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "bilbao_7",
+    "name": "Museo de Bellas Artes de Bilbao",
+    "description": "bilbao'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=6",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 43.2654825,
+      "longitude": -2.9379861
+    },
+    "estimatedDuration": 52,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "bilbao_8",
+    "name": "Done Bikendi eliza / Iglesia de San Vicente Mártir",
+    "description": "bilbao'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=7",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.2635473,
+      "longitude": -2.9278306
+    },
+    "estimatedDuration": 36,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "bilbao_9",
+    "name": "Iglesia de San Antón / San Anton eliza",
+    "description": "bilbao'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=8",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.2551677,
+      "longitude": -2.9230988
+    },
+    "estimatedDuration": 74,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 42,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "bilbao_10",
+    "name": "Iglesia de Nuestra Señora del Carmen",
+    "description": "bilbao'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=9",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.2601085,
+      "longitude": -2.941044
+    },
+    "estimatedDuration": 84,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "bilbao_11",
+    "name": "Ermuko Andre Mariaren santutegia / Santuario de Santa María del Yermo",
+    "description": "bilbao'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=10",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.1717597,
+      "longitude": -2.9716371
+    },
+    "estimatedDuration": 69,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "bilbao_12",
+    "name": "Butroeko gaztelua",
+    "description": "bilbao'in tarihine tanıklık eden bir kale.",
+    "image": "https://picsum.photos/800/600?random=11",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.3717096,
+      "longitude": -2.9142537
+    },
+    "estimatedDuration": 71,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "bilbao_13",
+    "name": "Andra Mari eliza",
+    "description": "bilbao'in tarihi ibadet yapılarından biri.",
+    "image": "https://images.pexels.com/photos/34850036/pexels-photo-34850036.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.2181893,
+      "longitude": -2.7355321
+    },
+    "estimatedDuration": 71,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "bilbao_14",
+    "name": "San Pedro eleiza",
+    "description": "bilbao'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=13",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.1436132,
+      "longitude": -2.7537611
+    },
+    "estimatedDuration": 43,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "bilbao_15",
+    "name": "Santa Luzia baseliza / Ermita de Santa Lucía",
+    "description": "bilbao'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=14",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.171581,
+      "longitude": -2.9714407
+    },
+    "estimatedDuration": 50,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "bilbao_16",
+    "name": "Jesusen Bihotza eliza",
+    "description": "bilbao'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=15",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.2609087,
+      "longitude": -2.9297932
+    },
+    "estimatedDuration": 34,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "bilbao_17",
+    "name": "San Joan Bataiatzailea / San Juan Bautista",
+    "description": "bilbao'in tarihi ibadet yapılarından biri.",
+    "image": "https://images.pexels.com/photos/16112289/pexels-photo-16112289.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.3281501,
+      "longitude": -2.9861745
+    },
+    "estimatedDuration": 73,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "bilbao_18",
+    "name": "Museo Guggenheim Bilbao",
+    "description": "bilbao'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=17",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 43.268444,
+      "longitude": -2.9335277
+    },
+    "estimatedDuration": 85,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "bilbao_19",
+    "name": "Ondizko baseliza / Ermita de Ondiz",
+    "description": "bilbao'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=18",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.3226924,
+      "longitude": -2.9935245
+    },
+    "estimatedDuration": 69,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "bilbao_20",
+    "name": "Seranteseko gotorlekua",
+    "description": "bilbao'de ziyaret edilebilecek popüler bir nokta: Seranteseko gotorlekua.",
+    "image": "https://picsum.photos/800/600?random=19",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.3332247,
+      "longitude": -3.0586184
+    },
+    "estimatedDuration": 71,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "bilbao_21",
+    "name": "Enkarnazio eliza / Iglesia de la Encarnación",
+    "description": "bilbao'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=20",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.2535491,
+      "longitude": -2.9204894
+    },
+    "estimatedDuration": 75,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "bilbao_22",
+    "name": "Torre Loizaga - Museo de Coches Antiguos",
+    "description": "bilbao'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=21",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 43.2518099,
+      "longitude": -3.1307552
+    },
+    "estimatedDuration": 59,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "bilbao_23",
+    "name": "Andra Maria eta Done Petri",
+    "description": "bilbao'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=22",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.3539878,
+      "longitude": -2.8477805
+    },
+    "estimatedDuration": 47,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "bilbao_24",
+    "name": "Andra Mari Eliza",
+    "description": "bilbao'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=23",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.2118071,
+      "longitude": -2.7791926
+    },
+    "estimatedDuration": 48,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "bilbao_25",
+    "name": "Iglesia de San Francisco de Asís",
+    "description": "bilbao'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=24",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.2575706,
+      "longitude": -2.9329991
+    },
+    "estimatedDuration": 78,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 105,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "bilbao_26",
+    "name": "El Pobaleko burdinola",
+    "description": "bilbao'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=25",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 43.2970993,
+      "longitude": -3.1257683
+    },
+    "estimatedDuration": 89,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "bilbao_27",
+    "name": "Done Joane Bataiatzailea Eliza",
+    "description": "bilbao'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=26",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.2084342,
+      "longitude": -2.8016407
+    },
+    "estimatedDuration": 57,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "bilbao_28",
+    "name": "Iglesia de San Bartolomé Apostol",
+    "description": "bilbao'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=27",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.245373,
+      "longitude": -2.9897748
+    },
+    "estimatedDuration": 72,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "bilbao_29",
+    "name": "Enkarterrietako Museoa",
+    "description": "bilbao'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=28",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 43.2291848,
+      "longitude": -3.1614347
+    },
+    "estimatedDuration": 38,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "bilbao_30",
+    "name": "Casa de Juntas de Avellaneda",
+    "description": "bilbao'in tarihine tanıklık eden bir kale.",
+    "image": "https://picsum.photos/800/600?random=29",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.2293396,
+      "longitude": -3.1617284
+    },
+    "estimatedDuration": 89,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "bilbao_31",
+    "name": "Ermita de Nuestra Señora de la Guía",
+    "description": "bilbao'in tarihi ibadet yapılarından biri.",
+    "image": "https://images.pexels.com/photos/2666467/pexels-photo-2666467.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.2355096,
+      "longitude": -3.009975
+    },
+    "estimatedDuration": 74,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "bilbao_32",
+    "name": "Castillo de Muñatones",
+    "description": "bilbao'in tarihine tanıklık eden bir kale.",
+    "image": "https://picsum.photos/800/600?random=31",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.3250471,
+      "longitude": -3.1092631
+    },
+    "estimatedDuration": 50,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "bilbao_33",
+    "name": "Iglesia de Nuestra Señora de la Medalla Milagrosa",
+    "description": "bilbao'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=32",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.2770653,
+      "longitude": -2.9740605
+    },
+    "estimatedDuration": 76,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "bilbao_34",
+    "name": "Andra Mariaren Zeruratzea",
+    "description": "bilbao'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=33",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.3629365,
+      "longitude": -2.873026
+    },
+    "estimatedDuration": 50,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "bilbao_35",
+    "name": "Done Martie",
+    "description": "bilbao'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=34",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.3154244,
+      "longitude": -2.7481987
+    },
+    "estimatedDuration": 63,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "bilbao_36",
+    "name": "Edurretako Andra Maria Baseliza",
+    "description": "bilbao'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=35",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.3580148,
+      "longitude": -2.7307638
+    },
+    "estimatedDuration": 75,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "bilbao_37",
+    "name": "Museo de reproducciones artísticas",
+    "description": "bilbao'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=36",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 43.2560184,
+      "longitude": -2.9282337
+    },
+    "estimatedDuration": 31,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "bilbao_38",
+    "name": "Lamuza jauregia",
+    "description": "bilbao'in tarihine tanıklık eden bir kale.",
+    "image": "https://picsum.photos/800/600?random=37",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.1446599,
+      "longitude": -2.9647945
+    },
+    "estimatedDuration": 83,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "bilbao_39",
+    "name": "Santa Agate",
+    "description": "bilbao'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=38",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.1483431,
+      "longitude": -2.9817862
+    },
+    "estimatedDuration": 60,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 173,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "bilbao_40",
+    "name": "Iglesia de San José de la Montaña / San Jose Mendikoaren eliza",
+    "description": "bilbao'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=39",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.2648488,
+      "longitude": -2.936032
+    },
+    "estimatedDuration": 84,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "bilbao_41",
+    "name": "Iglesia de la Inmaculada Concepción",
+    "description": "bilbao'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=40",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.2590172,
+      "longitude": -2.9482775
+    },
+    "estimatedDuration": 81,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 148,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "bilbao_42",
+    "name": "Done Laurendi",
+    "description": "bilbao'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=41",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.229229,
+      "longitude": -3.1096322
+    },
+    "estimatedDuration": 71,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "bilbao_43",
+    "name": "Grandes Molinos Vascos",
+    "description": "bilbao'de ziyaret edilebilecek popüler bir nokta: Grandes Molinos Vascos.",
+    "image": "https://picsum.photos/800/600?random=42",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.2806002,
+      "longitude": -2.9703231
+    },
+    "estimatedDuration": 32,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "bilbao_44",
+    "name": "Tribisburuko Aztarnategi Erromatarra",
+    "description": "bilbao'de ziyaret edilebilecek popüler bir nokta: Tribisburuko Aztarnategi Erromatarra.",
+    "image": "https://picsum.photos/800/600?random=43",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.3790678,
+      "longitude": -2.7471254
+    },
+    "estimatedDuration": 32,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "bilbao_45",
+    "name": "San Martín Obispo baseliza",
+    "description": "bilbao'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=44",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.1040266,
+      "longitude": -2.8792816
+    },
+    "estimatedDuration": 89,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "bilbao_47",
+    "name": "San Martin Eliza / Iglesia de San Martín",
+    "description": "bilbao'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=46",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.3107998,
+      "longitude": -2.8087973
+    },
+    "estimatedDuration": 67,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 98,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "bilbao_48",
+    "name": "Done Jakue katedrala",
+    "description": "bilbao'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=47",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 43.2572072,
+      "longitude": -2.9237046
+    },
+    "estimatedDuration": 30,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  }
+]

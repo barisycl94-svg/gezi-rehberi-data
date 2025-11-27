@@ -1,0 +1,1082 @@
+[
+  {
+    "id": "santiago_1",
+    "name": "Museo de los Tajamares",
+    "description": "santiago'de ziyaret edilebilecek popüler bir nokta: Museo de los Tajamares.",
+    "image": "https://picsum.photos/800/600?random=0",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -33.4355959,
+      "longitude": -70.6303997
+    },
+    "estimatedDuration": 52,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "santiago_2",
+    "name": "Obelisco al Presidente Balmaceda",
+    "description": "santiago'de ziyaret edilebilecek popüler bir nokta: Obelisco al Presidente Balmaceda.",
+    "image": "https://picsum.photos/800/600?random=1",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -33.436377,
+      "longitude": -70.6329264
+    },
+    "estimatedDuration": 72,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "santiago_3",
+    "name": "Virgen de la Inmaculada Concepción",
+    "description": "santiago'de ziyaret edilebilecek popüler bir nokta: Virgen de la Inmaculada Concepción.",
+    "image": "https://picsum.photos/800/600?random=2",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -33.425286,
+      "longitude": -70.633162
+    },
+    "estimatedDuration": 78,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "santiago_4",
+    "name": "Casa Museo La Chascona",
+    "description": "santiago'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=3",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": -33.4312595,
+      "longitude": -70.634155
+    },
+    "estimatedDuration": 32,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "santiago_5",
+    "name": "Monumento a los Héroes de Iquique",
+    "description": "santiago'de ziyaret edilebilecek popüler bir nokta: Monumento a los Héroes de Iquique.",
+    "image": "https://picsum.photos/800/600?random=4",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -33.433331,
+      "longitude": -70.6497415
+    },
+    "estimatedDuration": 71,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "santiago_6",
+    "name": "Fuente Alemana",
+    "description": "santiago'de ziyaret edilebilecek popüler bir nokta: Fuente Alemana.",
+    "image": "https://picsum.photos/800/600?random=5",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -33.4366377,
+      "longitude": -70.6363938
+    },
+    "estimatedDuration": 74,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "santiago_7",
+    "name": "Bernardo O'Higgins",
+    "description": "santiago'de ziyaret edilebilecek popüler bir nokta: Bernardo O'Higgins.",
+    "image": "https://picsum.photos/800/600?random=6",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -33.4454007,
+      "longitude": -70.6531346
+    },
+    "estimatedDuration": 59,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 174,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "santiago_8",
+    "name": "Museo de Arte Precolombino",
+    "description": "santiago'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=7",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": -33.4390245,
+      "longitude": -70.6521952
+    },
+    "estimatedDuration": 74,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 103,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "santiago_9",
+    "name": "Museo de Arte Colonial de San Francisco",
+    "description": "santiago'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=8",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": -33.4436101,
+      "longitude": -70.647835
+    },
+    "estimatedDuration": 86,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 164,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "santiago_10",
+    "name": "Museo del Carmen",
+    "description": "santiago'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=9",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": -33.510568,
+      "longitude": -70.7662248
+    },
+    "estimatedDuration": 56,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "santiago_11",
+    "name": "Salvador Allende Gossens",
+    "description": "santiago'de ziyaret edilebilecek popüler bir nokta: Salvador Allende Gossens.",
+    "image": "https://picsum.photos/800/600?random=10",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -33.4420075,
+      "longitude": -70.653449
+    },
+    "estimatedDuration": 57,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "santiago_12",
+    "name": "Bandera Bicentenario",
+    "description": "santiago'de ziyaret edilebilecek popüler bir nokta: Bandera Bicentenario.",
+    "image": "https://picsum.photos/800/600?random=11",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -33.4445638,
+      "longitude": -70.6535384
+    },
+    "estimatedDuration": 57,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "santiago_13",
+    "name": "Museo de la Educación Gabriela Mistral",
+    "description": "santiago'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=12",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": -33.441749,
+      "longitude": -70.6782795
+    },
+    "estimatedDuration": 33,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 158,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "santiago_14",
+    "name": "Memorial Puente Bulnes, Muro de la Memoria y Plaza Joan Alsina",
+    "description": "santiago'de ziyaret edilebilecek popüler bir nokta: Memorial Puente Bulnes, Muro de la Memoria y Plaza Joan Alsina.",
+    "image": "https://images.pexels.com/photos/10449786/pexels-photo-10449786.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -33.4268014,
+      "longitude": -70.6717011
+    },
+    "estimatedDuration": 45,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "santiago_15",
+    "name": "Museo Infantil",
+    "description": "santiago'de bulunan önemli bir müze.",
+    "image": "https://images.pexels.com/photos/31573390/pexels-photo-31573390.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": -33.4398181,
+      "longitude": -70.6837212
+    },
+    "estimatedDuration": 43,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "santiago_16",
+    "name": "Memorial del Detenido Desaparecido y del Ejecutado Político",
+    "description": "santiago'de ziyaret edilebilecek popüler bir nokta: Memorial del Detenido Desaparecido y del Ejecutado Político.",
+    "image": "https://picsum.photos/800/600?random=15",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -33.4127784,
+      "longitude": -70.6445227
+    },
+    "estimatedDuration": 53,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "santiago_17",
+    "name": "Un lugar para la memoria (Memorial Tres Sillas)",
+    "description": "santiago'de ziyaret edilebilecek popüler bir nokta: Un lugar para la memoria (Memorial Tres Sillas).",
+    "image": "https://picsum.photos/800/600?random=16",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -33.4046567,
+      "longitude": -70.781191
+    },
+    "estimatedDuration": 68,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "santiago_18",
+    "name": "Museo Histórico Dominico",
+    "description": "santiago'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=17",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": -33.4248166,
+      "longitude": -70.6448334
+    },
+    "estimatedDuration": 63,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "santiago_19",
+    "name": "Sitio Histórico Ex Escuela Normal Superior José Abelardo Núñez (JAN)",
+    "description": "santiago'de ziyaret edilebilecek popüler bir nokta: Sitio Histórico Ex Escuela Normal Superior José Abelardo Núñez (JAN).",
+    "image": "https://picsum.photos/800/600?random=18",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -33.4520993,
+      "longitude": -70.6862302
+    },
+    "estimatedDuration": 69,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "santiago_20",
+    "name": "Londres 38",
+    "description": "santiago'de ziyaret edilebilecek popüler bir nokta: Londres 38.",
+    "image": "https://picsum.photos/800/600?random=19",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -33.4442596,
+      "longitude": -70.6481632
+    },
+    "estimatedDuration": 31,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "santiago_21",
+    "name": "Tajamar del Mapocho",
+    "description": "santiago'de ziyaret edilebilecek popüler bir nokta: Tajamar del Mapocho.",
+    "image": "https://picsum.photos/800/600?random=20",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -33.4335646,
+      "longitude": -70.6486297
+    },
+    "estimatedDuration": 64,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "santiago_22",
+    "name": "Museo de Bomberos de Santiago (MUBO)",
+    "description": "santiago'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=21",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": -33.4362529,
+      "longitude": -70.6509728
+    },
+    "estimatedDuration": 36,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 137,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "santiago_23",
+    "name": "Cristo de Mayo",
+    "description": "santiago'de ziyaret edilebilecek popüler bir nokta: Cristo de Mayo.",
+    "image": "https://picsum.photos/800/600?random=22",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -33.4407021,
+      "longitude": -70.648741
+    },
+    "estimatedDuration": 41,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 155,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "santiago_24",
+    "name": "Monumento al General René Schneider Chereau",
+    "description": "santiago'de ziyaret edilebilecek popüler bir nokta: Monumento al General René Schneider Chereau.",
+    "image": "https://picsum.photos/800/600?random=23",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -33.4046062,
+      "longitude": -70.5856984
+    },
+    "estimatedDuration": 31,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 190,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "santiago_25",
+    "name": "Iglesia Luterana “El Buen Pastor”",
+    "description": "santiago'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=24",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -33.4209279,
+      "longitude": -70.546909
+    },
+    "estimatedDuration": 63,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 145,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "santiago_26",
+    "name": "Escotilla 8",
+    "description": "santiago'de ziyaret edilebilecek popüler bir nokta: Escotilla 8.",
+    "image": "https://picsum.photos/800/600?random=25",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -33.4636197,
+      "longitude": -70.6102815
+    },
+    "estimatedDuration": 68,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "santiago_27",
+    "name": "Casa Memoria José Domingo Cañas",
+    "description": "santiago'de ziyaret edilebilecek popüler bir nokta: Casa Memoria José Domingo Cañas.",
+    "image": "https://picsum.photos/800/600?random=26",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -33.4559987,
+      "longitude": -70.6171949
+    },
+    "estimatedDuration": 51,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 16,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "santiago_28",
+    "name": "Masacre del Seguro Obrero",
+    "description": "santiago'de ziyaret edilebilecek popüler bir nokta: Masacre del Seguro Obrero.",
+    "image": "https://picsum.photos/800/600?random=27",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -33.4421023,
+      "longitude": -70.6532326
+    },
+    "estimatedDuration": 53,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 26,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "santiago_29",
+    "name": "Museo de la Vivienda Tradicional Local",
+    "description": "santiago'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=28",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": -33.3736873,
+      "longitude": -70.6058756
+    },
+    "estimatedDuration": 42,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "santiago_30",
+    "name": "Museo al Aire Libre Parque de Las Esculturas",
+    "description": "santiago'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=29",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": -33.4193103,
+      "longitude": -70.6118699
+    },
+    "estimatedDuration": 62,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "santiago_31",
+    "name": "Tajamares del Mapocho",
+    "description": "santiago'de ziyaret edilebilecek popüler bir nokta: Tajamares del Mapocho.",
+    "image": "https://picsum.photos/800/600?random=30",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -33.4262303,
+      "longitude": -70.6735956
+    },
+    "estimatedDuration": 75,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "santiago_32",
+    "name": "Monumento a la Libertad Americana",
+    "description": "santiago'de ziyaret edilebilecek popüler bir nokta: Monumento a la Libertad Americana.",
+    "image": "https://picsum.photos/800/600?random=31",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -33.4378262,
+      "longitude": -70.6505028
+    },
+    "estimatedDuration": 44,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 173,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "santiago_33",
+    "name": "Bodegas de la Viña Santa Carolina",
+    "description": "santiago'de ziyaret edilebilecek popüler bir nokta: Bodegas de la Viña Santa Carolina.",
+    "image": "https://picsum.photos/800/600?random=32",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -33.4748985,
+      "longitude": -70.6179232
+    },
+    "estimatedDuration": 41,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "santiago_34",
+    "name": "James Fuentes",
+    "description": "santiago'de ziyaret edilebilecek popüler bir nokta: James Fuentes.",
+    "image": "https://picsum.photos/800/600?random=33",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -33.4676424,
+      "longitude": -70.7310318
+    },
+    "estimatedDuration": 67,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "santiago_35",
+    "name": "Museo de Cera Las Condes",
+    "description": "santiago'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=34",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": -33.4082455,
+      "longitude": -70.5416817
+    },
+    "estimatedDuration": 87,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "santiago_36",
+    "name": "Altar de la Patria",
+    "description": "santiago'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=35",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": -33.4457192,
+      "longitude": -70.6533205
+    },
+    "estimatedDuration": 79,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "santiago_37",
+    "name": "Cripta del Libertador General",
+    "description": "santiago'de ziyaret edilebilecek popüler bir nokta: Cripta del Libertador General.",
+    "image": "https://picsum.photos/800/600?random=36",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -33.4454377,
+      "longitude": -70.6533734
+    },
+    "estimatedDuration": 86,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "santiago_38",
+    "name": "Museo Jedimar",
+    "description": "santiago'de ziyaret edilebilecek popüler bir nokta: Museo Jedimar.",
+    "image": "https://picsum.photos/800/600?random=37",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -33.4534186,
+      "longitude": -70.6863356
+    },
+    "estimatedDuration": 82,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "santiago_39",
+    "name": "Museo del Sonido",
+    "description": "santiago'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=38",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": -33.4421898,
+      "longitude": -70.6758062
+    },
+    "estimatedDuration": 51,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 196,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "santiago_40",
+    "name": "Memorial Población La Legua",
+    "description": "santiago'de ziyaret edilebilecek popüler bir nokta: Memorial Población La Legua.",
+    "image": "https://picsum.photos/800/600?random=39",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -33.4901547,
+      "longitude": -70.6317409
+    },
+    "estimatedDuration": 68,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "santiago_41",
+    "name": "Cápsula Bicentenario",
+    "description": "santiago'de ziyaret edilebilecek popüler bir nokta: Cápsula Bicentenario.",
+    "image": "https://picsum.photos/800/600?random=40",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -33.4377719,
+      "longitude": -70.6499043
+    },
+    "estimatedDuration": 88,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "santiago_42",
+    "name": "Museo del Ahorro",
+    "description": "santiago'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=41",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": -33.4436168,
+      "longitude": -70.6528467
+    },
+    "estimatedDuration": 71,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "santiago_43",
+    "name": "Museo de Arte Popular Americano Tomás Lago (MAPA)",
+    "description": "santiago'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=42",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": -33.4649954,
+      "longitude": -70.5955066
+    },
+    "estimatedDuration": 78,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 106,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "santiago_44",
+    "name": "Museo de Artes Decorativas",
+    "description": "santiago'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=43",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": -33.4244775,
+      "longitude": -70.6449615
+    },
+    "estimatedDuration": 42,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "santiago_45",
+    "name": "Museo Nacional de Bellas Artes",
+    "description": "santiago'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=44",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": -33.4353501,
+      "longitude": -70.6434401
+    },
+    "estimatedDuration": 81,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "santiago_46",
+    "name": "Museo de Química y Farmacia",
+    "description": "santiago'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=45",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": -33.4370031,
+      "longitude": -70.63607
+    },
+    "estimatedDuration": 62,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 43,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "santiago_47",
+    "name": "Museo Numismático",
+    "description": "santiago'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=46",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": -33.4411376,
+      "longitude": -70.6528204
+    },
+    "estimatedDuration": 47,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "santiago_48",
+    "name": "Puerta Morandé 80",
+    "description": "santiago'de ziyaret edilebilecek popüler bir nokta: Puerta Morandé 80.",
+    "image": "https://picsum.photos/800/600?random=47",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -33.4426019,
+      "longitude": -70.6533468
+    },
+    "estimatedDuration": 49,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 109,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "santiago_49",
+    "name": "Museo de Anatomía",
+    "description": "santiago'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=48",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": -33.4177998,
+      "longitude": -70.6548073
+    },
+    "estimatedDuration": 38,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "santiago_50",
+    "name": "Museo Nacional de Medicina Dr. Enrique Laval",
+    "description": "santiago'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=49",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": -33.4193457,
+      "longitude": -70.6555141
+    },
+    "estimatedDuration": 31,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "santiago_51",
+    "name": "Paseo Palestina",
+    "description": "santiago'de ziyaret edilebilecek popüler bir nokta: Paseo Palestina.",
+    "image": "https://picsum.photos/800/600?random=50",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -33.4538605,
+      "longitude": -70.6908462
+    },
+    "estimatedDuration": 52,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 166,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "santiago_52",
+    "name": "Museo Histórico Nacional",
+    "description": "santiago'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=51",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": -33.4371206,
+      "longitude": -70.6506217
+    },
+    "estimatedDuration": 35,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "santiago_53",
+    "name": "Casonas de Avenida República",
+    "description": "santiago'de ziyaret edilebilecek popüler bir nokta: Casonas de Avenida República.",
+    "image": "https://picsum.photos/800/600?random=52",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -33.4530423,
+      "longitude": -70.6673731
+    },
+    "estimatedDuration": 56,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "santiago_54",
+    "name": "Monumento por los Derechos LGBTI de Chile",
+    "description": "santiago'de ziyaret edilebilecek popüler bir nokta: Monumento por los Derechos LGBTI de Chile.",
+    "image": "https://picsum.photos/800/600?random=53",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -33.4410334,
+      "longitude": -70.6421761
+    },
+    "estimatedDuration": 82,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 146,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "santiago_55",
+    "name": "Memorial por la Diversidad de Chile",
+    "description": "santiago'de ziyaret edilebilecek popüler bir nokta: Memorial por la Diversidad de Chile.",
+    "image": "https://picsum.photos/800/600?random=54",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -33.413786,
+      "longitude": -70.6486631
+    },
+    "estimatedDuration": 31,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "santiago_56",
+    "name": "Gloria y Victoria",
+    "description": "santiago'de ziyaret edilebilecek popüler bir nokta: Gloria y Victoria.",
+    "image": "https://picsum.photos/800/600?random=55",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -33.43903,
+      "longitude": -70.6378514
+    },
+    "estimatedDuration": 44,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "santiago_57",
+    "name": "Pirámide del Camino de San Pablo",
+    "description": "santiago'de ziyaret edilebilecek popüler bir nokta: Pirámide del Camino de San Pablo.",
+    "image": "https://picsum.photos/800/600?random=56",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -33.4344992,
+      "longitude": -70.6630248
+    },
+    "estimatedDuration": 41,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "santiago_58",
+    "name": "León Suizo",
+    "description": "santiago'de ziyaret edilebilecek popüler bir nokta: León Suizo.",
+    "image": "https://picsum.photos/800/600?random=57",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -33.4470835,
+      "longitude": -70.6639175
+    },
+    "estimatedDuration": 68,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "santiago_59",
+    "name": "Homenaje a Salomón Sack",
+    "description": "santiago'de ziyaret edilebilecek popüler bir nokta: Homenaje a Salomón Sack.",
+    "image": "https://picsum.photos/800/600?random=58",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -33.4978591,
+      "longitude": -70.708107
+    },
+    "estimatedDuration": 83,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 89,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "santiago_60",
+    "name": "Memorial Detenidos Desaparecidos y Ejecutados Políticos de Villa Francia",
+    "description": "santiago'de ziyaret edilebilecek popüler bir nokta: Memorial Detenidos Desaparecidos y Ejecutados Políticos de Villa Francia.",
+    "image": "https://picsum.photos/800/600?random=59",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -33.4723573,
+      "longitude": -70.7207416
+    },
+    "estimatedDuration": 45,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  }
+]

@@ -1,0 +1,218 @@
+[
+  {
+    "id": "pune_1",
+    "name": "National War Memorial Southern Command",
+    "description": "pune'de ziyaret edilebilecek popüler bir nokta: National War Memorial Southern Command.",
+    "image": "https://images.pexels.com/photos/37072/abraham-lincoln-lincoln-memorial-washington-dc-lincoln.jpg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 18.5230742,
+      "longitude": 73.8896575
+    },
+    "estimatedDuration": 83,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 151,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "pune_2",
+    "name": "Kasba Ganpati",
+    "description": "pune'in tarihi ibadet yapılarından biri.",
+    "image": "https://images.pexels.com/photos/28635653/pexels-photo-28635653.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 18.5190304,
+      "longitude": 73.8572406
+    },
+    "estimatedDuration": 35,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "pune_3",
+    "name": "Joshi's Museum of Miniature Railways",
+    "description": "pune'de bulunan önemli bir müze.",
+    "image": "https://images.pexels.com/photos/2739070/pexels-photo-2739070.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 18.5014117,
+      "longitude": 73.822364
+    },
+    "estimatedDuration": 84,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "pune_4",
+    "name": "Rani Laxmibai",
+    "description": "pune'de ziyaret edilebilecek popüler bir nokta: Rani Laxmibai.",
+    "image": "https://images.pexels.com/photos/34413203/pexels-photo-34413203.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 18.5225267,
+      "longitude": 73.8482223
+    },
+    "estimatedDuration": 79,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 96,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "pune_5",
+    "name": "St. Patrick's Cathedral",
+    "description": "pune'in tarihi ibadet yapılarından biri.",
+    "image": "https://images.pexels.com/photos/4451425/pexels-photo-4451425.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 18.5088409,
+      "longitude": 73.8982144
+    },
+    "estimatedDuration": 62,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "pune_6",
+    "name": "Sarasbaug",
+    "description": "pune şehrinde doğa ile iç içe bir park.",
+    "image": "https://picsum.photos/800/600?random=5",
+    "category": "Park",
+    "coordinates": {
+      "latitude": 18.5008294,
+      "longitude": 73.8528092
+    },
+    "estimatedDuration": 37,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Park"
+    ]
+  },
+  {
+    "id": "pune_7",
+    "name": "Shinde Chhatri",
+    "description": "pune'de ziyaret edilebilecek popüler bir nokta: Shinde Chhatri.",
+    "image": "https://picsum.photos/800/600?random=6",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 18.4916295,
+      "longitude": 73.8972726
+    },
+    "estimatedDuration": 85,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "pune_8",
+    "name": "Aga Khan Palace",
+    "description": "pune'de ziyaret edilebilecek popüler bir nokta: Aga Khan Palace.",
+    "image": "https://picsum.photos/800/600?random=7",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 18.552307,
+      "longitude": 73.9014477
+    },
+    "estimatedDuration": 40,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 136,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "pune_9",
+    "name": "Pataleshwar",
+    "description": "pune'de ziyaret edilebilecek popüler bir nokta: Pataleshwar.",
+    "image": "https://picsum.photos/800/600?random=8",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 18.527045,
+      "longitude": 73.8500789
+    },
+    "estimatedDuration": 43,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 139,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "pune_10",
+    "name": "Bharat Itihas Sanshodhak Mandal",
+    "description": "pune'de bulunan önemli bir müze.",
+    "image": "https://images.pexels.com/photos/27461553/pexels-photo-27461553.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 18.5106663,
+      "longitude": 73.8495104
+    },
+    "estimatedDuration": 60,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "pune_11",
+    "name": "Raja Dinkar Kelkar Museum",
+    "description": "pune'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=10",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 18.5107618,
+      "longitude": 73.8545094
+    },
+    "estimatedDuration": 55,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "pune_12",
+    "name": "Chaturshrungi Mandir",
+    "description": "pune'in tarihi ibadet yapılarından biri.",
+    "image": "https://images.pexels.com/photos/28305382/pexels-photo-28305382.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 18.5388967,
+      "longitude": 73.8277013
+    },
+    "estimatedDuration": 62,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  }
+]

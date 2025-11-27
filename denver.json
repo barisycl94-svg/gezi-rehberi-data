@@ -1,0 +1,380 @@
+[
+  {
+    "id": "denver_1",
+    "name": "American Museum of Western Art",
+    "description": "denver'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=0",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 39.7446273,
+      "longitude": -104.9879622
+    },
+    "estimatedDuration": 41,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 30,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "denver_2",
+    "name": "Scum of the Earth Church",
+    "description": "denver'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=1",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 39.7338833,
+      "longitude": -104.9996267
+    },
+    "estimatedDuration": 86,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "denver_3",
+    "name": "Rocky Mountain Quilt Museum",
+    "description": "denver'de bulunan önemli bir müze.",
+    "image": "https://images.pexels.com/photos/27788095/pexels-photo-27788095.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 39.7206682,
+      "longitude": -105.1964253
+    },
+    "estimatedDuration": 64,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "denver_4",
+    "name": "Stapleton International Airport (closed)",
+    "description": "denver'de ziyaret edilebilecek popüler bir nokta: Stapleton International Airport (closed).",
+    "image": "https://picsum.photos/800/600?random=3",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 39.7617531,
+      "longitude": -104.8916236
+    },
+    "estimatedDuration": 72,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "denver_5",
+    "name": "Martin Luther King Jr. Memorial",
+    "description": "denver'de ziyaret edilebilecek popüler bir nokta: Martin Luther King Jr. Memorial.",
+    "image": "https://picsum.photos/800/600?random=4",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 39.7460387,
+      "longitude": -104.9545382
+    },
+    "estimatedDuration": 54,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "denver_6",
+    "name": "Civil War Monument",
+    "description": "denver'de ziyaret edilebilecek popüler bir nokta: Civil War Monument.",
+    "image": "https://picsum.photos/800/600?random=5",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 39.7392393,
+      "longitude": -104.9856362
+    },
+    "estimatedDuration": 50,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "denver_7",
+    "name": "Union Station",
+    "description": "denver'de ziyaret edilebilecek popüler bir nokta: Union Station.",
+    "image": "https://picsum.photos/800/600?random=6",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 39.7532308,
+      "longitude": -105.0002773
+    },
+    "estimatedDuration": 42,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "denver_8",
+    "name": "Denver Museum of Nature and Science",
+    "description": "denver'de bulunan önemli bir müze.",
+    "image": "https://images.pexels.com/photos/828701/pexels-photo-828701.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 39.747536,
+      "longitude": -104.9428574
+    },
+    "estimatedDuration": 38,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 177,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "denver_9",
+    "name": "Colorado Railroad Museum",
+    "description": "denver'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=8",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 39.7717725,
+      "longitude": -105.1931146
+    },
+    "estimatedDuration": 31,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 32,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "denver_10",
+    "name": "Calvary Episcopal Church",
+    "description": "denver'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=9",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 39.7534513,
+      "longitude": -105.2215662
+    },
+    "estimatedDuration": 80,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 16,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "denver_11",
+    "name": "Boeing B-52B",
+    "description": "denver'de ziyaret edilebilecek popüler bir nokta: Boeing B-52B.",
+    "image": "https://picsum.photos/800/600?random=10",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 39.7201888,
+      "longitude": -104.8955459
+    },
+    "estimatedDuration": 71,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "denver_12",
+    "name": "Denver Botanic Gardens",
+    "description": "denver'de ziyaret edilebilecek popüler bir nokta: Denver Botanic Gardens.",
+    "image": "https://images.pexels.com/photos/16628339/pexels-photo-16628339.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Park",
+    "coordinates": {
+      "latitude": 39.7320096,
+      "longitude": -104.9613834
+    },
+    "estimatedDuration": 48,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Park"
+    ]
+  },
+  {
+    "id": "denver_13",
+    "name": "Saint Ignatius Loyola Catholic Church",
+    "description": "denver'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=12",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 39.7510191,
+      "longitude": -104.9603309
+    },
+    "estimatedDuration": 35,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 138,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "denver_14",
+    "name": "Casa Bonita",
+    "description": "denver'de ziyaret edilebilecek popüler bir nokta: Casa Bonita.",
+    "image": "https://images.pexels.com/photos/17488420/pexels-photo-17488420.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Yeme-İçme",
+    "coordinates": {
+      "latitude": 39.7419846,
+      "longitude": -105.0710258
+    },
+    "estimatedDuration": 49,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 88,
+    "interests": [
+      "Yeme-İçme"
+    ]
+  },
+  {
+    "id": "denver_15",
+    "name": "Eisenhower Chapel",
+    "description": "denver'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=14",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 39.7213053,
+      "longitude": -104.9017089
+    },
+    "estimatedDuration": 62,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 126,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "denver_16",
+    "name": "Wings Over the Rockies Air & Space Museum",
+    "description": "denver'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=15",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 39.7210706,
+      "longitude": -104.8955421
+    },
+    "estimatedDuration": 30,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 120,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "denver_17",
+    "name": "Lakeside Amusement Park",
+    "description": "denver'de ziyaret edilebilecek popüler bir nokta: Lakeside Amusement Park.",
+    "image": "https://picsum.photos/800/600?random=16",
+    "category": "Eğlence",
+    "coordinates": {
+      "latitude": 39.7803925,
+      "longitude": -105.054944
+    },
+    "estimatedDuration": 71,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 72,
+    "interests": [
+      "Eğlence"
+    ]
+  },
+  {
+    "id": "denver_18",
+    "name": "Denver Colorado Temple",
+    "description": "denver'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=17",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 39.5686556,
+      "longitude": -104.9657656
+    },
+    "estimatedDuration": 89,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "denver_19",
+    "name": "Columbine Memorial",
+    "description": "denver'de ziyaret edilebilecek popüler bir nokta: Columbine Memorial.",
+    "image": "https://picsum.photos/800/600?random=18",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 39.6052679,
+      "longitude": -105.0790033
+    },
+    "estimatedDuration": 74,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "denver_20",
+    "name": "Colorado Amphitheater",
+    "description": "denver'de ziyaret edilebilecek popüler bir nokta: Colorado Amphitheater.",
+    "image": "https://picsum.photos/800/600?random=19",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 39.7435901,
+      "longitude": -105.1763194
+    },
+    "estimatedDuration": 56,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "denver_21",
+    "name": "Denver Zoo",
+    "description": "denver'de ziyaret edilebilecek popüler bir nokta: Denver Zoo.",
+    "image": "https://picsum.photos/800/600?random=20",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 39.749303,
+      "longitude": -104.951137
+    },
+    "estimatedDuration": 42,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 70,
+    "interests": [
+      "Tarihi"
+    ]
+  }
+]

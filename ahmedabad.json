@@ -1,0 +1,434 @@
+[
+  {
+    "id": "ahmedabad_1",
+    "name": "Sanskar Kendra",
+    "description": "ahmedabad'de bulunan önemli bir müze.",
+    "image": "https://images.pexels.com/photos/33755457/pexels-photo-33755457.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 23.0130948,
+      "longitude": 72.5694038
+    },
+    "estimatedDuration": 42,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "ahmedabad_2",
+    "name": "Raipur Gate",
+    "description": "ahmedabad'de ziyaret edilebilecek popüler bir nokta: Raipur Gate.",
+    "image": "https://images.pexels.com/photos/34933943/pexels-photo-34933943.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 23.0174361,
+      "longitude": 72.5947812
+    },
+    "estimatedDuration": 69,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "ahmedabad_3",
+    "name": "Dadabhagwan Trimandir - Adalaj",
+    "description": "ahmedabad'in tarihi ibadet yapılarından biri.",
+    "image": "https://images.pexels.com/photos/32874843/pexels-photo-32874843.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 23.1784824,
+      "longitude": 72.5721279
+    },
+    "estimatedDuration": 64,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "ahmedabad_4",
+    "name": "Dada Harir Vav",
+    "description": "ahmedabad'de ziyaret edilebilecek popüler bir nokta: Dada Harir Vav.",
+    "image": "https://images.pexels.com/photos/21282896/pexels-photo-21282896.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 23.0406958,
+      "longitude": 72.6054713
+    },
+    "estimatedDuration": 36,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 8,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "ahmedabad_5",
+    "name": "Calico Textile Museum",
+    "description": "ahmedabad'de bulunan önemli bir müze.",
+    "image": "https://images.pexels.com/photos/6243733/pexels-photo-6243733.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 23.05418,
+      "longitude": 72.5924764
+    },
+    "estimatedDuration": 81,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "ahmedabad_6",
+    "name": "Jamalpur Darwaja",
+    "description": "ahmedabad'de ziyaret edilebilecek popüler bir nokta: Jamalpur Darwaja.",
+    "image": "https://images.pexels.com/photos/19349336/pexels-photo-19349336.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 23.0124252,
+      "longitude": 72.581461
+    },
+    "estimatedDuration": 83,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 81,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "ahmedabad_7",
+    "name": "Shah E Alam Roza",
+    "description": "ahmedabad'in tarihi ibadet yapılarından biri.",
+    "image": "https://images.pexels.com/photos/13295925/pexels-photo-13295925.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 22.9940973,
+      "longitude": 72.5895788
+    },
+    "estimatedDuration": 85,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 90,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "ahmedabad_8",
+    "name": "Lalbhai Dalpatbhai Museum",
+    "description": "ahmedabad'de bulunan önemli bir müze.",
+    "image": "https://images.pexels.com/photos/34937965/pexels-photo-34937965.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 23.0331715,
+      "longitude": 72.5498983
+    },
+    "estimatedDuration": 72,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "ahmedabad_9",
+    "name": "Amritavarshini Vav",
+    "description": "ahmedabad'de ziyaret edilebilecek popüler bir nokta: Amritavarshini Vav.",
+    "image": "https://images.pexels.com/photos/28214961/pexels-photo-28214961.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 23.0246644,
+      "longitude": 72.5971063
+    },
+    "estimatedDuration": 72,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "ahmedabad_10",
+    "name": "Jethabhai's Stepwell",
+    "description": "ahmedabad'de ziyaret edilebilecek popüler bir nokta: Jethabhai's Stepwell.",
+    "image": "https://images.pexels.com/photos/19149602/pexels-photo-19149602.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 22.9744693,
+      "longitude": 72.6033586
+    },
+    "estimatedDuration": 74,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "ahmedabad_11",
+    "name": "Villa Shodhan",
+    "description": "ahmedabad'de ziyaret edilebilecek popüler bir nokta: Villa Shodhan.",
+    "image": "https://images.pexels.com/photos/34874601/pexels-photo-34874601.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 23.0249328,
+      "longitude": 72.5673622
+    },
+    "estimatedDuration": 49,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "ahmedabad_12",
+    "name": "Indroda Nature Park",
+    "description": "ahmedabad'de ziyaret edilebilecek popüler bir nokta: Indroda Nature Park.",
+    "image": "https://images.pexels.com/photos/34939180/pexels-photo-34939180.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 23.1928037,
+      "longitude": 72.6505269
+    },
+    "estimatedDuration": 59,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "ahmedabad_14",
+    "name": "Sardar Patel National Memorial",
+    "description": "ahmedabad'de bulunan önemli bir müze.",
+    "image": "https://images.pexels.com/photos/4178807/pexels-photo-4178807.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 23.0613383,
+      "longitude": 72.5911974
+    },
+    "estimatedDuration": 79,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "ahmedabad_15",
+    "name": "Hathi Singh Jain Temple",
+    "description": "ahmedabad'in tarihi ibadet yapılarından biri.",
+    "image": "https://images.pexels.com/photos/30072957/pexels-photo-30072957.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 23.04083,
+      "longitude": 72.5896633
+    },
+    "estimatedDuration": 45,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "ahmedabad_16",
+    "name": "Sidi Saiyad Mosque",
+    "description": "ahmedabad'de ziyaret edilebilecek popüler bir nokta: Sidi Saiyad Mosque.",
+    "image": "https://images.pexels.com/photos/34936327/pexels-photo-34936327.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 23.0268471,
+      "longitude": 72.5810166
+    },
+    "estimatedDuration": 56,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "ahmedabad_17",
+    "name": "Tomb of Ahmad Shah",
+    "description": "ahmedabad'de ziyaret edilebilecek popüler bir nokta: Tomb of Ahmad Shah.",
+    "image": "https://images.pexels.com/photos/15181133/pexels-photo-15181133.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 23.0237937,
+      "longitude": 72.5879246
+    },
+    "estimatedDuration": 74,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "ahmedabad_18",
+    "name": "Science City",
+    "description": "ahmedabad'de ziyaret edilebilecek popüler bir nokta: Science City.",
+    "image": "https://images.pexels.com/photos/2990645/pexels-photo-2990645.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Eğlence",
+    "coordinates": {
+      "latitude": 23.0776781,
+      "longitude": 72.494372
+    },
+    "estimatedDuration": 78,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Eğlence"
+    ]
+  },
+  {
+    "id": "ahmedabad_19",
+    "name": "Manek Burj",
+    "description": "ahmedabad'de ziyaret edilebilecek popüler bir nokta: Manek Burj.",
+    "image": "https://images.pexels.com/photos/31771216/pexels-photo-31771216.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 23.0220746,
+      "longitude": 72.5773393
+    },
+    "estimatedDuration": 35,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "ahmedabad_20",
+    "name": "Baba Lului's Mosque",
+    "description": "ahmedabad'in tarihi ibadet yapılarından biri.",
+    "image": "https://images.pexels.com/photos/34924436/pexels-photo-34924436.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 23.0088443,
+      "longitude": 72.5757865
+    },
+    "estimatedDuration": 65,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 141,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "ahmedabad_21",
+    "name": "Sabarmati Ashram",
+    "description": "ahmedabad'de ziyaret edilebilecek popüler bir nokta: Sabarmati Ashram.",
+    "image": "https://images.pexels.com/photos/18823919/pexels-photo-18823919.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 23.0601415,
+      "longitude": 72.580716
+    },
+    "estimatedDuration": 49,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "ahmedabad_22",
+    "name": "Narendra Modi Stadium",
+    "description": "ahmedabad'de ziyaret edilebilecek popüler bir nokta: Narendra Modi Stadium.",
+    "image": "https://images.pexels.com/photos/163444/sport-treadmill-tor-route-163444.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 23.0917935,
+      "longitude": 72.597333
+    },
+    "estimatedDuration": 42,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "ahmedabad_23",
+    "name": "Bhadra Fort",
+    "description": "ahmedabad'de ziyaret edilebilecek popüler bir nokta: Bhadra Fort.",
+    "image": "https://images.pexels.com/photos/34838573/pexels-photo-34838573.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 23.0239713,
+      "longitude": 72.5812005
+    },
+    "estimatedDuration": 62,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "ahmedabad_24",
+    "name": "Swaminarayan Museum",
+    "description": "ahmedabad'de bulunan önemli bir müze.",
+    "image": "https://images.pexels.com/photos/34918794/pexels-photo-34918794.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 23.0553799,
+      "longitude": 72.550718
+    },
+    "estimatedDuration": 44,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "ahmedabad_25",
+    "name": "Jama Masjid",
+    "description": "ahmedabad'in tarihi ibadet yapılarından biri.",
+    "image": "https://images.pexels.com/photos/6098022/pexels-photo-6098022.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 23.0238304,
+      "longitude": 72.586952
+    },
+    "estimatedDuration": 41,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  }
+]

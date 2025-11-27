@@ -1,0 +1,488 @@
+[
+  {
+    "id": "hyderabad_1",
+    "name": "Yellamma Temple Balkampet;Balkampet Yellamma Temple Jn",
+    "description": "hyderabad'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=0",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 17.4475911,
+      "longitude": 78.4490768
+    },
+    "estimatedDuration": 85,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 129,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "hyderabad_2",
+    "name": "State Library",
+    "description": "hyderabad'de ziyaret edilebilecek popüler bir nokta: State Library.",
+    "image": "https://picsum.photos/800/600?random=1",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 17.3741567,
+      "longitude": 78.4782198
+    },
+    "estimatedDuration": 38,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 18,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "hyderabad_3",
+    "name": "High Court of Telangana",
+    "description": "hyderabad'de ziyaret edilebilecek popüler bir nokta: High Court of Telangana.",
+    "image": "https://picsum.photos/800/600?random=2",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 17.3691653,
+      "longitude": 78.4721325
+    },
+    "estimatedDuration": 70,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "hyderabad_4",
+    "name": "Spanish Mosque",
+    "description": "hyderabad'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=3",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 17.443726,
+      "longitude": 78.4725554
+    },
+    "estimatedDuration": 65,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "hyderabad_5",
+    "name": "Sai Baba Temple",
+    "description": "hyderabad'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=4",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 17.367823,
+      "longitude": 78.527249
+    },
+    "estimatedDuration": 88,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "hyderabad_6",
+    "name": "B M Birla Science Museum",
+    "description": "hyderabad'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=5",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 17.4033125,
+      "longitude": 78.4695283
+    },
+    "estimatedDuration": 71,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "hyderabad_7",
+    "name": "Taramati Baradari",
+    "description": "hyderabad'de ziyaret edilebilecek popüler bir nokta: Taramati Baradari.",
+    "image": "https://picsum.photos/800/600?random=6",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 17.3761241,
+      "longitude": 78.3781632
+    },
+    "estimatedDuration": 65,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "hyderabad_8",
+    "name": "Lord Buddha",
+    "description": "hyderabad'de ziyaret edilebilecek popüler bir nokta: Lord Buddha.",
+    "image": "https://picsum.photos/800/600?random=7",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 17.4155839,
+      "longitude": 78.4749604
+    },
+    "estimatedDuration": 71,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "hyderabad_9",
+    "name": "Errum Manzil Palace",
+    "description": "hyderabad'in tarihine tanıklık eden bir kale.",
+    "image": "https://picsum.photos/800/600?random=8",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 17.4187559,
+      "longitude": 78.4543599
+    },
+    "estimatedDuration": 61,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 105,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "hyderabad_10",
+    "name": "Peddamma Temple",
+    "description": "hyderabad'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=9",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 17.4306035,
+      "longitude": 78.4049058
+    },
+    "estimatedDuration": 52,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 22,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "hyderabad_11",
+    "name": "Nehru Zoological Park",
+    "description": "hyderabad'de ziyaret edilebilecek popüler bir nokta: Nehru Zoological Park.",
+    "image": "https://picsum.photos/800/600?random=10",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 17.3514202,
+      "longitude": 78.4454676
+    },
+    "estimatedDuration": 44,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "hyderabad_12",
+    "name": "Durgam Cheruvu",
+    "description": "hyderabad'de ziyaret edilebilecek popüler bir nokta: Durgam Cheruvu.",
+    "image": "https://picsum.photos/800/600?random=11",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 17.4310542,
+      "longitude": 78.3899966
+    },
+    "estimatedDuration": 32,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "hyderabad_13",
+    "name": "Kasu Brahmananda Reddy National Park",
+    "description": "hyderabad'de ziyaret edilebilecek popüler bir nokta: Kasu Brahmananda Reddy National Park.",
+    "image": "https://picsum.photos/800/600?random=12",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 17.420234,
+      "longitude": 78.4200977
+    },
+    "estimatedDuration": 80,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "hyderabad_14",
+    "name": "NTR Gardens",
+    "description": "hyderabad şehrinde doğa ile iç içe bir park.",
+    "image": "https://picsum.photos/800/600?random=13",
+    "category": "Park",
+    "coordinates": {
+      "latitude": 17.4123848,
+      "longitude": 78.4681147
+    },
+    "estimatedDuration": 57,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Park"
+    ]
+  },
+  {
+    "id": "hyderabad_15",
+    "name": "Chilkur Balaji Temple",
+    "description": "hyderabad'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=14",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 17.3587759,
+      "longitude": 78.298839
+    },
+    "estimatedDuration": 63,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "hyderabad_16",
+    "name": "Charminar",
+    "description": "hyderabad'de ziyaret edilebilecek popüler bir nokta: Charminar.",
+    "image": "https://picsum.photos/800/600?random=15",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 17.361604,
+      "longitude": 78.4746394
+    },
+    "estimatedDuration": 43,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "hyderabad_17",
+    "name": "Salar Jung Museum",
+    "description": "hyderabad'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=16",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 17.3713514,
+      "longitude": 78.4805563
+    },
+    "estimatedDuration": 78,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 39,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "hyderabad_18",
+    "name": "Pahadi Shareef Dargah",
+    "description": "hyderabad'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=17",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 17.2676918,
+      "longitude": 78.4716005
+    },
+    "estimatedDuration": 67,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 12,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "hyderabad_19",
+    "name": "Hill Fort",
+    "description": "hyderabad'in tarihine tanıklık eden bir kale.",
+    "image": "https://picsum.photos/800/600?random=18",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 17.4033438,
+      "longitude": 78.4736504
+    },
+    "estimatedDuration": 74,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 84,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "hyderabad_20",
+    "name": "Saint George’s Church",
+    "description": "hyderabad'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=19",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 17.3933066,
+      "longitude": 78.4771161
+    },
+    "estimatedDuration": 42,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "hyderabad_21",
+    "name": "National Fisheries Development Board building",
+    "description": "hyderabad'de ziyaret edilebilecek popüler bir nokta: National Fisheries Development Board building.",
+    "image": "https://picsum.photos/800/600?random=20",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 17.3417119,
+      "longitude": 78.420614
+    },
+    "estimatedDuration": 71,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "hyderabad_22",
+    "name": "St Joseph's Cathedral",
+    "description": "hyderabad'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=21",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 17.3957443,
+      "longitude": 78.4774027
+    },
+    "estimatedDuration": 46,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "hyderabad_23",
+    "name": "Falaknuma Palace",
+    "description": "hyderabad'in tarihine tanıklık eden bir kale.",
+    "image": "https://picsum.photos/800/600?random=22",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 17.3318526,
+      "longitude": 78.4658564
+    },
+    "estimatedDuration": 79,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "hyderabad_24",
+    "name": "Bhagyalaxmi Temple",
+    "description": "hyderabad'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=23",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 17.3615315,
+      "longitude": 78.4748397
+    },
+    "estimatedDuration": 89,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 152,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "hyderabad_25",
+    "name": "Basilica of Our Lady of the Assumption",
+    "description": "hyderabad'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=24",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 17.4422677,
+      "longitude": 78.5022096
+    },
+    "estimatedDuration": 61,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "hyderabad_26",
+    "name": "Hussain Sagar",
+    "description": "hyderabad'de ziyaret edilebilecek popüler bir nokta: Hussain Sagar.",
+    "image": "https://picsum.photos/800/600?random=25",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 17.4229769,
+      "longitude": 78.4745517
+    },
+    "estimatedDuration": 35,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "hyderabad_27",
+    "name": "Golconda Fort",
+    "description": "hyderabad'de ziyaret edilebilecek popüler bir nokta: Golconda Fort.",
+    "image": "https://picsum.photos/800/600?random=26",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 17.3834039,
+      "longitude": 78.4009952
+    },
+    "estimatedDuration": 83,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  }
+]

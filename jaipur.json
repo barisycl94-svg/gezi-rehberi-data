@@ -1,0 +1,110 @@
+[
+  {
+    "id": "jaipur_1",
+    "name": "Hawa Mahal",
+    "description": "jaipur'de ziyaret edilebilecek popüler bir nokta: Hawa Mahal.",
+    "image": "https://picsum.photos/800/600?random=0",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 26.923932,
+      "longitude": 75.8268652
+    },
+    "estimatedDuration": 31,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "jaipur_2",
+    "name": "Amer Fort",
+    "description": "jaipur'de ziyaret edilebilecek popüler bir nokta: Amer Fort.",
+    "image": "https://images.pexels.com/photos/29231351/pexels-photo-29231351.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 26.9863104,
+      "longitude": 75.8506607
+    },
+    "estimatedDuration": 83,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "jaipur_3",
+    "name": "Neota Dam",
+    "description": "jaipur'de ziyaret edilebilecek popüler bir nokta: Neota Dam.",
+    "image": "https://picsum.photos/800/600?random=2",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 26.8039663,
+      "longitude": 75.6811564
+    },
+    "estimatedDuration": 82,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 23,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "jaipur_4",
+    "name": "Jal Mahal",
+    "description": "jaipur'in tarihine tanıklık eden bir kale.",
+    "image": "https://picsum.photos/800/600?random=3",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 26.9534274,
+      "longitude": 75.8461475
+    },
+    "estimatedDuration": 31,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "jaipur_5",
+    "name": "City Palace",
+    "description": "jaipur'in tarihine tanıklık eden bir kale.",
+    "image": "https://picsum.photos/800/600?random=4",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 26.9262372,
+      "longitude": 75.8238122
+    },
+    "estimatedDuration": 52,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "jaipur_6",
+    "name": "Sisodiya Rani Bagh",
+    "description": "jaipur'in tarihine tanıklık eden bir kale.",
+    "image": "https://images.pexels.com/photos/34413203/pexels-photo-34413203.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 26.8993536,
+      "longitude": 75.8587376
+    },
+    "estimatedDuration": 31,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "id": "riga_1",
+    "name": "Marion Steam Shovel",
+    "description": "riga'de ziyaret edilebilecek popüler bir nokta: Marion Steam Shovel.",
+    "image": "https://images.pexels.com/photos/12098782/pexels-photo-12098782.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 42.9925582,
+      "longitude": -77.9381174
+    },
+    "estimatedDuration": 80,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "riga_2",
+    "name": "JELL-O Gallery",
+    "description": "riga'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=1",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 42.9788536,
+      "longitude": -77.9856942
+    },
+    "estimatedDuration": 37,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "riga_3",
+    "name": "Rochester & Genesee Valley Railroad Museum",
+    "description": "riga'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=2",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 43.003469,
+      "longitude": -77.7210257
+    },
+    "estimatedDuration": 75,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "riga_4",
+    "name": "Genesee Country Village & Museum",
+    "description": "riga'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=3",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 42.9943161,
+      "longitude": -77.8822369
+    },
+    "estimatedDuration": 76,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "riga_5",
+    "name": "New York Museum of Transportation",
+    "description": "riga'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=4",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 43.0163868,
+      "longitude": -77.710017
+    },
+    "estimatedDuration": 89,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  }
+]

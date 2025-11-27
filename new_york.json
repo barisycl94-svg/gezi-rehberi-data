@@ -1,0 +1,1082 @@
+[
+  {
+    "id": "new_york_1",
+    "name": "SoHo",
+    "description": "new_york'de ziyaret edilebilecek popüler bir nokta: SoHo.",
+    "image": "https://picsum.photos/800/600?random=0",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 40.72288,
+      "longitude": -73.9987505
+    },
+    "estimatedDuration": 57,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "new_york_2",
+    "name": "South Street Seaport",
+    "description": "new_york'de ziyaret edilebilecek popüler bir nokta: South Street Seaport.",
+    "image": "https://picsum.photos/800/600?random=1",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 40.7057505,
+      "longitude": -74.0029056
+    },
+    "estimatedDuration": 82,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "new_york_3",
+    "name": "Tabernacle of Prayer",
+    "description": "new_york'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=2",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 40.7057429,
+      "longitude": -73.7945301
+    },
+    "estimatedDuration": 63,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 47,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "new_york_4",
+    "name": "Brooklyn Friends Meetinghouse",
+    "description": "new_york'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=3",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 40.6900536,
+      "longitude": -73.9894889
+    },
+    "estimatedDuration": 53,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "new_york_5",
+    "name": "Saint Bartholomew's Episcopal Church",
+    "description": "new_york'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=4",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 40.6780556,
+      "longitude": -73.9522223
+    },
+    "estimatedDuration": 52,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 45,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "new_york_6",
+    "name": "Carrere Memorial",
+    "description": "new_york'de ziyaret edilebilecek popüler bir nokta: Carrere Memorial.",
+    "image": "https://picsum.photos/800/600?random=5",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 40.7979084,
+      "longitude": -73.974426
+    },
+    "estimatedDuration": 52,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "new_york_7",
+    "name": "Richard Morris Hunt",
+    "description": "new_york'de ziyaret edilebilecek popüler bir nokta: Richard Morris Hunt.",
+    "image": "https://picsum.photos/800/600?random=6",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 40.7714555,
+      "longitude": -73.9679875
+    },
+    "estimatedDuration": 57,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "new_york_8",
+    "name": "Saint Stephen of Hungary Church",
+    "description": "new_york'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=7",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 40.7738019,
+      "longitude": -73.9505415
+    },
+    "estimatedDuration": 53,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "new_york_9",
+    "name": "Saint Francis of Assisi Church",
+    "description": "new_york'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=8",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 40.6613238,
+      "longitude": -73.9504483
+    },
+    "estimatedDuration": 55,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "new_york_10",
+    "name": "Our Lady of Mount Carmel Church",
+    "description": "new_york'in tarihi ibadet yapılarından biri.",
+    "image": "https://images.pexels.com/photos/18315564/pexels-photo-18315564.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 40.6628809,
+      "longitude": -74.117087
+    },
+    "estimatedDuration": 80,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "new_york_11",
+    "name": "Stonewall Inn",
+    "description": "new_york'de ziyaret edilebilecek popüler bir nokta: Stonewall Inn.",
+    "image": "https://picsum.photos/800/600?random=10",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 40.7338163,
+      "longitude": -74.0021613
+    },
+    "estimatedDuration": 79,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "new_york_12",
+    "name": "Times Square Church",
+    "description": "new_york'in tarihi ibadet yapılarından biri.",
+    "image": "https://images.pexels.com/photos/7245252/pexels-photo-7245252.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 40.7625429,
+      "longitude": -73.9843249
+    },
+    "estimatedDuration": 89,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "new_york_13",
+    "name": "Yeshiva University Museum",
+    "description": "new_york'de bulunan önemli bir müze.",
+    "image": "https://images.pexels.com/photos/27276242/pexels-photo-27276242.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 40.737978,
+      "longitude": -73.9938312
+    },
+    "estimatedDuration": 47,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 69,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "new_york_14",
+    "name": "Museum of the Moving Image",
+    "description": "new_york'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=13",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 40.7561949,
+      "longitude": -73.9240069
+    },
+    "estimatedDuration": 49,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "new_york_15",
+    "name": "Lower East Side Tenement Museum",
+    "description": "new_york'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=14",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 40.7187837,
+      "longitude": -73.9900266
+    },
+    "estimatedDuration": 39,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "new_york_16",
+    "name": "Postcards",
+    "description": "new_york'de ziyaret edilebilecek popüler bir nokta: Postcards.",
+    "image": "https://picsum.photos/800/600?random=15",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 40.6467854,
+      "longitude": -74.0764928
+    },
+    "estimatedDuration": 46,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 28,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "new_york_17",
+    "name": "Staten Island Museum",
+    "description": "new_york'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=16",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 40.6445211,
+      "longitude": -74.1027489
+    },
+    "estimatedDuration": 33,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "new_york_18",
+    "name": "George Washington",
+    "description": "new_york'de ziyaret edilebilecek popüler bir nokta: George Washington.",
+    "image": "https://picsum.photos/800/600?random=17",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 40.7353762,
+      "longitude": -73.990695
+    },
+    "estimatedDuration": 81,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "new_york_19",
+    "name": "Mohandas Gandhi",
+    "description": "new_york'de ziyaret edilebilecek popüler bir nokta: Mohandas Gandhi.",
+    "image": "https://picsum.photos/800/600?random=18",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 40.7355514,
+      "longitude": -73.9913248
+    },
+    "estimatedDuration": 40,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 37,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "new_york_20",
+    "name": "Assembly Hall of Jehovah's Witnesses (Stanley Theater)",
+    "description": "new_york'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=19",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 40.733259,
+      "longitude": -74.0625585
+    },
+    "estimatedDuration": 55,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "new_york_21",
+    "name": "The Sphere",
+    "description": "new_york'de ziyaret edilebilecek popüler bir nokta: The Sphere.",
+    "image": "https://picsum.photos/800/600?random=20",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 40.7104974,
+      "longitude": -74.0138892
+    },
+    "estimatedDuration": 34,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 146,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "new_york_22",
+    "name": "Burnett Memorial Fountain",
+    "description": "new_york'de ziyaret edilebilecek popüler bir nokta: Burnett Memorial Fountain.",
+    "image": "https://picsum.photos/800/600?random=21",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 40.7931582,
+      "longitude": -73.9527596
+    },
+    "estimatedDuration": 49,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "new_york_23",
+    "name": "Amiable Child Memorial",
+    "description": "new_york'de ziyaret edilebilecek popüler bir nokta: Amiable Child Memorial.",
+    "image": "https://picsum.photos/800/600?random=22",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 40.8148085,
+      "longitude": -73.9631689
+    },
+    "estimatedDuration": 69,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 183,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "new_york_24",
+    "name": "New York Vietnam Veterans Memorial",
+    "description": "new_york'de ziyaret edilebilecek popüler bir nokta: New York Vietnam Veterans Memorial.",
+    "image": "https://picsum.photos/800/600?random=23",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 40.702664,
+      "longitude": -74.0098054
+    },
+    "estimatedDuration": 69,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "new_york_25",
+    "name": "General Worth Monument",
+    "description": "new_york'de ziyaret edilebilecek popüler bir nokta: General Worth Monument.",
+    "image": "https://picsum.photos/800/600?random=24",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 40.7427549,
+      "longitude": -73.9889671
+    },
+    "estimatedDuration": 40,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "new_york_26",
+    "name": "Abraham Lincoln",
+    "description": "new_york'de ziyaret edilebilecek popüler bir nokta: Abraham Lincoln.",
+    "image": "https://picsum.photos/800/600?random=25",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 40.7362448,
+      "longitude": -73.9900668
+    },
+    "estimatedDuration": 36,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 44,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "new_york_27",
+    "name": "Marquis de Lafayette",
+    "description": "new_york'de ziyaret edilebilecek popüler bir nokta: Marquis de Lafayette.",
+    "image": "https://picsum.photos/800/600?random=26",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 40.7356902,
+      "longitude": -73.9899886
+    },
+    "estimatedDuration": 81,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "new_york_28",
+    "name": "José Bonifácio de Andrada e Silva",
+    "description": "new_york'de ziyaret edilebilecek popüler bir nokta: José Bonifácio de Andrada e Silva.",
+    "image": "https://picsum.photos/800/600?random=27",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 40.753725,
+      "longitude": -73.9846746
+    },
+    "estimatedDuration": 85,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "new_york_29",
+    "name": "William Earl Dodge",
+    "description": "new_york'de ziyaret edilebilecek popüler bir nokta: William Earl Dodge.",
+    "image": "https://picsum.photos/800/600?random=28",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 40.7540704,
+      "longitude": -73.983093
+    },
+    "estimatedDuration": 40,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "new_york_30",
+    "name": "Johann Wolfgang von Goethe",
+    "description": "new_york'de ziyaret edilebilecek popüler bir nokta: Johann Wolfgang von Goethe.",
+    "image": "https://picsum.photos/800/600?random=29",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 40.7532191,
+      "longitude": -73.9837314
+    },
+    "estimatedDuration": 85,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "new_york_31",
+    "name": "Gertrude Stein",
+    "description": "new_york'de ziyaret edilebilecek popüler bir nokta: Gertrude Stein.",
+    "image": "https://picsum.photos/800/600?random=30",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 40.7532779,
+      "longitude": -73.9831572
+    },
+    "estimatedDuration": 33,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "new_york_32",
+    "name": "Triumph of the Human Spirit",
+    "description": "new_york'de ziyaret edilebilecek popüler bir nokta: Triumph of the Human Spirit.",
+    "image": "https://picsum.photos/800/600?random=31",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 40.7144385,
+      "longitude": -74.0028881
+    },
+    "estimatedDuration": 74,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 35,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "new_york_33",
+    "name": "Empty Sky",
+    "description": "new_york'de ziyaret edilebilecek popüler bir nokta: Empty Sky.",
+    "image": "https://picsum.photos/800/600?random=32",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 40.7082642,
+      "longitude": -74.0349279
+    },
+    "estimatedDuration": 42,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 194,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "new_york_34",
+    "name": "Museum of American Finance",
+    "description": "new_york'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=33",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 40.706371,
+      "longitude": -74.009196
+    },
+    "estimatedDuration": 55,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "new_york_35",
+    "name": "Rubin Museum of Art",
+    "description": "new_york'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=34",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 40.7400959,
+      "longitude": -73.9977377
+    },
+    "estimatedDuration": 77,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 95,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "new_york_36",
+    "name": "Harriet Tubman Memorial",
+    "description": "new_york'de ziyaret edilebilecek popüler bir nokta: Harriet Tubman Memorial.",
+    "image": "https://picsum.photos/800/600?random=35",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 40.8081791,
+      "longitude": -73.9527882
+    },
+    "estimatedDuration": 44,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "new_york_37",
+    "name": "Colgate Clock",
+    "description": "new_york'de ziyaret edilebilecek popüler bir nokta: Colgate Clock.",
+    "image": "https://picsum.photos/800/600?random=36",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 40.7120205,
+      "longitude": -74.033915
+    },
+    "estimatedDuration": 44,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "new_york_38",
+    "name": "The Yankees Museum",
+    "description": "new_york'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=37",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 40.8285709,
+      "longitude": -73.9258934
+    },
+    "estimatedDuration": 61,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "new_york_39",
+    "name": "Katyn Memorial",
+    "description": "new_york'de ziyaret edilebilecek popüler bir nokta: Katyn Memorial.",
+    "image": "https://picsum.photos/800/600?random=38",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 40.7162603,
+      "longitude": -74.0329822
+    },
+    "estimatedDuration": 37,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "new_york_40",
+    "name": "Firemen's Monument",
+    "description": "new_york'de ziyaret edilebilecek popüler bir nokta: Firemen's Monument.",
+    "image": "https://picsum.photos/800/600?random=39",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 40.7423002,
+      "longitude": -74.0327576
+    },
+    "estimatedDuration": 63,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 38,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "new_york_41",
+    "name": "Balto",
+    "description": "new_york'de ziyaret edilebilecek popüler bir nokta: Balto.",
+    "image": "https://picsum.photos/800/600?random=40",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 40.7699607,
+      "longitude": -73.9710098
+    },
+    "estimatedDuration": 73,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "new_york_42",
+    "name": "107th Infantry Memorial",
+    "description": "new_york'de ziyaret edilebilecek popüler bir nokta: 107th Infantry Memorial.",
+    "image": "https://picsum.photos/800/600?random=41",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 40.7693306,
+      "longitude": -73.969557
+    },
+    "estimatedDuration": 55,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 108,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "new_york_43",
+    "name": "Skyscraper Museum",
+    "description": "new_york'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=42",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 40.70575,
+      "longitude": -74.017691
+    },
+    "estimatedDuration": 48,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "new_york_44",
+    "name": "Westinghouse Time Capsules",
+    "description": "new_york'de ziyaret edilebilecek popüler bir nokta: Westinghouse Time Capsules.",
+    "image": "https://picsum.photos/800/600?random=43",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 40.7429101,
+      "longitude": -73.845096
+    },
+    "estimatedDuration": 81,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 23,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "new_york_45",
+    "name": "John F. Kennedy Memorial",
+    "description": "new_york'de ziyaret edilebilecek popüler bir nokta: John F. Kennedy Memorial.",
+    "image": "https://picsum.photos/800/600?random=44",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 40.6742639,
+      "longitude": -73.9701683
+    },
+    "estimatedDuration": 82,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 25,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "new_york_46",
+    "name": "General Henry Warner Slocum",
+    "description": "new_york'de ziyaret edilebilecek popüler bir nokta: General Henry Warner Slocum.",
+    "image": "https://picsum.photos/800/600?random=45",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 40.6734335,
+      "longitude": -73.9691163
+    },
+    "estimatedDuration": 70,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "new_york_47",
+    "name": "Hare Krishna Temple",
+    "description": "new_york'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=46",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 40.7244764,
+      "longitude": -73.9904429
+    },
+    "estimatedDuration": 55,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 190,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "new_york_48",
+    "name": "America's Response Monument",
+    "description": "new_york'de ziyaret edilebilecek popüler bir nokta: America's Response Monument.",
+    "image": "https://picsum.photos/800/600?random=47",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 40.7104591,
+      "longitude": -74.0140533
+    },
+    "estimatedDuration": 39,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 65,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "new_york_49",
+    "name": "Sled dogs memorial plaque",
+    "description": "new_york'de ziyaret edilebilecek popüler bir nokta: Sled dogs memorial plaque.",
+    "image": "https://picsum.photos/800/600?random=48",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 40.7699908,
+      "longitude": -73.9710028
+    },
+    "estimatedDuration": 40,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "new_york_50",
+    "name": "American Folk Art Museum",
+    "description": "new_york'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=49",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 40.7732296,
+      "longitude": -73.9815958
+    },
+    "estimatedDuration": 59,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "new_york_51",
+    "name": "Giuseppe Verdi Monument",
+    "description": "new_york'de ziyaret edilebilecek popüler bir nokta: Giuseppe Verdi Monument.",
+    "image": "https://picsum.photos/800/600?random=50",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 40.7792167,
+      "longitude": -73.9814856
+    },
+    "estimatedDuration": 78,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "new_york_52",
+    "name": "Delacorte Musical Clock",
+    "description": "new_york'de ziyaret edilebilecek popüler bir nokta: Delacorte Musical Clock.",
+    "image": "https://picsum.photos/800/600?random=51",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 40.7681147,
+      "longitude": -73.9711748
+    },
+    "estimatedDuration": 81,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "new_york_53",
+    "name": "Staten Island Children’s Museum",
+    "description": "new_york'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=52",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 40.6427113,
+      "longitude": -74.1018927
+    },
+    "estimatedDuration": 47,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 118,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "new_york_54",
+    "name": "Marquis de Lafayette Monument",
+    "description": "new_york'de ziyaret edilebilecek popüler bir nokta: Marquis de Lafayette Monument.",
+    "image": "https://picsum.photos/800/600?random=53",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 40.6644754,
+      "longitude": -73.9765845
+    },
+    "estimatedDuration": 46,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "new_york_55",
+    "name": "Le Carrousel",
+    "description": "new_york'de ziyaret edilebilecek popüler bir nokta: Le Carrousel.",
+    "image": "https://picsum.photos/800/600?random=54",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 40.7534287,
+      "longitude": -73.9838795
+    },
+    "estimatedDuration": 53,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "new_york_56",
+    "name": "Wonder Wheel",
+    "description": "new_york'de ziyaret edilebilecek popüler bir nokta: Wonder Wheel.",
+    "image": "https://picsum.photos/800/600?random=55",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 40.5740414,
+      "longitude": -73.979145
+    },
+    "estimatedDuration": 74,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 104,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "new_york_57",
+    "name": "Museum of Sex",
+    "description": "new_york'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=56",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 40.7440374,
+      "longitude": -73.9873576
+    },
+    "estimatedDuration": 56,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 36,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "new_york_58",
+    "name": "Whisper Bench",
+    "description": "new_york'de ziyaret edilebilecek popüler bir nokta: Whisper Bench.",
+    "image": "https://picsum.photos/800/600?random=57",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 40.7798691,
+      "longitude": -73.9696485
+    },
+    "estimatedDuration": 85,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "new_york_59",
+    "name": "Liz Christy Garden",
+    "description": "new_york'de ziyaret edilebilecek popüler bir nokta: Liz Christy Garden.",
+    "image": "https://picsum.photos/800/600?random=58",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 40.724241,
+      "longitude": -73.9921517
+    },
+    "estimatedDuration": 77,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "new_york_60",
+    "name": "Colonnade row",
+    "description": "new_york'de ziyaret edilebilecek popüler bir nokta: Colonnade row.",
+    "image": "https://picsum.photos/800/600?random=59",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 40.72928,
+      "longitude": -73.9924535
+    },
+    "estimatedDuration": 32,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  }
+]

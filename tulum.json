@@ -1,0 +1,326 @@
+[
+  {
+    "id": "tulum_1",
+    "name": "Zona Arqueológica Xel Há",
+    "description": "tulum'de ziyaret edilebilecek popüler bir nokta: Zona Arqueológica Xel Há.",
+    "image": "https://picsum.photos/800/600?random=0",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 20.3218703,
+      "longitude": -87.3691127
+    },
+    "estimatedDuration": 87,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "tulum_2",
+    "name": "Zona Arqueológica de Tulum",
+    "description": "tulum'de ziyaret edilebilecek popüler bir nokta: Zona Arqueológica de Tulum.",
+    "image": "https://picsum.photos/800/600?random=1",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 20.2146774,
+      "longitude": -87.4293745
+    },
+    "estimatedDuration": 53,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "tulum_3",
+    "name": "Xel-Há",
+    "description": "tulum'de ziyaret edilebilecek popüler bir nokta: Xel-Há.",
+    "image": "https://picsum.photos/800/600?random=2",
+    "category": "Eğlence",
+    "coordinates": {
+      "latitude": 20.3179297,
+      "longitude": -87.3587918
+    },
+    "estimatedDuration": 87,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Eğlence"
+    ]
+  },
+  {
+    "id": "tulum_4",
+    "name": "Grand Cenote",
+    "description": "tulum'de ziyaret edilebilecek popüler bir nokta: Grand Cenote.",
+    "image": "https://picsum.photos/800/600?random=3",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 20.2465584,
+      "longitude": -87.4641049
+    },
+    "estimatedDuration": 56,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 49,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "tulum_5",
+    "name": "Angelita",
+    "description": "tulum'de ziyaret edilebilecek popüler bir nokta: Bilinmeyen Yer.",
+    "image": "https://images.pexels.com/photos/31337089/pexels-photo-31337089.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 20.1624968,
+      "longitude": -87.55403
+    },
+    "estimatedDuration": 59,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 65,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "tulum_6",
+    "name": "Pancho Villa",
+    "description": "tulum'de ziyaret edilebilecek popüler bir nokta: Pancho Villa.",
+    "image": "https://picsum.photos/800/600?random=5",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 20.2035375,
+      "longitude": -87.4313249
+    },
+    "estimatedDuration": 42,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "tulum_7",
+    "name": "Pirámide del Pensamiento",
+    "description": "tulum'de ziyaret edilebilecek popüler bir nokta: Pirámide del Pensamiento.",
+    "image": "https://picsum.photos/800/600?random=6",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 20.1977108,
+      "longitude": -87.4609545
+    },
+    "estimatedDuration": 60,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 111,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "tulum_8",
+    "name": "Sac Actun Cenote",
+    "description": "tulum'de ziyaret edilebilecek popüler bir nokta: Sac Actun Cenote.",
+    "image": "https://picsum.photos/800/600?random=7",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 20.3176363,
+      "longitude": -87.4103136
+    },
+    "estimatedDuration": 55,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 94,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "tulum_9",
+    "name": "Diving Cenotes dive center",
+    "description": "tulum'de ziyaret edilebilecek popüler bir nokta: Diving Cenotes dive center.",
+    "image": "https://images.pexels.com/photos/2105937/pexels-photo-2105937.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 20.2105257,
+      "longitude": -87.4673467
+    },
+    "estimatedDuration": 35,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 12,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "tulum_10",
+    "name": "Cenote Zacil-ha",
+    "description": "tulum'de ziyaret edilebilecek popüler bir nokta: Cenote Zacil-ha.",
+    "image": "https://picsum.photos/800/600?random=9",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 20.2744096,
+      "longitude": -87.4883095
+    },
+    "estimatedDuration": 68,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "tulum_11",
+    "name": "Cenote Cristal",
+    "description": "tulum'de ziyaret edilebilecek popüler bir nokta: Cenote Cristal.",
+    "image": "https://picsum.photos/800/600?random=10",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 20.200314,
+      "longitude": -87.5006004
+    },
+    "estimatedDuration": 80,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "tulum_12",
+    "name": "Carlos",
+    "description": "tulum'de ziyaret edilebilecek popüler bir nokta: Carlos.",
+    "image": "https://picsum.photos/800/600?random=11",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 20.2086506,
+      "longitude": -87.4566123
+    },
+    "estimatedDuration": 87,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 139,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "tulum_13",
+    "name": "Cenote Angelita",
+    "description": "tulum'de ziyaret edilebilecek popüler bir nokta: Bilinmeyen Yer.",
+    "image": "https://picsum.photos/800/600?random=12",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 20.137461,
+      "longitude": -87.5782533
+    },
+    "estimatedDuration": 35,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "tulum_14",
+    "name": "cenote caracol",
+    "description": "tulum'de ziyaret edilebilecek popüler bir nokta: cenote caracol.",
+    "image": "https://picsum.photos/800/600?random=13",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 20.2958149,
+      "longitude": -87.414824
+    },
+    "estimatedDuration": 82,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 138,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "tulum_15",
+    "name": "Cenote Manati",
+    "description": "tulum'de ziyaret edilebilecek popüler bir nokta: Cenote Manati.",
+    "image": "https://picsum.photos/800/600?random=14",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 20.2665203,
+      "longitude": -87.3912861
+    },
+    "estimatedDuration": 36,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 56,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "tulum_16",
+    "name": "Casa Cenote",
+    "description": "tulum'de ziyaret edilebilecek popüler bir nokta: Casa Cenote.",
+    "image": "https://picsum.photos/800/600?random=15",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 20.26665,
+      "longitude": -87.3915786
+    },
+    "estimatedDuration": 63,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "tulum_17",
+    "name": "Beach",
+    "description": "tulum'de ziyaret edilebilecek popüler bir nokta: Beach.",
+    "image": "https://picsum.photos/800/600?random=16",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 20.0776025,
+      "longitude": -87.4784164
+    },
+    "estimatedDuration": 41,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "tulum_18",
+    "name": "Cenote Taak Bi Ha",
+    "description": "tulum'de ziyaret edilebilecek popüler bir nokta: Cenote Taak Bi Ha.",
+    "image": "https://picsum.photos/800/600?random=17",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 20.3246932,
+      "longitude": -87.3935386
+    },
+    "estimatedDuration": 37,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  }
+]

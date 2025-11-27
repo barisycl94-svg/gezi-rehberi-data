@@ -1,0 +1,1082 @@
+[
+  {
+    "id": "algiers_1",
+    "name": "Barbaros Hayrettin Türbesi",
+    "description": "algiers'de ziyaret edilebilecek popüler bir nokta: Barbaros Hayrettin Türbesi.",
+    "image": "https://images.pexels.com/photos/17165214/pexels-photo-17165214.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.0419227,
+      "longitude": 29.0068359
+    },
+    "estimatedDuration": 58,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 153,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "algiers_2",
+    "name": "Surp Garabed Kilisesi",
+    "description": "algiers'in tarihi ibadet yapılarından biri.",
+    "image": "https://images.pexels.com/photos/8719057/pexels-photo-8719057.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.0209212,
+      "longitude": 29.031366
+    },
+    "estimatedDuration": 62,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "algiers_3",
+    "name": "Yılanlı Sütun",
+    "description": "algiers'de ziyaret edilebilecek popüler bir nokta: Yılanlı Sütun.",
+    "image": "https://images.pexels.com/photos/32574212/pexels-photo-32574212.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.0056649,
+      "longitude": 28.9751101
+    },
+    "estimatedDuration": 54,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "algiers_4",
+    "name": "Sabancı Üniversitesi Sakıp Sabancı Müzesi",
+    "description": "algiers'de bulunan önemli bir müze.",
+    "image": "https://images.pexels.com/photos/33198923/pexels-photo-33198923.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 41.106019,
+      "longitude": 29.0556289
+    },
+    "estimatedDuration": 65,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "algiers_5",
+    "name": "Çemberlitaş Hamamı",
+    "description": "algiers'de ziyaret edilebilecek popüler bir nokta: Çemberlitaş Hamamı.",
+    "image": "https://images.pexels.com/photos/17661486/pexels-photo-17661486.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.0085416,
+      "longitude": 28.9716244
+    },
+    "estimatedDuration": 38,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "algiers_6",
+    "name": "Neve Şalom Sinagogu",
+    "description": "algiers'in tarihi ibadet yapılarından biri.",
+    "image": "https://images.pexels.com/photos/32156001/pexels-photo-32156001.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.0266963,
+      "longitude": 28.9724737
+    },
+    "estimatedDuration": 85,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "algiers_7",
+    "name": "Fatih Mescidi",
+    "description": "algiers'in tarihi ibadet yapılarından biri.",
+    "image": "https://images.pexels.com/photos/1209774/pexels-photo-1209774.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.0044905,
+      "longitude": 28.8526953
+    },
+    "estimatedDuration": 50,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 100,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "algiers_8",
+    "name": "Havacılık Müzesi",
+    "description": "algiers'de bulunan önemli bir müze.",
+    "image": "https://images.pexels.com/photos/32380836/pexels-photo-32380836.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 40.9641579,
+      "longitude": 28.8262655
+    },
+    "estimatedDuration": 87,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "algiers_9",
+    "name": "Askerî Müze",
+    "description": "algiers'de bulunan önemli bir müze.",
+    "image": "https://images.pexels.com/photos/30515580/pexels-photo-30515580.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 41.0488755,
+      "longitude": 28.9882427
+    },
+    "estimatedDuration": 45,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 152,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "algiers_10",
+    "name": "Miniatürk Açıkhava Müzesi",
+    "description": "algiers'de bulunan önemli bir müze.",
+    "image": "https://images.pexels.com/photos/13800344/pexels-photo-13800344.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 41.059005,
+      "longitude": 28.9490675
+    },
+    "estimatedDuration": 76,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "algiers_11",
+    "name": "Hatice Turhan Sultan Türbesi",
+    "description": "algiers'de ziyaret edilebilecek popüler bir nokta: Hatice Turhan Sultan Türbesi.",
+    "image": "https://images.pexels.com/photos/33459459/pexels-photo-33459459.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.0162025,
+      "longitude": 28.9719047
+    },
+    "estimatedDuration": 73,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 6,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "algiers_12",
+    "name": "Milyon Taşı",
+    "description": "algiers'de ziyaret edilebilecek popüler bir nokta: Milyon Taşı.",
+    "image": "https://picsum.photos/800/600?random=11",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.0080674,
+      "longitude": 28.9780181
+    },
+    "estimatedDuration": 63,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "algiers_13",
+    "name": "Cumhuriyet Anıtı",
+    "description": "algiers'de ziyaret edilebilecek popüler bir nokta: Cumhuriyet Anıtı.",
+    "image": "https://images.pexels.com/photos/32472654/pexels-photo-32472654.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.0369723,
+      "longitude": 28.9851248
+    },
+    "estimatedDuration": 32,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 53,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "algiers_14",
+    "name": "2. Abdülhamit Anıtı",
+    "description": "algiers'de ziyaret edilebilecek popüler bir nokta: 2. Abdülhamit Anıtı.",
+    "image": "https://images.pexels.com/photos/34837467/pexels-photo-34837467.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.0017691,
+      "longitude": 29.0071158
+    },
+    "estimatedDuration": 69,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "algiers_15",
+    "name": "Binbirdirek Sarnıcı",
+    "description": "algiers'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=14",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 41.007606,
+      "longitude": 28.9744173
+    },
+    "estimatedDuration": 34,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "algiers_16",
+    "name": "Boğa Heykeli",
+    "description": "algiers'de ziyaret edilebilecek popüler bir nokta: Boğa Heykeli.",
+    "image": "https://picsum.photos/800/600?random=15",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 40.9904629,
+      "longitude": 29.0291571
+    },
+    "estimatedDuration": 56,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "algiers_17",
+    "name": "Kıztaşı",
+    "description": "algiers'de ziyaret edilebilecek popüler bir nokta: Kıztaşı.",
+    "image": "https://picsum.photos/800/600?random=16",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.0154411,
+      "longitude": 28.9502846
+    },
+    "estimatedDuration": 59,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 23,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "algiers_18",
+    "name": "Fatih Anıtı",
+    "description": "algiers'de ziyaret edilebilecek popüler bir nokta: Fatih Anıtı.",
+    "image": "https://images.pexels.com/photos/955937/pexels-photo-955937.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.0155727,
+      "longitude": 28.9542189
+    },
+    "estimatedDuration": 37,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "algiers_19",
+    "name": "Hava Şehitleri Anıtı",
+    "description": "algiers'de ziyaret edilebilecek popüler bir nokta: Hava Şehitleri Anıtı.",
+    "image": "https://images.pexels.com/photos/31573930/pexels-photo-31573930.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.0160748,
+      "longitude": 28.9526349
+    },
+    "estimatedDuration": 68,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 68,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "algiers_20",
+    "name": "Adam Mickiewicz Müzesi",
+    "description": "algiers'de bulunan önemli bir müze.",
+    "image": "https://images.pexels.com/photos/31267595/pexels-photo-31267595.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 41.0387821,
+      "longitude": 28.9771474
+    },
+    "estimatedDuration": 57,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 174,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "algiers_21",
+    "name": "Masumiyet Müzesi",
+    "description": "algiers'de bulunan önemli bir müze.",
+    "image": "https://images.pexels.com/photos/33753285/pexels-photo-33753285.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 41.0308716,
+      "longitude": 28.9797952
+    },
+    "estimatedDuration": 51,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "algiers_22",
+    "name": "Santa Maria Draperis",
+    "description": "algiers'in tarihi ibadet yapılarından biri.",
+    "image": "https://images.pexels.com/photos/34926562/pexels-photo-34926562.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.0300987,
+      "longitude": 28.9761517
+    },
+    "estimatedDuration": 59,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 177,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "algiers_23",
+    "name": "Galatasaray Müzesi",
+    "description": "algiers'de bulunan önemli bir müze.",
+    "image": "https://images.pexels.com/photos/27634408/pexels-photo-27634408.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 41.0334816,
+      "longitude": 28.9769398
+    },
+    "estimatedDuration": 36,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "algiers_24",
+    "name": "Anadolu Hisarı Namazgah",
+    "description": "algiers'in tarihi ibadet yapılarından biri.",
+    "image": "https://images.pexels.com/photos/31438154/pexels-photo-31438154.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.0818296,
+      "longitude": 29.0667781
+    },
+    "estimatedDuration": 54,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "algiers_25",
+    "name": "Yıldız Sarayı",
+    "description": "algiers'de ziyaret edilebilecek popüler bir nokta: Yıldız Sarayı.",
+    "image": "https://images.pexels.com/photos/7698638/pexels-photo-7698638.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.0507108,
+      "longitude": 29.0117042
+    },
+    "estimatedDuration": 69,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 11,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "algiers_26",
+    "name": "Meryem Ana Rum Manastiri",
+    "description": "algiers'in tarihi ibadet yapılarından biri.",
+    "image": "https://images.pexels.com/photos/7254755/pexels-photo-7254755.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.0067555,
+      "longitude": 28.9155212
+    },
+    "estimatedDuration": 46,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "algiers_27",
+    "name": "Kanuni Sultan Suleyman 1 Turbesi",
+    "description": "algiers'de ziyaret edilebilecek popüler bir nokta: Kanuni Sultan Suleyman 1 Turbesi.",
+    "image": "https://images.pexels.com/photos/19465283/pexels-photo-19465283.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.0156999,
+      "longitude": 28.9644663
+    },
+    "estimatedDuration": 58,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "algiers_28",
+    "name": "Hurrem Haseki (Roksolana) Turbesi",
+    "description": "algiers'de ziyaret edilebilecek popüler bir nokta: Hurrem Haseki (Roksolana) Turbesi.",
+    "image": "https://picsum.photos/800/600?random=27",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.0156683,
+      "longitude": 28.9648085
+    },
+    "estimatedDuration": 83,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "algiers_29",
+    "name": "Saat Kulesi",
+    "description": "algiers'de ziyaret edilebilecek popüler bir nokta: Saat Kulesi.",
+    "image": "https://images.pexels.com/photos/28717766/pexels-photo-28717766.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 40.8741241,
+      "longitude": 29.1286022
+    },
+    "estimatedDuration": 63,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "algiers_30",
+    "name": "Caddebostan Sinagogu",
+    "description": "algiers'in tarihi ibadet yapılarından biri.",
+    "image": "https://images.pexels.com/photos/27603822/pexels-photo-27603822.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 40.9724211,
+      "longitude": 29.0676302
+    },
+    "estimatedDuration": 63,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "algiers_31",
+    "name": "Gotlar Sütunu",
+    "description": "algiers'de ziyaret edilebilecek popüler bir nokta: Gotlar Sütunu.",
+    "image": "https://picsum.photos/800/600?random=30",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.0146409,
+      "longitude": 28.9856774
+    },
+    "estimatedDuration": 64,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "algiers_32",
+    "name": "Aziz Meryem",
+    "description": "algiers'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=31",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.1603501,
+      "longitude": 29.0417196
+    },
+    "estimatedDuration": 33,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "algiers_33",
+    "name": "Dogançay Müzesi",
+    "description": "algiers'de bulunan önemli bir müze.",
+    "image": "https://images.pexels.com/photos/12399680/pexels-photo-12399680.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 41.0357703,
+      "longitude": 28.9783705
+    },
+    "estimatedDuration": 80,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "algiers_34",
+    "name": "Turkuazoo",
+    "description": "algiers'de ziyaret edilebilecek popüler bir nokta: Turkuazoo.",
+    "image": "https://picsum.photos/800/600?random=33",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.0455958,
+      "longitude": 28.896211
+    },
+    "estimatedDuration": 89,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 50,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "algiers_35",
+    "name": "Ayios Polieuktos Kilisesi",
+    "description": "algiers'de ziyaret edilebilecek popüler bir nokta: Ayios Polieuktos Kilisesi.",
+    "image": "https://images.pexels.com/photos/15798553/pexels-photo-15798553.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.0142319,
+      "longitude": 28.9529591
+    },
+    "estimatedDuration": 73,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "algiers_36",
+    "name": "Rezan Has Museum",
+    "description": "algiers'de bulunan önemli bir müze.",
+    "image": "https://images.pexels.com/photos/34893322/pexels-photo-34893322.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 41.0252799,
+      "longitude": 28.9584325
+    },
+    "estimatedDuration": 73,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "algiers_37",
+    "name": "Panayia Belgradu Kilisesi",
+    "description": "algiers'in tarihi ibadet yapılarından biri.",
+    "image": "https://images.pexels.com/photos/14061741/pexels-photo-14061741.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.0001135,
+      "longitude": 28.9219792
+    },
+    "estimatedDuration": 73,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "algiers_38",
+    "name": "Samatya Aya Analipsiz Kilisesi",
+    "description": "algiers'in tarihi ibadet yapılarından biri.",
+    "image": "https://images.pexels.com/photos/9288838/pexels-photo-9288838.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 40.9990416,
+      "longitude": 28.9315881
+    },
+    "estimatedDuration": 61,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "algiers_39",
+    "name": "İstanbul Demiryolu Müzesi",
+    "description": "algiers'de bulunan önemli bir müze.",
+    "image": "https://images.pexels.com/photos/14881780/pexels-photo-14881780.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 41.0151986,
+      "longitude": 28.9766826
+    },
+    "estimatedDuration": 84,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "algiers_40",
+    "name": "Beyazıt Türk Hamam Kültürü Müzesi",
+    "description": "algiers'de bulunan önemli bir müze.",
+    "image": "https://images.pexels.com/photos/32909346/pexels-photo-32909346.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 41.0099458,
+      "longitude": 28.9615545
+    },
+    "estimatedDuration": 58,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "algiers_41",
+    "name": "Kasturya Sinagogu",
+    "description": "algiers'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=40",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.0342139,
+      "longitude": 28.9414755
+    },
+    "estimatedDuration": 56,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 143,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "algiers_42",
+    "name": "Türk ve İslam Eserleri Müzesi",
+    "description": "algiers'de bulunan önemli bir müze.",
+    "image": "https://images.pexels.com/photos/15623239/pexels-photo-15623239.png?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 41.0062801,
+      "longitude": 28.974915
+    },
+    "estimatedDuration": 82,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "algiers_43",
+    "name": "İslam bilim ve teknoloji tarihi müzesi",
+    "description": "algiers'de bulunan önemli bir müze.",
+    "image": "https://images.pexels.com/photos/5211573/pexels-photo-5211573.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 41.0132188,
+      "longitude": 28.9789678
+    },
+    "estimatedDuration": 76,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "algiers_44",
+    "name": "Türk Vakıf Hat Sanatları Müzesi",
+    "description": "algiers'de bulunan önemli bir müze.",
+    "image": "https://images.pexels.com/photos/34931948/pexels-photo-34931948.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 41.01005,
+      "longitude": 28.9631808
+    },
+    "estimatedDuration": 48,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "algiers_45",
+    "name": "Abdulmecit Efendi Köşkü",
+    "description": "algiers'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=44",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 41.0282408,
+      "longitude": 29.0415462
+    },
+    "estimatedDuration": 80,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "algiers_46",
+    "name": "Mehmet Efendi Çeşmesi",
+    "description": "algiers'de ziyaret edilebilecek popüler bir nokta: Mehmet Efendi Çeşmesi.",
+    "image": "https://images.pexels.com/photos/13921122/pexels-photo-13921122.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.0031805,
+      "longitude": 28.9720795
+    },
+    "estimatedDuration": 66,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 183,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "algiers_47",
+    "name": "Türkiye Gazeteciler Cemiyeti Basın Müzesi",
+    "description": "algiers'de bulunan önemli bir müze.",
+    "image": "https://images.pexels.com/photos/34936872/pexels-photo-34936872.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 41.0085619,
+      "longitude": 28.9722162
+    },
+    "estimatedDuration": 33,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "algiers_48",
+    "name": "Sarayburnu Atatürk Anıtı",
+    "description": "algiers'de ziyaret edilebilecek popüler bir nokta: Sarayburnu Atatürk Anıtı.",
+    "image": "https://images.pexels.com/photos/31411064/pexels-photo-31411064.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.016263,
+      "longitude": 28.9861325
+    },
+    "estimatedDuration": 86,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "algiers_49",
+    "name": "500. Yıl Vakfı Türk Musevileri Müzesi",
+    "description": "algiers'de bulunan önemli bir müze.",
+    "image": "https://images.pexels.com/photos/27686402/pexels-photo-27686402.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 41.0267866,
+      "longitude": 28.9727283
+    },
+    "estimatedDuration": 78,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 184,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "algiers_50",
+    "name": "Surp Pırgiç Kilisesi",
+    "description": "algiers'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=49",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.0245024,
+      "longitude": 28.9760077
+    },
+    "estimatedDuration": 40,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "algiers_51",
+    "name": "Surp Kevork Kilisesi",
+    "description": "algiers'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=50",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.0018646,
+      "longitude": 28.9331468
+    },
+    "estimatedDuration": 46,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "algiers_52",
+    "name": "Surp Hagop Kilisesi",
+    "description": "algiers'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=51",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.0081065,
+      "longitude": 28.9347471
+    },
+    "estimatedDuration": 69,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "algiers_53",
+    "name": "Surp Yerits Mangants Kilisesi",
+    "description": "algiers'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=52",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.1023462,
+      "longitude": 29.051159
+    },
+    "estimatedDuration": 69,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "algiers_54",
+    "name": "Surp Asdvadzadzin Kilisesi",
+    "description": "algiers'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=53",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.0445539,
+      "longitude": 29.0053046
+    },
+    "estimatedDuration": 78,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "algiers_55",
+    "name": "Çiçek Pasajı",
+    "description": "algiers'de ziyaret edilebilecek popüler bir nokta: Çiçek Pasajı.",
+    "image": "https://images.pexels.com/photos/33827984/pexels-photo-33827984.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.0340997,
+      "longitude": 28.9779211
+    },
+    "estimatedDuration": 84,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "algiers_56",
+    "name": "İstanbul Modern Sanat Müzesi",
+    "description": "algiers'de bulunan önemli bir müze.",
+    "image": "https://images.pexels.com/photos/34872428/pexels-photo-34872428.png?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 41.025911,
+      "longitude": 28.982812
+    },
+    "estimatedDuration": 66,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "algiers_57",
+    "name": "Aziz Yahya Kilisesi",
+    "description": "algiers'in tarihi ibadet yapılarından biri.",
+    "image": "https://images.pexels.com/photos/6332297/pexels-photo-6332297.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.0252215,
+      "longitude": 28.9781298
+    },
+    "estimatedDuration": 72,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "algiers_58",
+    "name": "İtalyan Sinagogu",
+    "description": "algiers'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=57",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.025424,
+      "longitude": 28.9725458
+    },
+    "estimatedDuration": 34,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 139,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "algiers_59",
+    "name": "Prison of Anemas",
+    "description": "algiers'de ziyaret edilebilecek popüler bir nokta: Prison of Anemas.",
+    "image": "https://images.pexels.com/photos/17727357/pexels-photo-17727357.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.038414,
+      "longitude": 28.9407981
+    },
+    "estimatedDuration": 52,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 32,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "algiers_60",
+    "name": "Surp Vartanans",
+    "description": "algiers'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=59",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.0536475,
+      "longitude": 28.981291
+    },
+    "estimatedDuration": 88,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  }
+]

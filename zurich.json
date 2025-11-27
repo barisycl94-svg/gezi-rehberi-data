@@ -1,0 +1,1082 @@
+[
+  {
+    "id": "zurich_1",
+    "name": "Aussichtsturm Pfannenstiel (Alter Bachtelturm)",
+    "description": "zurich'de ziyaret edilebilecek popüler bir nokta: Aussichtsturm Pfannenstiel (Alter Bachtelturm).",
+    "image": "https://images.pexels.com/photos/3738075/pexels-photo-3738075.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 47.2907129,
+      "longitude": 8.6733614
+    },
+    "estimatedDuration": 73,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "zurich_2",
+    "name": "Museum für Gestaltung",
+    "description": "zurich'de bulunan önemli bir müze.",
+    "image": "https://images.pexels.com/photos/9269374/pexels-photo-9269374.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 47.3829824,
+      "longitude": 8.5357988
+    },
+    "estimatedDuration": 78,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "zurich_3",
+    "name": "Forchdenkmal",
+    "description": "zurich'de ziyaret edilebilecek popüler bir nokta: Forchdenkmal.",
+    "image": "https://picsum.photos/800/600?random=2",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 47.3284081,
+      "longitude": 8.6470096
+    },
+    "estimatedDuration": 69,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "zurich_4",
+    "name": "Uhrensammlung Kellenberger",
+    "description": "zurich'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=3",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 47.4990686,
+      "longitude": 8.7295379
+    },
+    "estimatedDuration": 72,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "zurich_5",
+    "name": "Chöpfi",
+    "description": "zurich'de ziyaret edilebilecek popüler bir nokta: Chöpfi.",
+    "image": "https://picsum.photos/800/600?random=4",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 47.5166125,
+      "longitude": 8.7002865
+    },
+    "estimatedDuration": 44,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "zurich_6",
+    "name": "Schreibmaschinenmuseum Beck",
+    "description": "zurich'de bulunan önemli bir müze.",
+    "image": "https://images.pexels.com/photos/31599208/pexels-photo-31599208.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 47.3708015,
+      "longitude": 8.770814
+    },
+    "estimatedDuration": 74,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "zurich_7",
+    "name": "Zivilschutzmuseum",
+    "description": "zurich'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=6",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 47.3919593,
+      "longitude": 8.5269784
+    },
+    "estimatedDuration": 38,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "zurich_8",
+    "name": "Alfred Escher-Statue",
+    "description": "zurich'de ziyaret edilebilecek popüler bir nokta: Alfred Escher-Statue.",
+    "image": "https://images.pexels.com/photos/34941092/pexels-photo-34941092.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 47.3771287,
+      "longitude": 8.5399549
+    },
+    "estimatedDuration": 86,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "zurich_9",
+    "name": "Karlsturm",
+    "description": "zurich'de ziyaret edilebilecek popüler bir nokta: Karlsturm.",
+    "image": "https://picsum.photos/800/600?random=8",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 47.3701486,
+      "longitude": 8.5436792
+    },
+    "estimatedDuration": 35,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 183,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "zurich_10",
+    "name": "Kraftwerk Bruggmühle",
+    "description": "zurich'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=9",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 47.3499685,
+      "longitude": 8.3399295
+    },
+    "estimatedDuration": 75,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "zurich_11",
+    "name": "Ruine Glanzenberg",
+    "description": "zurich'de ziyaret edilebilecek popüler bir nokta: Ruine Glanzenberg.",
+    "image": "https://images.pexels.com/photos/34777385/pexels-photo-34777385.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 47.4020377,
+      "longitude": 8.4221378
+    },
+    "estimatedDuration": 88,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "zurich_12",
+    "name": "Erdmannlistein",
+    "description": "zurich'de ziyaret edilebilecek popüler bir nokta: Erdmannlistein.",
+    "image": "https://picsum.photos/800/600?random=11",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 47.3474841,
+      "longitude": 8.3144491
+    },
+    "estimatedDuration": 61,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "zurich_13",
+    "name": "Museum Rietberg",
+    "description": "zurich'de bulunan önemli bir müze.",
+    "image": "https://images.pexels.com/photos/34939915/pexels-photo-34939915.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 47.3589183,
+      "longitude": 8.5297352
+    },
+    "estimatedDuration": 33,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 117,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "zurich_14",
+    "name": "Uhrenmuseum Beyer Zürich",
+    "description": "zurich'de bulunan önemli bir müze.",
+    "image": "https://images.pexels.com/photos/2570389/pexels-photo-2570389.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 47.3709245,
+      "longitude": 8.5385422
+    },
+    "estimatedDuration": 76,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "zurich_15",
+    "name": "Kunsthalle Winterthur",
+    "description": "zurich'de bulunan önemli bir müze.",
+    "image": "https://images.pexels.com/photos/10489628/pexels-photo-10489628.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 47.4995507,
+      "longitude": 8.7290261
+    },
+    "estimatedDuration": 43,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "zurich_16",
+    "name": "Haus Konstruktiv",
+    "description": "zurich'de bulunan önemli bir müze.",
+    "image": "https://images.pexels.com/photos/19443630/pexels-photo-19443630.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 47.3891301,
+      "longitude": 8.5252692
+    },
+    "estimatedDuration": 39,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "zurich_17",
+    "name": "Rathaus",
+    "description": "zurich'de ziyaret edilebilecek popüler bir nokta: Rathaus.",
+    "image": "https://images.pexels.com/photos/1057841/pexels-photo-1057841.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 47.499999,
+      "longitude": 8.7299427
+    },
+    "estimatedDuration": 57,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "zurich_18",
+    "name": "Ruine Kindhausen",
+    "description": "zurich'in tarihine tanıklık eden bir kale.",
+    "image": "https://images.pexels.com/photos/34937465/pexels-photo-34937465.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 47.3901874,
+      "longitude": 8.366162
+    },
+    "estimatedDuration": 47,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "zurich_19",
+    "name": "Keltengräber Zollikon",
+    "description": "zurich'de ziyaret edilebilecek popüler bir nokta: Keltengräber Zollikon.",
+    "image": "https://picsum.photos/800/600?random=18",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 47.3388313,
+      "longitude": 8.5972512
+    },
+    "estimatedDuration": 32,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "zurich_20",
+    "name": "Burgruine Moosburg",
+    "description": "zurich'in tarihine tanıklık eden bir kale.",
+    "image": "https://picsum.photos/800/600?random=19",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 47.4247768,
+      "longitude": 8.6905463
+    },
+    "estimatedDuration": 36,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "zurich_21",
+    "name": "Lourdesgrotte",
+    "description": "zurich'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=20",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 47.3160527,
+      "longitude": 8.3403412
+    },
+    "estimatedDuration": 68,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "zurich_22",
+    "name": "Krattenturm",
+    "description": "zurich'de ziyaret edilebilecek popüler bir nokta: Krattenturm.",
+    "image": "https://picsum.photos/800/600?random=21",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 47.3919857,
+      "longitude": 8.5568543
+    },
+    "estimatedDuration": 49,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "zurich_23",
+    "name": "Ruine Sünikon",
+    "description": "zurich'in tarihine tanıklık eden bir kale.",
+    "image": "https://images.pexels.com/photos/34937460/pexels-photo-34937460.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 47.4863345,
+      "longitude": 8.4283522
+    },
+    "estimatedDuration": 64,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "zurich_24",
+    "name": "Ruine Alt-Lägern",
+    "description": "zurich'in tarihine tanıklık eden bir kale.",
+    "image": "https://images.pexels.com/photos/34937463/pexels-photo-34937463.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 47.4817576,
+      "longitude": 8.3940916
+    },
+    "estimatedDuration": 62,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "zurich_25",
+    "name": "Burgruine Friesenberg",
+    "description": "zurich'in tarihine tanıklık eden bir kale.",
+    "image": "https://picsum.photos/800/600?random=24",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 47.3581745,
+      "longitude": 8.4939223
+    },
+    "estimatedDuration": 78,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "zurich_26",
+    "name": "Coninx-Museum",
+    "description": "zurich'de bulunan önemli bir müze.",
+    "image": "https://images.pexels.com/photos/34937965/pexels-photo-34937965.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 47.3691331,
+      "longitude": 8.5665933
+    },
+    "estimatedDuration": 41,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "zurich_27",
+    "name": "Kunst Museum Winterthur / Beim Stadthaus",
+    "description": "zurich'de bulunan önemli bir müze.",
+    "image": "https://images.pexels.com/photos/34929876/pexels-photo-34929876.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 47.5016153,
+      "longitude": 8.7303915
+    },
+    "estimatedDuration": 83,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "zurich_28",
+    "name": "Burgruine Wulp",
+    "description": "zurich'de ziyaret edilebilecek popüler bir nokta: Burgruine Wulp.",
+    "image": "https://picsum.photos/800/600?random=27",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 47.3215829,
+      "longitude": 8.6057105
+    },
+    "estimatedDuration": 63,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 105,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "zurich_29",
+    "name": "Ortsmuseum Meilen",
+    "description": "zurich'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=28",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 47.2684474,
+      "longitude": 8.6406486
+    },
+    "estimatedDuration": 44,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "zurich_30",
+    "name": "Bergwerk Riedhof Museum",
+    "description": "zurich'de bulunan önemli bir müze.",
+    "image": "https://images.pexels.com/photos/34922808/pexels-photo-34922808.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 47.286419,
+      "longitude": 8.4823127
+    },
+    "estimatedDuration": 57,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 31,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "zurich_31",
+    "name": "Naturhistorisches Museum",
+    "description": "zurich'de bulunan önemli bir müze.",
+    "image": "https://images.pexels.com/photos/34922808/pexels-photo-34922808.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 47.3751766,
+      "longitude": 8.5479602
+    },
+    "estimatedDuration": 44,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "zurich_32",
+    "name": "Archäologisches Museum",
+    "description": "zurich'de bulunan önemli bir müze.",
+    "image": "https://images.pexels.com/photos/34918781/pexels-photo-34918781.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 47.3753485,
+      "longitude": 8.5489128
+    },
+    "estimatedDuration": 40,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "zurich_33",
+    "name": "Focus Terra",
+    "description": "zurich'de bulunan önemli bir müze.",
+    "image": "https://images.pexels.com/photos/29325879/pexels-photo-29325879.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 47.3783567,
+      "longitude": 8.5474566
+    },
+    "estimatedDuration": 67,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "zurich_34",
+    "name": "Römischer Gutshof",
+    "description": "zurich'de ziyaret edilebilecek popüler bir nokta: Römischer Gutshof.",
+    "image": "https://picsum.photos/800/600?random=33",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 47.494013,
+      "longitude": 8.5421584
+    },
+    "estimatedDuration": 86,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 132,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "zurich_35",
+    "name": "Kunsthalle Zürich",
+    "description": "zurich'de bulunan önemli bir müze.",
+    "image": "https://images.pexels.com/photos/3610207/pexels-photo-3610207.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 47.3894008,
+      "longitude": 8.5248893
+    },
+    "estimatedDuration": 60,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 17,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "zurich_36",
+    "name": "Sri Sivasubramaniar Temple",
+    "description": "zurich'in tarihi ibadet yapılarından biri.",
+    "image": "https://images.pexels.com/photos/13667937/pexels-photo-13667937.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 47.3054755,
+      "longitude": 8.5246756
+    },
+    "estimatedDuration": 65,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 146,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "zurich_37",
+    "name": "Thomas-Mann-Archiv",
+    "description": "zurich'de bulunan önemli bir müze.",
+    "image": "https://images.pexels.com/photos/73824/cattle-skull-skull-african-buffalo-syncerus-caffer-73824.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 47.3759166,
+      "longitude": 8.5480257
+    },
+    "estimatedDuration": 87,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 63,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "zurich_38",
+    "name": "19. September 1946",
+    "description": "zurich'de ziyaret edilebilecek popüler bir nokta: 19. September 1946.",
+    "image": "https://images.pexels.com/photos/5982132/pexels-photo-5982132.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 47.3700767,
+      "longitude": 8.541441
+    },
+    "estimatedDuration": 62,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 157,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "zurich_39",
+    "name": "Museum für Gestaltung - Schaudepot",
+    "description": "zurich'de bulunan önemli bir müze.",
+    "image": "https://images.pexels.com/photos/14655940/pexels-photo-14655940.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 47.3902291,
+      "longitude": 8.512069
+    },
+    "estimatedDuration": 52,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 17,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "zurich_40",
+    "name": "Ortsmuseum Thalwil",
+    "description": "zurich'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=39",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 47.291207,
+      "longitude": 8.5663439
+    },
+    "estimatedDuration": 32,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 99,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "zurich_41",
+    "name": "Monte Diggelmann",
+    "description": "zurich'de ziyaret edilebilecek popüler bir nokta: Monte Diggelmann.",
+    "image": "https://images.pexels.com/photos/2282497/pexels-photo-2282497.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 47.3932559,
+      "longitude": 8.5495392
+    },
+    "estimatedDuration": 79,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "zurich_42",
+    "name": "FIFA Museum",
+    "description": "zurich'de bulunan önemli bir müze.",
+    "image": "https://images.pexels.com/photos/34893322/pexels-photo-34893322.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 47.3635785,
+      "longitude": 8.5315195
+    },
+    "estimatedDuration": 32,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 165,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "zurich_43",
+    "name": "Stiftung SAPA",
+    "description": "zurich'de bulunan önemli bir müze.",
+    "image": "https://images.pexels.com/photos/30914193/pexels-photo-30914193.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 47.3883637,
+      "longitude": 8.5258809
+    },
+    "estimatedDuration": 89,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "zurich_44",
+    "name": "Bahnhofkirche",
+    "description": "zurich'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=43",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 47.3780431,
+      "longitude": 8.5402857
+    },
+    "estimatedDuration": 39,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 122,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "zurich_45",
+    "name": "Migros Museum für Gegenwartskunst",
+    "description": "zurich'de bulunan önemli bir müze.",
+    "image": "https://images.pexels.com/photos/27043373/pexels-photo-27043373.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 47.3893345,
+      "longitude": 8.5250469
+    },
+    "estimatedDuration": 49,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "zurich_46",
+    "name": "Schweizer Finanzmuseum",
+    "description": "zurich'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=45",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 47.3915157,
+      "longitude": 8.5068388
+    },
+    "estimatedDuration": 59,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 121,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "zurich_47",
+    "name": "Burgruine Langenberg",
+    "description": "zurich'de ziyaret edilebilecek popüler bir nokta: Burgruine Langenberg.",
+    "image": "https://picsum.photos/800/600?random=46",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 47.4725297,
+      "longitude": 8.7154118
+    },
+    "estimatedDuration": 84,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "zurich_48",
+    "name": "Kraftwerk Höngg",
+    "description": "zurich'de bulunan önemli bir müze.",
+    "image": "https://images.pexels.com/photos/3163715/pexels-photo-3163715.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 47.4016598,
+      "longitude": 8.4866981
+    },
+    "estimatedDuration": 82,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "zurich_49",
+    "name": "Pavillon Le Corbusier",
+    "description": "zurich'de bulunan önemli bir müze.",
+    "image": "https://images.pexels.com/photos/34849705/pexels-photo-34849705.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 47.356045,
+      "longitude": 8.5510181
+    },
+    "estimatedDuration": 38,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "zurich_50",
+    "name": "Burgstelle Sellenbüren",
+    "description": "zurich'in tarihine tanıklık eden bir kale.",
+    "image": "https://picsum.photos/800/600?random=49",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 47.3447096,
+      "longitude": 8.4866398
+    },
+    "estimatedDuration": 34,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "zurich_51",
+    "name": "Schloss Bellikon",
+    "description": "zurich'in tarihine tanıklık eden bir kale.",
+    "image": "https://images.pexels.com/photos/32493185/pexels-photo-32493185.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 47.3900497,
+      "longitude": 8.3429233
+    },
+    "estimatedDuration": 38,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "zurich_52",
+    "name": "Burgstelle Multberg",
+    "description": "zurich'in tarihine tanıklık eden bir kale.",
+    "image": "https://picsum.photos/800/600?random=51",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 47.5111515,
+      "longitude": 8.6469684
+    },
+    "estimatedDuration": 60,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "zurich_53",
+    "name": "Burgstelle Gamser",
+    "description": "zurich'de ziyaret edilebilecek popüler bir nokta: Burgstelle Gamser.",
+    "image": "https://images.pexels.com/photos/4511372/pexels-photo-4511372.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 47.46196,
+      "longitude": 8.7320586
+    },
+    "estimatedDuration": 76,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 70,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "zurich_54",
+    "name": "Burgstelle Wart",
+    "description": "zurich'de ziyaret edilebilecek popüler bir nokta: Burgstelle Wart.",
+    "image": "https://picsum.photos/800/600?random=53",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 47.5222981,
+      "longitude": 8.6402265
+    },
+    "estimatedDuration": 31,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 13,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "zurich_55",
+    "name": "Schloss Regensberg",
+    "description": "zurich'in tarihine tanıklık eden bir kale.",
+    "image": "https://images.pexels.com/photos/15835555/pexels-photo-15835555.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 47.4830896,
+      "longitude": 8.4383146
+    },
+    "estimatedDuration": 49,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "zurich_56",
+    "name": "Burgstelle Altenteufen",
+    "description": "zurich'in tarihine tanıklık eden bir kale.",
+    "image": "https://picsum.photos/800/600?random=55",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 47.549324,
+      "longitude": 8.5811038
+    },
+    "estimatedDuration": 44,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 130,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "zurich_57",
+    "name": "Burgstelle Obere Heidenburg",
+    "description": "zurich'in tarihine tanıklık eden bir kale.",
+    "image": "https://picsum.photos/800/600?random=56",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 47.4588814,
+      "longitude": 8.648109
+    },
+    "estimatedDuration": 80,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "zurich_58",
+    "name": "Burgstelle Hasenburg",
+    "description": "zurich'de ziyaret edilebilecek popüler bir nokta: Burgstelle Hasenburg.",
+    "image": "https://picsum.photos/800/600?random=57",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 47.3838498,
+      "longitude": 8.3879154
+    },
+    "estimatedDuration": 33,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "zurich_59",
+    "name": "Ruine Wagenburg",
+    "description": "zurich'in tarihine tanıklık eden bir kale.",
+    "image": "https://images.pexels.com/photos/34810376/pexels-photo-34810376.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 47.4895168,
+      "longitude": 8.6429804
+    },
+    "estimatedDuration": 59,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "zurich_60",
+    "name": "Uhrenmuseum zum Rösli",
+    "description": "zurich'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=59",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 47.390144,
+      "longitude": 8.5443605
+    },
+    "estimatedDuration": 88,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  }
+]

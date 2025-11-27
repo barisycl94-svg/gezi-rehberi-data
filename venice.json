@@ -1,0 +1,56 @@
+[
+  {
+    "id": "venice_1",
+    "name": "Gunther Gebel-Williams",
+    "description": "venice'de ziyaret edilebilecek popüler bir nokta: Gunther Gebel-Williams.",
+    "image": "https://images.pexels.com/photos/34926315/pexels-photo-34926315.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 27.1014331,
+      "longitude": -82.440169
+    },
+    "estimatedDuration": 33,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "venice_2",
+    "name": "Venice Museum and Archives",
+    "description": "venice'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=1",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 27.0953304,
+      "longitude": -82.4475367
+    },
+    "estimatedDuration": 55,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "venice_3",
+    "name": "Venice Rail Depot",
+    "description": "venice'de bulunan önemli bir müze.",
+    "image": "https://images.pexels.com/photos/9128474/pexels-photo-9128474.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 27.1010168,
+      "longitude": -82.440243
+    },
+    "estimatedDuration": 43,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  }
+]

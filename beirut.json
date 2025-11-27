@@ -1,0 +1,542 @@
+[
+  {
+    "id": "beirut_1",
+    "name": "اغتيال رفيق الحريري",
+    "description": "beirut'de ziyaret edilebilecek popüler bir nokta: اغتيال رفيق الحريري.",
+    "image": "https://picsum.photos/800/600?random=0",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 33.9015029,
+      "longitude": 35.4945897
+    },
+    "estimatedDuration": 47,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 170,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "beirut_2",
+    "name": "متحف الحرير",
+    "description": "beirut'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=1",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 33.8178984,
+      "longitude": 35.5722818
+    },
+    "estimatedDuration": 58,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 88,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "beirut_3",
+    "name": "مقبرة شهداء صبرا وشاتيلا الفلسطينيين",
+    "description": "beirut'de ziyaret edilebilecek popüler bir nokta: مقبرة شهداء صبرا وشاتيلا الفلسطينيين.",
+    "image": "https://picsum.photos/800/600?random=2",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 33.8604078,
+      "longitude": 35.4981527
+    },
+    "estimatedDuration": 34,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "beirut_4",
+    "name": "مغارة جعيتا",
+    "description": "beirut'de ziyaret edilebilecek popüler bir nokta: مغارة جعيتا.",
+    "image": "https://picsum.photos/800/600?random=3",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 33.9439055,
+      "longitude": 35.6441077
+    },
+    "estimatedDuration": 42,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "beirut_5",
+    "name": "مضمار سباق الخيل الروماني",
+    "description": "beirut'de ziyaret edilebilecek popüler bir nokta: مضمار سباق الخيل الروماني.",
+    "image": "https://picsum.photos/800/600?random=4",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 33.8972054,
+      "longitude": 35.4999211
+    },
+    "estimatedDuration": 49,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 137,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "beirut_6",
+    "name": "Museum of Lebanese Prehistory",
+    "description": "beirut'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=5",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 33.8915926,
+      "longitude": 35.5081645
+    },
+    "estimatedDuration": 71,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "beirut_7",
+    "name": "Musée Archéologique de l'Université Américaine de Beyrouth",
+    "description": "beirut'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=6",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 33.8994876,
+      "longitude": 35.4836324
+    },
+    "estimatedDuration": 61,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "beirut_8",
+    "name": "Souks de Beyrouth",
+    "description": "beirut'de ziyaret edilebilecek popüler bir nokta: Souks de Beyrouth.",
+    "image": "https://picsum.photos/800/600?random=7",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 33.8986012,
+      "longitude": 35.5042859
+    },
+    "estimatedDuration": 77,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "beirut_9",
+    "name": "اغتيال حسن نصر الله",
+    "description": "beirut'de ziyaret edilebilecek popüler bir nokta: اغتيال حسن نصر الله.",
+    "image": "https://picsum.photos/800/600?random=8",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 33.851403,
+      "longitude": 35.5040455
+    },
+    "estimatedDuration": 74,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "beirut_10",
+    "name": "موقع مجزرة تل الزعتر",
+    "description": "beirut'de ziyaret edilebilecek popüler bir nokta: موقع مجزرة تل الزعتر.",
+    "image": "https://picsum.photos/800/600?random=9",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 33.8766557,
+      "longitude": 35.5441097
+    },
+    "estimatedDuration": 47,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 103,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "beirut_11",
+    "name": "كاتدرائية القديس جاورجيوس للروم الأرثوذكس",
+    "description": "beirut'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=10",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 33.896371,
+      "longitude": 35.5051681
+    },
+    "estimatedDuration": 80,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 81,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "beirut_12",
+    "name": "كاتدرائية مار جرجس المارونية",
+    "description": "beirut'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=11",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 33.8951925,
+      "longitude": 35.505223
+    },
+    "estimatedDuration": 82,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 185,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "beirut_13",
+    "name": "المتحف الوطني",
+    "description": "beirut'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=12",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 33.8782378,
+      "longitude": 35.5149007
+    },
+    "estimatedDuration": 77,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "beirut_14",
+    "name": "Agora Hellénistique et Romaine",
+    "description": "beirut'de ziyaret edilebilecek popüler bir nokta: Agora Hellénistique et Romaine.",
+    "image": "https://picsum.photos/800/600?random=13",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 33.8970605,
+      "longitude": 35.5073524
+    },
+    "estimatedDuration": 37,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "beirut_15",
+    "name": "جامع محمد الأمين",
+    "description": "beirut'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=14",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 33.8952709,
+      "longitude": 35.5060285
+    },
+    "estimatedDuration": 47,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 117,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "beirut_16",
+    "name": "ضريح رفيق الحريري",
+    "description": "beirut'de ziyaret edilebilecek popüler bir nokta: ضريح رفيق الحريري.",
+    "image": "https://picsum.photos/800/600?random=15",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 33.895779,
+      "longitude": 35.5062064
+    },
+    "estimatedDuration": 75,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 84,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "beirut_17",
+    "name": "البيضة",
+    "description": "beirut'de ziyaret edilebilecek popüler bir nokta: البيضة.",
+    "image": "https://picsum.photos/800/600?random=16",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 33.8935089,
+      "longitude": 35.5060416
+    },
+    "estimatedDuration": 36,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "beirut_18",
+    "name": "كنيسة مار إيليا",
+    "description": "beirut'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=17",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 33.8966728,
+      "longitude": 35.5054146
+    },
+    "estimatedDuration": 72,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "beirut_19",
+    "name": "جامع العمري",
+    "description": "beirut'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=18",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 33.8977654,
+      "longitude": 35.5051152
+    },
+    "estimatedDuration": 89,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "beirut_20",
+    "name": "Musée Sursock",
+    "description": "beirut'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=19",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 33.8929974,
+      "longitude": 35.5163564
+    },
+    "estimatedDuration": 52,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 89,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "beirut_21",
+    "name": "الكنيسة الأنجيلية",
+    "description": "beirut'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=20",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 33.8947526,
+      "longitude": 35.5014218
+    },
+    "estimatedDuration": 37,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 74,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "beirut_22",
+    "name": "مار لويس",
+    "description": "beirut'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=21",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 33.8979562,
+      "longitude": 35.5025646
+    },
+    "estimatedDuration": 69,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "beirut_23",
+    "name": "كاتدرائية القديسين غريغوريوس المنور والياس النبي للأرمن الكاثوليك",
+    "description": "beirut'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=22",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 33.8928948,
+      "longitude": 35.5075766
+    },
+    "estimatedDuration": 64,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "beirut_24",
+    "name": "سيدة النورية",
+    "description": "beirut'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=23",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 33.8963183,
+      "longitude": 35.5057475
+    },
+    "estimatedDuration": 72,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "beirut_25",
+    "name": "Forteresse Croisée",
+    "description": "beirut'de ziyaret edilebilecek popüler bir nokta: Forteresse Croisée.",
+    "image": "https://picsum.photos/800/600?random=24",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 33.8985461,
+      "longitude": 35.507733
+    },
+    "estimatedDuration": 37,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "beirut_26",
+    "name": "الأمل من أجل السلام",
+    "description": "beirut'de ziyaret edilebilecek popüler bir nokta: الأمل من أجل السلام.",
+    "image": "https://picsum.photos/800/600?random=25",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 33.8397112,
+      "longitude": 35.557756
+    },
+    "estimatedDuration": 45,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "beirut_27",
+    "name": "كنيس ماغين أبراهام‎‎",
+    "description": "beirut'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=26",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 33.8974721,
+      "longitude": 35.5001649
+    },
+    "estimatedDuration": 48,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "beirut_28",
+    "name": "بيت بيروت",
+    "description": "beirut'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=27",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 33.8869945,
+      "longitude": 35.5083604
+    },
+    "estimatedDuration": 37,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "beirut_29",
+    "name": "المنارة القديمة",
+    "description": "beirut'de ziyaret edilebilecek popüler bir nokta: المنارة القديمة.",
+    "image": "https://picsum.photos/800/600?random=28",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 33.8975226,
+      "longitude": 35.4724547
+    },
+    "estimatedDuration": 32,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "beirut_30",
+    "name": "تلة السراي",
+    "description": "beirut'de ziyaret edilebilecek popüler bir nokta: تلة السراي.",
+    "image": "https://picsum.photos/800/600?random=29",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 33.8960289,
+      "longitude": 35.50091
+    },
+    "estimatedDuration": 46,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 64,
+    "interests": [
+      "Tarihi"
+    ]
+  }
+]

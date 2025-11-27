@@ -1,0 +1,1064 @@
+[
+  {
+    "id": "gaziantep_1",
+    "name": "Adorno Ampel",
+    "description": "gaziantep'de ziyaret edilebilecek popüler bir nokta: Adorno Ampel.",
+    "image": "https://images.pexels.com/photos/29785224/pexels-photo-29785224.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.1181957,
+      "longitude": 8.6534324
+    },
+    "estimatedDuration": 82,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "gaziantep_2",
+    "name": "Zeppelin-Museum Zeppelinheim",
+    "description": "gaziantep'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=1",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 50.0349774,
+      "longitude": 8.6144989
+    },
+    "estimatedDuration": 51,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "gaziantep_3",
+    "name": "Römer",
+    "description": "gaziantep'de ziyaret edilebilecek popüler bir nokta: Römer.",
+    "image": "https://picsum.photos/800/600?random=2",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.1104684,
+      "longitude": 8.6816587
+    },
+    "estimatedDuration": 67,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 156,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "gaziantep_4",
+    "name": "Kaiserpfalz franconofurd",
+    "description": "gaziantep'de ziyaret edilebilecek popüler bir nokta: Kaiserpfalz franconofurd.",
+    "image": "https://picsum.photos/800/600?random=3",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.1105562,
+      "longitude": 8.6843013
+    },
+    "estimatedDuration": 77,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 197,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "gaziantep_5",
+    "name": "Leopoldsäule",
+    "description": "gaziantep'de ziyaret edilebilecek popüler bir nokta: Leopoldsäule.",
+    "image": "https://picsum.photos/800/600?random=4",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.1605731,
+      "longitude": 8.7334627
+    },
+    "estimatedDuration": 31,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "gaziantep_6",
+    "name": "Burgruine Königstein",
+    "description": "gaziantep'in tarihine tanıklık eden bir kale.",
+    "image": "https://picsum.photos/800/600?random=5",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.1825059,
+      "longitude": 8.4609769
+    },
+    "estimatedDuration": 72,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "gaziantep_7",
+    "name": "Faulbornquelle (Schwefel)",
+    "description": "gaziantep'de ziyaret edilebilecek popüler bir nokta: Faulbornquelle (Schwefel).",
+    "image": "https://picsum.photos/800/600?random=6",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.0335436,
+      "longitude": 8.4282792
+    },
+    "estimatedDuration": 59,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "gaziantep_8",
+    "name": "Hofgut Patershausen",
+    "description": "gaziantep'de ziyaret edilebilecek popüler bir nokta: Hofgut Patershausen.",
+    "image": "https://picsum.photos/800/600?random=7",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.0339642,
+      "longitude": 8.8060516
+    },
+    "estimatedDuration": 55,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "gaziantep_9",
+    "name": "Hardtbergturm",
+    "description": "gaziantep'de ziyaret edilebilecek popüler bir nokta: Hardtbergturm.",
+    "image": "https://picsum.photos/800/600?random=8",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.1761825,
+      "longitude": 8.4828817
+    },
+    "estimatedDuration": 85,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "gaziantep_10",
+    "name": "Museum Angewandte Kunst",
+    "description": "gaziantep'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=9",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 50.1062658,
+      "longitude": 8.6809469
+    },
+    "estimatedDuration": 64,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "gaziantep_11",
+    "name": "Städel Museum",
+    "description": "gaziantep'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=10",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 50.1032949,
+      "longitude": 8.6738582
+    },
+    "estimatedDuration": 64,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 175,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "gaziantep_12",
+    "name": "Liebieghaus Skulpturensammlung",
+    "description": "gaziantep'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=11",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 50.1016651,
+      "longitude": 8.6717478
+    },
+    "estimatedDuration": 33,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "gaziantep_13",
+    "name": "Burg Dorfelden",
+    "description": "gaziantep'in tarihine tanıklık eden bir kale.",
+    "image": "https://picsum.photos/800/600?random=12",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.1969243,
+      "longitude": 8.802429
+    },
+    "estimatedDuration": 69,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "gaziantep_14",
+    "name": "Römische Töpferöfen",
+    "description": "gaziantep'de ziyaret edilebilecek popüler bir nokta: Römische Töpferöfen.",
+    "image": "https://picsum.photos/800/600?random=13",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.1571217,
+      "longitude": 8.6361682
+    },
+    "estimatedDuration": 57,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "gaziantep_15",
+    "name": "Gickelsburg",
+    "description": "gaziantep'in tarihine tanıklık eden bir kale.",
+    "image": "https://picsum.photos/800/600?random=14",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.2684737,
+      "longitude": 8.5890989
+    },
+    "estimatedDuration": 60,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "gaziantep_16",
+    "name": "Burg Nürings",
+    "description": "gaziantep'in tarihine tanıklık eden bir kale.",
+    "image": "https://picsum.photos/800/600?random=15",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.1895713,
+      "longitude": 8.4759988
+    },
+    "estimatedDuration": 53,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "gaziantep_17",
+    "name": "Russisch-orthodoxe Allerheiligen-Kirche",
+    "description": "gaziantep'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=16",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.2257289,
+      "longitude": 8.6251358
+    },
+    "estimatedDuration": 46,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "gaziantep_18",
+    "name": "Aequatorial-Sonnenuhr",
+    "description": "gaziantep'de ziyaret edilebilecek popüler bir nokta: Aequatorial-Sonnenuhr.",
+    "image": "https://picsum.photos/800/600?random=17",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.1089918,
+      "longitude": 8.6910952
+    },
+    "estimatedDuration": 76,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "gaziantep_19",
+    "name": "Oberwaldberg",
+    "description": "gaziantep'de ziyaret edilebilecek popüler bir nokta: Oberwaldberg.",
+    "image": "https://picsum.photos/800/600?random=18",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 49.9889289,
+      "longitude": 8.5917966
+    },
+    "estimatedDuration": 51,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 38,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "gaziantep_20",
+    "name": "Altes Schloß Büdesheim",
+    "description": "gaziantep'in tarihine tanıklık eden bir kale.",
+    "image": "https://picsum.photos/800/600?random=19",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.2142698,
+      "longitude": 8.8355243
+    },
+    "estimatedDuration": 52,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "gaziantep_21",
+    "name": "Burg Wonnecken",
+    "description": "gaziantep'in tarihine tanıklık eden bir kale.",
+    "image": "https://picsum.photos/800/600?random=20",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.2237025,
+      "longitude": 8.8803085
+    },
+    "estimatedDuration": 70,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "gaziantep_22",
+    "name": "Hünerberg",
+    "description": "gaziantep'de ziyaret edilebilecek popüler bir nokta: Hünerberg.",
+    "image": "https://picsum.photos/800/600?random=21",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.2009158,
+      "longitude": 8.5182318
+    },
+    "estimatedDuration": 37,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "gaziantep_23",
+    "name": "alte Sendestation \"Heiligenstock\"",
+    "description": "gaziantep'de ziyaret edilebilecek popüler bir nokta: alte Sendestation \"Heiligenstock\".",
+    "image": "https://picsum.photos/800/600?random=22",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.1546334,
+      "longitude": 8.7109838
+    },
+    "estimatedDuration": 75,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 57,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "gaziantep_24",
+    "name": "Bockenheimer Warte",
+    "description": "gaziantep'de ziyaret edilebilecek popüler bir nokta: Bockenheimer Warte.",
+    "image": "https://picsum.photos/800/600?random=23",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.120105,
+      "longitude": 8.6508864
+    },
+    "estimatedDuration": 77,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "gaziantep_25",
+    "name": "Brunhildisfelsen",
+    "description": "gaziantep'de ziyaret edilebilecek popüler bir nokta: Brunhildisfelsen.",
+    "image": "https://picsum.photos/800/600?random=24",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.2341854,
+      "longitude": 8.4578751
+    },
+    "estimatedDuration": 65,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "gaziantep_26",
+    "name": "Goethedenkmal",
+    "description": "gaziantep'de ziyaret edilebilecek popüler bir nokta: Goethedenkmal.",
+    "image": "https://picsum.photos/800/600?random=25",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.1132698,
+      "longitude": 8.6765767
+    },
+    "estimatedDuration": 31,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 103,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "gaziantep_27",
+    "name": "Gutenberg-Denkmal",
+    "description": "gaziantep'de ziyaret edilebilecek popüler bir nokta: Gutenberg-Denkmal.",
+    "image": "https://picsum.photos/800/600?random=26",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.1122579,
+      "longitude": 8.6764086
+    },
+    "estimatedDuration": 62,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "gaziantep_28",
+    "name": "Hessendenkmal",
+    "description": "gaziantep'de ziyaret edilebilecek popüler bir nokta: Hessendenkmal.",
+    "image": "https://picsum.photos/800/600?random=27",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.1197151,
+      "longitude": 8.6896276
+    },
+    "estimatedDuration": 82,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 138,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "gaziantep_29",
+    "name": "Weltkulturen Museum",
+    "description": "gaziantep'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=28",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 50.1057385,
+      "longitude": 8.6793625
+    },
+    "estimatedDuration": 86,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "gaziantep_30",
+    "name": "Ringwall Altkönig",
+    "description": "gaziantep'de ziyaret edilebilecek popüler bir nokta: Ringwall Altkönig.",
+    "image": "https://picsum.photos/800/600?random=29",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.211431,
+      "longitude": 8.4810417
+    },
+    "estimatedDuration": 65,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "gaziantep_31",
+    "name": "Johannes-Kirche",
+    "description": "gaziantep'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=30",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.051399,
+      "longitude": 8.6856619
+    },
+    "estimatedDuration": 57,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 105,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "gaziantep_32",
+    "name": "Ellerhöhturm",
+    "description": "gaziantep'de ziyaret edilebilecek popüler bir nokta: Ellerhöhturm.",
+    "image": "https://picsum.photos/800/600?random=31",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.2307547,
+      "longitude": 8.6341628
+    },
+    "estimatedDuration": 31,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 122,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "gaziantep_33",
+    "name": "Hessisches Puppenmuseum",
+    "description": "gaziantep'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=32",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 50.1487031,
+      "longitude": 8.882689
+    },
+    "estimatedDuration": 69,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 130,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "gaziantep_34",
+    "name": "Gedenkstein zum Flugzeugabsturz 22. Januar 1971",
+    "description": "gaziantep'de ziyaret edilebilecek popüler bir nokta: Gedenkstein zum Flugzeugabsturz 22. Januar 1971.",
+    "image": "https://picsum.photos/800/600?random=33",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.2049917,
+      "longitude": 8.4847069
+    },
+    "estimatedDuration": 74,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "gaziantep_35",
+    "name": "Wasserturm",
+    "description": "gaziantep'de ziyaret edilebilecek popüler bir nokta: Wasserturm.",
+    "image": "https://picsum.photos/800/600?random=34",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.133673,
+      "longitude": 8.4954365
+    },
+    "estimatedDuration": 84,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "gaziantep_36",
+    "name": "Deutsches Filmmuseum",
+    "description": "gaziantep'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=35",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 50.1050639,
+      "longitude": 8.6776864
+    },
+    "estimatedDuration": 73,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "gaziantep_37",
+    "name": "Deutsches Architekturmuseum",
+    "description": "gaziantep'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=36",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 50.104975,
+      "longitude": 8.6773143
+    },
+    "estimatedDuration": 52,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 135,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "gaziantep_38",
+    "name": "Simmetseiche",
+    "description": "gaziantep'de ziyaret edilebilecek popüler bir nokta: Simmetseiche.",
+    "image": "https://picsum.photos/800/600?random=37",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.1600745,
+      "longitude": 8.8759464
+    },
+    "estimatedDuration": 78,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "gaziantep_39",
+    "name": "Gedenkstätte Arbeitserziehungslager Heddernheim",
+    "description": "gaziantep'de ziyaret edilebilecek popüler bir nokta: Gedenkstätte Arbeitserziehungslager Heddernheim.",
+    "image": "https://picsum.photos/800/600?random=38",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.1641608,
+      "longitude": 8.6403567
+    },
+    "estimatedDuration": 58,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 24,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "gaziantep_40",
+    "name": "Museum Schloss Steinheim",
+    "description": "gaziantep'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=39",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 50.1086509,
+      "longitude": 8.9162063
+    },
+    "estimatedDuration": 56,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "gaziantep_41",
+    "name": "Klingspor Museum",
+    "description": "gaziantep'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=40",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 50.107786,
+      "longitude": 8.7611609
+    },
+    "estimatedDuration": 81,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 36,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "gaziantep_43",
+    "name": "Frankfurter Engel",
+    "description": "gaziantep'de ziyaret edilebilecek popüler bir nokta: Frankfurter Engel.",
+    "image": "https://picsum.photos/800/600?random=42",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.1168251,
+      "longitude": 8.6851926
+    },
+    "estimatedDuration": 59,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "gaziantep_44",
+    "name": "Burg Kronberg",
+    "description": "gaziantep'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=43",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 50.1810909,
+      "longitude": 8.5066643
+    },
+    "estimatedDuration": 67,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 160,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "gaziantep_45",
+    "name": "Friederike Boley, geb. Neuhaus",
+    "description": "gaziantep'de ziyaret edilebilecek popüler bir nokta: Friederike Boley, geb. Neuhaus.",
+    "image": "https://picsum.photos/800/600?random=44",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.1058973,
+      "longitude": 8.7561309
+    },
+    "estimatedDuration": 70,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 61,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "gaziantep_46",
+    "name": "Antonie Grosch, geb. Feinkorn",
+    "description": "gaziantep'de ziyaret edilebilecek popüler bir nokta: Antonie Grosch, geb. Feinkorn.",
+    "image": "https://picsum.photos/800/600?random=45",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.1058904,
+      "longitude": 8.7561466
+    },
+    "estimatedDuration": 46,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "gaziantep_47",
+    "name": "Elisabeth Grosch, geb. Lövi",
+    "description": "gaziantep'de ziyaret edilebilecek popüler bir nokta: Elisabeth Grosch, geb. Lövi.",
+    "image": "https://picsum.photos/800/600?random=46",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.1058983,
+      "longitude": 8.7561436
+    },
+    "estimatedDuration": 56,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "gaziantep_48",
+    "name": "Robert Boley",
+    "description": "gaziantep'de ziyaret edilebilecek popüler bir nokta: Robert Boley.",
+    "image": "https://picsum.photos/800/600?random=47",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.1058897,
+      "longitude": 8.7561309
+    },
+    "estimatedDuration": 47,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "gaziantep_49",
+    "name": "Leo Reinhardt",
+    "description": "gaziantep'de ziyaret edilebilecek popüler bir nokta: Leo Reinhardt.",
+    "image": "https://picsum.photos/800/600?random=48",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.1068004,
+      "longitude": 8.7530554
+    },
+    "estimatedDuration": 76,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 71,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "gaziantep_50",
+    "name": "Siegfried Reinhardt",
+    "description": "gaziantep'de ziyaret edilebilecek popüler bir nokta: Siegfried Reinhardt.",
+    "image": "https://picsum.photos/800/600?random=49",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.1068015,
+      "longitude": 8.753024
+    },
+    "estimatedDuration": 61,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "gaziantep_51",
+    "name": "Albert Boley",
+    "description": "gaziantep'de ziyaret edilebilecek popüler bir nokta: Albert Boley.",
+    "image": "https://picsum.photos/800/600?random=50",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.1068834,
+      "longitude": 8.7534392
+    },
+    "estimatedDuration": 72,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 151,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "gaziantep_52",
+    "name": "Klara Boley, geb. Reichold",
+    "description": "gaziantep'de ziyaret edilebilecek popüler bir nokta: Klara Boley, geb. Reichold.",
+    "image": "https://picsum.photos/800/600?random=51",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.1068843,
+      "longitude": 8.7533959
+    },
+    "estimatedDuration": 37,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "gaziantep_53",
+    "name": "Hilde Reinhardt, geb. Sender",
+    "description": "gaziantep'de ziyaret edilebilecek popüler bir nokta: Hilde Reinhardt, geb. Sender.",
+    "image": "https://picsum.photos/800/600?random=52",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.1067981,
+      "longitude": 8.7530825
+    },
+    "estimatedDuration": 84,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "gaziantep_54",
+    "name": "Karl Amborn",
+    "description": "gaziantep'de ziyaret edilebilecek popüler bir nokta: Karl Amborn.",
+    "image": "https://picsum.photos/800/600?random=53",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.1075778,
+      "longitude": 8.7637517
+    },
+    "estimatedDuration": 57,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "gaziantep_55",
+    "name": "Willy Eisenreich",
+    "description": "gaziantep'de ziyaret edilebilecek popüler bir nokta: Willy Eisenreich.",
+    "image": "https://picsum.photos/800/600?random=54",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.1064343,
+      "longitude": 8.7645074
+    },
+    "estimatedDuration": 58,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "gaziantep_56",
+    "name": "Otto Schönhof",
+    "description": "gaziantep'de ziyaret edilebilecek popüler bir nokta: Otto Schönhof.",
+    "image": "https://picsum.photos/800/600?random=55",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.1011407,
+      "longitude": 8.7683642
+    },
+    "estimatedDuration": 39,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "gaziantep_57",
+    "name": "Martin Eichel",
+    "description": "gaziantep'de ziyaret edilebilecek popüler bir nokta: Martin Eichel.",
+    "image": "https://picsum.photos/800/600?random=56",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.1065755,
+      "longitude": 8.7631622
+    },
+    "estimatedDuration": 72,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "gaziantep_58",
+    "name": "Paula Luise Schönhof, Geb. Löwenstein",
+    "description": "gaziantep'de ziyaret edilebilecek popüler bir nokta: Paula Luise Schönhof, Geb. Löwenstein.",
+    "image": "https://picsum.photos/800/600?random=57",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.1011169,
+      "longitude": 8.7683311
+    },
+    "estimatedDuration": 37,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "gaziantep_59",
+    "name": "Jakob Andorn",
+    "description": "gaziantep'de ziyaret edilebilecek popüler bir nokta: Jakob Andorn.",
+    "image": "https://picsum.photos/800/600?random=58",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.1019208,
+      "longitude": 8.7620182
+    },
+    "estimatedDuration": 80,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "gaziantep_60",
+    "name": "Isaak Alexander",
+    "description": "gaziantep'de ziyaret edilebilecek popüler bir nokta: Isaak Alexander.",
+    "image": "https://picsum.photos/800/600?random=59",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.1019211,
+      "longitude": 8.7620112
+    },
+    "estimatedDuration": 71,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  }
+]

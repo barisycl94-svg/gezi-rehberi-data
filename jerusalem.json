@@ -1,0 +1,38 @@
+[
+  {
+    "id": "jerusalem_1",
+    "name": "Mestel Dam",
+    "description": "jerusalem'de ziyaret edilebilecek popüler bir nokta: Mestel Dam.",
+    "image": "https://images.pexels.com/photos/34911351/pexels-photo-34911351.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -25.1153255,
+      "longitude": 31.2141359
+    },
+    "estimatedDuration": 67,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "jerusalem_2",
+    "name": "Pretorius Plaque",
+    "description": "jerusalem'de ziyaret edilebilecek popüler bir nokta: Pretorius Plaque.",
+    "image": "https://images.pexels.com/photos/34888386/pexels-photo-34888386.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -25.1623515,
+      "longitude": 31.2307762
+    },
+    "estimatedDuration": 77,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 125,
+    "interests": [
+      "Tarihi"
+    ]
+  }
+]

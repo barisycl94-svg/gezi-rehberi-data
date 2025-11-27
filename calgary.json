@@ -1,0 +1,272 @@
+[
+  {
+    "id": "calgary_1",
+    "name": "Andrew Hamilton Gault (PPCLI)",
+    "description": "calgary'de ziyaret edilebilecek popüler bir nokta: Andrew Hamilton Gault (PPCLI).",
+    "image": "https://picsum.photos/800/600?random=0",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 51.0133546,
+      "longitude": -114.1169261
+    },
+    "estimatedDuration": 85,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 99,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "calgary_2",
+    "name": "PPCLI",
+    "description": "calgary'de ziyaret edilebilecek popüler bir nokta: PPCLI.",
+    "image": "https://picsum.photos/800/600?random=1",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 51.0133598,
+      "longitude": -114.1170197
+    },
+    "estimatedDuration": 40,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 84,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "calgary_3",
+    "name": "Lord Strathcona",
+    "description": "calgary'de ziyaret edilebilecek popüler bir nokta: Lord Strathcona.",
+    "image": "https://picsum.photos/800/600?random=2",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 51.0133571,
+      "longitude": -114.1167573
+    },
+    "estimatedDuration": 89,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 36,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "calgary_4",
+    "name": "Heritage Park",
+    "description": "calgary'de ziyaret edilebilecek popüler bir nokta: Heritage Park.",
+    "image": "https://images.pexels.com/photos/34933821/pexels-photo-34933821.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Eğlence",
+    "coordinates": {
+      "latitude": 50.9850709,
+      "longitude": -114.1056526
+    },
+    "estimatedDuration": 49,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Eğlence"
+    ]
+  },
+  {
+    "id": "calgary_5",
+    "name": "Calgary Tower",
+    "description": "calgary'de ziyaret edilebilecek popüler bir nokta: Calgary Tower.",
+    "image": "https://picsum.photos/800/600?random=4",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 51.0443069,
+      "longitude": -114.0631329
+    },
+    "estimatedDuration": 35,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "calgary_6",
+    "name": "Knox United Church",
+    "description": "calgary'in tarihi ibadet yapılarından biri.",
+    "image": "https://images.pexels.com/photos/16102726/pexels-photo-16102726.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 51.0480697,
+      "longitude": -114.0710951
+    },
+    "estimatedDuration": 49,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "calgary_7",
+    "name": "Canada's Sports Hall Of Fame",
+    "description": "calgary'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=6",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 51.0834631,
+      "longitude": -114.2219994
+    },
+    "estimatedDuration": 65,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 196,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "calgary_8",
+    "name": "Saint Mary's Cathedral",
+    "description": "calgary'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=7",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 51.0365782,
+      "longitude": -114.0661692
+    },
+    "estimatedDuration": 33,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "calgary_9",
+    "name": "The Confluence Historic Site & Parkland",
+    "description": "calgary'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=8",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 51.044821,
+      "longitude": -114.0441865
+    },
+    "estimatedDuration": 62,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "calgary_10",
+    "name": "Glenbow Museum",
+    "description": "calgary'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=9",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 51.0450364,
+      "longitude": -114.0612631
+    },
+    "estimatedDuration": 72,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "calgary_11",
+    "name": "Stampede Park",
+    "description": "calgary'de ziyaret edilebilecek popüler bir nokta: Stampede Park.",
+    "image": "https://picsum.photos/800/600?random=10",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 51.0357047,
+      "longitude": -114.0518884
+    },
+    "estimatedDuration": 46,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "calgary_12",
+    "name": "Spruce Meadows",
+    "description": "calgary'de ziyaret edilebilecek popüler bir nokta: Spruce Meadows.",
+    "image": "https://picsum.photos/800/600?random=11",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.887313,
+      "longitude": -114.1107387
+    },
+    "estimatedDuration": 69,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "calgary_13",
+    "name": "Baitun Nur Mosque",
+    "description": "calgary'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=12",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 51.101882,
+      "longitude": -113.9712837
+    },
+    "estimatedDuration": 56,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "calgary_14",
+    "name": "The Military Museums",
+    "description": "calgary'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=13",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 51.0135561,
+      "longitude": -114.1161051
+    },
+    "estimatedDuration": 69,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "calgary_15",
+    "name": "Calgary Zoo",
+    "description": "calgary'de ziyaret edilebilecek popüler bir nokta: Calgary Zoo.",
+    "image": "https://picsum.photos/800/600?random=14",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 51.0454333,
+      "longitude": -114.0279663
+    },
+    "estimatedDuration": 46,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 69,
+    "interests": [
+      "Tarihi"
+    ]
+  }
+]

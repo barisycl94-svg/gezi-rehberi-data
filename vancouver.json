@@ -1,0 +1,578 @@
+[
+  {
+    "id": "vancouver_1",
+    "name": "Lovejoy Columns",
+    "description": "vancouver'de ziyaret edilebilecek popüler bir nokta: Lovejoy Columns.",
+    "image": "https://images.pexels.com/photos/34929752/pexels-photo-34929752.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.5255788,
+      "longitude": -122.6809488
+    },
+    "estimatedDuration": 72,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 93,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "vancouver_2",
+    "name": "Witch's Castle",
+    "description": "vancouver'de ziyaret edilebilecek popüler bir nokta: Witch's Castle.",
+    "image": "https://picsum.photos/800/600?random=1",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.528294,
+      "longitude": -122.7250787
+    },
+    "estimatedDuration": 41,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "vancouver_3",
+    "name": "The Dream",
+    "description": "vancouver'de ziyaret edilebilecek popüler bir nokta: The Dream.",
+    "image": "https://picsum.photos/800/600?random=2",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.5298766,
+      "longitude": -122.6619189
+    },
+    "estimatedDuration": 76,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 167,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "vancouver_4",
+    "name": "Loyal B. Stearns Memorial",
+    "description": "vancouver'de ziyaret edilebilecek popüler bir nokta: Loyal B. Stearns Memorial.",
+    "image": "https://picsum.photos/800/600?random=3",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.5237521,
+      "longitude": -122.7008598
+    },
+    "estimatedDuration": 66,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "vancouver_5",
+    "name": "Portland Museum of Modern Art",
+    "description": "vancouver'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=4",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 45.5605183,
+      "longitude": -122.6746436
+    },
+    "estimatedDuration": 80,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 190,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "vancouver_6",
+    "name": "Soldiers Monument",
+    "description": "vancouver'de ziyaret edilebilecek popüler bir nokta: Soldiers Monument.",
+    "image": "https://picsum.photos/800/600?random=5",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.5160625,
+      "longitude": -122.6773181
+    },
+    "estimatedDuration": 72,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "vancouver_7",
+    "name": "Fountain for Company H",
+    "description": "vancouver'de ziyaret edilebilecek popüler bir nokta: Fountain for Company H.",
+    "image": "https://picsum.photos/800/600?random=6",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.5161604,
+      "longitude": -122.6776869
+    },
+    "estimatedDuration": 48,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "vancouver_9",
+    "name": "Sunken Village Archeological Site",
+    "description": "vancouver'de ziyaret edilebilecek popüler bir nokta: Sunken Village Archeological Site.",
+    "image": "https://picsum.photos/800/600?random=8",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.6970175,
+      "longitude": -122.8387679
+    },
+    "estimatedDuration": 83,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "vancouver_10",
+    "name": "Liberty Bell",
+    "description": "vancouver'de ziyaret edilebilecek popüler bir nokta: Liberty Bell.",
+    "image": "https://picsum.photos/800/600?random=9",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.5150714,
+      "longitude": -122.678692
+    },
+    "estimatedDuration": 48,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "vancouver_11",
+    "name": "Oregon Zoo",
+    "description": "vancouver'de ziyaret edilebilecek popüler bir nokta: Oregon Zoo.",
+    "image": "https://picsum.photos/800/600?random=10",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.509665,
+      "longitude": -122.7133613
+    },
+    "estimatedDuration": 58,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 90,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "vancouver_12",
+    "name": "Oregon Museum of Science and Industry",
+    "description": "vancouver'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=11",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 45.5083459,
+      "longitude": -122.6659695
+    },
+    "estimatedDuration": 32,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 139,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "vancouver_13",
+    "name": "USS Blueback",
+    "description": "vancouver'de bulunan önemli bir müze.",
+    "image": "https://images.pexels.com/photos/29482688/pexels-photo-29482688.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 45.507874,
+      "longitude": -122.6668775
+    },
+    "estimatedDuration": 43,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 57,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "vancouver_14",
+    "name": "Pittock Mansion",
+    "description": "vancouver'de ziyaret edilebilecek popüler bir nokta: Pittock Mansion.",
+    "image": "https://picsum.photos/800/600?random=13",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.5251954,
+      "longitude": -122.7162895
+    },
+    "estimatedDuration": 49,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 136,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "vancouver_15",
+    "name": "Vietnam Veterans of Oregon Memorial",
+    "description": "vancouver şehrinde doğa ile iç içe bir park.",
+    "image": "https://picsum.photos/800/600?random=14",
+    "category": "Park",
+    "coordinates": {
+      "latitude": 45.5120534,
+      "longitude": -122.7182069
+    },
+    "estimatedDuration": 55,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Park"
+    ]
+  },
+  {
+    "id": "vancouver_16",
+    "name": "Oaks Amusement Park",
+    "description": "vancouver'de ziyaret edilebilecek popüler bir nokta: Oaks Amusement Park.",
+    "image": "https://picsum.photos/800/600?random=15",
+    "category": "Eğlence",
+    "coordinates": {
+      "latitude": 45.4712988,
+      "longitude": -122.6622052
+    },
+    "estimatedDuration": 47,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Eğlence"
+    ]
+  },
+  {
+    "id": "vancouver_17",
+    "name": "Herschell–Spillman Noah's Ark Carousel",
+    "description": "vancouver'de ziyaret edilebilecek popüler bir nokta: Herschell–Spillman Noah's Ark Carousel.",
+    "image": "https://picsum.photos/800/600?random=16",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.4727376,
+      "longitude": -122.6621598
+    },
+    "estimatedDuration": 63,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 186,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "vancouver_18",
+    "name": "Pearson Air Museum",
+    "description": "vancouver'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=17",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 45.6239408,
+      "longitude": -122.6562837
+    },
+    "estimatedDuration": 40,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "vancouver_19",
+    "name": "Portland Center Stage at The Armory",
+    "description": "vancouver'de ziyaret edilebilecek popüler bir nokta: Portland Center Stage at The Armory.",
+    "image": "https://picsum.photos/800/600?random=18",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.5241788,
+      "longitude": -122.6816685
+    },
+    "estimatedDuration": 35,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 89,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "vancouver_20",
+    "name": "Chapel of Christ the Teacher",
+    "description": "vancouver'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=19",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.5711571,
+      "longitude": -122.7264234
+    },
+    "estimatedDuration": 60,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "vancouver_21",
+    "name": "Japanese American Historical Plaza",
+    "description": "vancouver'de ziyaret edilebilecek popüler bir nokta: Japanese American Historical Plaza.",
+    "image": "https://images.pexels.com/photos/12283763/pexels-photo-12283763.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.5239188,
+      "longitude": -122.6697509
+    },
+    "estimatedDuration": 68,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 91,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "vancouver_22",
+    "name": "Five Oaks Museum",
+    "description": "vancouver'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=21",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 45.5661549,
+      "longitude": -122.8575323
+    },
+    "estimatedDuration": 82,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 165,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "vancouver_23",
+    "name": "Oregon Rail Heritage Center",
+    "description": "vancouver'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=22",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 45.5072636,
+      "longitude": -122.6611501
+    },
+    "estimatedDuration": 30,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "vancouver_24",
+    "name": "Trinity Episcopal Cathedral",
+    "description": "vancouver'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=23",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.5244926,
+      "longitude": -122.6908474
+    },
+    "estimatedDuration": 40,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 13,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "vancouver_25",
+    "name": "Saint Mary's Cathedral of the Immaculate Conception",
+    "description": "vancouver'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=24",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.5239325,
+      "longitude": -122.688766
+    },
+    "estimatedDuration": 57,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "vancouver_26",
+    "name": "\"I AM\" Sanctuary",
+    "description": "vancouver'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=25",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.5082077,
+      "longitude": -122.6518714
+    },
+    "estimatedDuration": 46,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "vancouver_27",
+    "name": "Self Realization Fellowship",
+    "description": "vancouver'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=26",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.5254127,
+      "longitude": -122.5811444
+    },
+    "estimatedDuration": 74,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 182,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "vancouver_28",
+    "name": "Saint James Lutheran Church",
+    "description": "vancouver'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=27",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.5156224,
+      "longitude": -122.6836986
+    },
+    "estimatedDuration": 79,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 156,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "vancouver_29",
+    "name": "West Union Baptist Church",
+    "description": "vancouver'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=28",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.5737318,
+      "longitude": -122.9069893
+    },
+    "estimatedDuration": 63,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 122,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "vancouver_30",
+    "name": "Congregation Beth Israel",
+    "description": "vancouver'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=29",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.5257984,
+      "longitude": -122.6913873
+    },
+    "estimatedDuration": 80,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "vancouver_31",
+    "name": "Beaverton Foursquare Church",
+    "description": "vancouver'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=30",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.5058898,
+      "longitude": -122.8153963
+    },
+    "estimatedDuration": 86,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "vancouver_32",
+    "name": "The Broken Wall Memorial",
+    "description": "vancouver'de ziyaret edilebilecek popüler bir nokta: The Broken Wall Memorial.",
+    "image": "https://picsum.photos/800/600?random=31",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.5726256,
+      "longitude": -122.7240682
+    },
+    "estimatedDuration": 66,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "vancouver_33",
+    "name": "Portland Art Museum",
+    "description": "vancouver'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=32",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 45.5165483,
+      "longitude": -122.6834106
+    },
+    "estimatedDuration": 76,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 96,
+    "interests": [
+      "Müze"
+    ]
+  }
+]

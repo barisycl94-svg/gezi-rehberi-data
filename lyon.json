@@ -1,0 +1,1010 @@
+[
+  {
+    "id": "lyon_1",
+    "name": "Statue équestre de Louis XIV",
+    "description": "lyon'de ziyaret edilebilecek popüler bir nokta: Statue équestre de Louis XIV.",
+    "image": "https://picsum.photos/800/600?random=0",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.7578371,
+      "longitude": 4.8321925
+    },
+    "estimatedDuration": 30,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "lyon_2",
+    "name": "Centre d'art contemporain du Fort du Bruissin",
+    "description": "lyon'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=1",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 45.7305319,
+      "longitude": 4.7385345
+    },
+    "estimatedDuration": 60,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 74,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "lyon_3",
+    "name": "Château de Machy",
+    "description": "lyon'in tarihine tanıklık eden bir kale.",
+    "image": "https://picsum.photos/800/600?random=2",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.8622661,
+      "longitude": 4.7594878
+    },
+    "estimatedDuration": 88,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "lyon_4",
+    "name": "Veilleur de pierre",
+    "description": "lyon'de ziyaret edilebilecek popüler bir nokta: Veilleur de pierre.",
+    "image": "https://picsum.photos/800/600?random=3",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.7582517,
+      "longitude": 4.8332712
+    },
+    "estimatedDuration": 74,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 50,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "lyon_5",
+    "name": "Château de la Barollière",
+    "description": "lyon'in tarihine tanıklık eden bir kale.",
+    "image": "https://picsum.photos/800/600?random=4",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.8399058,
+      "longitude": 4.7795083
+    },
+    "estimatedDuration": 84,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "lyon_6",
+    "name": "Musée Cinéma & Miniature",
+    "description": "lyon'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=5",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 45.7618753,
+      "longitude": 4.8272985
+    },
+    "estimatedDuration": 87,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 185,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "lyon_7",
+    "name": "Statue de Monsieur Ampère",
+    "description": "lyon'de ziyaret edilebilecek popüler bir nokta: Statue de Monsieur Ampère.",
+    "image": "https://picsum.photos/800/600?random=6",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.7531458,
+      "longitude": 4.8288284
+    },
+    "estimatedDuration": 65,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "lyon_8",
+    "name": "Stèle du génocide de Villeurbanne",
+    "description": "lyon'de ziyaret edilebilecek popüler bir nokta: Stèle du génocide de Villeurbanne.",
+    "image": "https://picsum.photos/800/600?random=7",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.7668281,
+      "longitude": 4.8808577
+    },
+    "estimatedDuration": 85,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "lyon_9",
+    "name": "Institut d'art contemporain",
+    "description": "lyon'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=8",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 45.7625393,
+      "longitude": 4.8727591
+    },
+    "estimatedDuration": 72,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "lyon_10",
+    "name": "Le Gros Caillou",
+    "description": "lyon'de ziyaret edilebilecek popüler bir nokta: Le Gros Caillou.",
+    "image": "https://picsum.photos/800/600?random=9",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.7745651,
+      "longitude": 4.8350113
+    },
+    "estimatedDuration": 73,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "lyon_11",
+    "name": "Mémorial Hélène et Victor Basch",
+    "description": "lyon'de ziyaret edilebilecek popüler bir nokta: Mémorial Hélène et Victor Basch.",
+    "image": "https://picsum.photos/800/600?random=10",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.8081376,
+      "longitude": 4.9204248
+    },
+    "estimatedDuration": 30,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 153,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "lyon_12",
+    "name": "Monument à la gloire du service de santé militaire",
+    "description": "lyon'de ziyaret edilebilecek popüler bir nokta: Monument à la gloire du service de santé militaire.",
+    "image": "https://picsum.photos/800/600?random=11",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.7426499,
+      "longitude": 4.8777013
+    },
+    "estimatedDuration": 55,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "lyon_13",
+    "name": "Monument aux Grands Hommes de La Martinière",
+    "description": "lyon'de ziyaret edilebilecek popüler bir nokta: Monument aux Grands Hommes de La Martinière.",
+    "image": "https://picsum.photos/800/600?random=12",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.768076,
+      "longitude": 4.8296069
+    },
+    "estimatedDuration": 85,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "lyon_14",
+    "name": "Musée d'histoire de la médecine et de la pharmacie de Lyon",
+    "description": "lyon'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=13",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 45.7414332,
+      "longitude": 4.8805413
+    },
+    "estimatedDuration": 36,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "lyon_15",
+    "name": "Mémorial du génocide arménien de Décines-Charpieu",
+    "description": "lyon'de ziyaret edilebilecek popüler bir nokta: Mémorial du génocide arménien de Décines-Charpieu.",
+    "image": "https://picsum.photos/800/600?random=14",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.7685687,
+      "longitude": 4.9472953
+    },
+    "estimatedDuration": 55,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "lyon_16",
+    "name": "Menhir de Montaberlet ou de Pierre-Fitte",
+    "description": "lyon'de ziyaret edilebilecek popüler bir nokta: Menhir de Montaberlet ou de Pierre-Fitte.",
+    "image": "https://picsum.photos/800/600?random=15",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.76832,
+      "longitude": 4.9382701
+    },
+    "estimatedDuration": 85,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "lyon_17",
+    "name": "Caborne",
+    "description": "lyon'de ziyaret edilebilecek popüler bir nokta: Caborne.",
+    "image": "https://picsum.photos/800/600?random=16",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.8416918,
+      "longitude": 4.8005465
+    },
+    "estimatedDuration": 50,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "lyon_18",
+    "name": "Monument aux morts d'Oran",
+    "description": "lyon'de ziyaret edilebilecek popüler bir nokta: Monument aux morts d'Oran.",
+    "image": "https://picsum.photos/800/600?random=17",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.7894281,
+      "longitude": 4.8000012
+    },
+    "estimatedDuration": 44,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 169,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "lyon_20",
+    "name": "La Tour Rose",
+    "description": "lyon'de ziyaret edilebilecek popüler bir nokta: La Tour Rose.",
+    "image": "https://picsum.photos/800/600?random=19",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.7629626,
+      "longitude": 4.8269316
+    },
+    "estimatedDuration": 54,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 148,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "lyon_21",
+    "name": "Mini World Lyon",
+    "description": "lyon'de ziyaret edilebilecek popüler bir nokta: Mini World Lyon.",
+    "image": "https://picsum.photos/800/600?random=20",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.7647877,
+      "longitude": 4.9232356
+    },
+    "estimatedDuration": 35,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 123,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "lyon_22",
+    "name": "Château de Châtillon-d'Azergues",
+    "description": "lyon'in tarihine tanıklık eden bir kale.",
+    "image": "https://picsum.photos/800/600?random=21",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.8789644,
+      "longitude": 4.6451759
+    },
+    "estimatedDuration": 55,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "lyon_23",
+    "name": "Château de Lumagne",
+    "description": "lyon'in tarihine tanıklık eden bir kale.",
+    "image": "https://picsum.photos/800/600?random=22",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.6865487,
+      "longitude": 4.7976431
+    },
+    "estimatedDuration": 60,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "lyon_24",
+    "name": "Château de Saint-André du Coing",
+    "description": "lyon'in tarihine tanıklık eden bir kale.",
+    "image": "https://picsum.photos/800/600?random=23",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.8187132,
+      "longitude": 4.7856172
+    },
+    "estimatedDuration": 68,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "lyon_25",
+    "name": "Château le Petit-Perron",
+    "description": "lyon'in tarihine tanıklık eden bir kale.",
+    "image": "https://picsum.photos/800/600?random=24",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.7004319,
+      "longitude": 4.81122
+    },
+    "estimatedDuration": 42,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "lyon_26",
+    "name": "Château de la Barge",
+    "description": "lyon'in tarihine tanıklık eden bir kale.",
+    "image": "https://picsum.photos/800/600?random=25",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.7461412,
+      "longitude": 4.6912334
+    },
+    "estimatedDuration": 62,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 177,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "lyon_27",
+    "name": "Hôtel d'Estaing",
+    "description": "lyon'de ziyaret edilebilecek popüler bir nokta: Hôtel d'Estaing.",
+    "image": "https://picsum.photos/800/600?random=26",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.7615067,
+      "longitude": 4.8272594
+    },
+    "estimatedDuration": 62,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "lyon_28",
+    "name": "Maison des Canuts",
+    "description": "lyon'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=27",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 45.777106,
+      "longitude": 4.8336847
+    },
+    "estimatedDuration": 73,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "lyon_29",
+    "name": "stèle du génocide",
+    "description": "lyon'de ziyaret edilebilecek popüler bir nokta: stèle du génocide.",
+    "image": "https://picsum.photos/800/600?random=28",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.771351,
+      "longitude": 4.9874818
+    },
+    "estimatedDuration": 74,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 93,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "lyon_30",
+    "name": "Musée Jean Couty",
+    "description": "lyon'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=29",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 45.797918,
+      "longitude": 4.8293849
+    },
+    "estimatedDuration": 48,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 120,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "lyon_31",
+    "name": "Villa et Jardin Bagatelle",
+    "description": "lyon'de ziyaret edilebilecek popüler bir nokta: Villa et Jardin Bagatelle.",
+    "image": "https://picsum.photos/800/600?random=30",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.6661314,
+      "longitude": 4.8262489
+    },
+    "estimatedDuration": 58,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "lyon_32",
+    "name": "Maison forte de l'Izérable",
+    "description": "lyon'in tarihine tanıklık eden bir kale.",
+    "image": "https://picsum.photos/800/600?random=31",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.8972513,
+      "longitude": 4.7188532
+    },
+    "estimatedDuration": 80,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "lyon_33",
+    "name": "Espace culturel du christianisme à Lyon",
+    "description": "lyon'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=32",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 45.7600362,
+      "longitude": 4.8231111
+    },
+    "estimatedDuration": 42,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "lyon_34",
+    "name": "Musée des Moulages",
+    "description": "lyon'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=33",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 45.7515932,
+      "longitude": 4.8543123
+    },
+    "estimatedDuration": 57,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "lyon_35",
+    "name": "Pont d'Ainay",
+    "description": "lyon'de ziyaret edilebilecek popüler bir nokta: Pont d'Ainay.",
+    "image": "https://picsum.photos/800/600?random=34",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.7545257,
+      "longitude": 4.8254757
+    },
+    "estimatedDuration": 31,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 90,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "lyon_36",
+    "name": "Château de Janzé",
+    "description": "lyon'in tarihine tanıklık eden bir kale.",
+    "image": "https://picsum.photos/800/600?random=35",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.8629539,
+      "longitude": 4.732321
+    },
+    "estimatedDuration": 69,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "lyon_37",
+    "name": "Musco",
+    "description": "lyon'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=36",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 45.8144541,
+      "longitude": 4.7725724
+    },
+    "estimatedDuration": 70,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "lyon_38",
+    "name": "Musée d'art religieux de Fourvière",
+    "description": "lyon'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=37",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 45.7618667,
+      "longitude": 4.8226203
+    },
+    "estimatedDuration": 51,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "lyon_39",
+    "name": "France d'abord",
+    "description": "lyon'de ziyaret edilebilecek popüler bir nokta: France d'abord.",
+    "image": "https://picsum.photos/800/600?random=38",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.7554292,
+      "longitude": 4.8305479
+    },
+    "estimatedDuration": 76,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "lyon_40",
+    "name": "Château de Lissieu",
+    "description": "lyon'in tarihine tanıklık eden bir kale.",
+    "image": "https://picsum.photos/800/600?random=39",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.86535,
+      "longitude": 4.7426458
+    },
+    "estimatedDuration": 36,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "lyon_41",
+    "name": "Abbé Louis Rougeat de Marsonnat",
+    "description": "lyon'de ziyaret edilebilecek popüler bir nokta: Abbé Louis Rougeat de Marsonnat.",
+    "image": "https://picsum.photos/800/600?random=40",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.785499,
+      "longitude": 4.7346714
+    },
+    "estimatedDuration": 88,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "lyon_42",
+    "name": "Passage Thiaffait",
+    "description": "lyon'de ziyaret edilebilecek popüler bir nokta: Passage Thiaffait.",
+    "image": "https://picsum.photos/800/600?random=41",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.7697901,
+      "longitude": 4.8331681
+    },
+    "estimatedDuration": 86,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "lyon_43",
+    "name": "Martyrs de Lyon",
+    "description": "lyon'de ziyaret edilebilecek popüler bir nokta: Martyrs de Lyon.",
+    "image": "https://picsum.photos/800/600?random=42",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.7704953,
+      "longitude": 4.8306216
+    },
+    "estimatedDuration": 32,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "lyon_44",
+    "name": "Basilique de Fourvière",
+    "description": "lyon'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=43",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.7622856,
+      "longitude": 4.8225916
+    },
+    "estimatedDuration": 62,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 143,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "lyon_45",
+    "name": "Église Saint-Just",
+    "description": "lyon'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=44",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.7560036,
+      "longitude": 4.8204476
+    },
+    "estimatedDuration": 33,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 128,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "lyon_46",
+    "name": "Église Saint-Irénée",
+    "description": "lyon'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=45",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.7551218,
+      "longitude": 4.8136569
+    },
+    "estimatedDuration": 41,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "lyon_47",
+    "name": "Site archéologique de Saint-Just Les Minimes",
+    "description": "lyon'de ziyaret edilebilecek popüler bir nokta: Site archéologique de Saint-Just Les Minimes.",
+    "image": "https://picsum.photos/800/600?random=46",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.7555635,
+      "longitude": 4.8174406
+    },
+    "estimatedDuration": 73,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "lyon_48",
+    "name": "Église Sainte-Blandine",
+    "description": "lyon'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=47",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.7449134,
+      "longitude": 4.8236918
+    },
+    "estimatedDuration": 66,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 108,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "lyon_49",
+    "name": "Chapelle Saint-Thomas",
+    "description": "lyon'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=48",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.7620563,
+      "longitude": 4.822602
+    },
+    "estimatedDuration": 68,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "lyon_50",
+    "name": "Église de l'Annonciation",
+    "description": "lyon'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=49",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.7478048,
+      "longitude": 4.8461438
+    },
+    "estimatedDuration": 53,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 14,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "lyon_51",
+    "name": "Église Saint-Paul",
+    "description": "lyon'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=50",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.7666454,
+      "longitude": 4.827052
+    },
+    "estimatedDuration": 70,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 135,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "lyon_52",
+    "name": "Église Saint-Nizier",
+    "description": "lyon'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=51",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.7647159,
+      "longitude": 4.8336967
+    },
+    "estimatedDuration": 72,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "lyon_53",
+    "name": "Basilique Saint-Bonaventure",
+    "description": "lyon'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=52",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.763057,
+      "longitude": 4.8369311
+    },
+    "estimatedDuration": 64,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "lyon_54",
+    "name": "Église Notre-Dame Saint-Louis",
+    "description": "lyon'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=53",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.7506538,
+      "longitude": 4.8483835
+    },
+    "estimatedDuration": 31,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 131,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "lyon_55",
+    "name": "Église Saint-Pothin",
+    "description": "lyon'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=54",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.7661734,
+      "longitude": 4.846011
+    },
+    "estimatedDuration": 74,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "lyon_56",
+    "name": "Château d'Ombreval",
+    "description": "lyon'in tarihine tanıklık eden bir kale.",
+    "image": "https://picsum.photos/800/600?random=55",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.8777648,
+      "longitude": 4.8401758
+    },
+    "estimatedDuration": 77,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "lyon_57",
+    "name": "Grand Temple",
+    "description": "lyon'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=56",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 45.7619093,
+      "longitude": 4.8416182
+    },
+    "estimatedDuration": 35,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  }
+]

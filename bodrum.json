@@ -1,0 +1,182 @@
+[
+  {
+    "id": "bodrum_1",
+    "name": "Πλάτανος του Ιπποκράτη",
+    "description": "bodrum'de ziyaret edilebilecek popüler bir nokta: Πλάτανος του Ιπποκράτη.",
+    "image": "https://picsum.photos/800/600?random=0",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 36.8947582,
+      "longitude": 27.2909514
+    },
+    "estimatedDuration": 49,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "bodrum_2",
+    "name": "Zeki Müren Sanat Müzesi",
+    "description": "bodrum'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=1",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 37.0302623,
+      "longitude": 27.4397318
+    },
+    "estimatedDuration": 31,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "bodrum_3",
+    "name": "Bodrum Kalesi",
+    "description": "bodrum'in tarihine tanıklık eden bir kale.",
+    "image": "https://picsum.photos/800/600?random=2",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 37.0318147,
+      "longitude": 27.4292652
+    },
+    "estimatedDuration": 32,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "bodrum_4",
+    "name": "Myndos Kapısı",
+    "description": "bodrum'de ziyaret edilebilecek popüler bir nokta: Myndos Kapısı.",
+    "image": "https://picsum.photos/800/600?random=3",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 37.0376335,
+      "longitude": 27.4135636
+    },
+    "estimatedDuration": 75,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "bodrum_5",
+    "name": "Τζαμί της Λότζιας",
+    "description": "bodrum'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=4",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 36.8945649,
+      "longitude": 27.2907876
+    },
+    "estimatedDuration": 57,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "bodrum_6",
+    "name": "Halikarnas Mozolesi",
+    "description": "bodrum'de ziyaret edilebilecek popüler bir nokta: Halikarnas Mozolesi.",
+    "image": "https://picsum.photos/800/600?random=5",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 37.0378008,
+      "longitude": 27.4241447
+    },
+    "estimatedDuration": 76,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "bodrum_7",
+    "name": "Aya Nikola Kilisesi",
+    "description": "bodrum'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=6",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 37.0333869,
+      "longitude": 27.4315621
+    },
+    "estimatedDuration": 85,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "bodrum_8",
+    "name": "Pedasa Antique City",
+    "description": "bodrum'de ziyaret edilebilecek popüler bir nokta: Pedasa Antique City.",
+    "image": "https://picsum.photos/800/600?random=7",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 37.0682156,
+      "longitude": 27.4221187
+    },
+    "estimatedDuration": 50,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "bodrum_9",
+    "name": "Bodrum Antik Tiyatrosu",
+    "description": "bodrum'de ziyaret edilebilecek popüler bir nokta: Bodrum Antik Tiyatrosu.",
+    "image": "https://picsum.photos/800/600?random=8",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 37.0402196,
+      "longitude": 27.4215082
+    },
+    "estimatedDuration": 86,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "bodrum_10",
+    "name": "Κάστρο της Νερατζιάς",
+    "description": "bodrum'in tarihine tanıklık eden bir kale.",
+    "image": "https://images.pexels.com/photos/30563627/pexels-photo-30563627.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 36.8962971,
+      "longitude": 27.290157
+    },
+    "estimatedDuration": 51,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 55,
+    "interests": [
+      "Tarihi"
+    ]
+  }
+]

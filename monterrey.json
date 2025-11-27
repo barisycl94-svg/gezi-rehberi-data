@@ -1,0 +1,128 @@
+[
+  {
+    "id": "monterrey_1",
+    "name": "Mirador panorama",
+    "description": "monterrey'de ziyaret edilebilecek popüler bir nokta: Mirador panorama.",
+    "image": "https://picsum.photos/800/600?random=0",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 4.8766877,
+      "longitude": -72.9011559
+    },
+    "estimatedDuration": 51,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 68,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "monterrey_2",
+    "name": "Pozo la roca stp",
+    "description": "monterrey'de ziyaret edilebilecek popüler bir nokta: Pozo la roca stp.",
+    "image": "https://picsum.photos/800/600?random=1",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 4.8765682,
+      "longitude": -72.885652
+    },
+    "estimatedDuration": 69,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "monterrey_3",
+    "name": "Plazoleta cultural de la paz",
+    "description": "monterrey'de ziyaret edilebilecek popüler bir nokta: Plazoleta cultural de la paz.",
+    "image": "https://images.pexels.com/photos/4353033/pexels-photo-4353033.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 4.8769302,
+      "longitude": -72.8967369
+    },
+    "estimatedDuration": 48,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "monterrey_4",
+    "name": "Placa polideportiva y sendero peatonal",
+    "description": "monterrey'de ziyaret edilebilecek popüler bir nokta: Placa polideportiva y sendero peatonal.",
+    "image": "https://images.pexels.com/photos/17480034/pexels-photo-17480034.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 4.8881886,
+      "longitude": -72.8932933
+    },
+    "estimatedDuration": 73,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 174,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "monterrey_5",
+    "name": "Mirador",
+    "description": "monterrey'de ziyaret edilebilecek popüler bir nokta: Mirador.",
+    "image": "https://picsum.photos/800/600?random=4",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 4.9300724,
+      "longitude": -72.8289909
+    },
+    "estimatedDuration": 30,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "monterrey_6",
+    "name": "Mirador y piscina sol y luna",
+    "description": "monterrey'de ziyaret edilebilecek popüler bir nokta: Mirador y piscina sol y luna.",
+    "image": "https://images.pexels.com/photos/5267653/pexels-photo-5267653.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 4.9188872,
+      "longitude": -72.9268934
+    },
+    "estimatedDuration": 35,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "monterrey_7",
+    "name": "Buenavista",
+    "description": "monterrey'de ziyaret edilebilecek popüler bir nokta: Buenavista.",
+    "image": "https://picsum.photos/800/600?random=6",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 4.931028,
+      "longitude": -72.8289926
+    },
+    "estimatedDuration": 39,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  }
+]

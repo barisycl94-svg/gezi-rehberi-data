@@ -1,0 +1,1064 @@
+[
+  {
+    "id": "galapagos_1",
+    "name": "Adorno Ampel",
+    "description": "galapagos'de ziyaret edilebilecek popüler bir nokta: Adorno Ampel.",
+    "image": "https://picsum.photos/800/600?random=0",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.1181957,
+      "longitude": 8.6534324
+    },
+    "estimatedDuration": 74,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "galapagos_2",
+    "name": "Zeppelin-Museum Zeppelinheim",
+    "description": "galapagos'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=1",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 50.0349774,
+      "longitude": 8.6144989
+    },
+    "estimatedDuration": 79,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "galapagos_3",
+    "name": "Römer",
+    "description": "galapagos'de ziyaret edilebilecek popüler bir nokta: Römer.",
+    "image": "https://picsum.photos/800/600?random=2",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.1104684,
+      "longitude": 8.6816587
+    },
+    "estimatedDuration": 55,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "galapagos_4",
+    "name": "Kaiserpfalz franconofurd",
+    "description": "galapagos'de ziyaret edilebilecek popüler bir nokta: Kaiserpfalz franconofurd.",
+    "image": "https://picsum.photos/800/600?random=3",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.1105562,
+      "longitude": 8.6843013
+    },
+    "estimatedDuration": 74,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "galapagos_5",
+    "name": "Leopoldsäule",
+    "description": "galapagos'de ziyaret edilebilecek popüler bir nokta: Leopoldsäule.",
+    "image": "https://picsum.photos/800/600?random=4",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.1605731,
+      "longitude": 8.7334627
+    },
+    "estimatedDuration": 42,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "galapagos_6",
+    "name": "Burgruine Königstein",
+    "description": "galapagos'in tarihine tanıklık eden bir kale.",
+    "image": "https://picsum.photos/800/600?random=5",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.1825059,
+      "longitude": 8.4609769
+    },
+    "estimatedDuration": 65,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "galapagos_7",
+    "name": "Faulbornquelle (Schwefel)",
+    "description": "galapagos'de ziyaret edilebilecek popüler bir nokta: Faulbornquelle (Schwefel).",
+    "image": "https://picsum.photos/800/600?random=6",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.0335436,
+      "longitude": 8.4282792
+    },
+    "estimatedDuration": 30,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "galapagos_8",
+    "name": "Hofgut Patershausen",
+    "description": "galapagos'de ziyaret edilebilecek popüler bir nokta: Hofgut Patershausen.",
+    "image": "https://picsum.photos/800/600?random=7",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.0339642,
+      "longitude": 8.8060516
+    },
+    "estimatedDuration": 56,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "galapagos_9",
+    "name": "Hardtbergturm",
+    "description": "galapagos'de ziyaret edilebilecek popüler bir nokta: Hardtbergturm.",
+    "image": "https://picsum.photos/800/600?random=8",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.1761825,
+      "longitude": 8.4828817
+    },
+    "estimatedDuration": 69,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "galapagos_10",
+    "name": "Museum Angewandte Kunst",
+    "description": "galapagos'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=9",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 50.1062658,
+      "longitude": 8.6809469
+    },
+    "estimatedDuration": 40,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 8,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "galapagos_11",
+    "name": "Städel Museum",
+    "description": "galapagos'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=10",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 50.1032949,
+      "longitude": 8.6738582
+    },
+    "estimatedDuration": 85,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "galapagos_12",
+    "name": "Liebieghaus Skulpturensammlung",
+    "description": "galapagos'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=11",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 50.1016651,
+      "longitude": 8.6717478
+    },
+    "estimatedDuration": 60,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 62,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "galapagos_13",
+    "name": "Burg Dorfelden",
+    "description": "galapagos'in tarihine tanıklık eden bir kale.",
+    "image": "https://picsum.photos/800/600?random=12",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.1969243,
+      "longitude": 8.802429
+    },
+    "estimatedDuration": 35,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "galapagos_14",
+    "name": "Römische Töpferöfen",
+    "description": "galapagos'de ziyaret edilebilecek popüler bir nokta: Römische Töpferöfen.",
+    "image": "https://picsum.photos/800/600?random=13",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.1571217,
+      "longitude": 8.6361682
+    },
+    "estimatedDuration": 44,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 39,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "galapagos_15",
+    "name": "Gickelsburg",
+    "description": "galapagos'in tarihine tanıklık eden bir kale.",
+    "image": "https://picsum.photos/800/600?random=14",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.2684737,
+      "longitude": 8.5890989
+    },
+    "estimatedDuration": 82,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 196,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "galapagos_16",
+    "name": "Burg Nürings",
+    "description": "galapagos'in tarihine tanıklık eden bir kale.",
+    "image": "https://picsum.photos/800/600?random=15",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.1895713,
+      "longitude": 8.4759988
+    },
+    "estimatedDuration": 44,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "galapagos_17",
+    "name": "Russisch-orthodoxe Allerheiligen-Kirche",
+    "description": "galapagos'in tarihi ibadet yapılarından biri.",
+    "image": "https://images.pexels.com/photos/34915468/pexels-photo-34915468.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.2257289,
+      "longitude": 8.6251358
+    },
+    "estimatedDuration": 88,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "galapagos_18",
+    "name": "Aequatorial-Sonnenuhr",
+    "description": "galapagos'de ziyaret edilebilecek popüler bir nokta: Aequatorial-Sonnenuhr.",
+    "image": "https://picsum.photos/800/600?random=17",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.1089918,
+      "longitude": 8.6910952
+    },
+    "estimatedDuration": 63,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "galapagos_19",
+    "name": "Oberwaldberg",
+    "description": "galapagos'de ziyaret edilebilecek popüler bir nokta: Oberwaldberg.",
+    "image": "https://picsum.photos/800/600?random=18",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 49.9889289,
+      "longitude": 8.5917966
+    },
+    "estimatedDuration": 72,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "galapagos_20",
+    "name": "Altes Schloß Büdesheim",
+    "description": "galapagos'in tarihine tanıklık eden bir kale.",
+    "image": "https://picsum.photos/800/600?random=19",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.2142698,
+      "longitude": 8.8355243
+    },
+    "estimatedDuration": 54,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "galapagos_21",
+    "name": "Burg Wonnecken",
+    "description": "galapagos'in tarihine tanıklık eden bir kale.",
+    "image": "https://picsum.photos/800/600?random=20",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.2237025,
+      "longitude": 8.8803085
+    },
+    "estimatedDuration": 88,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "galapagos_22",
+    "name": "Hünerberg",
+    "description": "galapagos'de ziyaret edilebilecek popüler bir nokta: Hünerberg.",
+    "image": "https://picsum.photos/800/600?random=21",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.2009158,
+      "longitude": 8.5182318
+    },
+    "estimatedDuration": 74,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "galapagos_23",
+    "name": "alte Sendestation \"Heiligenstock\"",
+    "description": "galapagos'de ziyaret edilebilecek popüler bir nokta: alte Sendestation \"Heiligenstock\".",
+    "image": "https://picsum.photos/800/600?random=22",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.1546334,
+      "longitude": 8.7109838
+    },
+    "estimatedDuration": 79,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "galapagos_24",
+    "name": "Bockenheimer Warte",
+    "description": "galapagos'de ziyaret edilebilecek popüler bir nokta: Bockenheimer Warte.",
+    "image": "https://picsum.photos/800/600?random=23",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.120105,
+      "longitude": 8.6508864
+    },
+    "estimatedDuration": 55,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 169,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "galapagos_25",
+    "name": "Brunhildisfelsen",
+    "description": "galapagos'de ziyaret edilebilecek popüler bir nokta: Brunhildisfelsen.",
+    "image": "https://picsum.photos/800/600?random=24",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.2341854,
+      "longitude": 8.4578751
+    },
+    "estimatedDuration": 39,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "galapagos_26",
+    "name": "Goethedenkmal",
+    "description": "galapagos'de ziyaret edilebilecek popüler bir nokta: Goethedenkmal.",
+    "image": "https://picsum.photos/800/600?random=25",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.1132698,
+      "longitude": 8.6765767
+    },
+    "estimatedDuration": 85,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 84,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "galapagos_27",
+    "name": "Gutenberg-Denkmal",
+    "description": "galapagos'de ziyaret edilebilecek popüler bir nokta: Gutenberg-Denkmal.",
+    "image": "https://picsum.photos/800/600?random=26",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.1122579,
+      "longitude": 8.6764086
+    },
+    "estimatedDuration": 40,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "galapagos_28",
+    "name": "Hessendenkmal",
+    "description": "galapagos'de ziyaret edilebilecek popüler bir nokta: Hessendenkmal.",
+    "image": "https://picsum.photos/800/600?random=27",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.1197151,
+      "longitude": 8.6896276
+    },
+    "estimatedDuration": 57,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "galapagos_29",
+    "name": "Weltkulturen Museum",
+    "description": "galapagos'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=28",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 50.1057385,
+      "longitude": 8.6793625
+    },
+    "estimatedDuration": 83,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "galapagos_30",
+    "name": "Ringwall Altkönig",
+    "description": "galapagos'de ziyaret edilebilecek popüler bir nokta: Ringwall Altkönig.",
+    "image": "https://picsum.photos/800/600?random=29",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.211431,
+      "longitude": 8.4810417
+    },
+    "estimatedDuration": 35,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "galapagos_31",
+    "name": "Johannes-Kirche",
+    "description": "galapagos'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=30",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.051399,
+      "longitude": 8.6856619
+    },
+    "estimatedDuration": 72,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "galapagos_32",
+    "name": "Ellerhöhturm",
+    "description": "galapagos'de ziyaret edilebilecek popüler bir nokta: Ellerhöhturm.",
+    "image": "https://picsum.photos/800/600?random=31",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.2307547,
+      "longitude": 8.6341628
+    },
+    "estimatedDuration": 70,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "galapagos_33",
+    "name": "Hessisches Puppenmuseum",
+    "description": "galapagos'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=32",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 50.1487031,
+      "longitude": 8.882689
+    },
+    "estimatedDuration": 34,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "galapagos_34",
+    "name": "Gedenkstein zum Flugzeugabsturz 22. Januar 1971",
+    "description": "galapagos'de ziyaret edilebilecek popüler bir nokta: Gedenkstein zum Flugzeugabsturz 22. Januar 1971.",
+    "image": "https://picsum.photos/800/600?random=33",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.2049917,
+      "longitude": 8.4847069
+    },
+    "estimatedDuration": 78,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "galapagos_35",
+    "name": "Wasserturm",
+    "description": "galapagos'de ziyaret edilebilecek popüler bir nokta: Wasserturm.",
+    "image": "https://picsum.photos/800/600?random=34",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.133673,
+      "longitude": 8.4954365
+    },
+    "estimatedDuration": 38,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "galapagos_36",
+    "name": "Deutsches Filmmuseum",
+    "description": "galapagos'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=35",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 50.1050639,
+      "longitude": 8.6776864
+    },
+    "estimatedDuration": 75,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "galapagos_37",
+    "name": "Deutsches Architekturmuseum",
+    "description": "galapagos'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=36",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 50.104975,
+      "longitude": 8.6773143
+    },
+    "estimatedDuration": 83,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "galapagos_38",
+    "name": "Simmetseiche",
+    "description": "galapagos'de ziyaret edilebilecek popüler bir nokta: Simmetseiche.",
+    "image": "https://picsum.photos/800/600?random=37",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.1600745,
+      "longitude": 8.8759464
+    },
+    "estimatedDuration": 89,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "galapagos_39",
+    "name": "Gedenkstätte Arbeitserziehungslager Heddernheim",
+    "description": "galapagos'de ziyaret edilebilecek popüler bir nokta: Gedenkstätte Arbeitserziehungslager Heddernheim.",
+    "image": "https://picsum.photos/800/600?random=38",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.1641608,
+      "longitude": 8.6403567
+    },
+    "estimatedDuration": 83,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 10,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "galapagos_40",
+    "name": "Museum Schloss Steinheim",
+    "description": "galapagos'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=39",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 50.1086509,
+      "longitude": 8.9162063
+    },
+    "estimatedDuration": 31,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 155,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "galapagos_41",
+    "name": "Klingspor Museum",
+    "description": "galapagos'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=40",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 50.107786,
+      "longitude": 8.7611609
+    },
+    "estimatedDuration": 50,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "galapagos_43",
+    "name": "Frankfurter Engel",
+    "description": "galapagos'de ziyaret edilebilecek popüler bir nokta: Frankfurter Engel.",
+    "image": "https://picsum.photos/800/600?random=42",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.1168251,
+      "longitude": 8.6851926
+    },
+    "estimatedDuration": 40,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "galapagos_44",
+    "name": "Burg Kronberg",
+    "description": "galapagos'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=43",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 50.1810909,
+      "longitude": 8.5066643
+    },
+    "estimatedDuration": 82,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "galapagos_45",
+    "name": "Friederike Boley, geb. Neuhaus",
+    "description": "galapagos'de ziyaret edilebilecek popüler bir nokta: Friederike Boley, geb. Neuhaus.",
+    "image": "https://picsum.photos/800/600?random=44",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.1058973,
+      "longitude": 8.7561309
+    },
+    "estimatedDuration": 35,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "galapagos_46",
+    "name": "Antonie Grosch, geb. Feinkorn",
+    "description": "galapagos'de ziyaret edilebilecek popüler bir nokta: Antonie Grosch, geb. Feinkorn.",
+    "image": "https://picsum.photos/800/600?random=45",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.1058904,
+      "longitude": 8.7561466
+    },
+    "estimatedDuration": 32,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "galapagos_47",
+    "name": "Elisabeth Grosch, geb. Lövi",
+    "description": "galapagos'de ziyaret edilebilecek popüler bir nokta: Elisabeth Grosch, geb. Lövi.",
+    "image": "https://picsum.photos/800/600?random=46",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.1058983,
+      "longitude": 8.7561436
+    },
+    "estimatedDuration": 67,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "galapagos_48",
+    "name": "Robert Boley",
+    "description": "galapagos'de ziyaret edilebilecek popüler bir nokta: Robert Boley.",
+    "image": "https://picsum.photos/800/600?random=47",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.1058897,
+      "longitude": 8.7561309
+    },
+    "estimatedDuration": 57,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 122,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "galapagos_49",
+    "name": "Leo Reinhardt",
+    "description": "galapagos'de ziyaret edilebilecek popüler bir nokta: Leo Reinhardt.",
+    "image": "https://picsum.photos/800/600?random=48",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.1068004,
+      "longitude": 8.7530554
+    },
+    "estimatedDuration": 60,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "galapagos_50",
+    "name": "Siegfried Reinhardt",
+    "description": "galapagos'de ziyaret edilebilecek popüler bir nokta: Siegfried Reinhardt.",
+    "image": "https://picsum.photos/800/600?random=49",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.1068015,
+      "longitude": 8.753024
+    },
+    "estimatedDuration": 33,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "galapagos_51",
+    "name": "Albert Boley",
+    "description": "galapagos'de ziyaret edilebilecek popüler bir nokta: Albert Boley.",
+    "image": "https://picsum.photos/800/600?random=50",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.1068834,
+      "longitude": 8.7534392
+    },
+    "estimatedDuration": 55,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 54,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "galapagos_52",
+    "name": "Klara Boley, geb. Reichold",
+    "description": "galapagos'de ziyaret edilebilecek popüler bir nokta: Klara Boley, geb. Reichold.",
+    "image": "https://picsum.photos/800/600?random=51",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.1068843,
+      "longitude": 8.7533959
+    },
+    "estimatedDuration": 35,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "galapagos_53",
+    "name": "Hilde Reinhardt, geb. Sender",
+    "description": "galapagos'de ziyaret edilebilecek popüler bir nokta: Hilde Reinhardt, geb. Sender.",
+    "image": "https://picsum.photos/800/600?random=52",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.1067981,
+      "longitude": 8.7530825
+    },
+    "estimatedDuration": 43,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 64,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "galapagos_54",
+    "name": "Karl Amborn",
+    "description": "galapagos'de ziyaret edilebilecek popüler bir nokta: Karl Amborn.",
+    "image": "https://picsum.photos/800/600?random=53",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.1075778,
+      "longitude": 8.7637517
+    },
+    "estimatedDuration": 80,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "galapagos_55",
+    "name": "Willy Eisenreich",
+    "description": "galapagos'de ziyaret edilebilecek popüler bir nokta: Willy Eisenreich.",
+    "image": "https://picsum.photos/800/600?random=54",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.1064343,
+      "longitude": 8.7645074
+    },
+    "estimatedDuration": 76,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "galapagos_56",
+    "name": "Otto Schönhof",
+    "description": "galapagos'de ziyaret edilebilecek popüler bir nokta: Otto Schönhof.",
+    "image": "https://picsum.photos/800/600?random=55",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.1011407,
+      "longitude": 8.7683642
+    },
+    "estimatedDuration": 67,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "galapagos_57",
+    "name": "Martin Eichel",
+    "description": "galapagos'de ziyaret edilebilecek popüler bir nokta: Martin Eichel.",
+    "image": "https://picsum.photos/800/600?random=56",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.1065755,
+      "longitude": 8.7631622
+    },
+    "estimatedDuration": 43,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "galapagos_58",
+    "name": "Paula Luise Schönhof, Geb. Löwenstein",
+    "description": "galapagos'de ziyaret edilebilecek popüler bir nokta: Paula Luise Schönhof, Geb. Löwenstein.",
+    "image": "https://picsum.photos/800/600?random=57",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.1011169,
+      "longitude": 8.7683311
+    },
+    "estimatedDuration": 66,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "galapagos_59",
+    "name": "Jakob Andorn",
+    "description": "galapagos'de ziyaret edilebilecek popüler bir nokta: Jakob Andorn.",
+    "image": "https://picsum.photos/800/600?random=58",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.1019208,
+      "longitude": 8.7620182
+    },
+    "estimatedDuration": 71,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "galapagos_60",
+    "name": "Isaak Alexander",
+    "description": "galapagos'de ziyaret edilebilecek popüler bir nokta: Isaak Alexander.",
+    "image": "https://picsum.photos/800/600?random=59",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 50.1019211,
+      "longitude": 8.7620112
+    },
+    "estimatedDuration": 35,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  }
+]

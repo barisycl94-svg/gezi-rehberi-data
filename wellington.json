@@ -1,0 +1,218 @@
+[
+  {
+    "id": "wellington_1",
+    "name": "Kaiwharawhara",
+    "description": "wellington'de ziyaret edilebilecek popüler bir nokta: Kaiwharawhara.",
+    "image": "https://picsum.photos/800/600?random=0",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -41.2599922,
+      "longitude": 174.7914129
+    },
+    "estimatedDuration": 31,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "wellington_2",
+    "name": "Nany Wake",
+    "description": "wellington'de ziyaret edilebilecek popüler bir nokta: Nany Wake.",
+    "image": "https://picsum.photos/800/600?random=1",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -41.2908083,
+      "longitude": 174.7962116
+    },
+    "estimatedDuration": 65,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "wellington_3",
+    "name": "Wellington Botanic Garden",
+    "description": "wellington'de ziyaret edilebilecek popüler bir nokta: Wellington Botanic Garden.",
+    "image": "https://picsum.photos/800/600?random=2",
+    "category": "Park",
+    "coordinates": {
+      "latitude": -41.2825335,
+      "longitude": 174.7661336
+    },
+    "estimatedDuration": 30,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 60,
+    "interests": [
+      "Park"
+    ]
+  },
+  {
+    "id": "wellington_4",
+    "name": "Massey Memorial",
+    "description": "wellington'de ziyaret edilebilecek popüler bir nokta: Massey Memorial.",
+    "image": "https://picsum.photos/800/600?random=3",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -41.2850413,
+      "longitude": 174.8259923
+    },
+    "estimatedDuration": 31,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 48,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "wellington_5",
+    "name": "The Dowse Art Museum",
+    "description": "wellington'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=4",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": -41.2118076,
+      "longitude": 174.9043755
+    },
+    "estimatedDuration": 39,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 146,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "wellington_6",
+    "name": "Museum of New Zealand Te Papa Tongarewa",
+    "description": "wellington'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=5",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": -41.2903297,
+      "longitude": 174.7819889
+    },
+    "estimatedDuration": 78,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "wellington_7",
+    "name": "Saint Mary of the Angels",
+    "description": "wellington'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=6",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -41.2887657,
+      "longitude": 174.7739254
+    },
+    "estimatedDuration": 67,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "wellington_8",
+    "name": "Brooklyn War Memorial",
+    "description": "wellington'de ziyaret edilebilecek popüler bir nokta: Brooklyn War Memorial.",
+    "image": "https://picsum.photos/800/600?random=7",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -41.3054196,
+      "longitude": 174.7608475
+    },
+    "estimatedDuration": 42,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "wellington_9",
+    "name": "SS Hikitia",
+    "description": "wellington'de ziyaret edilebilecek popüler bir nokta: SS Hikitia.",
+    "image": "https://picsum.photos/800/600?random=8",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -41.2893172,
+      "longitude": 174.7804603
+    },
+    "estimatedDuration": 67,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "wellington_10",
+    "name": "Nairn Street Colonial Cottage",
+    "description": "wellington'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=9",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": -41.2992964,
+      "longitude": 174.7699613
+    },
+    "estimatedDuration": 46,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "wellington_11",
+    "name": "Fort Ballance",
+    "description": "wellington'in tarihine tanıklık eden bir kale.",
+    "image": "https://picsum.photos/800/600?random=10",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -41.2947035,
+      "longitude": 174.8345063
+    },
+    "estimatedDuration": 82,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "wellington_12",
+    "name": "Wellington Zoo",
+    "description": "wellington'de ziyaret edilebilecek popüler bir nokta: Wellington Zoo.",
+    "image": "https://picsum.photos/800/600?random=11",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -41.32191,
+      "longitude": 174.7843238
+    },
+    "estimatedDuration": 88,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 101,
+    "interests": [
+      "Tarihi"
+    ]
+  }
+]

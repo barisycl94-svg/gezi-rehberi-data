@@ -1,0 +1,128 @@
+[
+  {
+    "id": "samsun_1",
+    "name": "Atatürk Anıtı",
+    "description": "samsun'de ziyaret edilebilecek popüler bir nokta: Atatürk Anıtı.",
+    "image": "https://picsum.photos/800/600?random=0",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.2890874,
+      "longitude": 36.3364585
+    },
+    "estimatedDuration": 70,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "samsun_2",
+    "name": "Site Camii",
+    "description": "samsun'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=1",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.2883449,
+      "longitude": 36.3346658
+    },
+    "estimatedDuration": 55,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 192,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "samsun_3",
+    "name": "Büyük Camii",
+    "description": "samsun'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=2",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.2943834,
+      "longitude": 36.3326572
+    },
+    "estimatedDuration": 54,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "samsun_4",
+    "name": "Gazi Müzesi",
+    "description": "samsun'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=3",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 41.2901672,
+      "longitude": 36.3323887
+    },
+    "estimatedDuration": 37,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "samsun_5",
+    "name": "Pazar Cami",
+    "description": "samsun'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=4",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.2946215,
+      "longitude": 36.3311822
+    },
+    "estimatedDuration": 45,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 94,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "samsun_6",
+    "name": "Hançerli Camii",
+    "description": "samsun'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=5",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.2971858,
+      "longitude": 36.3304028
+    },
+    "estimatedDuration": 83,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 133,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "samsun_7",
+    "name": "Amazon Anıtı",
+    "description": "samsun'de ziyaret edilebilecek popüler bir nokta: Amazon Anıtı.",
+    "image": "https://picsum.photos/800/600?random=6",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 41.3238377,
+      "longitude": 36.3254589
+    },
+    "estimatedDuration": 69,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 58,
+    "interests": [
+      "Tarihi"
+    ]
+  }
+]

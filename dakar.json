@@ -1,0 +1,272 @@
+[
+  {
+    "id": "dakar_1",
+    "name": "Pointe des Almadies",
+    "description": "dakar'de ziyaret edilebilecek popüler bir nokta: Pointe des Almadies.",
+    "image": "https://picsum.photos/800/600?random=0",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 14.7410622,
+      "longitude": -17.529781
+    },
+    "estimatedDuration": 86,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "dakar_2",
+    "name": "Grotte de Seydina Limamou Laye",
+    "description": "dakar'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=1",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 14.7345153,
+      "longitude": -17.5112912
+    },
+    "estimatedDuration": 62,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "dakar_3",
+    "name": "Cathédrale du Souvenir africain",
+    "description": "dakar'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=2",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 14.665399,
+      "longitude": -17.4376119
+    },
+    "estimatedDuration": 89,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "dakar_4",
+    "name": "Monument de la Renaissance Africaine",
+    "description": "dakar'de ziyaret edilebilecek popüler bir nokta: Monument de la Renaissance Africaine.",
+    "image": "https://images.pexels.com/photos/13987005/pexels-photo-13987005.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 14.7221473,
+      "longitude": -17.4949655
+    },
+    "estimatedDuration": 79,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 83,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "dakar_5",
+    "name": "Église Saint-Charles-Borromée",
+    "description": "dakar'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=4",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 14.666948,
+      "longitude": -17.3979821
+    },
+    "estimatedDuration": 49,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 182,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "dakar_6",
+    "name": "Musée de la Mer",
+    "description": "dakar'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=5",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 14.6683505,
+      "longitude": -17.399902
+    },
+    "estimatedDuration": 32,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 9,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "dakar_7",
+    "name": "Ancien Musée de la Femme",
+    "description": "dakar'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=6",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 14.6675827,
+      "longitude": -17.3974813
+    },
+    "estimatedDuration": 57,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "dakar_8",
+    "name": "Mosquée de Gorée",
+    "description": "dakar'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=7",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 14.665703,
+      "longitude": -17.3988739
+    },
+    "estimatedDuration": 54,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 157,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "dakar_9",
+    "name": "Musée Théodore-Monod d'Art africain",
+    "description": "dakar'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=8",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 14.663699,
+      "longitude": -17.4383434
+    },
+    "estimatedDuration": 62,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 18,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "dakar_10",
+    "name": "Mémorial de Gorée",
+    "description": "dakar'de ziyaret edilebilecek popüler bir nokta: Mémorial de Gorée.",
+    "image": "https://picsum.photos/800/600?random=9",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 14.6646817,
+      "longitude": -17.39787
+    },
+    "estimatedDuration": 61,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "dakar_11",
+    "name": "Musée des Civilisations Noires",
+    "description": "dakar'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=10",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 14.6774489,
+      "longitude": -17.4350736
+    },
+    "estimatedDuration": 68,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 65,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "dakar_12",
+    "name": "Maison des Esclaves",
+    "description": "dakar'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=11",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 14.6676502,
+      "longitude": -17.3972964
+    },
+    "estimatedDuration": 47,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "dakar_13",
+    "name": "Grande Mosquée de Dakar",
+    "description": "dakar'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=12",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 14.6781808,
+      "longitude": -17.4425136
+    },
+    "estimatedDuration": 83,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "dakar_14",
+    "name": "Ngor",
+    "description": "dakar'de ziyaret edilebilecek popüler bir nokta: Ngor.",
+    "image": "https://picsum.photos/800/600?random=13",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 14.7559764,
+      "longitude": -17.5141032
+    },
+    "estimatedDuration": 77,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "dakar_15",
+    "name": "Fort d'Estrée",
+    "description": "dakar'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=14",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 14.6707272,
+      "longitude": -17.3995656
+    },
+    "estimatedDuration": 37,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  }
+]

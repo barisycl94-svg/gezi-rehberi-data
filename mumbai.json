@@ -1,0 +1,650 @@
+[
+  {
+    "id": "mumbai_1",
+    "name": "Kala Qila",
+    "description": "mumbai'de ziyaret edilebilecek popüler bir nokta: Kala Qila.",
+    "image": "https://picsum.photos/800/600?random=0",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 19.0509899,
+      "longitude": 72.8601653
+    },
+    "estimatedDuration": 81,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "mumbai_2",
+    "name": "माहीम किल्ला",
+    "description": "mumbai'de ziyaret edilebilecek popüler bir nokta: माहीम किल्ला.",
+    "image": "https://picsum.photos/800/600?random=1",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 19.0420113,
+      "longitude": 72.8381267
+    },
+    "estimatedDuration": 67,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "mumbai_3",
+    "name": "हाजी अली दर्गा",
+    "description": "mumbai'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=2",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 18.9828229,
+      "longitude": 72.8089926
+    },
+    "estimatedDuration": 31,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 27,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "mumbai_4",
+    "name": "भाऊ दाजी लाड संग्रहालय",
+    "description": "mumbai'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=3",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 18.9791636,
+      "longitude": 72.8348012
+    },
+    "estimatedDuration": 87,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "mumbai_5",
+    "name": "नॅशनल गॅलरी ऑफ मॉडर्न आर्ट",
+    "description": "mumbai'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=4",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 18.9258376,
+      "longitude": 72.8313854
+    },
+    "estimatedDuration": 70,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "mumbai_6",
+    "name": "Elephanta Caves",
+    "description": "mumbai'de ziyaret edilebilecek popüler bir nokta: Elephanta Caves.",
+    "image": "https://picsum.photos/800/600?random=5",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 18.9630478,
+      "longitude": 72.931902
+    },
+    "estimatedDuration": 72,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 155,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "mumbai_9",
+    "name": "Mazagaon Fort",
+    "description": "mumbai'de ziyaret edilebilecek popüler bir nokta: Mazagaon Fort.",
+    "image": "https://picsum.photos/800/600?random=8",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 18.9670372,
+      "longitude": 72.8429
+    },
+    "estimatedDuration": 54,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 39,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "mumbai_10",
+    "name": "Nariman Point",
+    "description": "mumbai'de ziyaret edilebilecek popüler bir nokta: Nariman Point.",
+    "image": "https://images.pexels.com/photos/268362/pexels-photo-268362.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 18.9253433,
+      "longitude": 72.8180282
+    },
+    "estimatedDuration": 30,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 151,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "mumbai_11",
+    "name": "Marine Drive, Mumbai",
+    "description": "mumbai'de ziyaret edilebilecek popüler bir nokta: Marine Drive, Mumbai.",
+    "image": "https://picsum.photos/800/600?random=10",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 18.9414868,
+      "longitude": 72.8238464
+    },
+    "estimatedDuration": 33,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "mumbai_12",
+    "name": "St. John the Baptist Church",
+    "description": "mumbai'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=11",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 19.121741,
+      "longitude": 72.8744012
+    },
+    "estimatedDuration": 89,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 89,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "mumbai_13",
+    "name": "Gateway of India - गेटवे ऑफ इंडिया",
+    "description": "mumbai'de ziyaret edilebilecek popüler bir nokta: Gateway of India - गेटवे ऑफ इंडिया.",
+    "image": "https://picsum.photos/800/600?random=12",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 18.9219626,
+      "longitude": 72.8345609
+    },
+    "estimatedDuration": 49,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "mumbai_14",
+    "name": "Banganga Tank",
+    "description": "mumbai'de ziyaret edilebilecek popüler bir nokta: Banganga Tank.",
+    "image": "https://picsum.photos/800/600?random=13",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 18.9454866,
+      "longitude": 72.7936879
+    },
+    "estimatedDuration": 56,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "mumbai_15",
+    "name": "Mani Bhavan",
+    "description": "mumbai'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=14",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 18.9598898,
+      "longitude": 72.8114984
+    },
+    "estimatedDuration": 49,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "mumbai_16",
+    "name": "Afghan Church",
+    "description": "mumbai'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=15",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 18.9056984,
+      "longitude": 72.815894
+    },
+    "estimatedDuration": 46,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "mumbai_17",
+    "name": "Dr. Bhau Daji Lad Museum",
+    "description": "mumbai'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=16",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 18.9791705,
+      "longitude": 72.8348102
+    },
+    "estimatedDuration": 39,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 88,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "mumbai_18",
+    "name": "Flora Fountain",
+    "description": "mumbai'de ziyaret edilebilecek popüler bir nokta: Flora Fountain.",
+    "image": "https://picsum.photos/800/600?random=17",
+    "category": "Park",
+    "coordinates": {
+      "latitude": 18.9324913,
+      "longitude": 72.8315008
+    },
+    "estimatedDuration": 48,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Park"
+    ]
+  },
+  {
+    "id": "mumbai_19",
+    "name": "Gilbert Hill",
+    "description": "mumbai'de ziyaret edilebilecek popüler bir nokta: Gilbert Hill.",
+    "image": "https://picsum.photos/800/600?random=18",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 19.1205355,
+      "longitude": 72.8399617
+    },
+    "estimatedDuration": 74,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 39,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "mumbai_20",
+    "name": "Chhatrapati Shivaji Maharaj Terminus",
+    "description": "mumbai'de ziyaret edilebilecek popüler bir nokta: Chhatrapati Shivaji Maharaj Terminus.",
+    "image": "https://picsum.photos/800/600?random=19",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 18.9398631,
+      "longitude": 72.8354028
+    },
+    "estimatedDuration": 39,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 149,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "mumbai_21",
+    "name": "Magen David Synagogue",
+    "description": "mumbai'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=20",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 18.9669496,
+      "longitude": 72.8320783
+    },
+    "estimatedDuration": 34,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "mumbai_22",
+    "name": "St. Andrew's",
+    "description": "mumbai'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=21",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 19.0550662,
+      "longitude": 72.8246651
+    },
+    "estimatedDuration": 45,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 183,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "mumbai_23",
+    "name": "St, Michael's Church",
+    "description": "mumbai'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=22",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 19.042772,
+      "longitude": 72.8407926
+    },
+    "estimatedDuration": 86,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "mumbai_24",
+    "name": "Chhatrapati Shivaji Maharaj Vastu Sangrahalaya",
+    "description": "mumbai'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=23",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 18.9268332,
+      "longitude": 72.8326013
+    },
+    "estimatedDuration": 56,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 186,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "mumbai_25",
+    "name": "Portuguese Church",
+    "description": "mumbai'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=24",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 19.0186203,
+      "longitude": 72.8364514
+    },
+    "estimatedDuration": 36,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "mumbai_26",
+    "name": "Mount Mary Church",
+    "description": "mumbai'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=25",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 19.0465683,
+      "longitude": 72.822641
+    },
+    "estimatedDuration": 80,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 107,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "mumbai_27",
+    "name": "Walkeshwar Temple",
+    "description": "mumbai'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=26",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 18.9456145,
+      "longitude": 72.7932007
+    },
+    "estimatedDuration": 70,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 193,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "mumbai_28",
+    "name": "सायन किल्ला",
+    "description": "mumbai'in tarihine tanıklık eden bir kale.",
+    "image": "https://picsum.photos/800/600?random=27",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 19.046611,
+      "longitude": 72.8676018
+    },
+    "estimatedDuration": 40,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "mumbai_29",
+    "name": "Mahakali Caves",
+    "description": "mumbai'de ziyaret edilebilecek popüler bir nokta: Mahakali Caves.",
+    "image": "https://picsum.photos/800/600?random=28",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 19.1304674,
+      "longitude": 72.8736287
+    },
+    "estimatedDuration": 65,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "mumbai_30",
+    "name": "Holy Cross Church",
+    "description": "mumbai'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=29",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 19.0833469,
+      "longitude": 72.8871617
+    },
+    "estimatedDuration": 85,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 60,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "mumbai_31",
+    "name": "Jogeshwari Caves",
+    "description": "mumbai'de ziyaret edilebilecek popüler bir nokta: Jogeshwari Caves.",
+    "image": "https://picsum.photos/800/600?random=30",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 19.1389347,
+      "longitude": 72.8570191
+    },
+    "estimatedDuration": 80,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "mumbai_32",
+    "name": "Sewri Fort",
+    "description": "mumbai'de ziyaret edilebilecek popüler bir nokta: Sewri Fort.",
+    "image": "https://picsum.photos/800/600?random=31",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 19.0005078,
+      "longitude": 72.8601265
+    },
+    "estimatedDuration": 87,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "mumbai_33",
+    "name": "Our Lady of Egypt Church Kalina",
+    "description": "mumbai'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=32",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 19.0784023,
+      "longitude": 72.8692144
+    },
+    "estimatedDuration": 50,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 125,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "mumbai_34",
+    "name": "Mahalakshmi Mandir",
+    "description": "mumbai'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=33",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 18.9773657,
+      "longitude": 72.8064638
+    },
+    "estimatedDuration": 38,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "mumbai_35",
+    "name": "Nehru Science Centre",
+    "description": "mumbai'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=34",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 18.9905811,
+      "longitude": 72.8186348
+    },
+    "estimatedDuration": 89,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "mumbai_36",
+    "name": "Chaitya Bhumi",
+    "description": "mumbai'de ziyaret edilebilecek popüler bir nokta: Chaitya Bhumi.",
+    "image": "https://picsum.photos/800/600?random=35",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 19.0250913,
+      "longitude": 72.8338256
+    },
+    "estimatedDuration": 46,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "mumbai_37",
+    "name": "Gloria Church",
+    "description": "mumbai'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=36",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 18.975125,
+      "longitude": 72.8343268
+    },
+    "estimatedDuration": 47,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 149,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "mumbai_38",
+    "name": "Kanheri Caves",
+    "description": "mumbai'de ziyaret edilebilecek popüler bir nokta: Kanheri Caves.",
+    "image": "https://picsum.photos/800/600?random=37",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 19.2084482,
+      "longitude": 72.9061824
+    },
+    "estimatedDuration": 87,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  }
+]

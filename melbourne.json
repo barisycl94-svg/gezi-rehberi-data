@@ -1,0 +1,812 @@
+[
+  {
+    "id": "melbourne_1",
+    "name": "Dights Falls",
+    "description": "melbourne'de ziyaret edilebilecek popüler bir nokta: Dights Falls.",
+    "image": "https://picsum.photos/800/600?random=0",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -37.7971601,
+      "longitude": 145.0010882
+    },
+    "estimatedDuration": 71,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "melbourne_2",
+    "name": "Carlton Mosque",
+    "description": "melbourne'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=1",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -37.7866593,
+      "longitude": 144.9704616
+    },
+    "estimatedDuration": 74,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 183,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "melbourne_3",
+    "name": "Melbourne Tram Museum",
+    "description": "melbourne'de ziyaret edilebilecek popüler bir nokta: Melbourne Tram Museum.",
+    "image": "https://picsum.photos/800/600?random=2",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -37.827188,
+      "longitude": 145.0244299
+    },
+    "estimatedDuration": 54,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 29,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "melbourne_4",
+    "name": "Greek Precinct",
+    "description": "melbourne'de ziyaret edilebilecek popüler bir nokta: Greek Precinct.",
+    "image": "https://picsum.photos/800/600?random=3",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -37.8110329,
+      "longitude": 144.9666272
+    },
+    "estimatedDuration": 79,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "melbourne_5",
+    "name": "Lygon Street",
+    "description": "melbourne'de ziyaret edilebilecek popüler bir nokta: Lygon Street.",
+    "image": "https://images.pexels.com/photos/34936137/pexels-photo-34936137.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -37.7777874,
+      "longitude": 144.9707771
+    },
+    "estimatedDuration": 45,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "melbourne_6",
+    "name": "Brighton Bathing Boxes",
+    "description": "melbourne'de ziyaret edilebilecek popüler bir nokta: Brighton Bathing Boxes.",
+    "image": "https://picsum.photos/800/600?random=5",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -37.9175618,
+      "longitude": 144.9864144
+    },
+    "estimatedDuration": 31,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "melbourne_7",
+    "name": "Bourke Street Mall",
+    "description": "melbourne'de ziyaret edilebilecek popüler bir nokta: Bourke Street Mall.",
+    "image": "https://images.pexels.com/photos/2036262/pexels-photo-2036262.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -37.8138383,
+      "longitude": 144.9644426
+    },
+    "estimatedDuration": 72,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "melbourne_8",
+    "name": "Melbourne City Square",
+    "description": "melbourne'de ziyaret edilebilecek popüler bir nokta: Melbourne City Square.",
+    "image": "https://picsum.photos/800/600?random=7",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -37.8162817,
+      "longitude": 144.967009
+    },
+    "estimatedDuration": 65,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 108,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "melbourne_10",
+    "name": "Batman's Hill",
+    "description": "melbourne'de ziyaret edilebilecek popüler bir nokta: Batman's Hill.",
+    "image": "https://picsum.photos/800/600?random=9",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -37.8193858,
+      "longitude": 144.9539139
+    },
+    "estimatedDuration": 73,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "melbourne_11",
+    "name": "The Redeemed Christian Church of God King's Court",
+    "description": "melbourne'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=10",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -37.7306066,
+      "longitude": 144.9581704
+    },
+    "estimatedDuration": 35,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "melbourne_12",
+    "name": "Melbourne Holocaust Museum",
+    "description": "melbourne'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=11",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": -37.8834043,
+      "longitude": 145.0010897
+    },
+    "estimatedDuration": 78,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "melbourne_13",
+    "name": "Royal Exhibition Building",
+    "description": "melbourne'de ziyaret edilebilecek popüler bir nokta: Royal Exhibition Building.",
+    "image": "https://picsum.photos/800/600?random=12",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -37.8046682,
+      "longitude": 144.9714988
+    },
+    "estimatedDuration": 58,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 9,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "melbourne_14",
+    "name": "Flagstaff Gardens",
+    "description": "melbourne şehrinde doğa ile iç içe bir park.",
+    "image": "https://picsum.photos/800/600?random=13",
+    "category": "Park",
+    "coordinates": {
+      "latitude": -37.8104878,
+      "longitude": 144.9544194
+    },
+    "estimatedDuration": 83,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 30,
+    "interests": [
+      "Park"
+    ]
+  },
+  {
+    "id": "melbourne_15",
+    "name": "Saint Paul's Cathedral",
+    "description": "melbourne'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=14",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -37.8167969,
+      "longitude": 144.9676352
+    },
+    "estimatedDuration": 57,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "melbourne_16",
+    "name": "Crown Melbourne",
+    "description": "melbourne'de ziyaret edilebilecek popüler bir nokta: Crown Melbourne.",
+    "image": "https://picsum.photos/800/600?random=15",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -37.8233312,
+      "longitude": 144.958697
+    },
+    "estimatedDuration": 45,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 102,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "melbourne_17",
+    "name": "Immigration Museum",
+    "description": "melbourne'de bulunan önemli bir müze.",
+    "image": "https://images.pexels.com/photos/34935703/pexels-photo-34935703.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": -37.8191169,
+      "longitude": 144.9603968
+    },
+    "estimatedDuration": 81,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "melbourne_18",
+    "name": "Luna Park",
+    "description": "melbourne'de ziyaret edilebilecek popüler bir nokta: Luna Park.",
+    "image": "https://picsum.photos/800/600?random=17",
+    "category": "Eğlence",
+    "coordinates": {
+      "latitude": -37.8680307,
+      "longitude": 144.9767494
+    },
+    "estimatedDuration": 76,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Eğlence"
+    ]
+  },
+  {
+    "id": "melbourne_19",
+    "name": "Collins Street Baptist Church",
+    "description": "melbourne'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=18",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -37.8147819,
+      "longitude": 144.9677237
+    },
+    "estimatedDuration": 63,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 172,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "melbourne_20",
+    "name": "Scots Church",
+    "description": "melbourne'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=19",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -37.8145291,
+      "longitude": 144.9685037
+    },
+    "estimatedDuration": 45,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 128,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "melbourne_21",
+    "name": "CERES Environment Park",
+    "description": "melbourne şehrinde doğa ile iç içe bir park.",
+    "image": "https://picsum.photos/800/600?random=20",
+    "category": "Park",
+    "coordinates": {
+      "latitude": -37.7659265,
+      "longitude": 144.9839654
+    },
+    "estimatedDuration": 40,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Park"
+    ]
+  },
+  {
+    "id": "melbourne_22",
+    "name": "St Michael's Uniting Church",
+    "description": "melbourne'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=21",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -37.8143529,
+      "longitude": 144.9692215
+    },
+    "estimatedDuration": 46,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 49,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "melbourne_23",
+    "name": "AC/DC Lane",
+    "description": "melbourne'de ziyaret edilebilecek popüler bir nokta: AC/DC Lane.",
+    "image": "https://picsum.photos/800/600?random=22",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -37.8155716,
+      "longitude": 144.9709106
+    },
+    "estimatedDuration": 73,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "melbourne_24",
+    "name": "ACMI",
+    "description": "melbourne'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=23",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": -37.8174762,
+      "longitude": 144.9691179
+    },
+    "estimatedDuration": 82,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "melbourne_25",
+    "name": "Shrine of Remembrance",
+    "description": "melbourne'de ziyaret edilebilecek popüler bir nokta: Shrine of Remembrance.",
+    "image": "https://picsum.photos/800/600?random=24",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -37.8305324,
+      "longitude": 144.9734454
+    },
+    "estimatedDuration": 49,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "melbourne_26",
+    "name": "Saint James Old Cathedral",
+    "description": "melbourne'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=25",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -37.8101073,
+      "longitude": 144.9524633
+    },
+    "estimatedDuration": 71,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "melbourne_27",
+    "name": "Old Melbourne Gaol",
+    "description": "melbourne'de ziyaret edilebilecek popüler bir nokta: Old Melbourne Gaol.",
+    "image": "https://picsum.photos/800/600?random=26",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -37.8078116,
+      "longitude": 144.9651252
+    },
+    "estimatedDuration": 56,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "melbourne_28",
+    "name": "Villa Alba Museum",
+    "description": "melbourne'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=27",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": -37.8051614,
+      "longitude": 145.0113729
+    },
+    "estimatedDuration": 40,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "melbourne_29",
+    "name": "Princess Theatre",
+    "description": "melbourne'de ziyaret edilebilecek popüler bir nokta: Princess Theatre.",
+    "image": "https://picsum.photos/800/600?random=28",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -37.8107112,
+      "longitude": 144.9723303
+    },
+    "estimatedDuration": 58,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "melbourne_30",
+    "name": "Block Arcade",
+    "description": "melbourne'de ziyaret edilebilecek popüler bir nokta: Block Arcade.",
+    "image": "https://picsum.photos/800/600?random=29",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -37.8156526,
+      "longitude": 144.9639665
+    },
+    "estimatedDuration": 48,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "melbourne_31",
+    "name": "Diamond Valley Railway",
+    "description": "melbourne'de ziyaret edilebilecek popüler bir nokta: Diamond Valley Railway.",
+    "image": "https://picsum.photos/800/600?random=30",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -37.7330533,
+      "longitude": 145.1415682
+    },
+    "estimatedDuration": 52,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "melbourne_32",
+    "name": "Queen Victoria Market",
+    "description": "melbourne'de ziyaret edilebilecek popüler bir nokta: Queen Victoria Market.",
+    "image": "https://picsum.photos/800/600?random=31",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -37.8074898,
+      "longitude": 144.9577117
+    },
+    "estimatedDuration": 36,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "melbourne_33",
+    "name": "Saint Patrick's Cathedral",
+    "description": "melbourne'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=32",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -37.810164,
+      "longitude": 144.9763184
+    },
+    "estimatedDuration": 56,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "melbourne_34",
+    "name": "HMAS Castlemaine",
+    "description": "melbourne'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=33",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": -37.861075,
+      "longitude": 144.9056805
+    },
+    "estimatedDuration": 86,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "melbourne_35",
+    "name": "Melbourne City Synagogue",
+    "description": "melbourne'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=34",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -37.8090615,
+      "longitude": 144.9742078
+    },
+    "estimatedDuration": 51,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "melbourne_36",
+    "name": "St Ignatius' Church",
+    "description": "melbourne'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=35",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -37.8218729,
+      "longitude": 144.99803
+    },
+    "estimatedDuration": 50,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "melbourne_37",
+    "name": "Newport Railway Museum",
+    "description": "melbourne'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=36",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": -37.8557493,
+      "longitude": 144.886144
+    },
+    "estimatedDuration": 58,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "melbourne_38",
+    "name": "Umar bin Al-Khattab Mosque",
+    "description": "melbourne'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=37",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -37.7390551,
+      "longitude": 144.9932136
+    },
+    "estimatedDuration": 31,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 57,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "melbourne_39",
+    "name": "HMVS Cerberus",
+    "description": "melbourne'de ziyaret edilebilecek popüler bir nokta: HMVS Cerberus.",
+    "image": "https://picsum.photos/800/600?random=38",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -37.967422,
+      "longitude": 145.007895
+    },
+    "estimatedDuration": 52,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "melbourne_40",
+    "name": "Brunswick Street",
+    "description": "melbourne'de ziyaret edilebilecek popüler bir nokta: Brunswick Street.",
+    "image": "https://picsum.photos/800/600?random=39",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -37.7953282,
+      "longitude": 144.9789844
+    },
+    "estimatedDuration": 69,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "melbourne_41",
+    "name": "Coop's Shot Tower",
+    "description": "melbourne'de ziyaret edilebilecek popüler bir nokta: Coop's Shot Tower.",
+    "image": "https://picsum.photos/800/600?random=40",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -37.8104512,
+      "longitude": 144.9631466
+    },
+    "estimatedDuration": 53,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "melbourne_42",
+    "name": "Cooks' Cottage",
+    "description": "melbourne'de ziyaret edilebilecek popüler bir nokta: Cooks' Cottage.",
+    "image": "https://picsum.photos/800/600?random=41",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -37.81449,
+      "longitude": 144.97945
+    },
+    "estimatedDuration": 82,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "melbourne_45",
+    "name": "Federation Square",
+    "description": "melbourne'de ziyaret edilebilecek popüler bir nokta: Federation Square.",
+    "image": "https://picsum.photos/800/600?random=44",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -37.8177656,
+      "longitude": 144.9693054
+    },
+    "estimatedDuration": 47,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "melbourne_48",
+    "name": "Melbourne Zoological Gardens",
+    "description": "melbourne'de ziyaret edilebilecek popüler bir nokta: Melbourne Zoological Gardens.",
+    "image": "https://picsum.photos/800/600?random=47",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -37.7846056,
+      "longitude": 144.951953
+    },
+    "estimatedDuration": 50,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "melbourne_49",
+    "name": "Basilica of Our Lady of Victories",
+    "description": "melbourne'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=48",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -37.833883,
+      "longitude": 145.0566653
+    },
+    "estimatedDuration": 70,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "melbourne_50",
+    "name": "Arts Centre Melbourne",
+    "description": "melbourne'de ziyaret edilebilecek popüler bir nokta: Arts Centre Melbourne.",
+    "image": "https://picsum.photos/800/600?random=49",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": -37.8217709,
+      "longitude": 144.9713823
+    },
+    "estimatedDuration": 47,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 139,
+    "interests": [
+      "Tarihi"
+    ]
+  }
+]

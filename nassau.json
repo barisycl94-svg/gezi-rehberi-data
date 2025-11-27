@@ -1,0 +1,308 @@
+[
+  {
+    "id": "nassau_1",
+    "name": "The Queen's Staircase",
+    "description": "nassau'de ziyaret edilebilecek popüler bir nokta: The Queen's Staircase.",
+    "image": "https://picsum.photos/800/600?random=0",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 25.0731466,
+      "longitude": -77.3376248
+    },
+    "estimatedDuration": 40,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 134,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "nassau_2",
+    "name": "Heritage Museum",
+    "description": "nassau'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=1",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 25.0766177,
+      "longitude": -77.3465569
+    },
+    "estimatedDuration": 31,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 15,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "nassau_3",
+    "name": "Bonefish Pond National Park",
+    "description": "nassau'de ziyaret edilebilecek popüler bir nokta: Bonefish Pond National Park.",
+    "image": "https://picsum.photos/800/600?random=2",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 24.9984809,
+      "longitude": -77.3918154
+    },
+    "estimatedDuration": 58,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "nassau_4",
+    "name": "Harrold & Wilson Ponds National Park",
+    "description": "nassau'de ziyaret edilebilecek popüler bir nokta: Harrold & Wilson Ponds National Park.",
+    "image": "https://picsum.photos/800/600?random=3",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 25.0398904,
+      "longitude": -77.3812408
+    },
+    "estimatedDuration": 89,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "nassau_5",
+    "name": "Primeval Forest National Park",
+    "description": "nassau'de ziyaret edilebilecek popüler bir nokta: Primeval Forest National Park.",
+    "image": "https://picsum.photos/800/600?random=4",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 25.0080548,
+      "longitude": -77.4567614
+    },
+    "estimatedDuration": 66,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 134,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "nassau_6",
+    "name": "Solomons Lighthouse",
+    "description": "nassau'de ziyaret edilebilecek popüler bir nokta: Solomons Lighthouse.",
+    "image": "https://picsum.photos/800/600?random=5",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 25.0448057,
+      "longitude": -77.2640708
+    },
+    "estimatedDuration": 72,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "nassau_7",
+    "name": "Blackbeards's Tower",
+    "description": "nassau'de ziyaret edilebilecek popüler bir nokta: Blackbeards's Tower.",
+    "image": "https://picsum.photos/800/600?random=6",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 25.0521866,
+      "longitude": -77.28691
+    },
+    "estimatedDuration": 76,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "nassau_8",
+    "name": "Centreville Estate",
+    "description": "nassau'de ziyaret edilebilecek popüler bir nokta: Centreville Estate.",
+    "image": "https://picsum.photos/800/600?random=7",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 25.0750253,
+      "longitude": -77.3342751
+    },
+    "estimatedDuration": 71,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "nassau_9",
+    "name": "National Art Gallery of The Bahamas (NAGB)",
+    "description": "nassau'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=8",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 25.0753363,
+      "longitude": -77.3473308
+    },
+    "estimatedDuration": 77,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "nassau_10",
+    "name": "Pearl Island Snorkeling",
+    "description": "nassau'de ziyaret edilebilecek popüler bir nokta: Pearl Island Snorkeling.",
+    "image": "https://picsum.photos/800/600?random=9",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 25.0822148,
+      "longitude": -77.2699566
+    },
+    "estimatedDuration": 46,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "nassau_11",
+    "name": "Rose Island Snorkeling",
+    "description": "nassau'de ziyaret edilebilecek popüler bir nokta: Rose Island Snorkeling.",
+    "image": "https://picsum.photos/800/600?random=10",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 25.0862335,
+      "longitude": -77.2206442
+    },
+    "estimatedDuration": 69,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "nassau_12",
+    "name": "Ocean Club Drive",
+    "description": "nassau'de ziyaret edilebilecek popüler bir nokta: Ocean Club Drive.",
+    "image": "https://picsum.photos/800/600?random=11",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 25.083579,
+      "longitude": -77.3113744
+    },
+    "estimatedDuration": 48,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 171,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "nassau_13",
+    "name": "Straw Market",
+    "description": "nassau'de ziyaret edilebilecek popüler bir nokta: Straw Market.",
+    "image": "https://picsum.photos/800/600?random=12",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 25.0785933,
+      "longitude": -77.3433869
+    },
+    "estimatedDuration": 81,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "nassau_14",
+    "name": "Rawson Square",
+    "description": "nassau'de ziyaret edilebilecek popüler bir nokta: Rawson Square.",
+    "image": "https://picsum.photos/800/600?random=13",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 25.0783116,
+      "longitude": -77.3404607
+    },
+    "estimatedDuration": 60,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "nassau_15",
+    "name": "Fort Charlotte",
+    "description": "nassau'de ziyaret edilebilecek popüler bir nokta: Fort Charlotte.",
+    "image": "https://picsum.photos/800/600?random=14",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 25.0770279,
+      "longitude": -77.3588201
+    },
+    "estimatedDuration": 36,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 135,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "nassau_16",
+    "name": "Fish Fry at Arawak Cay",
+    "description": "nassau'de ziyaret edilebilecek popüler bir nokta: Fish Fry at Arawak Cay.",
+    "image": "https://picsum.photos/800/600?random=15",
+    "category": "Yeme-İçme",
+    "coordinates": {
+      "latitude": 25.0795916,
+      "longitude": -77.3588035
+    },
+    "estimatedDuration": 68,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Yeme-İçme"
+    ]
+  },
+  {
+    "id": "nassau_17",
+    "name": "Jack Nicklaus Signature Golf Course",
+    "description": "nassau'de ziyaret edilebilecek popüler bir nokta: Jack Nicklaus Signature Golf Course.",
+    "image": "https://picsum.photos/800/600?random=16",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 25.0652107,
+      "longitude": -77.3936061
+    },
+    "estimatedDuration": 67,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  }
+]

@@ -1,0 +1,200 @@
+[
+  {
+    "id": "dubai_1",
+    "name": "Heritage of Cebu Monument",
+    "description": "dubai'de ziyaret edilebilecek popüler bir nokta: Heritage of Cebu Monument.",
+    "image": "https://images.pexels.com/photos/1364558/pexels-photo-1364558.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 10.2988934,
+      "longitude": 123.903617
+    },
+    "estimatedDuration": 57,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "dubai_2",
+    "name": "Lapulapu Monument",
+    "description": "dubai'de ziyaret edilebilecek popüler bir nokta: Lapulapu Monument.",
+    "image": "https://picsum.photos/800/600?random=1",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 10.3110647,
+      "longitude": 124.0152459
+    },
+    "estimatedDuration": 32,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "dubai_3",
+    "name": "Ang Madugong Linggo ng Palaspas 1898",
+    "description": "dubai'de ziyaret edilebilecek popüler bir nokta: Ang Madugong Linggo ng Palaspas 1898.",
+    "image": "https://picsum.photos/800/600?random=2",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 10.2968056,
+      "longitude": 123.8886984
+    },
+    "estimatedDuration": 60,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "dubai_4",
+    "name": "Basilica Minore del Santo Niño de Cebu Pilgrim Center",
+    "description": "dubai'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=3",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 10.2939971,
+      "longitude": 123.902712
+    },
+    "estimatedDuration": 36,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 109,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "dubai_5",
+    "name": "Fort San Pedro",
+    "description": "dubai'de ziyaret edilebilecek popüler bir nokta: Fort San Pedro.",
+    "image": "https://picsum.photos/800/600?random=4",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 10.2926136,
+      "longitude": 123.905789
+    },
+    "estimatedDuration": 59,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "dubai_6",
+    "name": "National Museum of the Philippines - Cebu",
+    "description": "dubai'de bulunan önemli bir müze.",
+    "image": "https://picsum.photos/800/600?random=5",
+    "category": "Müze",
+    "coordinates": {
+      "latitude": 10.2917443,
+      "longitude": 123.9044009
+    },
+    "estimatedDuration": 80,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Müze"
+    ]
+  },
+  {
+    "id": "dubai_7",
+    "name": "Liberty Shrine",
+    "description": "dubai şehrinde doğa ile iç içe bir park.",
+    "image": "https://picsum.photos/800/600?random=6",
+    "category": "Park",
+    "coordinates": {
+      "latitude": 10.3110463,
+      "longitude": 124.0152705
+    },
+    "estimatedDuration": 62,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 13,
+    "interests": [
+      "Park"
+    ]
+  },
+  {
+    "id": "dubai_8",
+    "name": "Bradford United Church of Christ in the Philippines",
+    "description": "dubai'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=7",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 10.3058494,
+      "longitude": 123.8948886
+    },
+    "estimatedDuration": 38,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "dubai_9",
+    "name": "Magellan Monument",
+    "description": "dubai'de ziyaret edilebilecek popüler bir nokta: Magellan Monument.",
+    "image": "https://picsum.photos/800/600?random=8",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 10.310821,
+      "longitude": 124.0152253
+    },
+    "estimatedDuration": 86,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "dubai_10",
+    "name": "National Shrine of Saint Joseph",
+    "description": "dubai'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=9",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 10.3274199,
+      "longitude": 123.9421631
+    },
+    "estimatedDuration": 50,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  },
+  {
+    "id": "dubai_11",
+    "name": "Basilica Minore del Santo Niño de Cebu",
+    "description": "dubai'in tarihi ibadet yapılarından biri.",
+    "image": "https://picsum.photos/800/600?random=10",
+    "category": "Tarihi",
+    "coordinates": {
+      "latitude": 10.294336,
+      "longitude": 123.9018821
+    },
+    "estimatedDuration": 82,
+    "openingTime": "09:00",
+    "closingTime": "18:00",
+    "cost": 0,
+    "interests": [
+      "Tarihi"
+    ]
+  }
+]
